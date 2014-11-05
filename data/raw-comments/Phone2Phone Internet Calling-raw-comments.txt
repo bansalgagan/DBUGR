@@ -1,0 +1,3672 @@
+comments {
+  text: "Crap\tThis is a peace of junk....its supposed to be a free app nd it wants you to do a lot of unnecessary bullshit"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414939982241
+  authorId: "cid-gp:AOqpTOFYMYUu-wro0RHVIm_dogaf4o-zWSMc2Fy5xCVlAC3HJIR_vxK0FbPbIT4pymQknNs3gXbW65JNoOStQVw"
+}
+comments {
+  text: "Nice & good calling"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1414898198787
+  authorId: "cid-gp:AOqpTOH6AYGGLfSgJq-4g8I9y1pLIbRjsRq2PbYU2ehON7gG3Xbw2kwy2KGVv0NZNC86LoFe3zaRMLVnkccs4Kk"
+}
+comments {
+  text: "Bulls***"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414858727626
+  authorId: "cid-gp:AOqpTOHtWt_GCcdS-SbNfDpf0eES2O5wq8t31ZfBnAVBU9C1Drv1bP9UU8rnKFVXHlV2eLpc6R5YDytH-We4y4w"
+}
+comments {
+  text: "Bullshit"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414560326558
+  authorId: "cid-gp:AOqpTOGyJuAlQxfOut1g0Hb0q0P7KnSIcky73JIWt2tDp6k5tb1ab0UT9Jr0JlHw5lhjZIUmxk4knvwkBP0TQ28"
+}
+comments {
+  text: "Good\tCalls"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414475023638
+  authorId: "cid-gp:AOqpTOH1yOv43WFdKzEPjTlxqGMzX-bwdnUypVW3RD8NjF4k33Mrq93ukaCI-YYDAjJgvxxredOi8hnRLv2B46U"
+}
+comments {
+  text: "Tommy"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414436660116
+  authorId: "cid-gp:AOqpTOH13Q3mJElORZGrRz6jJV2P_htbs54cBChgsdvmQrmwSrVb0Hz5Jp4_cvo_3h9DeDCvbNXE2aJX-9MNlXo"
+}
+comments {
+  text: "Bad"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414396655904
+  authorId: "cid-gp:AOqpTOEab5uJ4YQ5RF2vwjbzo-EMFaTrHlXI63UASusA11qd5ilCi5W76mTfHkL77XoNZl8cZpvPhEy3VbLzYsM"
+}
+comments {
+  text: "SOBAN ALI"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414345773444
+  authorId: "cid-gp:AOqpTOHW_7HShI8grxi9hNvqgtkN5FmnRsKXiJO3NUMCwCttEpTGy8UJ_kyCYCYsOvFId1zHTHwNyuMKSS0Eo-s"
+}
+comments {
+  text: "Bad\tNot bad you using 3g internet okay"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414049386044
+  authorId: "cid-gp:AOqpTOG9Pjkew3fAjAPcVTKuQ2K-Tbypm3DAt6f1lwte87gEpjymEPYdAhmK9-FcG1CrSsXZYzXJiP91V09HnQA"
+}
+comments {
+  text: "Karbon A25"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413795441321
+  authorId: "cid-lg:AOqpTOHJ6vYpB99iyrpwaFYSGdGLIlxCLsgVzer6N0Fw1DWZORWlShc64KAPqsjDYZrlLd3GhuKwdU8WtQewljA"
+}
+entriesCount: 190
+
+comments {
+  text: "Yuke"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1413732768706
+  authorId: "cid-gp:AOqpTOFxYAsX8VtTYnsbVS1XZR3lInIo6Ce2ckOWRlJL7oMbUk1sX7-LC3rbJO8Kl95Ir77n3RR5W8_NSVBGxkM"
+}
+comments {
+  text: "1 chanc"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1413526008207
+  authorId: "cid-gp:AOqpTOEdoDjb-KUknKp6Yyj9NOZUejIQQuQmgxfhxMp-SkQJz2zmuCbIpJO5fc8oSekcZkRHCK0jYzZAU-qs2yY"
+}
+comments {
+  text: "Don\'t work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1413472722797
+  authorId: "cid-gp:AOqpTOFXf7ilA5xam_XI5EX1sdv-7uUa5Tcv3rMFdAojnuKklwC1T_f4okIGjE3aRGlbX3bUkIpsbkCVNz4KdAA"
+}
+comments {
+  text: "Very good Aaps"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413366442921
+  authorId: "cid-gp:AOqpTOHsAcxm0o9vZOm6SdILcZt3TA9RpmxiW-SFW2KkxH1h_l88N5XbqhVeC8rq1RqBodulMBD8fO7-EiTOw4Y"
+}
+comments {
+  text: "Mast\tLajawab"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413312339122
+  authorId: "cid-gp:AOqpTOEm5BYncDvQtKHfFfy3BEp27z_9TSZ51LZYpg-tYXqeZ_IL2y32Q-tkzk19F49hn8EFENJ6ydGbeciDbX0"
+}
+comments {
+  text: "Good"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413140069385
+  authorId: "cid-gp:AOqpTOGmDPzYDL-wzA8BpyiO-KClRQdIuIMI5Nc6CPmmpEs-Mq16HrVNbeTigBU4NRSMn5StZikPyEQfgPwmz04"
+}
+comments {
+  text: "nO good app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412869798915
+  authorId: "cid-gp:AOqpTOG3Ifbx61LcPb4qXcrwB4Nb3QvlWRvTRS7ch3zNmBPDB_lTUS7hTg2dLbXKcrYRC3LptameSTSbycmIVj8"
+}
+comments {
+  text: "West of time ...guys don\'t download it"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412326704826
+  authorId: "cid-gp:AOqpTOHfdWEhEFIpOdfad35WsbXOJXvlatVdt6k4Q3Tzw-KZPZ-qNK6AHdtuc2iHCXKruqFkVnyFrVaTefIgawo"
+}
+comments {
+  text: "bad\tnot good"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412176883068
+  authorId: "cid-gp:AOqpTOGr8V8atqB3RPErKkW1JtsdtWv7rMSqkSuXIc76UiF7MHr824U4KCCmid3-ZvhndwIySBG2-79ORgEkgG8"
+}
+comments {
+  text: "Faltu\tMi c4"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1411636263796
+  authorId: "cid-gp:AOqpTOEYAHTFezmnqgnhyi_NxLlvxcbvgBMm3YOkCPc7ElkoxyXOD6DA0ryusMu-9LL7d9iYEZx4lDjxT1VF7Xc"
+}
+entriesCount: 190
+
+comments {
+  text: "Nice\tNice app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1411625465647
+  authorId: "cid-gp:AOqpTOH15CMb6GQgPqxwFFzMtBizI8qrb7nRWnCfROSAyBfxMZypvRxb3JTA94ImhhsBuRLQK2kuYx5h6ELBt38"
+}
+comments {
+  text: "no\tno"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411488898743
+  authorId: "cid-gp:AOqpTOEPKs7VAT-V79Woy-E-B_lLEhGyH9IkIcjT5s0POkLJgRF_2A0_PnkHJhCy6qcjn2XgNhmkidi1yZrS2Pw"
+}
+comments {
+  text: "Sourav\tDownload slow kyun hai"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411321494307
+  authorId: "cid-gp:AOqpTOHO6yrb13bmRATdNa9uvzguIdY1oG5D_1SLz8FfWAc0Z-M4hrju0oeNSabYbdgEeJ7-gKeMjNjDuiED2aM"
+}
+comments {
+  text: "Ne"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411217292022
+  authorId: "cid-gp:AOqpTOG5oVGsjS8Hx90O9YRb-beTPb1DFxlydyht5TC3tDko1jiYyxmiswUxRsTAl6ryJX8Tc2JJFufpDYAwxTE"
+}
+comments {
+  text: "Krstle\tNyc"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1411041982426
+  authorId: "cid-lg:AOqpTOHgHZJw4CnPx27l7Wcw-VyxCV_ZZOMYVLTCZk2SqqpBCJ9CkgcC6i0IeSfuwiBDAM9fskmgIucEtSUQoUU"
+}
+comments {
+  text: "Not working"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1410914633445
+  authorId: "cid-gp:AOqpTOFV-22AKkRN0aLzFZPfhDTHdu1Vky9pqsyxs3ONhUC_tsVYJ_zOe5EgfMl2uWfA8O3Wl0TC77BWelRoEmA"
+}
+comments {
+  text: "Shyam das"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410336402973
+  authorId: "cid-gp:AOqpTOFoBiWKdCQpMoM5Xjsi4hHcb1vUewI9BIhSOgq4qDgbccojLRw1kkERyTcGOA5SEB_hu7yE1xl61RWa7xo"
+}
+comments {
+  text: "Phone2phone internet"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1409621352023
+  authorId: "cid-gp:AOqpTOGdyTLPacSG849X1NESTW95qQkfIBC0U4rTkN7jCzDyJgl96myITn-jGECfoIfskmdncPFtVV61FMTrmNE"
+}
+comments {
+  text: "Does not work\tI can not get it to work and they are no help. Maybe this app is meant for people in Europe. I\'m in the USA"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1409577384733
+  authorId: "cid-gp:AOqpTOFb3KpA3XLDaYpdH4kDj2CeFl0eMgG8kzMU84q0LjF9QPx82TvTZef-bBBuwd1wHmHZoOaT1MRLvqXi_AM"
+}
+comments {
+  text: "Ahsan\tAhsan"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1409467078362
+  authorId: "cid-gp:AOqpTOGxFblR5ygd6Fcb9mrnwyPzB8zXJZmRiZ3wVTd9JCAYB5y_SMUDJv6YrzK9Vi17fIt1mYbUt1CEZw0w6hI"
+}
+entriesCount: 190
+
+comments {
+  text: "Nice\tVery good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1409312853299
+  authorId: "cid-gp:AOqpTOFT3gbuhmqn5_jHxrMyO4tXkXu87TaNCCgEpS6iT5ofRWTEQLmu7nJOTAH5xsGO6p-Dhtmo6Gd0vAA_zvo"
+}
+comments {
+  text: "Phoney"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1409311056986
+  authorId: "cid-gp:AOqpTOF66HlJwvl6H5_lmtXHawi6w1USKeGg-nvqQW0b3pTHuDLrzelw9_pS6lDwpYzrHr5BvKolJ_fOkmJVV18"
+}
+comments {
+  text: "DJ deepak\tP p p p"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408717632701
+  authorId: "cid-lg:AOqpTOHdXBJfi1ex-Vy-SM1lp9qoLTuLxsFE_EDFiWPMJ_pRsaDQyyDszFuT2L0Gp302EkLMUgmsaZIM5z3bCqA"
+}
+comments {
+  text: "very bad\tfack app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408386815875
+  authorId: "cid-gp:AOqpTOG4dESrSLmWbmNgc8zlMNXcY9FGYofx3YyE24xDG4Qe4jX01YlsUww2CNkvlEypCZdGWvbH2Oc-ot8clSw"
+}
+comments {
+  text: "V.nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408376705772
+  authorId: "cid-gp:AOqpTOF1oNriG5hEBPicmjI93BAYkXItXTs9WmHOvXJ0MxxzM0JVSpmsMFaJJewo3RhD2N-YBYGOVak0vJAbMns"
+}
+comments {
+  text: "\331\205\330\255\331\205\330\257 \330\263\330\254\330\247\330\257\330\264\330\247\330\271\330\261 \331\276\330\247\332\251\330\263\330\252\330\247\331\206\333\214 \330\263\330\247\331\204\332\251\331\210\331\271"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408063736944
+  authorId: "cid-gp:AOqpTOHKZBKKKSIyafOS-9RiS0RkxFxHcz-s4jPOkY6OY00bU62sbg63RRb5KzmeZe7k6d2e2VJ96iqtf1LL9zE"
+}
+comments {
+  text: "Love ittt\tIt is very funny guys .don\'t download plz"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407753045191
+  authorId: "cid-gp:AOqpTOEE9c3D2yXEbLjNVG3yrUsKdnyLGpFHjUpqMC_c71fq_7LOfGX5odvdymRt8c9eXDglmwZf1Dw-cjNWitU"
+}
+comments {
+  text: "doesn\'t work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1407619472929
+  authorId: "cid-gp:AOqpTOF9Hv9XbzFMIwuStKCZGaPAAM62FHusYM14Et_SAlFbagA_UGlCmr0YgBSv42r8pfZxEASU5Ngwq-GQwC0"
+}
+comments {
+  text: "JITEN\tTHIS IS NO1 APP IN THE WORLD"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407356193175
+  authorId: "cid-gp:AOqpTOEW4TvACL-Q8_ORg-iYEkpOYoVnmnDtdIKZ4wtaDE1EcWtTBnjVPnoB-u26wy4dciqyhyDEo8p-tpRV7VM"
+}
+comments {
+  text: "Love\tHappy"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1407353074239
+  authorId: "cid-gp:AOqpTOGORv20Qf0mKCU5Y-mt0LAu4TqBK89ZfuB6lTCke4xUafyD3uibfrTMNciEYYqnPWNXYa4A2p3b4S5Nyk8"
+}
+entriesCount: 190
+
+comments {
+  text: "Fool fake"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1407145379921
+  authorId: "cid-gp:AOqpTOFLxBv3GSQrD44SgAayuhWezXLVxVLH-2WPhBl7R-WNye3PBhARxRvxLJhCkYBpeARejKcNX51dFqr-pwg"
+}
+comments {
+  text: "This is a not work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1406594784502
+  authorId: "cid-gp:AOqpTOHGX4a6qxWOsIHBgvCXTsK6-cY53_Mp6PZEyfIDzRzNrOFXICRhsDiJn3WGw8yN0v0WCdc82amVGBHwwtg"
+}
+comments {
+  text: "f*ck ! derz a lot of f*cking error !"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1406562206591
+  authorId: "cid-gp:AOqpTOFyQaLmRzzJKuimWec62No2lnjtPRe8n6eVwJFHsZ4En5QjnRCfNPF3zCC0hcQAcQZ-Y12wRkWFwxONe7w"
+}
+comments {
+  text: "fake app plz fixed it in india i hate it dosent works in india plz fix it so i\'ll gave u 5stars"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1406490461666
+  authorId: "cid-gp:AOqpTOHWq17W--GC9j8FfGIvlIOFFlXipRA-9PcBych8kgfTeXFEOT4Wy2JkDzRFGStWs1rALfmVWgA10Gyzxds"
+}
+comments {
+  text: "Superb"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406227343904
+  authorId: "cid-gp:AOqpTOEVxklAY6cWlkyjfJYHdxHdHxP5-V34DpwHCGNUtv8vqveqxnatHj2SmBXIrpgEjZMq98fkiwveOOQBoEM"
+}
+comments {
+  text: "About App\tToo Much Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406037355597
+  authorId: "cid-gp:AOqpTOFIjWHTNz7RjQhCUtpFQ8xpfQ9jGWbBwg-OsRoKEAWS2mq2PqKZiMaicUVRUQTU-PuiLLBHSsu12THAvBQ"
+}
+comments {
+  text: "Net\tLove Call"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405774827034
+  authorId: "cid-gp:AOqpTOGSGSSATWqjGmLoDaE1D54exMdK2pMqU-qqWJjVHcrt0YMRUNyCpempTmiMkJ6xFZnGkC8nm-qBR-hNqB4"
+}
+comments {
+  text: "fake\tfake"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1405766990410
+  authorId: "cid-gp:AOqpTOFBGaXwkde18-CkBqBczrf0XOw1PbGsC3hpgGODFIQJVXuVn2rUEZF-t6bK29qVnXvp4CjbZdFdttHhR-k"
+}
+comments {
+  text: "its not free"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1404710670458
+  authorId: "cid-gp:AOqpTOGmR8LCnvRG-RZrc_-vnzB9rSv96qGqA_fGxkmzBsVOxIIxsXPhwIrBWQC_oqV1uOBDKgX2s5N9ArViOSM"
+}
+comments {
+  text: "Jay\tDip"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404540761626
+  authorId: "cid-gp:AOqpTOFzLqDM8oIZhAvlieNclNm_OowSIoa_psnyDv1vSFlacgSZcZAQ4NQKF-68Pf6BM-8wPfEWCDsft86LwW8"
+}
+entriesCount: 190
+
+comments {
+  text: "Sajalsikder\tHai"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404213937589
+  authorId: "cid-lg:AOqpTOFJ1FenkUzEqfIDp4Z--ZMv2IHYYrA3irQ04ELWEN5e8TeW8dRMP4UbcOn5_dxIGv8I6IaKuNNE7E2R2wc"
+}
+comments {
+  text: "Pathetic"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1403866465105
+  authorId: "cid-gp:AOqpTOFEWiISTk8ln_CEe7AiuFgKjkJEQ-cMlRbdMKhRxLDtUEWZKFJO8Sk50LIqTS7tm7nU00jpddLIYfs8vXw"
+}
+comments {
+  text: "Aman"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403831613237
+  authorId: "cid-gp:AOqpTOEnCd_I5ltz-cEhBFTrZ7fUxCrPrh33Rpq_LA24Q2giXQ0dP-765GWsHVPawwkabzZGy4KBVEaaPbwFfYs"
+}
+comments {
+  text: "Best app but not using this application"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1403749510181
+  authorId: "cid-gp:AOqpTOGnj06mDl_T2W8lp3uHIPhyA8cvqVlwwNnok9nzWUQWDlQNcypRCfuOABKBDrLf2uHLXBt3Gn_naqA0RJw"
+}
+comments {
+  text: "only fake\tits soooo nothing"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1403523565339
+  authorId: "cid-gp:AOqpTOFKrYwcI9qyudo0Ui6d2_OmHeB6tVaMKVAPdDMm6Bc7xqOgbuknMydC3ygVZLpN4Uf6duo4XARD1sb0SXw"
+}
+comments {
+  text: "Useless"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1403518376272
+  authorId: "cid-gp:AOqpTOEwz-UTPH3o_AqTfx_bVVrQLXlzfhJW6YhgLWtQ1LRJwExvrjEpd1mY7ZGaz77elyRALfY3LMZZHo8TOvM"
+}
+comments {
+  text: "Cheating...\tWorst app...Doesn\'t works"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1402980770043
+  authorId: "cid-gp:AOqpTOHVhVyTmHJxuScLS1SP8HJaZUXh7j2_LBUM6p9xb7bejaTScBozkR_UgoOhKel2xiQ6G5X96ottZuSszxU"
+}
+comments {
+  text: "Nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402747807750
+  authorId: "cid-gp:AOqpTOGfX4RSgeFMIxoOKW2qmDxyDZb0VwyShNWOJqS7uWtzzS3g3-bKXPUnKgO2rS9Kf2oKrPP0fS6EXJSTSas"
+}
+comments {
+  text: "Frank olivo\tFrank olivo"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402618677135
+  authorId: "cid-gp:AOqpTOHjCEF77yHj8L3OiGI-yyGGdgKdY5kTjlMlq5y3z7F71qCvVoviFm3VW9KxtVcb0lb87Iw99zxCHITP6iY"
+}
+comments {
+  text: "The most useless app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1402155935827
+  authorId: "cid-gp:AOqpTOEKpe_fdRvvU9tqizR4K5-61F5LckBnA0GN0_mNUbPQgNpCD9nfDxJH3Q9fAX3tMpEJtvQPD32imtABsRo"
+}
+entriesCount: 190
+
+comments {
+  text: "So good\tBut its shiws manyh option I don\'t know"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400665592697
+  authorId: "cid-gp:AOqpTOFVuBIPPhegDOkKj2KdWfykpCVtgyYIX4B_xlPpUiArpgbbnF98gshGVkIYsIh9p7VfsncnS-Lc89wHeJE"
+}
+comments {
+  text: "Best"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400140637252
+  authorId: "cid-lg:AOqpTOH_2H85-Ujc9n90m-G13cTCDx38mlFNDGFJt4IDpIhIZ4UbGZ8mWk7PGqCSjA_S6M0d3b7-Nw8uTZ2VyZA"
+}
+comments {
+  text: "Bakwas hai"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1400131849621
+  authorId: "cid-gp:AOqpTOG3RqR49_FAUM2FUQKFaD6sS1W4muWqPYwo583zsgyLG_0o0AzJLK0VmLRCtBsN0Ya81khvTVjoNz_m_Ck"
+}
+comments {
+  text: "Love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399882671907
+  authorId: "cid-gp:AOqpTOEYhImmALcnwy--SFGNnGAPs-tT9vc1B8uA8zOpEgw0pGQa9waoKcs8OWmPb4_Qu0z2dgbOX3zUfO9beQs"
+}
+comments {
+  text: "Jam not get truth with the service"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399854971189
+  authorId: "cid-lg:AOqpTOEGpf1LyRQUa1OhP3XPoSTFfNzEBDZdZTV1AoZLT5FLCqfSGV59MP1UuoX7o7aGd-VoP8ln3qpJ3ss0EHI"
+}
+comments {
+  text: "Sakib"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399630424073
+  authorId: "cid-gp:AOqpTOGcr7qylmo-dfpdySJWJbvRwZNiKu4SNolhQJPYixqNx3H2ZmMhp0K84uVI8dAfQkZ11fyfy9Swvsixyvc"
+}
+comments {
+  text: "Don\'t work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1399394660372
+  authorId: "cid-gp:AOqpTOFzppNi5CjaDVdOUbf6pzTPG_0atJlTvcF0JH71DylnCxTMV7THTBIVuDbyNhUrfLHF-c-m69aOOU0yW9g"
+}
+comments {
+  text: "Its a fake application\tDoesn\'t wrk"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1399037147980
+  authorId: "cid-gp:AOqpTOEnFiw7ekBVkgO9CPl0EUsvB5MP_27sCyYbE4kezzuYgIiH0VtnUAeimsDwp_N_qtRutpRUjrBYTRzQP-o"
+}
+comments {
+  text: "Alsome\tThis app is not fake"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398893225309
+  authorId: "cid-gp:AOqpTOGJP9FZcyirFUQrCw595hNawv0v3So9lwkQrvu6UyBNwh_eR1Gl82Ai0b9MnUXk-aT9m6pKL3YKSergtAQ"
+}
+comments {
+  text: "Kkkkk\tBad"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1398859043278
+  authorId: "cid-lg:AOqpTOHH0-RaC6bAXxiDsQqb7OPuc8sxOtUzLVRm0khQKayLG4ZEZOwFfjjWQqcQd_M5SAGtOT8cXJa1iQhY6J0"
+}
+entriesCount: 190
+
+comments {
+  text: "This is very bad\tI didn\'t like this"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1398389620751
+  authorId: "cid-gp:AOqpTOEDphmHLqLDTmHlfgWYnbRqc-olD8h6ASpfXJ0evXK1wRs_9no-XpXcZcsaXR4R2PINI4vwK75PGETL8DU"
+}
+comments {
+  text: "5Etoils\tZah io!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398165859957
+  authorId: "cid-gp:AOqpTOFK82ZzkkXGQ1S_HxEUAuDsJF_wnmub-hbJ-bSJCcm7wpGIewfEPZ1gUa33YD0jqQS6MPoKiESa2tY4jK8"
+}
+comments {
+  text: "Goood softwear for use.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397974717196
+  authorId: "cid-gp:AOqpTOHLTjrEzuEOTqW6KnPjFCMS_CV1NKJIisfJ0CnKUwNipwSiJfN5TBHpgvdlkZ2P0Pv8WrwkRvtGdspPbck"
+}
+comments {
+  text: "927\tsonechine"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397865756996
+  authorId: "cid-gp:AOqpTOHWkvlw9ZK3T-VhOTJOcMmmxOv8n5CYK56kXr3kzwOMJgrEbmK6Z70WpfnixrWCbA97Gzp1-KsLLcuwaDo"
+}
+comments {
+  text: "Bad software"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1397243474493
+  authorId: "cid-gp:AOqpTOEFwgfczXdE49NkgcgWXxqCoALiPYKqlq3U-T2Gv5FotZdI2jnzL07IpOHGrUcyC9So3lyUSnnIjr10HEE"
+}
+comments {
+  text: "Phone2phone internet calling\tFree phone 2 phone internet calls app to and from anywhere in the world"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397220192505
+  authorId: "cid-gp:AOqpTOFdTB5hhcCGt-VDnjaXOUGc-qKqB2ok5JejndqUAoFz_jYeLUqvS-IkKnW-guQH2zehdSaH6XCxsLu2mro"
+}
+comments {
+  text: "Phone2phone\tInternet call"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396356162406
+  authorId: "cid-gp:AOqpTOHeD_C8YPdlhxgvi6kxSAXZ4PnF8WbgpjtCl5ujbF9eAqOWjshy1WslK7puq3h5zL9ScGm1Azv5uNSaaLo"
+}
+comments {
+  text: "Veery nice apps"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396301704591
+  authorId: "cid-gp:AOqpTOG1T_fMOWKoiClWAhVI4P-HxdmR0wZbS1hHleunS4sI9QGFUDdWoI-hEksZFWIUx6I0RaWz6aRobE-gvBc"
+}
+comments {
+  text: "M\tB"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1396109753512
+  authorId: "cid-lg:AOqpTOHxe6P6r5Fh3rsWg5ZOQ03IraJiCZSXkn9nAr7d7xiyvyixZURyoWJAb9B-v-GPPEnxQmaSo9UBIoVtEIw"
+}
+comments {
+  text: "S4\tGod damm it  Nevrr download this"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1396100363417
+  authorId: "cid-gp:AOqpTOEsMH35xovKcYKCUPVFdPIf6fiZLoyp-5i6ejl9GeSc1FCz2feHrfflkmXWMMnDTsyD26CCsm61lc3yzq0"
+}
+entriesCount: 190
+
+comments {
+  text: "Except"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395965088371
+  authorId: "cid-gp:AOqpTOEmqt-cmjw4VbTJZE1kTF38XU6W4l7ZdaAo9DkKbVqFEISYElG6TFY_ul2yjhxVbJvYEV22kkIoIhMXWck"
+}
+comments {
+  text: "awsm\tsimply best"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395609723579
+  authorId: "cid-gp:AOqpTOHSAXHGl2qDBM-BuP1hOVkdj74I7aPqoMHoLgF2TehSTUkGqXx_vb6a8nc74OjK_QS_LaHQ1w_osmix3iQ"
+}
+comments {
+  text: "Good\tVery good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395217349408
+  authorId: "cid-gp:AOqpTOHvCq0I_PjxBqmuL46IhDg7PVTexwj686glD5hMfNmp_RN4pTzRNA6Whge0PKw2WqG_R_nJ9VA2j7rQTAk"
+}
+comments {
+  text: "Jatt\tJatt"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395157568480
+  authorId: "cid-gp:AOqpTOEZgIXW5ne_7Srpn7wxzKtiPqgJUbClW4lWqtqcNBZqtADdLbvBvAc13vQYuiNDFr8ge3cHS7AaYu9RORU"
+}
+comments {
+  text: "good\tgood"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1394876226688
+  authorId: "cid-gp:AOqpTOHL3xxy-VGLozFx_TtO77HGrmqA9MqimOymlsUhZNCZ0fv1owQJx3A5tkqpOwyMl1nVwi1KN1g0ditXKhs"
+}
+comments {
+  text: "Worse\tWorse network i ever used"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394840313506
+  authorId: "cid-gp:AOqpTOEUeASe6bO4uf3VG8PLvg7x-GgXTeedl4A3BtlSCxi5l0dsGa-xAwzY9tetT7IWfnFYOTWv1k6X0BpzJeE"
+}
+comments {
+  text: "5\tGud"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1394647558298
+  authorId: "cid-gp:AOqpTOHZ-lIGx11vbBhiQvXKHM3hXojyHReEmcOuxKvYCn-g8PWUtjPSrGcTWDMDygbh3ZuetYD_AqjdqolEHN0"
+}
+comments {
+  text: "This not free call app\tThis not free call aoo v hau 2 pay"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1393788591783
+  authorId: "cid-gp:AOqpTOE0hicqmiAXpvKKHLJs-LmfksTNeE6Ylf5-GFTc_WkylNEy37gOBADZLkTZhPbRNxxJ5o9-EGQDlzX3Pc8"
+}
+comments {
+  text: "Hello\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393518154257
+  authorId: "cid-gp:AOqpTOHxKiJxVU8MpUgR4yjxwQ2bIWEAInqxqoaF2cHQAszGqz2zb6dAKSiELfJzyu8KkjO2VQ413dAvtgEWJUA"
+}
+comments {
+  text: "Great.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393007894046
+  authorId: "cid-gp:AOqpTOHybM5HMXMY97PoED5GouN4lobIpmn8JcBIx3NZGwr1LKHCRci4Ox7d34VOMEAgeQQouUHvsmMNo-1AYvs"
+}
+entriesCount: 190
+
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392963771886
+  authorId: "cid-gp:AOqpTOHIUFNuWFE_62-NBVo-NaxFRcGPDLfYtnGc6o388-oyrDbel0CfC3Jv-vmn5cgGKE1PkJ2qEkV-OIxN3Zc"
+}
+comments {
+  text: "world\'s badest aap\tplease don\'t download"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1392790788095
+  authorId: "cid-gp:AOqpTOG-A5eEQr3QU_yGoOoVmRIug9fTNuw1d6uVF4AdDLOPxPz7f2UmFfcwjdBJmb4ppjhdMN0q6rtb-q2uWOQ"
+}
+comments {
+  text: "Good\tThis is a very good program to use"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1392773372839
+  authorId: "cid-gp:AOqpTOGNdf3H9ffv3-3LjXGpJbXxR0FWnbKYcKOKEyvCH4bwTlcP03Fuo_4LwYGg3gw0O8LAhzHyracPsXsbZCw"
+}
+comments {
+  text: "Air Force\tI am Major pilot in Air Force Md.Gufran"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392549685248
+  authorId: "cid-gp:AOqpTOFq9KdhmeOjeA_QeyOxG-hInINVqugMSzEoWIOE1tXD7S-h5IVqVsyqKkZbBA2QNtQDGrA7QAb03stcNyk"
+}
+comments {
+  text: "Trying to use\tExcellent app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391916821709
+  authorId: "cid-gp:AOqpTOEfKAuIWvz4RfGmrcfL93LUcyxCmafwoI1DiAU3yd4R9hwFGDvvBdeyJVKUGTzrC8vAr4dnZqR--Wo8tI0"
+}
+comments {
+  text: "Kamlesh\tKamlesh"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391172910281
+  authorId: "cid-gp:AOqpTOExS1GBqSYOgXm0JLMWLqfWqpnmXAiJj3f7BpVQkxSAW9mF92-0HhOJPmg69LrYVonQog2aD8h57SpjfAg"
+}
+comments {
+  text: "I used to internet call\tProsed,I used to use internet call.Thank."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390980912386
+  authorId: "cid-gp:AOqpTOErGPb2ZvrOqNOObW7B0hAaOMRSpESpdu85DbgxSv1qXGIc8wcd9FI1e5Cv8ckpKMJLhovGnKcFUXxNteo"
+}
+comments {
+  text: "So complicate to use it I think it is fake\tFake app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1390927800033
+  authorId: "cid-gp:AOqpTOHthbVVc8MeIFr-sVMWN5qOq_QfwNTRRSQturA56PLRlLSEnLnn8Qs4PsIEYgTI42Oq4Jlf6lChN0JXSNE"
+}
+comments {
+  text: "Wow amazing\tPretty good cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390765087264
+  authorId: "cid-gp:AOqpTOGxyZee3-uuLrUdNigDkxz-6tutSQClawSnT8_0eUUrb3BGpAcsAW41KFw_IqWbEtNqlKkqEudoisvaEF4"
+}
+comments {
+  text: "Dont know\tHow to use it sooo many options dont know which one to select and dont know where is the intwrnet free calls please make it easier"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1390643643531
+  authorId: "cid-gp:AOqpTOFtSpmhkEhs0k7Ez25XCo8dgsBti15lgOZ0GQgA_0emd3sM1xcR_wqrp5ggGxVpVv0OS_RvLT49UB9Tyzo"
+}
+entriesCount: 190
+
+comments {
+  text: "Menace"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390611347507
+  authorId: "cid-gp:AOqpTOGm1vkN64upizJAIZa9SCVzCSz5tT-79cQf0cQG4O8SRFS2MIxjXMb_ZTPcHJN7QhfLq8tiRUkpsln5_XM"
+}
+comments {
+  text: "Pls sanction the inter netcall\tVery good fanction"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390298437536
+  authorId: "cid-gp:AOqpTOEQbD0rvIQtXD6dlaPZ7Y_Lg6l_mxYjEidd7LQpP-8xvzAkCqlJyGf4pNWBWQO3OC4kmQgly2RYOCwgvPI"
+}
+comments {
+  text: "not even login\tcant posible even login always shows internal server problem"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1390153111749
+  authorId: "cid-gp:AOqpTOGQBk_ickg2G6vZRj1tzhF6mU1_ETxeeYGko9zbcTtdxXKX2yGX4YUga4azgspKP3BNkoTZcZ5qr4x_sHM"
+}
+comments {
+  text: "Coo\tCoo App"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390062545987
+  authorId: "cid-gp:AOqpTOGCikC0iyVWhbthM8UnoTb4Lf5TArrJS29dqk-cXF1ogj_1rHWOoCCXlw1XN0kGtDUANDuagN7fdKCKWfU"
+}
+comments {
+  text: "F\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389971157548
+  authorId: "cid-gp:AOqpTOHURUxBm3WXsswlWsGlhi-3J2stYLlGW55l-UMFPa2uD_3sn9ZG70HDGRobtuIumtvk6G-6nK7fXYNW1EM"
+}
+comments {
+  text: "Very confusing\tFree calls but we have to set up am account giving all information"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1389857605257
+  authorId: "cid-gp:AOqpTOGY4xu8RLG1iOgWzz0wz0qn4MB7SF26FO85B1Nsft78I6wcVOJCddGiXIj-b8cFviZBK2QxUqH8F9jSQsk"
+}
+comments {
+  text: "Amazing\tLove it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1389520790393
+  authorId: "cid-gp:AOqpTOHtml6BkWeH4g0j95Lqn2QG6EXlPV6b0HDcs1I7yHSS3dTqak2SuBcOMv5Rgmd0alUe0gkpFfGgMawBOgk"
+}
+comments {
+  text: "ya\tg"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389462069088
+  authorId: "cid-gp:AOqpTOFBjQB08Vczs4cI_Y9nZdQyjPMFgaLWdzYTvIVqwSvr5j5reoirxRDJe4c16dNuvjEPE3edExQmRMrFWyg"
+}
+comments {
+  text: "Confirmed Awesome\tConfirmed Awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389455865172
+  authorId: "cid-lg:AOqpTOHd0iqJVEyTFxEZ_06l5rEvvcZM3lOymGmndVSifRqCV4H9p64ywCZTD0sTt8lMcxF5M1ryv9UoR3VOQsM"
+}
+comments {
+  text: "Fake\tDoes not work It says invalid phone number. Very comply yak....... I un installed"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1389175848660
+  authorId: "cid-gp:AOqpTOHob5e1GE0gzCfosMZh26ph-5erh1TSPfEFu14PNvSycjKVqVV6GFYue4Dp6q2jajujX7pQdIdy1WvQvGE"
+}
+entriesCount: 190
+
+comments {
+  text: "Ok\tCool. Cheap"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388871085014
+  authorId: "cid-gp:AOqpTOELc5Lv0dncOONw5BKuIP9LTJ2_674buKFjHfGHJnid-DcqFA741t9EoPYRfujh1ZsghHsEk6WD0GrezfM"
+}
+comments {
+  text: "Vishu tyagi  morkukk\tKa usr kya hua softwer ha ok"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388853631360
+  authorId: "cid-lg:AOqpTOG1MxkIKDOG-Ox69Ikps95da4tC22bB_3Jfz2SJk63gsTUWA97Qd-IEqaA1Vl8Q_mr5Wx7GDlGtpugjFfo"
+}
+comments {
+  text: "Nice\tI like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388752974209
+  authorId: "cid-gp:AOqpTOGnvmFPGRCWVVIKqTiDq3kct95uxno7pumuo-Wx9NP4K_YLqewWCKExY3qUDG-Vv7apJaM9AnON4mNa9GE"
+}
+comments {
+  text: "Mi"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388740593201
+  authorId: "cid-gp:AOqpTOHvl9hPne2SGPXwZJlxDFW_2qi9_7HnJBY8S7Tlb9BhIW040D3SMTFXZ67d4Qf2B0VrUA-86QbYUt6ht-c"
+}
+comments {
+  text: "Good\tUfu"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388682422422
+  authorId: "cid-gp:AOqpTOFp0baZlt86rEuxsxqoNumscDzOIvWVRYB-p6mpIFV9OZ5o-s5uNV4X486aypWe9b0pdzbJVS6CIwz0tJE"
+}
+comments {
+  text: "captcha\tstopped working says betamax uses captcha code now"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388670597360
+  authorId: "cid-gp:AOqpTOF-VVxq-UGpEqMFcbCWqG-z8m9oeEWHMMS9E9DR_LTQrH_5zJT_qLVLhBgfjVBo2TPi4GjoM0WEySCZlcs"
+}
+comments {
+  text: "Mohdaaqil\tMohd786"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388490201482
+  authorId: "cid-gp:AOqpTOEaBsV-NaEiMDBOwqf1i1GAf0zeE7n0kwQ31d-hH3ZC7AU7qTrCeJ9J50cuCSTz8rDeepgfbkg5-x5PSAc"
+}
+comments {
+  text: "Dont download\t*galaxy s4*  This is a stupid appp dosent have a call buton"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1387379036968
+  authorId: "cid-gp:AOqpTOFUsOIA6PbUz-wSJ2m5NcTOPmhaz7NowFvG6leMvRE4lgFXKhO6DqO5h8SHE4LxEaQS0e80zi4t3sYb6GE"
+}
+comments {
+  text: "Shayad achha ho shayad nahi bhi\tMere samajh me nahi aa raha hai"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1387301619284
+  authorId: "cid-gp:AOqpTOFSiOgkMgDjDq1ezTqJdrqvMVX7xuL9r4E-dDvzFlKcMTSVz9AuyKv3zyMAqHdG8ZJ24pOboU2qKFvK1j0"
+}
+comments {
+  text: "Good apps\tHi friends"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387204176288
+  authorId: "cid-gp:AOqpTOEKElGJD36ste0X58kriA1IIwxqGS0HtJ4HHfnOQpqwRw0FCENyrUyhYcovGT2lKI00Hm9onqkV97GXJ60"
+}
+entriesCount: 190
+
+comments {
+  text: "Thanks for your help\tThanks for all of our website"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1386669024835
+  authorId: "cid-gp:AOqpTOE4YHtcWn06MnEDOFJmHgaT3Iey9tLbMOz4m8v7-j7RH30g0gQgRyBwn8hHHeWZiQQL-PJTWuiEiImgwik"
+}
+comments {
+  text: "Suggestion\tI Would like to,know will this Apps work in India."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1386319053097
+  authorId: "cid-gp:AOqpTOGws0xIw4ugtvsLZEMDTOZKsqlHzAe2gN8oPzamoGlc4X3MBzEiRyZy1R6-xluuyUXG9N3J5_9iMP73H74"
+}
+comments {
+  text: "Sooo pooooor\tSooo poooor"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1386018737311
+  authorId: "cid-gp:AOqpTOEfxF1pXEJClM0w0bbGNUyNaTbARUPHZV84tiZnYuxs-G2iXueF25HtywkCt_ixNJqlMN8IT-D-Rxry1tg"
+}
+comments {
+  text: "help\tThis one need ballence....it need to recharge mobile haa....give suggestion"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1385672947271
+  authorId: "cid-gp:AOqpTOGBVmJHtLmDrqPgoGymp3AIl_aNzR6bP9UEnx3JjBMfo7zoGpYFsWOd2PqLDU4CHIiqulkt1-Y4BzBI0Gs"
+}
+comments {
+  text: "Sarfydinhawari2020\tSarfudinhawari 2020"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1385065142811
+  authorId: "cid-gp:AOqpTOF0y5qYFFek7hgfx-7IG31NYKGx-83c61IH_gKjdh9QxdrCsiiifSHWDjJu8WrLbzxzI1SDkrEXB15nHD8"
+}
+comments {
+  text: "chandra veer\tMySpace phone"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1384451220326
+  authorId: "cid-gp:AOqpTOFUdlhqC8aJE5zK7PSiAqpWXaGGqF_Yvb_GWcv09zLwUiB8Grhrz-tZcdnFrWvx-wWPzqhRCaVyTiagmL4"
+}
+comments {
+  text: "Bakwas\tWaste of time"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1383317211440
+  authorId: "cid-gp:AOqpTOGnW9MfYx6TcJiaMcaBfr3hUiviQwO0qjm9warokZhkObqB9pxN2i2Hp4uNmwO1nxWfeRwhPcAOBbSBELQ"
+}
+comments {
+  text: "Mr\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383158753860
+  authorId: "cid-gp:AOqpTOG7Q0m-5cfAFAoIL-Kcw3MXk2WXo_g5NbdIN9KY6ilwOp7uU9UBUR_vCVwPCjWvTTYdyclCJzm_WX5jqBQ"
+}
+comments {
+  text: "Useless\tUseless application don\'t waste your time"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1381376618378
+  authorId: "cid-gp:AOqpTOFZFbmXNqUltInJFcP_leHRBuJvn-8fI_qksFTJYm6AtmtWgPew2sTa1u0hrIeLwOA1zOpKhpv0FrAbFV0"
+}
+comments {
+  text: "Make it user friendly\tThis app is full of complications and not easy to use...please add some credit so that one should at least check it out before he buy credit..."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1379912370041
+  authorId: "cid-gp:AOqpTOGyju8kcTn5JbUa-nTynZeVhBmB7QzkZpJu2Nft1Q5dHcO5_S-c158eLF3Yj_ELVcCLR8Q3ndGMENmMSrQ"
+}
+entriesCount: 190
+
+comments {
+  text: "Saqib\tNihal"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1378633838890
+  authorId: "cid-gp:AOqpTOFJj65GXVDpkV48kBRng80WafClPoO526qg9Ly8Q8-8unEsMbJKpkpKAUv6zF19aDH4eQoegaW_3DSTzL8"
+}
+comments {
+  text: "Htc\tVery Bad its too irritating"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1378477474572
+  authorId: "cid-gp:AOqpTOFx-i-LzOuAUGmnrnSAm-Gr3WxsRXXb9Mpb2finwRZI6-pkYYQ84fmkNaPBXxePP4qwsIOrdgdTbcZvqRo"
+}
+comments {
+  text: "NOT voip!!!\tThis app DO NOT use VoIP, but just order callback trough GSM network. So, it is absolutely useless in roaming, where incoming calls could be charged harder than outgoing! Also, most of service providers add callback rate to your destination rate, for example if you call Ireland from Belgium, you pay for call to Ireland PLUS the rate of call(back) to Belgium!"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1377109813665
+  authorId: "cid-gp:AOqpTOEJPdskU9-8CSpoaJ6yYo0q1V7tCGOleWMFLWXSCQsKVTr7mGgzaNWiCKUTpJCMVILGyFbzwJSMiiWhlEY"
+}
+comments {
+  text: "Nice\tGood app for un install."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1376136567956
+  authorId: "cid-gp:AOqpTOFWuxpJXepL9gURExXEsM6Bkvc9sA77w7fwsa9MOO7TwAUe9eqroCmPtUB6t22YzRUtSkBf-4pqSKgHDTM"
+}
+comments {
+  text: "complicated\tvery complicated .doesnt know if it will work in india or not??"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1374583629221
+  authorId: "cid-gp:AOqpTOFFwRDvLZUMHftVR188wGk62NfS0jmfACm4VGnVADAXL47yUbdC1-5CRTKRUVzVZl_vCVZq054fHZeaG6s"
+}
+comments {
+  text: "Complicated...\tI put in a phone number and it doesn\'t give me the option to call....I think it might be broke because my phone is CDMA....photon q 4g late....can you please add my phone to this app....can you tell me how to work it please....I have no time on my phone so I don\'t have a phone number... I\'d there register button or something to create an account and assign a number to me?"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1374077224565
+  authorId: "cid-gp:AOqpTOGI6ru4GQc5iJSsbTPizJhgIY9ZV8idgGTu-lFKy8m0FbEzvTgmfkCYsDGMs1ZbZWJUOkP4cLu8jXMLkEQ"
+}
+comments {
+  text: "Maybe\tI think this app would actually work so give it a chance"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1373055446913
+  authorId: "cid-gp:AOqpTOH4yUTqgIRsMjjXn9Fz2Rg0cTtjRyGtNXYdnLYy6ozHZ-LWAMswAhaDHJ56HWJS7pGX3FUFj_RSYuDCgEo"
+}
+comments {
+  text: "a\ti love this its amaging"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1372524615421
+  authorId: "cid-gp:AOqpTOEd4Rd6DGs-0-_wJdZtHNcUOSvQvmyl-NDcaD7pWPyphsUL_iqPFrQTqkAsIvwOlDHrQmosWk2XCW9w7U8"
+}
+comments {
+  text: "Razzaq"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1372127614950
+  authorId: "cid-gp:AOqpTOE6FG5tzx9U-EyoOk1lYIW9Yl-P5Uw7gGOYZhMrIq06XDPhQR586zyC_ZusxWiTf-aE7DQg7oDanBMBUzM"
+}
+comments {
+  text: "Nice\tSuper"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1368595193047
+  authorId: "cid-gp:AOqpTOFjqNQc-M4ZJ06HN8CqCfHP9fdjsuWV91Rew_xFYkIP9s1gA31xNr3ZBsqtPAGFsvD0MUE1CtzNgxIJGXM"
+}
+entriesCount: 190
+
+comments {
+  text: "Fu.......k\tThis is cheeting........."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1367915216364
+  authorId: "cid-gp:AOqpTOFTFtdRPK9MpngY82OYiIbCGhl2KWTLPB_JPwL5u2mNrXraM1cJZJqAof95093iYS3J6uZXOTtuYRs-1zg"
+}
+comments {
+  text: "So waste ,not working\tWaste of time ,so complicated ,not working ."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1366049173927
+  authorId: "cid-gp:AOqpTOGYRYg_PDKGhHJ0uTiKlQRUQWHq_xH6h1Nodnjk1uFxiN9dAQ-xDkeh1vacrK-wzHWC6AuJLYNlrxrRtDo"
+}
+comments {
+  text: "Gasps!\tVeryUselessss!!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1365385851060
+  authorId: "cid-gp:AOqpTOEVNmUYkwXGyyR5oXaPQUrnhPcDueLPkUwIYevGHeAUQJvlqpLNtxwNKHiKxrvRrkF-zDuATwmsdLdCJ9c"
+}
+comments {
+  text: "works for Nexus 4 user"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1364128110640
+  authorId: "cid-gp:AOqpTOEslzVfNmHYB5nR9zyjAMU6PyIOixII2aMNqA_kOi3jLHrajyfQb4VDKNIXQDXPkVBbFl_dxYQAElnx_f0"
+}
+comments {
+  text: "Ross\tPlz help me . How to used app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1362742496199
+  authorId: "cid-gp:AOqpTOFmSblOg5ULPj3SqkpaVLGijBiAOw7nAx8k2d1rL6UHq_Y6A9_tLjmCdoU99qByMEU0nSHLcbXK_WFV56A"
+}
+comments {
+  text: "This apps is a good"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1360168569660
+  authorId: "cid-gp:AOqpTOEFwQv7_Lq7uqwCkOxs81_KiHEdEwpF3AxEt8aEudCO09yNCvtl3H8TRsZwJwKNjvtTU9XlK1ZduqUZqTc"
+}
+comments {
+  text: "Thanks for this great app, i use it very often!! I wonder if it will support the new budgetvoip website? KEEP UP THE GOOD WORK :))"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1359493599842
+  authorId: "cid-lg:AOqpTOGTxYkYqlw9By-g_wu9MFxOzk40Wswr9Un8QfUiBdyTItTHwDlydvgeTYXz77VsrTjTUclgr8JRZ7eSTms"
+}
+comments {
+  text: "International user\tNo calls worked total waste of time don\'t bother downloading it DOESN\'T WORK"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1356597264141
+  authorId: "cid-gp:AOqpTOFr6LqfrXVmTGddJ9xineMYKXRGhnv1FPwTDTALIyx0NKPh-tasnMaCHOrRzfAjC8aCMM0O1C4UwKmBj-I"
+}
+comments {
+  text: "Lovely"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353326823416
+  authorId: "cid-lg:AOqpTOHA8stLIPSVKsoC4eZCpMHRs2S8wolPDbo9GiPm3RGujfDfY3nXfuAuqOqEf8fZmmxbmq5AcNjaVkM2F2M"
+}
+comments {
+  text: "Installed a froozen ap\tDid not work. All screens were frozen on my samsung galaxy y duos"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1352035217924
+  authorId: "cid-lg:AOqpTOERnDFXWbv1NYd6WXZSR6xdQQl6PKN_FdrZDcb0clOZMSZg7zc9hRYA1MVXohXEAVhTImMkQosA6AuYaVI"
+}
+entriesCount: 190
+
+comments {
+  text: "Confusing\tCould not call with or without WiFi"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1345899852203
+  authorId: "cid-lg:AOqpTOFuqlgEwoolFQFpfSybmR5WLxM2sF_Y63SvOVRjLYwmbqLtAXXh_whRuz8IxuVMoWMmcb4MUsouNNklXxw"
+}
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1345780740850
+  authorId: "cid-lg:AOqpTOHP237ER6PWapXXHh3jbT6V9Mhcnm5xSWDI9-cgNroD7jarnh8ephyYx-M4Vphv2VBH4VGfklSnNInKm2A"
+}
+comments {
+  text: "Not downloading to my Mobil\tNot downloading to my Mobil"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1340430468409
+  authorId: "cid-lg:AOqpTOEZCtjqc8x2VLA94O5dcrI0WquwcpDF0bB5p01Nnr7IjifRUzPSTCjstEyarYCBI6qF45f5TeZJ6ve36g0"
+}
+comments {
+  text: "Wtf\tThis is the most confusing peice of crap"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1339389152765
+  authorId: "cid-lg:AOqpTOHW4DXxDK4EmCOeA6Sq8i6at25zKiwelITz3YC17Qh3wbtMXLApl_WU7qceFIyax7xjLJo6IXjFTaSSebA"
+}
+comments {
+  text: "not working in UAE\tits not working in UAE with actionvoip. please release patch"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1335814417542
+  authorId: "cid-lg:AOqpTOEAjn9feSbge8N_PiEKYczg70poMOILrwjsHx5KLsRDMIxxYXc4Xs6IYj4dV45A5laR9Z9Zg_peD0JIkCY"
+}
+comments {
+  text: "Nothing except force close.."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1333375994572
+  authorId: "cid-lg:AOqpTOFeoF0mmqSDj2j8Gu_01xh7UkuRGloRPXbk7pWDd6f6x9WC1WdGpMpdRWjAIkaCQtQPypahBkS2gMiIzd0"
+}
+comments {
+  text: "Force Close"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1330132157433
+  authorId: "cid-lg:AOqpTOFToqPs-sCgUbm-68D7huW-Tjwr_njxaU-QfgLDMWoEaBEKH_5u99guoHSyrx3KN_TMpRo9CvuPJDgIBsc"
+}
+comments {
+  text: "V"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1327390770911
+  authorId: "cid-lg:AOqpTOET4uK3uh673c__9XI7Hd0PEJiU4dVl_GwISO8C3PPbAIeSpWqksiafuH_-zhZbSu1y8ETOeHhRyYiwVo0"
+}
+comments {
+  text: "Cool and\tExcellent app. Works as promised."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1324574193329
+  authorId: "cid-lg:AOqpTOH6Cs1pbJsSbQsfmY7RwVVLZU_NF39qZtmXKnK1RLjTVSsD0QIx-cIhI_xtYG_6SGHW3gXpKttDRu80F4k"
+}
+comments {
+  text: "Simply great! This is the ONLY app in the Market that works with easyvoip."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1324033924413
+  authorId: "cid-lg:AOqpTOEfbUHGnUkqMZsWtE-dpd_OzOU7cTbPRi3l0ipW47hCrZUO-sYObhyQ_jZqjAM6OLgPsubZUvWKZpXpcuw"
+}
+entriesCount: 190
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+
+comments {
+  text: "Woww! :o Jusst Wow! :b"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1323832404369
+  authorId: "cid-lg:AOqpTOG0nIKolxVKuYX9kUIpUanzrgl4Fx4eLzsWokRN-pbiXHtJhNcKq634feTiwQC9mPmLa2VPEelycC1crl8"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322404245223
+  authorId: "cid-lg:AOqpTOG_F_W1EyWeqHS1dtU0qS0073bviUyhy6MCefyOOduoZIIKAlg47i2qoD0Afx3Lr-or-XL3lKJp8rt3vCo"
+}
+comments {
+  text: "Okwomose\tNICE ONE NO STRESS GOING TO INTERNET TO DIAL,GOOD JOB KEEP IT WELL."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1321371423509
+  authorId: "cid-lg:AOqpTOF4qeTcDfL68IDviFA6qp3mBDI1LxEOHl4Sp9KicLuRdrADj9WIZibFkQh4u-b4l7vW601Aln6_25xHoIc"
+}
+comments {
+  text: "very nice app!\tsimple and very useful! i\'ve been using other apps, but finally i\'ve found something really worth... you can save some money in a really easy way! thx"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318951964601
+  authorId: "cid-lg:AOqpTOFILTSSLIOny9lBFd8IK_Ep-tvg1Q73Y4SLMxDyos-b8D3wAzihTYwVGVQkSEKjpCOTNrWmDAjpbDUvPLg"
+}
+entriesCount: 164
+

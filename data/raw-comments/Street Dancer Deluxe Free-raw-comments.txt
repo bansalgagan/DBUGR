@@ -1,0 +1,4736 @@
+comments {
+  text: "Sana maganda tong larong to :/"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413170569740
+  authorId: "cid-lg:AOqpTOGG4Dflp357Lc5KOMFUxBcshdGIEsZwk-dimaW4iXgNfPHRFIISg5KfZnU5p46YzEMwv6v7tEqDcsoPyBI"
+}
+comments {
+  text: "I love to dance\tI like this game because it is amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412408342119
+  authorId: "cid-gp:AOqpTOEDOtID5HHVjLjkZ4wzh6jW23RiDKsvDzguFuHdN1KSRH8Qg3Qcd-jXw0BHEFnPLk9wdknlihCjlcZD7NE"
+}
+comments {
+  text: "I like this game already\tNicce game i recommend"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1411705644933
+  authorId: "cid-gp:AOqpTOHWUpOHPErKpoaT4TOj50v8Cl3SRapa4zGd0F6GLiN7wSSXnLuBifLu0lAaq4kNePS7ox6CrQlwSZxKUlQ"
+}
+comments {
+  text: "It sucks\tThis game really sucks"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411365820412
+  authorId: "cid-gp:AOqpTOEEpbSUsTd4I6vfXORFtcgnttPPjdHIMjn4uwDsR_gdVmVyCKZp-WpgbVcaxvSbIbbFmN-gzcR1DzU_lNg"
+}
+comments {
+  text: "!!!!!!!FIX THIS NOW!!!!!!!\tYOU NEED TO !!!!FIX!!!! THE ARROWS!!! THEY DON\'T APPEAR AND THEY SEEM TO BE BEHIND THE OPPONENT DANCER! !!!!!!!FIX THIS!!!!!!!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410099386599
+  authorId: "cid-gp:AOqpTOHxa2xEfCaviGd_YqLcsGaLYbq2yCZS0heANMOC9_FJ7DLhr9iQo0Kmbr4jF64fYsWmuhKXTGJdEnPuHV0"
+}
+comments {
+  text: "Nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409791246868
+  authorId: "cid-gp:AOqpTOGXJG1pG2VNfwGSjhmjW3BKua0AST1_uymhIbz5CoWebHUfsYBi1b0GfxTelZ7y5aTuVB8aCCiYSuEnsCA"
+}
+comments {
+  text: "Andy mak\tNice game u should try it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1409380484617
+  authorId: "cid-gp:AOqpTOFFGzkhNRrXpVZ0ZAMb_ens6uo2nXHDVkQRaCdDLKaukU4Q7jtl9iZJGY0evu3VlqJNo2GOJdEZtbadbZE"
+}
+comments {
+  text: "Good\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408248592439
+  authorId: "cid-gp:AOqpTOGJuaZuX_cSajC45ZZ_0BICL8J0Rm39ZHE08IRR2GXvXKKhAQaaXUqFfJnCb0ozo0BvR0TagUoxyI-5kbY"
+}
+comments {
+  text: "Cc\tAssn Deedee def."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407770452791
+  authorId: "cid-gp:AOqpTOE5evtoV6B-DWYAYu6V1RKx4A5tn0rx_Z3aHWUcD7OUmAR3a-nj9RB6RVJ896gXPf1N5npucw6To5EyHeY"
+}
+comments {
+  text: "Bbbbb"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406817645935
+  authorId: "cid-gp:AOqpTOGX-M-ds_jbzDwVtHDh50hTZ5-5yDtKaXslv_4u3tgsvOg4lpMjPkHMD4neSXxNfPMyRN68N7bgMyy-88E"
+}
+entriesCount: 358
+
+comments {
+  text: "Fix this game \340\270\255\340\270\247\340\270\202\340\270\232\340\270\231\340\270\247\340\270\210\340\271\200\340\270\260\340\270\243\340\270\243\340\270\202\340\270\224\340\271\200\340\270\260"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406504409192
+  authorId: "cid-gp:AOqpTOEZQrVaXn636jVIP-HXHRnR2tIGl69pwP0_9BHAQ3uvX5Z6x98WhFMFs4s8dWp0lbSfTSqgp0bdB4w6ugY"
+}
+comments {
+  text: "dis is osom\tdansing soper soper osom"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406376622030
+  authorId: "cid-gp:AOqpTOFNZ8qKFGumBzo2PT1jeOQ8lIeSJFF8PDohS-rkV5dpFBL8A4m067OIWCKamgPgXc9CfV33BKNYBn3gkO4"
+}
+comments {
+  text: "Really\tYou say fast load i say slow loading"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1406077390246
+  authorId: "cid-gp:AOqpTOExOwXQqHhOvBiP6Pc0DYA4DuiyFzJ4i19v_lyogzcmSiS7PqUA03DMsCQgce56Ys7HoD7NK9axOA8Ybxw"
+}
+comments {
+  text: "Street hip hop\tIs so cool and funky fresh."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405791992298
+  authorId: "cid-gp:AOqpTOHR7Bebz6m7LlqRi6jy6HogPHOovbZKe102U_a5cNijRtaFfUtCMTIqlVcVZB3nFLaTGRgldBVlPlDLSX8"
+}
+comments {
+  text: "Love. It\tLove it!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405358220738
+  authorId: "cid-gp:AOqpTOHPECSfRuvubJ-K-R2w9-5-aQIPZpQ4W7j4kMi-XpoWQPZ8W3zMWIkc-soM5dCjoz6tLkuxUwMYkA0X-zw"
+}
+comments {
+  text: "This game is fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404785203904
+  authorId: "cid-gp:AOqpTOEdsRw8nj_e3Ng-sO3OFGdpE0ak6_RJiMo3LrGweqiXh9fmSMW5yoWaXQA28fbb7GAZU8KcRjUOb0hYKt4"
+}
+comments {
+  text: "I like this game because this game is dancing ,dancing is my favorite but I\'m so very tired of this game"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1404382413370
+  authorId: "cid-gp:AOqpTOFPS6swpiDkWCNzjXYqKdNxIXhaCyKW41zqyWOx6pozvX0fvfh08PlHOBP_8w1wWAELRkpzGWGWkrpwB54"
+}
+comments {
+  text: "Litle girl like this game\tAmi bebe le encanto :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404274827227
+  authorId: "cid-gp:AOqpTOEOA3fqR4U9UimiuCXTbZygCd_XXptROH4FQhToMsOwx12GfZoNC2FYLkhJvSJYNopC72Tr6Utzz7qWTLM"
+}
+comments {
+  text: "Hay\tNice game"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1404132034584
+  authorId: "cid-gp:AOqpTOEcjF5wR7FPF2TpQ9ss4PJH2YfonluxpxAD1HQeAF6WO26BV0OmC3o7l5-bRi2k6GAzP7bAQmyu9TWReD0"
+}
+comments {
+  text: "Beeeeep\tHeard it had cus words in it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402503456982
+  authorId: "cid-gp:AOqpTOFLkEm6st3BI7uK07UKYy4BIwavtGn957X71oje_U_b2vk7vxNmG4d2vzt9WgeaY0e9_yqRPqZ5u4X2hHw"
+}
+entriesCount: 358
+
+comments {
+  text: "Two thumbs down\tWont play on my android!!!! Uninstalled"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1402181738729
+  authorId: "cid-gp:AOqpTOG8rZTgOjWAOkuEqd0BYRUQ374JT_Ga-1cAa5RABwxyz1SPRLc5eyzH9CO4E36YyTf1zD4ghgWKOGvYfLI"
+}
+comments {
+  text: "Likeddd ott"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1401942106634
+  authorId: "cid-gp:AOqpTOGDUT41iZo8PfSKNpwrosHGyTz3qHaqkbsHJY-oyzLcHTHUIF5rjKDrge3Lr9cxAA_vzMKm8ZZ8HSQoIu8"
+}
+comments {
+  text: "This isnt a proper game i am very upset about this, and it takes ages 2 load"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401573129606
+  authorId: "cid-gp:AOqpTOFECzfw-Mzpkq-JifWEEglkbEOvgXeeODKlpLgHAQFukiCl-mEm5vSeGmoFDx6GEe4UT11Yq2ybunQiMUo"
+}
+comments {
+  text: "This is not a game for galaxy\'s phones or tablets"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401113119249
+  authorId: "cid-gp:AOqpTOGdi9xjujKjt6sCHF_kFEiubPoaJYzcIbQa0C9AnoAxNB5JDjRdINxMsKFKOr7-NEPVibJUVj2lVfVHzfA"
+}
+comments {
+  text: "I love it. If I had to choose between my cat or this I would choose the game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400987176604
+  authorId: "cid-gp:AOqpTOGKuoECMhVi3KlswVNeyX3P0pCDhEm6OjJFono1SCSl5TaRKUgPrfaEIUi20XLno2IUyqgKtv2t_tJ2usw"
+}
+comments {
+  text: "Wow awsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400906243553
+  authorId: "cid-gp:AOqpTOFRKrSk8GIUGOeBejihhgfEDh15DkFiPmJpabmePe5nIDzQWGrJIlAwB0VOEMJPpm2Up4eyunIWIjuXvRY"
+}
+comments {
+  text: "Oooooooooooooooh\tSuperrrrrrrrrrrrrrrr"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400767451779
+  authorId: "cid-gp:AOqpTOHc4_YjnT_QKBX6hyA3eD87_OPrDTNfS2KplTAFM_s4gRXWe7UVOsO8PmXS2xknFIlkkZCghBQL02vLWPQ"
+}
+comments {
+  text: "So fun. :))))) you must try!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400563173571
+  authorId: "cid-gp:AOqpTOGMjSqPG4Ptlm-RNA5qYNUwGiS2Wxly-1BWqqb1u9BHeQdSu7shXKKtoth4oBrIsP328A1oQfTJu21lJbw"
+}
+comments {
+  text: "Vhf kolo I opp no llllko G.p ."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400513300878
+  authorId: "cid-gp:AOqpTOEN0IfjbNkG5mOOlJo2qrpAa9ayPj6K92SXCJfuHJb768IGXx4JVIQbXyu8nCwkOMUUF72cLCVDmBDWYzk"
+}
+comments {
+  text: "Cool !\tI love the game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400387606472
+  authorId: "cid-gp:AOqpTOEasyDGfml0oAUOpF4QgCVALeeB-mX7tR7Xd6dtppIHtCbddpub9Tj0hBYtzfpLqbM3aZsHVmQGiD_HKtM"
+}
+entriesCount: 358
+
+comments {
+  text: "Eccilent\tVery goodapp"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399782246056
+  authorId: "cid-gp:AOqpTOHjWxu9yspAUVagvlWL8rNLaG4umEpJJefJWzGt649TaDz3QiLGjWO3keHoLECIwq756QI5zflX8Q0VHzU"
+}
+comments {
+  text: "Loading indefinitely..."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1398967567685
+  authorId: "cid-gp:AOqpTOHXozRNvJB7dfgfe3_nAp68vvrMpiAmdVFk8sivoaAyiD3L8slPvqt9HlvUgX11enfQR-ompOPiXKT4Qxs"
+}
+comments {
+  text: "Cool :D nice game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398745499963
+  authorId: "cid-lg:AOqpTOEWHVzOA2KGG091NGryNO5dWmScRWWVMlZChiR4LyultiKEa-qANOeNoVToBoSr9oe-hD1Yz8mOUrLnuuU"
+}
+comments {
+  text: "Excellent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397929839312
+  authorId: "cid-gp:AOqpTOG4crwgm2JsMR6TQZnQ1mFVftX_5XPyjlSI_iCe5PcTHM38tvcIaQefV_aO7Hk-rOFuTi55beUcbxfKjF8"
+}
+comments {
+  text: "Cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397888400690
+  authorId: "cid-gp:AOqpTOG1advqqvr-43_eurudnrKRNdZRs0dRdpjRA4YW2cGvO84IzIRaGPcZbfMLtsqq9D3Tn3foOgQGgHzEUJw"
+}
+comments {
+  text: "Street Dancer\tSucks it takes a long time to load"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1397866122376
+  authorId: "cid-gp:AOqpTOFWrp1rM3nW_SVqLhKlXED48hoVLxbyE2KXCPQRWbDzIB078HNxFjLruzdtqC72FCwjCiYaU1Rwem5FClM"
+}
+comments {
+  text: "Street Dancer Deluxe\tGame sucks... It won\'t load at all... I\'m not able to play this game on my galaxy tablet or my galaxy S3."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1396099447739
+  authorId: "cid-gp:AOqpTOGSZ8_bDks5wcH0hlfIsR9dgkmHYyacq2Zg96-9BQe24dQe9sSTZSSJjQV8ZTVCcdceY_p6jJdl8fAqppk"
+}
+comments {
+  text: "Bad!\tThis app wont even load. I unistalled quickly!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1393372802975
+  authorId: "cid-gp:AOqpTOGP_ECV4QKFxJHJ_3YRq3z_sSDWGgytPSbc5KO2OuIXeHEGkSj6XDZjwqqMl0XJ9N8-T6WRSKD3_iwdzQY"
+}
+comments {
+  text: "Didn\'t load. Nexus 7"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1392487264265
+  authorId: "cid-gp:AOqpTOGZE4Ay6q_kKRHgNOs22APiRj0ynVMp9jGnJKEkUqpXUZXYheCQLTDKD8aJqvth9M__MeK9lNr3AcA6230"
+}
+comments {
+  text: "Streetdancer\tBlah....blah.....blah"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392434445393
+  authorId: "cid-gp:AOqpTOFRMCNHf2eLH73916SpH6lNUZ-y5aSIkUSWcZ99Y_VUAQlPqtJnn-FUyA3ek46b4yfzEcjMTNl55oUmu_s"
+}
+entriesCount: 358
+
+comments {
+  text: "Nice\tGood game But I never try if b4 but I think its nice"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1392363990535
+  authorId: "cid-gp:AOqpTOEitBqr5Ishib65t9KbT7OeVoxDavL-n5_vJ_mBlStHxQflwBaQs97sjhQxJprnVFPn9IgVpOq7RjuXOnY"
+}
+comments {
+  text: "oh man!\tits good but its loading too much 1 hour of loading! so dissapointed"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1391497592521
+  authorId: "cid-gp:AOqpTOH-LlCfUQgdFNZKQ90ljosnM6VZN7aSZDushNKJAoQ3Y80yRCwUefYEU7sRGoSqeAx35MJ90qCWoTwMwEg"
+}
+comments {
+  text: "Awesome\tEnjoy the game"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1391143685561
+  authorId: "cid-gp:AOqpTOGrfFH1A33YK4W8V-FoP5kMyDeblvb_o-5p44WuxKsmiQojARoEV9JVHZgtTtsHEsjkozemRR55V6w7ooA"
+}
+comments {
+  text: "Poor\tWhat"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1390838490722
+  authorId: "cid-gp:AOqpTOHHvk_Afmp6KyDCcdsJn_VX0NHdfftZHa3QzkvGTE3kv5xOweyued-yqjjACSeDAsurp04qAm5D5WHApM0"
+}
+comments {
+  text: "I hate this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390775472989
+  authorId: "cid-gp:AOqpTOEgEk2yERDWiV8mq5RTD4D3WHsLK68qOKS7Y1qOkkxt460ydYI5YP2rod4wgYfMZdGZd4znIGvL_sowjEg"
+}
+comments {
+  text: "Awsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390521766493
+  authorId: "cid-gp:AOqpTOFbUHyPyxUcjwuMq2dDAVjixy6zDgGfae_UokI-My9UXNhFAr3IPmjReAMl_zJIWogqbogA9Ql7yxeNaTs"
+}
+comments {
+  text: "Its ok\tTakes4evet2download"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1390442824487
+  authorId: "cid-gp:AOqpTOEhGmaHeldCDOmOI6eMkuOHTP0qSKEvJD0ohmonjBUGXONB6Q2p2chbi3hSWWBh-M41-jeiiHLf-KRdJTY"
+}
+comments {
+  text: "Nice game\tThis is my true game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390307360741
+  authorId: "cid-gp:AOqpTOGs3bYufOmtvNiyG0Yz2ElLFyqWNF35Xiglfql5tECt4x9cC3C9E1NdlbNWQiwdEPtEfYiQA2dly6o2aqA"
+}
+comments {
+  text: "ymack\tso lame"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389404298393
+  authorId: "cid-gp:AOqpTOGQ5EVYdlkLf2d_yWaJLaauNVhA0q8NqSdASmJMjBH8G8UBdWhJe4D05vB5O4vhzDMxP4hQbvVx2y8IfzY"
+}
+comments {
+  text: "New game\tThis game is very nice...!! :D"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388836680193
+  authorId: "cid-gp:AOqpTOF_tNAFpsqgWBPyR_0mdng3KtwX9FDgxH9EtryAK525xQ4rb7tp_pr-Lyh8qHYy04f3u-Y4d2maqqYpqJU"
+}
+entriesCount: 358
+
+comments {
+  text: "Good\tApp..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388555661915
+  authorId: "cid-gp:AOqpTOE-9mrFnmg0jyeKXbiN1VKrG8BvwLPxcLLhpgUEG3tc9mgsfPDn0uWuBMAzgAIEcmTmEsc7Shtt4Ix6ouI"
+}
+comments {
+  text: "Its cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388538395459
+  authorId: "cid-gp:AOqpTOFPa8Dtt9dexeoa3PZ0Hdbc-i0J2yEZZCvV9aAqW6STHEG9DCyFQOFiOzRjVTSaWnEnk06mvJ7Oc5B1bJk"
+}
+comments {
+  text: "Awesome\tWorks perfect awesome game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388536283019
+  authorId: "cid-gp:AOqpTOHnEAwuN2Ssl6XIZxl7UcabbSO7_Sd09NHFVguAYvw2-aRK9F7RU3T7frL_EdzAiUGLY0POa_oyfqiB2Sw"
+}
+comments {
+  text: "Even though I have not tried it I think it is cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388190179949
+  authorId: "cid-gp:AOqpTOGZHon5jP8odMlUuo7XRSKg2XvQiuWfHs1H0N1LSqBb1hGyyG3PyRibErdPURyAYzUGAHtJuRKrhKFHF1I"
+}
+comments {
+  text: "Horrible\tYou can never win. It says to press the buttons as the arrows pass the the graffiti zone. You press them and it says your messing up. I dont know but I hate this game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388115882288
+  authorId: "cid-gp:AOqpTOG32Box1T6MZJ4LiMoRmQ-W8mISyYm2xwMweLWAoy-rmSWm2wmX9kwnwGfze7q2qVTem4NSrPbBByx1RSk"
+}
+comments {
+  text: "Awesome!!\tThis awesome !! Yehet!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387835891987
+  authorId: "cid-gp:AOqpTOFBzcCPlNMoqdqkRxRfH0-FtGCUEYblkAegFfN03ymPWt-GW9KRY3__dVdZ7P-DT2_0yTIDA-BIx7jDAZ8"
+}
+comments {
+  text: "Good for me\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1386881767326
+  authorId: "cid-gp:AOqpTOHPt-M1Q5n8fuz2LPc0N_QlnUiS4gWewpb10geEJ-b4CXUozCqNUnSiqPXuFsLJ5CDV9wS3X6o5CIHITLs"
+}
+comments {
+  text: "Great\tWish to play local music ."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1386048133455
+  authorId: "cid-gp:AOqpTOEiZlmdVVHY4GNDihWZmJ7tTkA0XHDTu452-KHpIq5lCQgiJzQeaqHWOQs9KtzYgnJ-ZrJFfeb9TnN2xkU"
+}
+comments {
+  text: "Awesome rap battles\tI should play this game more often this is just amazing!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1385346156577
+  authorId: "cid-gp:AOqpTOH5QERmk42st9Af7C2oJRrxfoFsPr-YOGjy2VswMgIN71RRpVgNt7bRU-GS_b7rcadBv1NM-FN113tenI4"
+}
+comments {
+  text: ":-)\tCool"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1385013126756
+  authorId: "cid-gp:AOqpTOFbLVA_5rJZOYLoMBJcQKnKYFAL7iWM_TquIYK0SUKZHU456aCHcQLSLjL7XuUyj10cBK_M69qVcMDEEdQ"
+}
+entriesCount: 358
+
+comments {
+  text: "Uno Peligroso\tStupid game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1384193399596
+  authorId: "cid-gp:AOqpTOG55fTjpSYg9bxvRJgJeQurH3f9NZ2nU04aKAKTAmloJNV9Npfo868UHHI59qhAXn8otEB9-lP38bQD5fQ"
+}
+comments {
+  text: "bone box\tvery nive"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1383619554046
+  authorId: "cid-gp:AOqpTOEvOLM7ad65wpoLy-Obmrjb1oddNRepyWinq8Mq1E_m-z9hUs-Pa9r7auxWRwRaB20kyj6YC7_GS24PlHo"
+}
+comments {
+  text: "Hoawei\tSops cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383524317355
+  authorId: "cid-gp:AOqpTOFWUEe2mI0zW2F8XDgjNo8ivaXhUFTZ_P-59UhFKg2YrcWqNnCMgzkBcBmHc-8sXYCNrLW3AdCXdFbOdHg"
+}
+comments {
+  text: "Funky\tStreet dance must be increased and its only the way to live"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383470712266
+  authorId: "cid-gp:AOqpTOGuar6htomUV3soq40biiYMyiFh2xVLLUtyaizhyHe7E2T3hHl4wdic4k-4BlYkij3Ok3zlO10j2RJaKgo"
+}
+comments {
+  text: "Bad\tBad game boring"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1382193867814
+  authorId: "cid-gp:AOqpTOHxmdghR80IHPxHeQgzWpe704wyslkf9oM0v93OZwFNJ-gAuVbfXHKcMn-eZtHvHwBpt6jfkmOlHTysPYA"
+}
+comments {
+  text: "loading..\tThe loading takes forever!!! And the loading is not worth waiting for because the game hangs too.."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1382099668897
+  authorId: "cid-gp:AOqpTOHBWc54lfeFRQkPNdWfZ2cPWNPeAjuidHkJaEQ1d8gujChiAkUIrik7Co-kVmgmiSFftnXzQqYSGjVcFNk"
+}
+comments {
+  text: "Suck\tIt could be better n it take too long to load"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1381915821044
+  authorId: "cid-gp:AOqpTOHQsZOZVMTJAyW4DL79WrhFi92VRScdjvgTSBXohy1-v3jA_lBaf7rASOCAkH7J1sERU4oMgVNFevd6-FI"
+}
+comments {
+  text: "Ok\to_O o_O o_O o_O o_O o_O o_O o_O  o_O o_O o_O o_O o_O o_O o_O"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1381506898141
+  authorId: "cid-gp:AOqpTOFT_P44for2Xfv2TBvROROIFcK6pMpu1tO2-gnrGRcelcb9nrqN0Vd73xikZ4VO0Pw-eYtTWQPKtaSubFA"
+}
+comments {
+  text: "Yayyyyyy\tYu dsrve 5 of 5"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380465710497
+  authorId: "cid-gp:AOqpTOE06WnW2kab2QvO_FJ43RIJjO3XfbHBBs5ArE_pNGXXImlXR6aNI053QpdVPzemsAVe34KddfQCkrpOPjY"
+}
+comments {
+  text: "Dipesh\tAwesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1379177179070
+  authorId: "cid-gp:AOqpTOGQsrcUYgcVgh_3eSzHCuGDvMNdD5zNlgmr3apFaoFUUDYqmdFbCdPJpDPz3uOp51McKaroNBkrp-wF248"
+}
+entriesCount: 358
+
+comments {
+  text: "Street dancer: This game takes way toooo long to download.  This game is starting to make me think it isn\'t even worth it."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1377554858179
+  authorId: "cid-lg:AOqpTOHvSYvKRDJIcDBOHBkC8XgQ3j9_Uy_wEpl2vQu8HgFqQ9Qilox4QfgRepYAlUqHG3xf9PuaeCGbueJhSWw"
+}
+comments {
+  text: "Superb\tAwesome bsby"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1376914961806
+  authorId: "cid-gp:AOqpTOEqKJSGl5kDE_52gWsEEVEXMidE8fXlqqabBwGlWS3N0PmzSSsYqNcR3CDty4PtQyJQ8tHFQTJhf8wX2qQ"
+}
+comments {
+  text: "Nice\tCool"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1376319420654
+  authorId: "cid-gp:AOqpTOF18HBCgXQ08DFVAZwlAfIRuxBqrGsYykg_isKBy__pLEJwkQ3b8omvkWn1GNjRV7nWi_guBZDE8B1cSgI"
+}
+comments {
+  text: "Stinks\tJust bad"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1374676763350
+  authorId: "cid-gp:AOqpTOHKglXBJDkZyr7m37jx17yAtNwGJg6svp_GTpflQDwewrvYX8ZL1ZFjj4wKvRos5Z5FDXQV05GZ6Mt2VMQ"
+}
+comments {
+  text: "ok\tgood :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1374515437991
+  authorId: "cid-gp:AOqpTOHBVkeOXvUZulLoDx8DjMU0ey1GdjH-oU4jlA4vORMR6-IK3VqF0G4SwIEusbc9IF95_RnP-jB51sKeikk"
+}
+comments {
+  text: "This game is cool but hard too get =)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1373764000970
+  authorId: "cid-lg:AOqpTOHzppeU1Gq6lIRjzOt8mo-zCpa463hhULG3Q_wL09bpZi8aAovflvUplomkmgoEE44-LSMXR7uRjoFY2aY"
+}
+comments {
+  text: "Like it but\tI really like this game but my kids play it too and it haves curseing in it I don\'t think its a game for kids"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1373253127035
+  authorId: "cid-gp:AOqpTOE2VAWwQiZ-cRaR7VhmkVt5ErydkbaZUvQKTzou5umH0TtCD3JU_U9JmoSRhpwu7LQ_i1jY7h8xCTZ9yhA"
+}
+comments {
+  text: "Doesn\'t work any more\tPlz fix"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1372091252319
+  authorId: "cid-gp:AOqpTOH_WhGtLc_7lN1Y1uxhuue8aWC4wUXtGlcWlCDKOCiOehvwPhxXjXCmV4f6Vyx9t0EnlVSp9QCI2ybMmw8"
+}
+comments {
+  text: "I like\tCool game"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1371400753890
+  authorId: "cid-gp:AOqpTOGCWO7qAc7bIkNLvBM8rn_gWnBAk5DuPNO-WmHWxjMMhqCPEPTeQedoLkemKluP08puW0KHeHjC2nvGYbc"
+}
+comments {
+  text: "cool\tcool I like this game its amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1371296405289
+  authorId: "cid-gp:AOqpTOGVShthpBbgKyPMvP4kOBdT7CVnbElKQ31y7UJHV7VmOdfAUSaJfR882yq3xEoP4VR3a26x-7wrigPGtJY"
+}
+entriesCount: 358
+
+comments {
+  text: "Ghgg\tCooooool"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1370629234759
+  authorId: "cid-gp:AOqpTOFTxU30EQ6dFJbXrIfgJjY8ywjqBuTvvJdXNPiJqhspYV27ylGdZ8j_xMeK_wLAG0zJ-O4TfQoQ2wK6FSk"
+}
+comments {
+  text: "Dancing\tIm a good street dance but this is helpful"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1370552581190
+  authorId: "cid-gp:AOqpTOGXOVrh6ZCaSEnYIWUpG7wpGwhWt6XCxliHihcH5F1iMPOTPDXBvFGJryybJp3KdXsWIoaEIkWXgEJQj6g"
+}
+comments {
+  text: "Good game\tI am a dancer so I like this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1369251770401
+  authorId: "cid-gp:AOqpTOEAjWRriP0O34detZ13NJrHNyFvP-E0-DFBh46I8h814Wd8-x3-LWihmXHhKl5CymXOnRAHm_Utf5SG44w"
+}
+comments {
+  text: "Fix!\tU deserve 5 stars but it said follow the arrows and i didmt see any arrows above"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1368322884949
+  authorId: "cid-gp:AOqpTOH1QNuNCfhBLgbWnRuPte3CPRybypxPXs8O2q83MvOV_OghdMfdwtAA6FL4KCKcq8j4OCLHEzKDQo0RXSc"
+}
+comments {
+  text: "Amazing\tAlsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1367962844074
+  authorId: "cid-gp:AOqpTOFMliG9568LxEWIGXBFThzRQZ6htw2JKFRiJjdLSAC0JhPfLqh3k61FlVyaGOkf8TH-JwfitKmcJeoAlnE"
+}
+comments {
+  text: "Incredible\tWhen i see the comments i got really convinced because those comments are good so i downloaded it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366882835253
+  authorId: "cid-gp:AOqpTOHPLf6y5N6aoGZGlWnXMpbXpopcCn15Lp9jnd4POKRq7MnspmiJq7jwG1SVPQovYkvnO2pnTkbd4dI70e0"
+}
+comments {
+  text: "Wow\tI love tis game because its cool and easy to play"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1365911209115
+  authorId: "cid-gp:AOqpTOFRuRSPEUmy2AtX43pW0qDSPU68L-ZuuWbPAI8z9FUOr6okggdcAvRyPQSpyWNZMAlNY5QXziZg5xV9xio"
+}
+comments {
+  text: "nice\tIt is fu"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1365130114158
+  authorId: "cid-gp:AOqpTOFjdBTGl4aP8DaBPkcJNTamb_kCTCXsojBspw3KLtqOUVCoLN_NZnD0dTaC323b2XCVK_4dseVaiIMG-sc"
+}
+comments {
+  text: "Good\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1364478777537
+  authorId: "cid-gp:AOqpTOEKfm-23lekTEyNzOihubsblfZ3uc3IxSZXMAPkCFjavFagDKxxVUkIvTKV7Hu8mlzGg2QgO4E9VRvAbYY"
+}
+comments {
+  text: "Dosent work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1364217736132
+  authorId: "cid-lg:AOqpTOH0q--Z-7o9fr5jndfRiyzOzZN1Qxfov8CGgJhC-zOXpJNvi2ozfDvZ_MVHOwt6csrWNfooEomWB8e3hUg"
+}
+entriesCount: 358
+
+comments {
+  text: "Dancer\tBohot karr game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1362794128193
+  authorId: "cid-gp:AOqpTOHqnR70YMy_jvD5sEkhexBKQqXma2ayS01x8ilN4NeI5-xhKyBM-YsRwcYaCR4e3YhUzD3Q1u8q_Wu1a58"
+}
+comments {
+  text: "amaze\tthis games is amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1361589698240
+  authorId: "cid-gp:AOqpTOEcU4d1gjSR-Rswhqu8QOv-JaGNECJ6aBGrysqCFrI_gp83W9LMcWAf4DW9OhbJFS_kWMh2pzc2mDjCde0"
+}
+comments {
+  text: "Fc i1"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1358626869168
+  authorId: "cid-lg:AOqpTOGzA1yOeYTGFfuwxjh0oboq1lkP8KcrOdDDIVTgcWzgyBW-0bmz2D0jvYbKtovXaJdBLHPmU-kro0yxUrw"
+}
+comments {
+  text: "Cool michael\tI love this game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1358556316989
+  authorId: "cid-gp:AOqpTOF0wvBkE0BNMKBet6ashnUPN9rz6BBFjpU0jgv_IiKhgSeRd1RdlKnUsQxGpM56rqWxkOHazvALiMIjl58"
+}
+comments {
+  text: "good i like it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1357032529750
+  authorId: "cid-gp:AOqpTOFVuZNjvLQ8lKbiW8o7WlhXMOpxLckNLWcQIUYjXEGjI0sDy34INKGip9_F1mmNle79sk7CHqb1cxiCBqA"
+}
+comments {
+  text: "Lame game\tDoesn\'t evn wrk.... :P"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1354806491998
+  authorId: "cid-gp:AOqpTOGooOcbpChZ78fzU7AGKV0Iwdru-rP9MAbhfttRelHPJ1Em0m359FZQwArfRTwKyheRnLcmSq_1yNe1Gs0"
+}
+comments {
+  text: "street dancer deluxe free\tawesome"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1353629865314
+  authorId: "cid-lg:AOqpTOG7z5UlDAysBtBCVsxCHFMcPGtIhlVn7Nw_8QgHvOzkcAfb3agIJXQlYfs7z6LPwhBtobBxqA-ySKHgrY8"
+}
+comments {
+  text: "Samsung Y\tCool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353160935020
+  authorId: "cid-lg:AOqpTOFt6M1elnf9jCjHKCxU3s2cS0hfyYynBA0vdPvqlcPbMGF5zyO3Gz_aLP_uiUbL-uCAyK6ZsUUbb-JTnjI"
+}
+comments {
+  text: "Hayley\tSo cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1352664654552
+  authorId: "cid-lg:AOqpTOFcMUQJF3gsBOdsEAy-LEN4Jf3t4O5ELcp2BAad_m0gvY8HhLBVVumIxFDLvKqRJDqAckRkbxUXfTMD4bQ"
+}
+comments {
+  text: "the best\tmy hobby is dance the best in this game just create the awesome new street dance if you want uhhhhhhhhhh the best"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351430070680
+  authorId: "cid-lg:AOqpTOHCJuby36dmGAUCefrRGQ-Xwgjf3YDkLR0X8TyqFShSQ51x-pZT_pHoUUzS60Rb0MSy_YJhs-hRk5ih2Kk"
+}
+entriesCount: 358
+
+comments {
+  text: "Street dancer delite\tSooo....good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351402156510
+  authorId: "cid-lg:AOqpTOHJmYhDxPRTHDRN-NpdA6aGgZONP_rW-NHBYAl3EJ8kVwjSuaE0SiURk8cChxTNwTG7BUgWgdSWJvj26hM"
+}
+comments {
+  text: "WTF\tnot bad WTF!!!!!!!!!!!!!!!!!!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350891173269
+  authorId: "cid-lg:AOqpTOGJmbMpssh41dxmyZjUD-Kma7-vm8BioOacsgXNhWtGXz9wXV1VwgEA7bKiBsqtD8vTaA7vI7daIm4IilY"
+}
+comments {
+  text: "Dont work\tStuck on the loading screen cant even play it"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1350737057043
+  authorId: "cid-lg:AOqpTOECHZn7PiT1Q8dYJdr-JherelJ6dhOuNsMHCXkAKA5MvU-R40e6cJ58qYmuw2CCu0UJnGcuX5FUPizq7d8"
+}
+comments {
+  text: "Good\tI like this game. I will give five star if you make for the 3D"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1350710864182
+  authorId: "cid-lg:AOqpTOFngw8ozfiHqM95SfxHbCEy_wM-WaQ8mKj4GN2QYKWg3dqndQenTgbUnB7g7adxOQ95DG3tqQSre5pGRx0"
+}
+comments {
+  text: "Bad!!!\tThis is soo bad it made my phone freeze"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1349906629220
+  authorId: "cid-lg:AOqpTOEMe6a-XButAQFS9L_DslNuV0TIOIeTGZMH4FqS6cpgi7RUD8GiOAwKHHfRrXG0Yd9pae4sX1tGdskHd7I"
+}
+comments {
+  text: "It\'s fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1349742931643
+  authorId: "cid-lg:AOqpTOF4dPVp6UFT_8lk7K2g1TTEARbM_zp1barbia7kYEHLbM2TP_90uB3ll0mXhoYD3MgeKfM2LDzYTOmviE4"
+}
+comments {
+  text: "Street dancer commet\tThats so cool i love man        FROM:Alannah :-)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1349108867005
+  authorId: "cid-lg:AOqpTOFRTjDkgl9fzF1kqzQUusJfnhHKCQDjZ5-u9GMxWDrBOCjsJi8WrsDqJN8FUlUJqxSmU8i2YPOYRmkSYng"
+}
+comments {
+  text: "ALAYLA\tK"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1348700816929
+  authorId: "cid-lg:AOqpTOF-xOGff5VFSzFAsTo85Q5bOhI5PKMZcTujLXdFz8cwxyx3x_07IGr1uke0Fn8olD5jpiuCgd24BNcsCc0"
+}
+comments {
+  text: "Good\tI also want to be a street dancer like them"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1348229063408
+  authorId: "cid-lg:AOqpTOGWmoaAcEM4fPGD16D2sd9U1bV3IXXYQCtw1FPWRmRyKocHRPCLckZh8DflyN2jWbN7QeOVgGAi-53wVa8"
+}
+comments {
+  text: "50/50\tIt ain\'t so good....Dance Legend iz better....ducez"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1346595918277
+  authorId: "cid-lg:AOqpTOHfhNcQwFF-YgNamhQubBUxWcuZT9YSoz2lBlbJAcJt4hgOhSDWAriwwpPvCD1rUnjGgvgu_TF28ieKgLk"
+}
+entriesCount: 358
+
+comments {
+  text: "B boy\tI was a b-boy too and i like do street dance and breakdNce!..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344861131028
+  authorId: "cid-lg:AOqpTOEUC4tQxpn87IszGxza-wXiaTfm8vjMRTrF3M4o4Mg-dWJ-BfPsGPaKXMwOcx0XIWvQl5qV8LLij3Z7AQw"
+}
+comments {
+  text: "Wife"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1344700874516
+  authorId: "cid-lg:AOqpTOFvvlMA2wk8f_BxLIHCQREG80wXB90KaFAFj7PZibiBKOPeUTrV5tKn9fh8on6digZ1wzYBqbIfOtAEgvk"
+}
+comments {
+  text: "Crap\tJust a waste of time...."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1342885386166
+  authorId: "cid-lg:AOqpTOHS4CIvnHbrNYy2JGw8sMXlp1iEcYBkt70FeV2ML6X7XWU3tHkbk__JIKG7pqzh_SwwjGG-7FeYLpe_NOA"
+}
+comments {
+  text: "Looks like\tBad and slow"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1342681530225
+  authorId: "cid-lg:AOqpTOGRoKG7IpCZ-jI6yjbcKIDan_jSljXQEWCjDffgfXgN7H05CxfzaOFylXHReBBnqplVX7btdv8tuq5BT-o"
+}
+comments {
+  text: "Hanging!!!\tOn my galaxy 10.2 not working, It shows loading ...... then nothing"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1341710251821
+  authorId: "cid-lg:AOqpTOHTVqU6rNYQxnAGxETJCMawTRcYq0XH6zCKwMIYTN4-D-f2blh5up0go9iKTtjiWEsKIyUYJknaKCBWwB4"
+}
+comments {
+  text: "Fun\tGreat dancing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1341594541760
+  authorId: "cid-lg:AOqpTOGgM3M1e9zDTDWNEQaRY_wkZ98BnE2FC8Hlev5_yKvoAlI6AKHM7l-EuETL-T-8JbtKoJ6m5rQ_faynT74"
+}
+comments {
+  text: "Thought it would be better\tFor the time it takes the game to load it should be better. Graphics are poor and game is slow."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1341564070885
+  authorId: "cid-lg:AOqpTOGwvCLzie_ulEg4Sh-Y7J3CcVesh6YZIOEyfwMfEMX5EECpLXKkhDV1ZSAwPoJHRU1TM53vrG9TY3JU4GU"
+}
+comments {
+  text: "Glendy\tFun!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1341541284735
+  authorId: "cid-lg:AOqpTOGzzczRFQnmdnCDcewsXYqZ93jskWIfaqWgpi6gLYSXKS7Rln550jWEWefHx-DD3MtzhflIjXbduuvkBfE"
+}
+comments {
+  text: "Don\'t Work\tShame wanted to play booo"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1341160870747
+  authorId: "cid-lg:AOqpTOEHOMXokoZ1weYV-Ma0bWTx83_FBDeLNDe4U5OBHmxLNsAnq-PJ3IhwKA5mqM_lHjp6Etit90PmXlfBDKY"
+}
+comments {
+  text: "100%\tI was a B-BOY. SO I LOVE THIS GAME"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340998251226
+  authorId: "cid-lg:AOqpTOHo1beTDSFCGDrNP4z5HE_JvFzi4hvvxQAImbJJxvFCU9GTgKRQSyvFgHD23iKNWj6yAXSsiSaGVbZVRJ4"
+}
+entriesCount: 358
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+
+comments {
+  text: "Shrst\tAwesummmmm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340910538755
+  authorId: "cid-lg:AOqpTOFbjBxHpaZnlURKqn28x_nECYUzWRiYbsFvsJpC1BwZeczHZPLFZsdvC0WThPfMYUe_qrKN8fH8XjypNgc"
+}
+comments {
+  text: "Street dancerDX\tThis game is not good !!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340463582611
+  authorId: "cid-lg:AOqpTOGTWybGsXKi4aePXDDUtGCgIGlA_d57_yzVx8DGqtJAjEXRBOSmcYsNnNpsJXOrBlHsV46pB3tw4dC5vDI"
+}
+comments {
+  text: "oh well\tneeds more improvement"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1340462838552
+  authorId: "cid-lg:AOqpTOG4u1xjskslpauCCzS9n8ilkVeCb6H_Haop8Et4Yiz4zQijyCRgn2rdB_tKT4eScmk5wr_5zVtO8ONuZO0"
+}
+comments {
+  text: "game\tnice."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339755719721
+  authorId: "cid-lg:AOqpTOFcNmVtjvf5Beum8MKbF4NqjN52oJ3GeCshHD8nv_rTrmoa23nfTjMwrY_pcd1vcmDsHQnF7uBVDvJwS7w"
+}
+comments {
+  text: "MichaelZegend\tNice.... We need more game\'s that keep Google play going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339391656430
+  authorId: "cid-lg:AOqpTOGusSjjlDqwDu5RmOkWrirRaryI_uZdjUY8nvX7vJ5O_p3lceaMxukQHrsnBuwBHM8mB30o88jfx7PdKFc"
+}
+comments {
+  text: "Tymarh\tI hope it so good and if not than it ripped off"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339123959183
+  authorId: "cid-lg:AOqpTOHQuaJ62EEz3uIvUFmr8nadvIW93vGy1imJnxYR_U3yEzXE5zhy1b33V011uE1RPdZlxhJHLqwwhGrnPd8"
+}
+entriesCount: 126
+

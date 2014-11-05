@@ -1,0 +1,3280 @@
+comments {
+  text: "Ify\tI can\'t stand how freaking small the screen is."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414462914981
+  authorId: "cid-gp:AOqpTOEfn5WUAAFWX1IhaQ8jhXyrjVmPU7f1EB28IBM5_-xtUxvjl2KEuPMIKygUfCyhohH3A5fAyLKGk7kcOnw"
+}
+comments {
+  text: "SWEET\tAWESOME"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1414305739476
+  authorId: "cid-gp:AOqpTOHPzRJK9qTqed76qEnNnYjnf6sIGnFnY2qxpxWEFkaWGohpm179XgCoo9ZcYG--PIG4bJ0lNQIJxaAyU54"
+}
+comments {
+  text: "This was dumb.no fun.don\'t get it"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1413160032646
+  authorId: "cid-gp:AOqpTOFFNY-VD0bEhgJB9f_mLDlyGvNaOkRcA1yyJQoeK7e-P8-Zpl6X2G2TZSYR0ED71MuoCh01fXo0hI4qFl4"
+}
+comments {
+  text: "I like this app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1413069856731
+  authorId: "cid-gp:AOqpTOHSgOl4qV87gTdKP-BZxgMDJXhgOZdF_kKL6rYKoRsuD0d3OQjEpDFqzXrNbXBQRDcWytvX3nt3QAjV7BE"
+}
+comments {
+  text: "I love this game \360\237\230\215\360\237\230\230"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412355999066
+  authorId: "cid-gp:AOqpTOEEdIjss0Ozgu0oWFXdy1UxfkGwLPtxRllO4_VOVpXOrrzsYMbjmSmaiM8Cr68qJ-JErGbeGuz6EuNkIT0"
+}
+comments {
+  text: "Amazing\tIt is so so so so so so SSSSOOOO great"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412154002429
+  authorId: "cid-gp:AOqpTOH6i2q4iUvXyIxqoRL-A2XtVvhp29ZBbEaWUa6pFENdsIaq09bfP2zbZJ-WqNyfgejnYXwJqoKe258Pg_g"
+}
+comments {
+  text: "Finger Dance Pro\tFgddexcghfb"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411928791721
+  authorId: "cid-gp:AOqpTOFWD8QXrolPhAdqfT9jk01UA5RLseDTe71XYbcAy4G1LdZIm4gOMq8suJRP7efBIuTBo-aUCZNKe3ZXPCw"
+}
+comments {
+  text: "Small screen\tLandscape view would be better :)but overall everything is good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1411760097201
+  authorId: "cid-gp:AOqpTOG3A9NTD_Ovec-tN6lJ-gkZJsPBMGuO3qMWgsDzWd9HdhzXsBgnHS81uxgOQZdAA9-h59dz0swvi0ne_E0"
+}
+comments {
+  text: "Finger\tAng panget nito"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411100659433
+  authorId: "cid-gp:AOqpTOFzWGHkxXf1EqF7dADCyl9rx5hl8OkFXCss2fwDY3eYHhmoPlA863x5WQeKCc_i35ANTT7_-SbWHfTe6tU"
+}
+comments {
+  text: "Don\'t love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410722251708
+  authorId: "cid-gp:AOqpTOG0ez8gV6WNnxGy0t_1T0BtwpMkqso5OzY-NM3fv1JgQ7Ibh07RNJMIWhmSFTOYrs7eBOjoAdlwp2_2UsI"
+}
+entriesCount: 795
+
+comments {
+  text: "Have been searching for a dance game for my sons tablet for a while. Have just down loaded this one, will return with mine and my sons views of this app at a later date."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410558900728
+  authorId: "cid-gp:AOqpTOHf7FCi3EG0ArNdfL-ZxYwP8SmJuPT4dTcXeN2DgFOtEub2kZjv1tqT2YAlSGMqdFfhrYuhMQbmzSmlYvw"
+}
+comments {
+  text: "Very\tGood Morning"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410517083739
+  authorId: "cid-gp:AOqpTOElfnsLU_knFGYjCGH52wT5FzP7wyVRh98cj6aGumSHvfn2meqZE_WKREz5G4mD3TbGTf5utimSfjYiOyw"
+}
+comments {
+  text: "Great\tPerfecto"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409263767339
+  authorId: "cid-gp:AOqpTOFLNjEiD6ohosjWnzB2NmIMzL4rkWipLBUtEpnYn1Pd76HDazbwaWPPh4o8Jz6I8xBYrYGQHHjJJDNrSYk"
+}
+comments {
+  text: "It is very\tAwsommeeee I love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409193794431
+  authorId: "cid-gp:AOqpTOHT0WueACKr9S0ZfxuJdGtF31J03n95NAKro9rNT1_CCv-MBdKw_30uIkbI1pYnT02M5k322_1L8RpDjqI"
+}
+comments {
+  text: "Luke\tReally good  I hope for more songs thank u"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409164172481
+  authorId: "cid-gp:AOqpTOEgMtHdV_HZJ5mnONwzAaCeyDFI9F69bYEIw9n-nOJPDQwYOJRHCe6UN9uhkAD55qvPfa-cMnEK7m5CGhs"
+}
+comments {
+  text: "Best\tBest musical game ever next to o2jam"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409056165279
+  authorId: "cid-gp:AOqpTOGk1-VyyE71SEYrGUsz7jNXx2vDT1o5vDvNSRiQtNoHDW1tELXlSEK3W97-kxjtAIeUde-UnkmS_2DyfA0"
+}
+comments {
+  text: "Icandance"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407494305807
+  authorId: "cid-gp:AOqpTOH3O5rZ9mlP50FoIPa5tPcYWZi9lIvl1MrpSz6cBHFvQrgHVQMskyUK3w4Gw_QkHN8aezTD6ZR0Ljx9y60"
+}
+comments {
+  text: "I love this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405926899537
+  authorId: "cid-lg:AOqpTOEQKVrWUk77V5M4asJ_zy-uHjrKwn8R115iZlg8MOKBgU2dJx8X9sNl4srz80ULY0OHzfqm7c6M1YtwMu0"
+}
+comments {
+  text: "Small screen"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1404786674904
+  authorId: "cid-gp:AOqpTOHH_LChKuw4r2AFOwNg0pKjP2T7DwjBKCJ8HY2xNfZdYlSw0W7nmh7t_hzP2FyNk70Y1bZINHQVdUrJ490"
+}
+comments {
+  text: "Awesome\tDis game really rocks... I`m addicted"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404363225550
+  authorId: "cid-gp:AOqpTOGdV4wSuvnnmjtyUa08blkak_xPjqQcRgLtamCJrgeA8jm82OXjZby57eaADiBv_7XUkReOEMH9n-n6tKs"
+}
+entriesCount: 795
+
+comments {
+  text: "That\'s was so funny"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404328048311
+  authorId: "cid-gp:AOqpTOH7r6RdRkE4xLbdQWGvHpuBtvHy5GC56GuStGBV44tqT0hlWu_YVRdlE3J518ycxV4Mbsbjo0pViY4ZD0w"
+}
+comments {
+  text: "^_^ i love it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403681952375
+  authorId: "cid-gp:AOqpTOGrhw6VlrqF2fm11r1QpRXXyymDn4Sw58QddJiHDLNUmP_3bIN_K0FtCeAHtgupFKCtpfOysLpWMHact-Q"
+}
+comments {
+  text: "Cool\tCOQ"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402964698111
+  authorId: "cid-gp:AOqpTOFkXUquvA46gfVz587WbCKLrhFm4clbPXUN8NDTm43g3YDRtzHVu_EV_1o_P3CICET5hmrWVrV9KH6RnE8"
+}
+comments {
+  text: "Love it\tIt is so fun and it can really help ur fingers get stronger"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402164385980
+  authorId: "cid-gp:AOqpTOGcyUx46Rz2mffdWm_r_auUDUyq3waTXm3NIAwd6j09OZ0olIvNAR_lXnazDMIbTcY1dlkmz7a2TH1-0jc"
+}
+comments {
+  text: "Stupid\tThis app is the most retarded thing ever. The screen is way to small and every time I tried to touch a note thingy, it took me back to the home screen. Dont waste ur time with this dumb app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401676272423
+  authorId: "cid-gp:AOqpTOFT2cQ9-wzOiF0CNzljEjEhJGePWbcbW7u2gG1MzBCzcAZpvrvV69wJ9SpK9yGQ2JsIipkM71MB8b0A45k"
+}
+comments {
+  text: "The screen is to big and ever time I hit a note it take me back home cuz  it was to big so plz make it medium screen plz"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1401324078429
+  authorId: "cid-gp:AOqpTOFq_VnbTvnfASwUue4E3PqbsqYrJXsXNKVffyf0-Ljveuo5XpOo44asWEmvEFvIdgAgpqgHm6pMkmcoJiE"
+}
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400900441994
+  authorId: "cid-gp:AOqpTOHvnqVnvk5BtKPp0BxkmogYBdfq0kUvCYYm7I3mOZ85tk66fgMWMSMqilW_Ed6Kajpwvnfc2xYg9iDQ6SM"
+}
+comments {
+  text: "Very fun\tThis game is OK its fun....but it stopped working on my phone lol but download it very FUN!!!\360\237\230\234\360\237\230\212\360\237\230\203\360\237\230\206"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1400040731269
+  authorId: "cid-gp:AOqpTOESZuLmVWHhlj_BMCkXNGlhadCeXWFgeEziJcn_jdDi918wbqH9H_SSexQcfi2z_9d_Q7Ctt-UAZfV681U"
+}
+comments {
+  text: "So amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399930148668
+  authorId: "cid-gp:AOqpTOHF9fgtqqQKs20itWrV1MNT3I24F-P4X0MULMQDGaIWvJQw8OV6CXaQSeEYxE-xIEMARobweZLZZBWDdiM"
+}
+comments {
+  text: "Good\tOr naw"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1399693814823
+  authorId: "cid-gp:AOqpTOF5CJMPb7f0fCxmiVQt8eS3tvppNlZvuwG7-yd6z9k6rD6TCCMkDrPCqctjSMP7o4A4Lu74aB71Yy8DNG0"
+}
+entriesCount: 795
+
+comments {
+  text: "Amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399228938497
+  authorId: "cid-gp:AOqpTOFDFhLcVViaBkhB7kTMNXlA6nyb52udNEOMO0lOzhPmhzfbLqSgJL8aer1H2Capy3ScFwRi6QugxRIS4DQ"
+}
+comments {
+  text: "Dance\tGreat game my jam!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399179578769
+  authorId: "cid-gp:AOqpTOHmKx9RUwh3DEfHivqDqtCrtPSz722iNq0zsCYEIquFPYQyvBmwBOKwNZ4I2MFdn4LmOBb2HshGWuzkSQ8"
+}
+comments {
+  text: "Horid\tstupid game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1399052214652
+  authorId: "cid-gp:AOqpTOHYm3T6-lcdnQ6czu807lSMo8_8PWkBhcORMESiT6ys-VHGjcIk3aNdT5kb6XFkhstLqJQ4GTwK-rSyBrI"
+}
+comments {
+  text: "Not good\tIts not that fun"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1398593879377
+  authorId: "cid-gp:AOqpTOEUnXKJNBnouazqtDT9W9z8JVdezfHq010ujyX1Laa7ifA5mZtIXlRPh434pGza6GWgF5B6F3kSEqBQ_Kc"
+}
+comments {
+  text: "Excellent\tMazidpatel"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398172561610
+  authorId: "cid-gp:AOqpTOGU8T7X6sEJQ4DxFillR8ARG_IdeLpiL1hSiL9tR7rwzYIz3l_GL75js8HNwPxXOBP2JCJLgRdEBrzNePI"
+}
+comments {
+  text: "Pretty fun kinda hard"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1398116361912
+  authorId: "cid-gp:AOqpTOFLgVO49ldmlgxEyewqw8FmRM5v3ZwhURB1jVWuA3O_Bf59sW4xrbsWcc5AfAKsfdPLBSKadyb4nikOdWM"
+}
+comments {
+  text: "The serene is to small and it is slow\tNo adds through. the game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397865558745
+  authorId: "cid-gp:AOqpTOGWx2ZRnApW29rR8ULCuCOYHdeEStT6OFrfTkSzIYfNBIXM4pktTOKZHL_aS2I_YH4Rba0Jk4s5Pf-4Uy8"
+}
+comments {
+  text: "Goes too fast for me"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1396483180084
+  authorId: "cid-gp:AOqpTOFjtDiuC5Wl1OdzCchY7Hspuj0jfE18JWuAxEpQ0-l0qg3JO76Us791lpE8cZbq4fvltXX3tJKYBhNTEiQ"
+}
+comments {
+  text: "I love it its so awesome but a little hard"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1396401173599
+  authorId: "cid-gp:AOqpTOHsrCBL5_YOuJbO-Rozo0pAYVtKYWLcyK0AEI0iE67aRoEo6bnN2j7_hz6ZjGVlWI1mbPIgghO1HRc7iu4"
+}
+comments {
+  text: "WOW\tLOVE IT"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395153996259
+  authorId: "cid-gp:AOqpTOEFw_jn1JUO2ca23B2eeT0UOcPC7RjhelJSX3-xZi4UcJjOk0cPityQGLTXk2G0XoTl6pnYLA3GWslfEZc"
+}
+entriesCount: 795
+
+comments {
+  text: "Not bad     its too hard. :-/"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1394072079625
+  authorId: "cid-gp:AOqpTOG7IzfEEzBcGBdLb1B1a1HpE97gj76oHZFthHSLPhhVimfrF13BljV-1tJKBNo65owHjIIu7XzptprVfe4"
+}
+comments {
+  text: "I can\'t tell if I miss\tI can\'t tell if I I miss it or not plz fix it and u will get 5 stars"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1393736640293
+  authorId: "cid-gp:AOqpTOH5kiFflhlMu8TkHg_hCpoa53L-SQ4leGr8wYBG5rVdd9kV3yD--mhtkhvEJ9h3jgW0Y5wLF3-bDp6bkAc"
+}
+comments {
+  text: "awsome\tyeah."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393691640640
+  authorId: "cid-gp:AOqpTOFeUsgPLrhPwZNcokYQsg83vpV6e20YDG5-G4T_VymLgbJGC-VvclqjIppeOzDJyZ8fr4XXI615hWEPLAI"
+}
+comments {
+  text: "Screen to small.\tBut this is a nice game. I love dancing and that all it matters. Download it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393107800083
+  authorId: "cid-gp:AOqpTOEXKQA3Mg5nSzS9twzfrasZTXMBm7_8vOBlEKSJJsvfyX_AU073vXrIekGMhhqDRQ9n872X_8GQH07oOoA"
+}
+comments {
+  text: "Laggy on HTC Max, spyware\tDecent game but could be better optimized. Bars skip down the screen on my HTC Max. Was reported as spyware by VZW scanner."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1392845879695
+  authorId: "cid-gp:AOqpTOFxEpALnsXMGpLUcM071bXUe2__sGj3Wm81q3Y8d0S9yMa9rGlqZMivitISo9osFOjf9VHwPGR-igG_OMk"
+}
+comments {
+  text: "Finger dance pro\tThe best game ever"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392231354663
+  authorId: "cid-gp:AOqpTOFK2tMcVnlCmX3ELf6eoOvzmO6tvKRbRPiOxRVIhLdN0WTAOOWcpFLFPSWkXqnOudFoKf8YfHr5SWAH7RM"
+}
+comments {
+  text: "Sucks\tI have nothing to say about this but it SUCKS!!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1391220764304
+  authorId: "cid-gp:AOqpTOHC5NnqoU1A-QvsTqVyXLu6w3UEnhzYHNXMtKhPNY8lp38P_RLstINecjigIn6s7j-ivShQ4DcMIpCKVfk"
+}
+comments {
+  text: "Hi\tSmart game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390375439616
+  authorId: "cid-gp:AOqpTOFwzkmToxfTkBucLfZMJmdaMdXy5SnfKsbfIOFwdjWIsUEDV8cpPVwp3sHb7kcGieTD230Lo1-x1e-PQs8"
+}
+comments {
+  text: "So good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389686863129
+  authorId: "cid-gp:AOqpTOECv6-dCfroSctHTQdG0Iw12REGcg_axfAhscTsAGVT4w1GW71L6OVG63Kj0PYk79HVU93mnr_F3IDz0bE"
+}
+comments {
+  text: "It\'s quite fun\tCool!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1389274367332
+  authorId: "cid-gp:AOqpTOFzATKa2qojjivIyjO74_cejV9ho1au_oGdGr7Fse_JXiPteuDpJAukP8OXLPMCg79w4LiJMt78QiHDDY8"
+}
+entriesCount: 795
+
+comments {
+  text: "Screen to small\tMove to a landscape view, it would b much easier.    Right now, I have no idea if I miss or not.  So far seems fun  Make screen bigger and get more stars"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1388969759047
+  authorId: "cid-gp:AOqpTOGurRdtS0uXftXJavbZf6DGJVJs8j4IJU7HwmsOFSYuhlRsI2-Tm1A4Fc9igNEQ1UiMM9AzbVS3x0M-FuU"
+}
+comments {
+  text: "J\tHi"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388681966518
+  authorId: "cid-gp:AOqpTOEhrkArS3zbLb82fQdR9rF9DAN5OwGZjrw-z93hNf1xiCls0bSxSUphkph4y99Wk83SHZ5bqmEbSE2PY2Q"
+}
+comments {
+  text: "Dala lova\tDaisy abella"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388578953630
+  authorId: "cid-gp:AOqpTOFtO_4e65arOuc2MfhAOmcLMyi8rVWzbpo1QETWPQtgpCrpCD4OOWQ_4OSMW4GG0PkjP1yMksakAqoozJM"
+}
+comments {
+  text: "U dyrurg"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388466086344
+  authorId: "cid-gp:AOqpTOFenxrvvo5HsxULqdx1eW3v_f7pXBQ9EYIk7aRJrDSVYugE1trAB2e7b237V9WKVk46L4e63QYQGQmAsKY"
+}
+comments {
+  text: "I\tGraphic is realy bad... And songs too"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388239378589
+  authorId: "cid-gp:AOqpTOHJfED1jMbm2r-pa9Ofg3UlE8vZQBl-udJAfdv6_8eocPTUmEauPKBEPoawY9XPi7r9zCfFUsHeF1VYxkQ"
+}
+comments {
+  text: "Games\tSyiuk.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388125550792
+  authorId: "cid-gp:AOqpTOEDWfD8K-Z3K95rfR_QC5HIWqMt_UcqsRyLTmVEOmyqWcjJrtG52N3w44PH504alWe4_0pL0xeAd-HYOjk"
+}
+comments {
+  text: "Awesome\tIm a pro at this game"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1388075862651
+  authorId: "cid-gp:AOqpTOFNtmM7R-NMMxub48BP-4_zl-xgej_EHSuTA17Kt6Qgsqkt8aY9ZQg_EniR9Dlp1kAdyxgNgERKxmP282U"
+}
+comments {
+  text: "Luv it\tBest game for the finger!very exercising"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388032802697
+  authorId: "cid-gp:AOqpTOElPvdJ8J699RsrRQ9ozWHA99KpTETERTJol1onloiKQxt6NcSWLujtE5yJSfju4aVwbj0H83qpO12LTBE"
+}
+comments {
+  text: "Rip off\tIf you like being bored go ahead"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1387838553281
+  authorId: "cid-gp:AOqpTOEM3eFQvfcdEqcCe8BUDnKBNJG-rz8CZ_BjRGzTQ2A0FHxQMDq-V6amGgBoUWFOW3Z_WosIcsYhi7rZpNc"
+}
+comments {
+  text: "Aaaaawwwwwweeeeeessssssoooommmmmmeeeeeee\tI love this game!!!!!!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387402014894
+  authorId: "cid-gp:AOqpTOGm7KIHV_dpP5ujxQpLvPVbvt-bsS3dSVzZAh8ghAwozYkGKYjwGt_NEzFgPqiY_nd_5kFJAHeOssQGROM"
+}
+entriesCount: 795
+
+comments {
+  text: "Too small a screen!\tThis game is good no ads or anything but the games doesn\'t fit the screen. Its smaller than my tablet screen so if you could try and fix that then that would be perfect. I am not going to uninstall this app though because I do enjoy it. :)"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1387036044312
+  authorId: "cid-gp:AOqpTOHUgHOTwbbBX5NYsbbBRqPbnD-dOqX_uFNzF0AG6aTRL2NNHc27JTCZ1-7GfV9ZcfD4GnZPsPc6dClpuuY"
+}
+comments {
+  text: "Fun and learning"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1386989005031
+  authorId: "cid-gp:AOqpTOFV2klVaAAl-ZfQig_HwLE3sc79xu3Tht_pgMaHoetL2lf22mg8SPR5wmHUrL41TqWkX9Bo-stcsu_ytvM"
+}
+comments {
+  text: "Fk this\tSo bad this so not entertaining"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1386535847914
+  authorId: "cid-gp:AOqpTOGB0NFoODnr-tnR6A-uy91k274BUL1gCUTNyHrLJ4E2kP8r4_gHHBiPsrYotmXI-HldMeYIfP35LzXb3-g"
+}
+comments {
+  text: "Awesome\tAwesome app get it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1385945445860
+  authorId: "cid-gp:AOqpTOFL38leB3-07ClfEtf76niszHjmN9OQy7MymJ2x09sKSJpidiOipL7DEFxTzbNsAjTTMNQbO2LdWpjI-pY"
+}
+comments {
+  text: "Juju\tCool !*^*"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1385253985005
+  authorId: "cid-gp:AOqpTOGzjQG4yi6fLW8-O3WZFuj53QrBnmCK1m66M6Q87CT8BTPrksnk7e_F6CUYU6bgTafMlt6TKflQIqQGV1c"
+}
+comments {
+  text: "Its awsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1385182950790
+  authorId: "cid-lg:AOqpTOHHm7U_ek1zdYr6Wzv61oOpW7ZS8r27tMRBTJnY1Ml2S5Xoa7d5fnQ5_SKgc2knvXRmiJKB8IdGs94QGvA"
+}
+comments {
+  text: "Wow\tAnd i love this so much"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1382616260718
+  authorId: "cid-gp:AOqpTOEVTmP53Ok7BaeczvEy9FBBc7gSLYc0iSoSuFbuSkMxxkVyiaiI5lhTtc7BeMo3Iew8fTxcH8R2eNdueJo"
+}
+comments {
+  text: "Bad\tRubish"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1382198012246
+  authorId: "cid-gp:AOqpTOG4xjTNjI4o7DMBJIWllwYfjiFQZh2GvL1Tfv5h0kdBVJkPgkiFSFWDjcsRdI4aQX-l5X6Shfc3qqkaNeA"
+}
+comments {
+  text: "Omg!!!\tThis is so so so coool!!! Download it and i promise you won\'t regret it!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1381743099851
+  authorId: "cid-gp:AOqpTOHJ02eywV6BSC7Ul0tXRjpMDcr-U6JsFGVrnC48Ul_NgwEpDhJPfuBZIzAoMe2TMl3ojNVxheGWA5HVzsM"
+}
+comments {
+  text: "Its ok\tAll the songs i tried level4 and it was quite easy.Everthing great ACCEPT THE MUSIC CHANGE SOME NICER SONGS PLSSS"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1381080556710
+  authorId: "cid-gp:AOqpTOGHMQ4vt8vkaZlyEOJi3RYopSbfhqHTr2wFfID6ql2YT9P5DQQ_mAk1RxLYkDNGWIUoKFNbKxH6iBVTMVE"
+}
+entriesCount: 795
+
+comments {
+  text: "Like\tIts fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380323244621
+  authorId: "cid-gp:AOqpTOHHEeaAml-k-Gqa3ZxifWR8W228Qu3pTJiy_RG22bI1oxuVRf7mv9JsVtASA8xILKDp2OE__YyrtD-9WSs"
+}
+comments {
+  text: "virus\ttells me theres a virus uninstalling no thanks!!!!!!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1378489458477
+  authorId: "cid-gp:AOqpTOGcBoQw2tMm4JvvsbyGF_vCSXxRXl6QAczK_Mw00gxT4xovaMQWOwJ1tj8k_w18zlsJ0jp2ZCwS_rgSVP4"
+}
+comments {
+  text: "Bad\tI pressed the button but apparently this game sucks at detecting."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1378467415478
+  authorId: "cid-gp:AOqpTOHajWHVxUygBoMEM0Y4lpU3ec8d53eps9hO84pZ8P9ohrFZ8IcavsbEbo7ARIW28uMSmyhlwIGCRgJo-Hg"
+}
+comments {
+  text: "Intrusive!?\tThis game looks fun but when I downloaded the app, my anti-virus software said this is an intrusive app. Why is this? One thing I did notice is that one of the permissions needed my location. Why is that needed for a game like this?"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1377929208569
+  authorId: "cid-gp:AOqpTOEF7S3HCQV3JsZDGrBV5P1I4zLGJ5-1IAuwa8qeYtyrJEpURBqUuxcyI-H3v2HItZAp6_8JIn5qVRViWPA"
+}
+comments {
+  text: "Galaxy Win\tPandai aja ngentot cc.. Awesome! !"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1377596582654
+  authorId: "cid-gp:AOqpTOHRYXjzmNQ1WclVy15dWg7APfgtwsC-6heQGb8tYEv2UYaSHc98q5eOb6dCfJ_ryZ_uxK3VvEKp-_p0iy4"
+}
+comments {
+  text: "Bad\tHorrible line idea. Hard to hit. Bad music choices"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1376358749147
+  authorId: "cid-gp:AOqpTOECN00VOTbkDwvDAI2bzuZ5QvvEr_xTqOhFyhk1zXCUPdYkl51uHY02UTGJkiEDpi7dZk9k-GlPkJV4tTs"
+}
+comments {
+  text: "Farah elkhteeb\tNice game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1374952366018
+  authorId: "cid-gp:AOqpTOEHUXY9b2dcbl8X99cSr2NbXI1ldwB8CLurN-Xg2_jq0VlTpRRIgJcV0fNiSG-lYHjSPlCAyUq6F9NeKq8"
+}
+comments {
+  text: "Just a copy cat of.the.real finger dance"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1373737006681
+  authorId: "cid-lg:AOqpTOEnHvOoG0EpJjbGKa8HP_hJEDZMi0ksBRhE9AZcTv5OYyWLnnbQeGkegQnIte1s6PwW1rDF3rILGeSBOiU"
+}
+comments {
+  text: "Very Good\tLove this game. No complaints over here!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1373574541913
+  authorId: "cid-gp:AOqpTOHEmRrfCeelm00qto2dI5LDXZ7bMzrfb1_497gBacZMTaQtUAscVThC_K9oRhSpPBO6wgj_U79JV893_k4"
+}
+comments {
+  text: ".\tTi"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1372729776669
+  authorId: "cid-gp:AOqpTOHGC6OuHUKXziDXUHXputP755S5k1lBHdq82rdQ5nsY-PQ_SM0JiSV_KO3-QZG--0T1HyRHHrciwXtXA6A"
+}
+entriesCount: 795
+
+comments {
+  text: "It, sucks . Because it stay on your phone when u             Unistalled"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1371946450729
+  authorId: "cid-lg:AOqpTOFfUA9u0eJJ1mSANROLPYphO1-5x9cAN8V9DlDz9eFyw8Cp6EuNJZZzRanqS9yTPHcGovIvfst4gwmpByY"
+}
+comments {
+  text: "Awesome\tLove I just love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1371925374991
+  authorId: "cid-gp:AOqpTOHnCFTFdNrXjrF-K3oAR8nJp02XbGL94ZPWRPkwE6SuHyvWU80eRv0KJ1fABYp5MGB3KfKICJot4MGmm28"
+}
+comments {
+  text: "Cool\tIt is the best"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1371896121431
+  authorId: "cid-gp:AOqpTOGOhMnoGCrt5lZsjXiailHKTVuzKIuvDylc_vV_-K3PaPDJDrZlWdzKlJ7l8RDSS5mUOIycm7zyKdPLWXY"
+}
+comments {
+  text: "Reznz\tPretty good game."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1370061647256
+  authorId: "cid-gp:AOqpTOH9T5S3fOgGMGolv5xlRq7e3CPIuuB8AL08tkEzHUhp6bRCnEEKsxa1_OPfcxwnEE97G1GXrZn30-V2CLQ"
+}
+comments {
+  text: "Average\tWowwww"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1369585348733
+  authorId: "cid-gp:AOqpTOHq-GlyVpQ7iGRg7AuTYVIPanqBfzV_SeGnqQ4btU1t2RfmW1PHreJY_9YZ39vgLHlDhAlyvOWke4199cg"
+}
+comments {
+  text: "A great app\tAbsolutley brilliant and fun! No problems at all you should really get it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1369572119704
+  authorId: "cid-gp:AOqpTOG8LMJxdn7lGFSRXDT0Isygekb4giy17v2Pgvyh3avkpUQ-P9QSEA8JstyFHy7NOd5unHeRXs1bolwqCVo"
+}
+comments {
+  text: "Sucks\tIt doesn\'t work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1369436279035
+  authorId: "cid-gp:AOqpTOG9VrfZVmOCQLFimwxn_QPxUHKwpeh_emMYVKxfo2CbCWowGAUqCPa8fh7Dnffe3EEayQ8ZANP4DCh02Ls"
+}
+comments {
+  text: "Poor\tNo fun."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1369230304521
+  authorId: "cid-gp:AOqpTOFIq1BPuzPxVTqtyc_ULRY-wPoLKQtkYYseFKzcNy6XnEXvdqDrxmTe6BwdLmurqE99KgvkyOHuYSJuHv4"
+}
+comments {
+  text: "Boring\tHave fun playing the most generic songs. It\'s really boring and not fun to play. The hardedt difficukty is super easy. Dont waste your time"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1369150754681
+  authorId: "cid-gp:AOqpTOGrh-9WsC3n7CHbdmrzciTwVFX6IXOnQJufNix0U8iH6Uc0750ML2hWI_zugFT3JRYtzUib3e_gIdpyS-Y"
+}
+comments {
+  text: "This. Is veryy cool.and u should play it\tIts very good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1368763004566
+  authorId: "cid-gp:AOqpTOFcPOqMCgDDrSrzbFFpQYhpTzkqKUtIK6yvg2aU9K_L1CZu7HAG8R86Ve4L2DmavA2yJVb4cc1x2RJRR9s"
+}
+entriesCount: 795
+
+comments {
+  text: "Poop\tIf you read this ur gay jk lol"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1368682221198
+  authorId: "cid-gp:AOqpTOGRT-DG4INVrzTEDUtV6z5zABDth5-rBReXnXvc2T2zeA24xGqE7OevFIIQPwm3k1N7hFW3DkVs41yCfQI"
+}
+comments {
+  text: "Nice\tTry X Wars!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1368644794702
+  authorId: "cid-gp:AOqpTOGq0FSiVsxBhDZOc8dLXch8L97uqv6tnOrdsM5v7XTDKwZ1tORvbt-duxncAjJZJvIpdPHex4ca521oMgg"
+}
+comments {
+  text: "Great!\tGreat!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1368565926243
+  authorId: "cid-gp:AOqpTOE4MBJmEYlkZUSosXSzrGVpe0vPaLLjmDBNt0KjOBni0lAge-Mu6unzgMieR-cSJxxK5XEouCyyPKL50CM"
+}
+comments {
+  text: "Bad\tHorrible goes very slow automatic uninstall"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1368489061107
+  authorId: "cid-gp:AOqpTOHogfJouTZBY8hdvLYx-i4vM2BX7ckTyTfA7MFYIsCc0oGiHFW_OT_zjNgalVSBeOusdMUSDFzdihJbw7o"
+}
+comments {
+  text: "bad\tUghh"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1368021470696
+  authorId: "cid-gp:AOqpTOGDJufjjt2k6FLsTybzQjQBemkgubMpKTs8K4LSa61Jwm32b53_oVsPsxoz8QoussTm6Bn_GFA_n8JOErE"
+}
+comments {
+  text: "Lahe\tMa ei j\303\265ua \303\244ra kiita"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1367079644307
+  authorId: "cid-gp:AOqpTOHTS541KyLTb_WD87j4NODn-9OuiY0Kgh9iMQX-RZ9ARcpwD3NzvSNGPzyznkOkmrZ9CPxE4WK_niMSqB4"
+}
+comments {
+  text: "Ndex\tHahaha,,aku pro!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1365852510273
+  authorId: "cid-gp:AOqpTOEdeNXwoarUtQfSRlp0uRdJ0IIj50I0pNLzOeJuy-dpEILuq12MbyI-RR5ST3OFa07AXC12K1SPUJQXVJ0"
+}
+comments {
+  text: "Love\tThis is so fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1365726405574
+  authorId: "cid-gp:AOqpTOETQOgBGRkzIeEbmwo1_MhPXcx9qRNqlznt59vUjj4wskEgy1dP8b7sAiR4Ge_044G5KgPMwkntNFGCcCw"
+}
+comments {
+  text: "Hahaha\tSapa pandai main games nie ehhhhk siapa ki. Nak tengok e lhka sapa kuat /pro......"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1364991210440
+  authorId: "cid-gp:AOqpTOFXHZe4rnBJvg9xBsbOLRu57Hi43bq-7otKde3C_tpJnyxvLZsMIhVumHZWiv1DRcEIHpb2tEY2ix3CFJQ"
+}
+comments {
+  text: "yum"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1364533901423
+  authorId: "cid-lg:AOqpTOGGxusk16_IVG4ZqnmCFQG857JMcwaDm9g_KR76J9VmzQzpyZzPjRA89G5osWBKYtcwTGjlOZ9OXLBldIg"
+}
+entriesCount: 795
+
+comments {
+  text: "boring!!\tirritating app"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1363779869735
+  authorId: "cid-gp:AOqpTOE8Y0y5rS_jQmr2eco_vOimrkOF_E3MruLEvdlI29DGOQYo8gf832qncupDRPmbOtP5qemeNoWzKKNY1Sc"
+}
+comments {
+  text: "Terrible\tGame too fast. It sucks."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1363450160705
+  authorId: "cid-gp:AOqpTOEs4bQBTsQp5bDuZwd8EvtZMr1ht1JRs1qaoiywfk5-UMcCI5M-JVI2wFRVw8aZhQKN3hlJyUcu0nG-ZFA"
+}
+comments {
+  text: "Is this a bad game?"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1363296863370
+  authorId: "cid-gp:AOqpTOHME2o6DFnFL9rLn3AfG4vq4D-KMKXXrTx0i17CJhsNi9YxiA8nAOTNsf30xrxT48S5umO_7mpFTuPxrTg"
+}
+comments {
+  text: "This is.  \303\221ooooo gooood\tThis is no good game"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1363164503271
+  authorId: "cid-gp:AOqpTOGN9-h1DDLFHWFRZubl7N9MasECgGsxLbXZwoQ8RSZYfACZryh3xJzRCk54twhiezLYhZ1tXvO-mygqa9Y"
+}
+comments {
+  text: "Uhhhh what?\tI am a 18 year year old and I hate this game I don\'t like twinkle twinkle little star id rather have one direction and if u want a better app try pou"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1362939187277
+  authorId: "cid-gp:AOqpTOFeqj8HJHiWNrzRDl141ELJXgDzxOnnXH9C76ch6TSNFY0jF4e3YkPfu6_mUycKP9k5ujdrVy1Jf2hRRSU"
+}
+comments {
+  text: "Great\tVery nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1362735099248
+  authorId: "cid-gp:AOqpTOE9rwZleh0DAFZ1iPHYTvUMyGOyuYD1OeTV5ArMH5jRmjy1UDDNNgC9eCtObDOZyBuqZiCxzQXyaoT3Zgo"
+}
+comments {
+  text: "Love this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1362527716379
+  authorId: "cid-gp:AOqpTOGKS1s2QpYIHiNG2AI4j53padvcYOffJC-XrtKtWJ-JXcWl8369TTVndIzKpm8ctLe8Y0b1Gc2AOa4Xii8"
+}
+comments {
+  text: "Mekie\tFinger dancing rocks!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1362251956775
+  authorId: "cid-gp:AOqpTOFdnQdOonWTQ89nUGL837I_4WQB5M-KcPw6m39fd8qC_kP_PWjx3AU2Jx0XEz_dSSlqiK52qnq7QqE_x8c"
+}
+comments {
+  text: "Music is Bad\tThe music is unappealing to me. I would love it if it had Rock or Modern music."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1362119507023
+  authorId: "cid-gp:AOqpTOFsmGkqTIiW-iHxmV-nLIR2cYmhca3K4HmjWfhKqkPM3pIBHmXTLpfktpN3B9x05m25SX7vw6uqkL9pq3Q"
+}
+comments {
+  text: "2 fast\tToo fast and childish and also,keeps getting booooooooooring"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1361761572920
+  authorId: "cid-gp:AOqpTOHhHSp-aehtoJM8wh28a_lafpd8RdlhSQ3ls2oRMPegClqyJtsBEKJfG86BezyEYEsF1jRZYx3NXM_Gpg4"
+}
+entriesCount: 795
+
+comments {
+  text: "This is for babies"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1360547532810
+  authorId: "cid-gp:AOqpTOFNYZRZhcY5d8hJOC_TWS_p306CKLjwKO_9F_Srhn86AGQE1rTYNmlekU1O5wJdGptwz0VwF063uCsQQjU"
+}
+comments {
+  text: "Finger dance pro\tIt givees me a work out on my fingers and my arm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1359683412507
+  authorId: "cid-gp:AOqpTOHldqJizyfPfHycUC2opZNWxHTv5thrJxLDhl-GXT1peP9ImgOojf4Ux44MePVWrsR7E65aR9A3WCCh5yo"
+}
+comments {
+  text: "Sucked\tTwinkle twinkle little star, and Mary had a little lamb isn\'t the genre of music my fingers were hoping to dance to. On level three, there isn\'t humanly enough fingers to even play it. Add better music and I\'ll redownload. The music is for a five year old, but the skill level to get past level one is for a grown man. The music didn\'t give me any motivation to keep playing, it\'s actually the reason I have up bc jr was so annoying. If there was better music I believe this game would be fun."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1359587356712
+  authorId: "cid-gp:AOqpTOEqfGpQaDmUNkXZY3gXVxJUHxxLIYIRCbvgZMegiaH9ZbP1-uBJ7WYmMs7_RGmmhDw7cxbaHECbhErAoBg"
+}
+comments {
+  text: "To hard\tThis game is to hard"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1359081860018
+  authorId: "cid-gp:AOqpTOHHdpBcxdXNrS4Uw2TnRExCFAtJ6OLUR1ullYU-plots0KRANCEqmRBetsXjIS4zKQlTNVhlzQq7sBGyIg"
+}
+comments {
+  text: "Nice\tI like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1358851347377
+  authorId: "cid-gp:AOqpTOEluqQ0OnT_88PVMtt9f5lKWmKyxUC7jhG5E9Un1nq4TUgubGrO_GwvWUVYI7hS3nD8YdswZDp40dI3APw"
+}
+comments {
+  text: "Awsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1358785068366
+  authorId: "cid-lg:AOqpTOHbtgSNlz7u2T_nhm3NxNJ7gqOj9w78s1pIunytALh5tel64WsmVOl2IbYjWOpLPOoC82E4aa4Ar8LV594"
+}
+comments {
+  text: "I hate it\tPoor"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1358079417186
+  authorId: "cid-gp:AOqpTOFrdjj828qvmzEPXYZbJEk2GdAVOaetA2jzlOMPuN12Bdb4uV7nc8dUJG_haubKFvKjEb2px6ZnZ5zbInU"
+}
+comments {
+  text: "meh\tworks fine on my phone.. my coordination isnt that good tho lol.. >_<"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1357172892439
+  authorId: "cid-gp:AOqpTOFM1ekSuwmd3tMoGGdgDsEoO4ZQydZOU2C7CkI3ClUI0kjDqKYb4LpWLDgeA1ZT7jWz13I0r-3eVzq58wM"
+}
+comments {
+  text: "Pathetic\tPeople who say it\'s good are probably 3 year old\'s"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1357069884855
+  authorId: "cid-gp:AOqpTOFjoxyRK3dxEZamnsSj07asUOLFFslA1U1TEaBiQG_n0Qn1J8xm7GLCliAWph8q2YyZKTZMmFkt9DVJv90"
+}
+comments {
+  text: "Good game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1356982699956
+  authorId: "cid-lg:AOqpTOHOYS8dtpksnIyKaVWBM2tP6J0wNO2meSXwTlQGT5Gt0j2Ojw67E1YoukvgMrcdKMwr-9kvXEfb7lXSgy4"
+}
+entriesCount: 795
+
+comments {
+  text: "Ka\tBad >\342\200\242<"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1356840723627
+  authorId: "cid-gp:AOqpTOFx0Y9U_GxHAGxW9OlxL1U4mHdac-iV4jzlFgzJfi8H_jAvOBSFO8qSZt7rGk2N4fV3jIP2kGjqwnAYtxA"
+}
+comments {
+  text: "Awesome I luved it but the 3 last ones were so hard lol I got like 50 misses xD but still love this game. Btw its not childish Im 14 ."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1356262149715
+  authorId: "cid-lg:AOqpTOHcHVwkceKblsRWWfI-s_okv4qLw-51isy8iCqw2kxaDbfV2UFsodqvW_tVjywatPLNne8ZVI1TtJAWpOg"
+}
+comments {
+  text: "Awsome game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1354572613687
+  authorId: "cid-lg:AOqpTOHpe2RLk4fvfcTnZYaAYNITY-GPDwGUfYavKGo4KhxUpKs1fnpaOaH3fCSmRwYEzGgqMzg5dF1MBUYrL-M"
+}
+comments {
+  text: "Lolige\tWow its a bit childish but its ok"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1353953359279
+  authorId: "cid-lg:AOqpTOElQBIzpE_ASLZjMs7QV4ZRs0AoMcRBOgckhyuL9l3RkddBzA8zY9MCzn_jVqITm32OWdYmyLtGx4lNdEw"
+}
+comments {
+  text: "IKR...\tToo kiddish!!!! >:(>:( BOOOOOOOOO!!!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1352346832502
+  authorId: "cid-lg:AOqpTOFHXzKElkVSKamM5LiX3ayYtrd__bgs2zJ7qjYD7iuTTd6p0zuL7pBKJyertgz_CT6evyLHGFdHokMp4XQ"
+}
+comments {
+  text: "bad\thorrible music more for a 3 year old my sister can play this better than me she actually knows these songs"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1351478961868
+  authorId: "cid-lg:AOqpTOGqwqSDZ33rtvmYg1wqOoYfWahS1R-xaKACi2AlglyWHOhdHKWdpuUpRqxiIPrckpftpqZWCYNNQLeGhew"
+}
+comments {
+  text: "Entertaining for a short while\tyeah it passes time if you have some to waste"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1351311324114
+  authorId: "cid-lg:AOqpTOHvbahwzxK2wfLoQqpzxwx-HUTn1eEAoR4-O7tg9inDywL1X10HcklX-vuKxESQ0iWTXzo6daa9XNUUHY4"
+}
+comments {
+  text: "Epic!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351045789673
+  authorId: "cid-lg:AOqpTOHhP9tZYMKoqP2OyscIu0hKS6YCYKfiWvJkSxIcnBSF6MjprXahHqV22dgiaa6T6VSX0SQ757p8U1QcBus"
+}
+comments {
+  text: ":O\tcool but boring"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350846746115
+  authorId: "cid-lg:AOqpTOGLi-AXUhOVIORam7f8vX1kO0gsliismGZbNh2d0tfjpw85w2z7O-EejvHx_AdfTt1sZwVUcSRpV3PuGTg"
+}
+comments {
+  text: "Too kidish\tGood for children but boring for adults"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1350647339919
+  authorId: "cid-lg:AOqpTOFHMzH_s6v-N3tOMan00Sz1NrZafS-kPHqtq0g-2O8JefcIHq543BBMIxG4grUJZL7mmmK7zZb8d-KIRk8"
+}
+entriesCount: 795
+
+comments {
+  text: "Zhariana\tThe best game eeevvveeerrr.  Ever"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350573118340
+  authorId: "cid-lg:AOqpTOESAozuWUig5XHXwJM9QVtteE88vrDjYjKV9iTllRSqRcbeZLez_ZYmA_T5BOhPdCpVVF-Jl7cmsEq-A_8"
+}
+comments {
+  text: "booo not bad but not interesting"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1349954790983
+  authorId: "cid-lg:AOqpTOGMjBttRrLopTADuq2b06ZHZvMD8WPrG0h13S_g5xxP9orQ4zpHZjme8SuL_wP9iK3mjeivrIGLFjhKEdw"
+}
+comments {
+  text: "Goo\tGood game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1349840102960
+  authorId: "cid-lg:AOqpTOFvcDSuGFXXM7bLNxTg3g837oh0UqyIRHhgYZHjO2CVskn4S1UCnHL1bl4Ljwl6ovSgop_l278TETYC6HM"
+}
+comments {
+  text: "Well\tIt Was First Hard To Undrstand And Then The Songs Got Really Hard So I Gave Up. But Its Ok If Yr Determind!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1349600319819
+  authorId: "cid-lg:AOqpTOEGcOQc5Fj5yJ6XjiuzDimIAx9r1rNm3rdPe47NTM6YglnDvcfGMX8DkucpiQUcnCtfGfKWrAwy_DPSWBA"
+}
+comments {
+  text: "Ew\tJust.... no. Good for my seven year old cousin though.>_>"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1349143947227
+  authorId: "cid-lg:AOqpTOE67r9CTl5ekpAjso7Y6m_Xg3So7zXFcLKha0e2vyWFQJhUK0PtFXKHBWT29YGj0gNGg7EVHXvKsFZgAYk"
+}
+comments {
+  text: "Gangnam style"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1348429612118
+  authorId: "cid-lg:AOqpTOGSrlS5xNg4tviFCGse1dHuAk0cSa1h2AR9hFK6nu9m2xOEC3gFbaMXOUpEzDwQaU4gaDzrH0HZjtdX7D0"
+}
+comments {
+  text: "Blah\tEverything\'s great but the music sucks,,, just puts me to sleep ^_^"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1348426591624
+  authorId: "cid-lg:AOqpTOEsbw-IDwi0nVkpXueDkh6twEQMfLRpLNPVC7XrPOP2Dr_XYQlBuLp8PHeEF8UN_XywXaRWuwhnAsvoisg"
+}
+comments {
+  text: "Osume\tFUN game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347327699241
+  authorId: "cid-lg:AOqpTOGqJ-Abt2hRkGyR1Bvtrd4STDc9l0PFFK95r29PXYVBCXQF4dayeltzKAK-2ANWfQdii7BmyGTpvjhCKDo"
+}
+comments {
+  text: "It sucks\tDelete eww I can\'t believe this"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1347121401185
+  authorId: "cid-lg:AOqpTOESYeaj6o8Iz8he1JU4Eer82yZQis8LDuCOERr8pm-c67KPvTl7uDcjpnQk6DrUNVWMR_hAWhz8tW2FBQA"
+}
+comments {
+  text: "Shawnae\tThis game is so BORING! dont be FOOLED by the cool looking picture!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1344710366186
+  authorId: "cid-lg:AOqpTOGxVa4sIv6EfsN0KHhFExT4ZKapFayuyWOCM74D28azjZbA2omcuvkwWlmhuy3AMIzR3Z0HzRzuPj1tlMk"
+}
+entriesCount: 795
+
+comments {
+  text: "Great"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344228798864
+  authorId: "cid-lg:AOqpTOH9xesIxhzCMZ29iLBp8o2bpkCUTEyKaIPgtOhJT0EKk_tAUc1TjzcIXBFQAfqQIOgJrJFJSwzrBFkonps"
+}
+comments {
+  text: "Meh\tMusic sucks and isn\'t really all that good, uninstall"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1342546134456
+  authorId: "cid-lg:AOqpTOFbqyUhMSHu1qJmgP9XdxBizS0SBozPgCztVRztW97Dej7LHzVECcpzD3-P8h8CI-vfdA2YL8B9ydJFCes"
+}
+comments {
+  text: "OMG\tThis was updated on my bday :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1342147377060
+  authorId: "cid-lg:AOqpTOEGD3fo4DraxCitegv-JI8d9zXe-rLJ0GSNTcbY0VoYD5RQohJN-m6tX9rMjkHrhhNqnzrCzW7TRsg8frQ"
+}
+comments {
+  text: "heather\thorrible game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1342050762538
+  authorId: "cid-lg:AOqpTOGMkVh-R56zmAaJa2JyN-C8-_D9nDN07zD5dXa7WkyR6tIiXmNo0ib-TT6Ty8cUkJtVDQlrOmVjXwa6cgU"
+}
+comments {
+  text: "Its cool. Wish they had real music like guitar hero or something"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1341809763708
+  authorId: "cid-lg:AOqpTOHRdrwqSkRxH6AJrv7sO1h8HykzxAm-EoFGpEtd2pYyuAv_k0dSWLVizQZpqTqb4L3lGz2viu60krOUPtw"
+}
+comments {
+  text: "Finger dance pro\tSucks dont work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1340778476034
+  authorId: "cid-lg:AOqpTOGQRYkwuMIK9g1f293SqSYo9jpFmeuVOmFJ-p5eRKHEFJb4jeq7dwqU5Pip0WRRTxclrwwNs5W5EboXKEw"
+}
+comments {
+  text: "Good but ....\tThe game is fun but it could use better music like newer music but a cool game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340772723152
+  authorId: "cid-lg:AOqpTOE6hcaIfpKeFqQXPt2C7_2S9ay8z2LXfj9KzQz-aK9G2xeFTzqKUTrWjSjfZjVeVLbryC6dgK6zdTgR5G8"
+}
+comments {
+  text: "Finger dance pro\tVery nice...."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1340523784147
+  authorId: "cid-lg:AOqpTOH0xIaTi20ztOfF1tzgsBWWUfzqyaKco-C90RGZ6X-4-j_zpmatewxM2EtjooA76k8NsmmDFLThri1b-84"
+}
+comments {
+  text: "Nice\tNice and simple but the ui could have been better."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340305925631
+  authorId: "cid-lg:AOqpTOEXzJPluu-KuO7bHwOF_70b27GMGTmfsblgesDQkuOfH4fqbLGUZb9PXhSZ0Ewml9ER5HNMC9x2VIPMZbk"
+}
+comments {
+  text: "It\'s fun!!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1340270308871
+  authorId: "cid-lg:AOqpTOHJcCVkNVFdl-jeYuOO94EvCkggdQ9LDQF34xt45ab1bzR9i8uZzquFqrm9wwPaz32R_U2cII7lr3jg7gs"
+}
+entriesCount: 795
+
+comments {
+  text: "Lacks a few\tNeeds a little more work on some timings and maybe more initial songs available."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1339638805490
+  authorId: "cid-lg:AOqpTOHd5QlDFURU1b1fw9WYKH8DpICdJxpAe-9EOMn3tX8qu96o0bYzPlPB5t1x3VCy6qCGN_03X2JlyzwkE8I"
+}
+comments {
+  text: "It is a awesome game :)\nLoved it <3"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339512125518
+  authorId: "cid-lg:AOqpTOEZbKn4DqWH26h_2SpQ47LP1YDDKZjoPbj2SjUHFb0LuVVmyudhMED1N7Li5Fc4dE5ug025gRj5eyVJkPk"
+}
+comments {
+  text: "IT\'S ALRIGHT!\tIGuess!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1339261694875
+  authorId: "cid-lg:AOqpTOEjqdmQXIk_SA574iUMscjaZs48-u5h_b_j2mFoNusUskTVvL1coPphOmfNjAIGeyhz6rHSOekn60KQDxA"
+}
+comments {
+  text: "Cool\tI love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1339103517642
+  authorId: "cid-lg:AOqpTOELzeUi_SLxE570hE7X11TZcuwwMysPSW24Ltruc8v0DpOIuv-Nx58ORee8ph43vctjRRk4ScILJMkRIuE"
+}
+comments {
+  text: "Wow\tAwesome game!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1338127088751
+  authorId: "cid-lg:AOqpTOHOU_M46QAr-BraSJgl22YBsk7I1fo1tpWSCq3lJPTRGNd90v0ABJKmhyNgg95ECaiyCT6RAAqj12u68H8"
+}
+comments {
+  text: "Stupid\tIt\'s stupid"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1337652260575
+  authorId: "cid-lg:AOqpTOEmxGnIXz-DFbcWm_Y4I_G3YbFNdiP3eCaov7cQDgGghB54B0BJ2gtIHhpY-T7MkNK-JzcOOC3bi0XeVHU"
+}
+comments {
+  text: "Sucked"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1337459390802
+  authorId: "cid-lg:AOqpTOEscFcqOpRFqTPWCNzuviG7buW1HMZVIdha7-SZI3VnPS20KmpCKOh8eI16GLSpsdJrxDUtTflvOPdAjtU"
+}
+comments {
+  text: "OK!!!\tBest!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1337253811282
+  authorId: "cid-lg:AOqpTOHuBaYlUBbD3sMJ0SkI-4EiwapX2QN6-X5FXS4pQDuxPMam2Xb5OOg-qzrJM3MR0e_o4d0WYVOyHjMCKtc"
+}
+comments {
+  text: "Stormi\tOne of the best games I\'ve played:)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336429498816
+  authorId: "cid-lg:AOqpTOGzZGTlB7yBsdkL5Rrt-GfvSlAQQTwL-NipqP71jZbWuqU2x8_1rWOXuUo5WTtCf9OWsqIZ8Xsj57TUlUw"
+}
+comments {
+  text: "would be a really good game only if the notes matched the song."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1335337957214
+  authorId: "cid-lg:AOqpTOEpDiUpWAY_gN12e_pkEFZlEeQsDhG0J-jycdSvzUePCZXhGsXCzCozFussBYbb2piRVBPDoKhoMUrkNVI"
+}
+entriesCount: 795
+
+comments {
+  text: "Good for kids\tThe songs are so simplistic. Mary had a little lamb? Are you serious?"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1335173361440
+  authorId: "cid-lg:AOqpTOFEoeG1uK7pRsBqHAxk4ueelXV-K4yhLM1dYXmRyo8ETGU2Q67rBAa-OFSV5UhKX-vUfNB-JcLjE9Rz2WE"
+}
+comments {
+  text: "Lags on galaxy note, wtf\tThis is one of the most basic games, yet it doesn\'t run smooth on a highend phone? Ha! Graphics are very basic and blurry, doesn\'t use the entire screen, only 2 songs..."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1335097674052
+  authorId: "cid-lg:AOqpTOEPzDBvomj3APqNQb7IrFvtW6m5jo5w1b7KzGjfDMRPpYXNdROijDJsyTIeJYNcnR1XIRoVXRKREDnUCMU"
+}
+comments {
+  text: "Hm\tCould be good, but the notes didnt match the music, no options to callibrate either."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1334852946798
+  authorId: "cid-lg:AOqpTOF2eGXloPy2HncZ7ZLOCo7O9p5-0cn_c-gAE63ODjGSCIJ9elgX9W9CU4czRLQ-kwpsOrOYJ5YpJYn_iPY"
+}
+comments {
+  text: ":)\tGreat..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334794558325
+  authorId: "cid-lg:AOqpTOEK1YYA5WUp3qxqmL_nLDbG1MhBfpZkGmfIxHJDD_EHWudoRszWbOnAPL6U7QbPFqyODzSrREU5j5pGfnU"
+}
+comments {
+  text: "Ga\tIts a preety cool game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1334426066455
+  authorId: "cid-lg:AOqpTOGvasN11TFxpiDsSOBHWso1oyoEGwF2bdZt9LarE-8pv55vJfe0CloB1b8o-mvk2s0MZxDSNXIxmoGuYQg"
+}
+comments {
+  text: "I luv 2 dance\tDance for life"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334420437464
+  authorId: "cid-lg:AOqpTOHtkmEIwZTS4YsQPDqX971n_4JGfYQN-OpxbsJ5EBxv0Aheez3x0GLTx5I2YChsAFxrOX8nxKNkpXMtFVw"
+}
+comments {
+  text: "This is ma fav game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1333776284603
+  authorId: "cid-lg:AOqpTOGQNGANFrMC2UIbyTOhFrV4lOPE68D5-8wWBxfwf5A5tY1uurN_Ajbi1ygxabscuAvBZLqUe58BjKd6468"
+}
+comments {
+  text: "Good\tOk but the notes r too thick"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1333765834325
+  authorId: "cid-lg:AOqpTOFY0bOrdfZ02tL9paz3d5Tx7B9KBxYex1G6ct8pLly87hCYXhrBwOwEImdDTRY2Uh6EC6D5LSK3YhMdwi4"
+}
+comments {
+  text: "Music bad!!\tIts good i would rated higher but no i just hate the music like i dont even feel like playing the game it makes me quit it!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1333765282585
+  authorId: "cid-lg:AOqpTOGt2-LIpnR4i2YtMqAeM9IAVfKo3KfN8sSpNPfH0A3elr55hb9u3kP9_DKcNvgmZUz97c8aD6YupAURegA"
+}
+comments {
+  text: "Awesome\tI love this game! Its like guitar hero or rock hero!!!!!!! :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1333724312973
+  authorId: "cid-lg:AOqpTOH15f6qhRtukUYDoKeUCjrU-4r-KYLt18v452UXDlhi7E0zT7uCFPW17T9fcYwvTzoR7tFwczVsnSjx5fY"
+}
+entriesCount: 795
+
+comments {
+  text: "Nisha\tIts okay"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1333390109048
+  authorId: "cid-lg:AOqpTOFchM41qjk7qO2eHDGlZTC-tJNL671OHuJrM0jvD-iHOwPNTfmc81uk8oNAwiR7Oo4S4RfDjGooUFOvnc8"
+}
+comments {
+  text: "Ok\tOk"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1332607112279
+  authorId: "cid-lg:AOqpTOFGeIyjBW0yyN3SYA1aKOXjbcgp7L6PmmhlfJdD4OSal2RDM8mGb8k1NmjKHdY0bEzEWv2szQ1LEK04ees"
+}
+comments {
+  text: ":(\tWont open. :("
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1331518780897
+  authorId: "cid-lg:AOqpTOEOlRAOj54k7UD0nL_S_4HnqXAih1iEwA_1U8ZNNeMaDL8d2MUdSpm0hXPC2SeB6_Q-FnSvH---lxP5nv0"
+}
+comments {
+  text: "H\tSucks"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1331497947206
+  authorId: "cid-lg:AOqpTOGxDNnbEIGyAkg-mLmnR20-tPCcR0KWCobz07z_q0ViU0RGGlj4HRW3l9p1vqiWO2CCIZADaXCX49oHTAY"
+}
+comments {
+  text: "Sucks\tIts boring and it has horrible songz to me anyway"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1331264504952
+  authorId: "cid-lg:AOqpTOHD4-oxmu1-oejqJbQFFBUsPqGGoIRhBc85YYYMo0ub3jgGKQ-EqPst8tnVkdRVQs8luJ8sOD69g-qlNYI"
+}
+comments {
+  text: "Love it\tLove it very much"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1330664571819
+  authorId: "cid-lg:AOqpTOF9s13Y7_pZc_2pDa2YOGozimK1wf-om6JI9a4Xqmj0gLwiCYEqENDbAhYAWDWvqswDJtTTX8qfOm9cs8U"
+}
+comments {
+  text: "Not nice\tSongfor kids only"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1330659812628
+  authorId: "cid-lg:AOqpTOHeuMP34OSFib_ATO7G8Xhu-dwqCVGT3NHpVvMlWUQMWjeyVkwEisgxQgn9CnS2qloHVsg4cKaO0A4EOZw"
+}
+comments {
+  text: "Mehhh...\tIts not baaad but, yeah, the music really does suck! Cures boredom i suppose but cant handle listening to that awful music for too long."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1330643057573
+  authorId: "cid-lg:AOqpTOFV6htUPL0LTSafFDFPShXdOJNO5lTLUHH7tVFCtxZ8SjxofcuCjSaJ2U-q8N_7GTSA6xvF7C0tHSwA7h0"
+}
+comments {
+  text: "Love it\tI think it\'s so fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1330276234018
+  authorId: "cid-lg:AOqpTOG3PMQW5DyOcLq-RdyedjEpAPDmWeJr1poEqGe8MUx1vb-FrY7YPDEgVS9ZKk-5So0mKG0DGAfWqgsH0tY"
+}
+comments {
+  text: "Sucks\tOK first of all the music\342\225\256(\342\225\257_\342\225\260)\342\225\255 is horrible. Second of all the calibration is soooo off . It\'s just not fun Like it was meant to be"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1330229349812
+  authorId: "cid-lg:AOqpTOEDwd-8ZLTI1m5LO33vGwKSpgGgRBa9O1vREfmUNTMYpF_1_6woSE2rEQgQDf7flRUVu8--2zS4VzM7wKc"
+}
+entriesCount: 795
+
+comments {
+  text: "sparkymeup\tlove it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1330205428817
+  authorId: "cid-lg:AOqpTOEB2esfXO0CSj04IZCPLr-dCq-RZxH7GeORSJ9sSMJpSiR91hSajzRt0NPU0HWcA3oY3-2gsnl3zB-_AuY"
+}
+comments {
+  text: "Terrible music\tThey had like jingle bells on it... u.. really? I was expecting like pop songs like california girls or superbass.... songs like that that have a good beat but the concept is good and its fun.... if u dont have the volume on lol"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1328673859911
+  authorId: "cid-lg:AOqpTOEhwYBTFv5MIQVJPARk7RqROVEdida35dCk0pX3am-GaP3BS1Rc-Hdzy-NuZirr4cdAXjA9068IZh0gS_U"
+}
+comments {
+  text: "Ok but a bit weird and SERIOUSLY BAD music"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1328639369659
+  authorId: "cid-lg:AOqpTOGp6kpQljYad2Hv3GgHkoW7NaTrmJwu2vxH3nK7oN8poXZ3sp1-R2afBMw4UHAwrYP-EGvl8H_q_9szMI0"
+}
+comments {
+  text: "I dont think the makers have heard of CHART MUSIC. Get out of the 1800s"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1328600418299
+  authorId: "cid-lg:AOqpTOFkTLUB0l7TPrgwmQcd-m5pc08Ah7SeRIZR5WGvUnXL9s3lyGnJfAajJxdRIdN2KJvssKj-i0iWPgVUDa8"
+}
+comments {
+  text: "Best game ever LOL great song to had fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1328149020216
+  authorId: "cid-lg:AOqpTOHPsUU4o3werZivYR46CH1QHRSsupQ8pjxf8A-JL-SLdaNhmV2yKH7N494_D4w1XGJ1AI4YuZOMwu-8hCY"
+}
+comments {
+  text: "Negative 5 stars!!!!!!!!!\tThe songs are corny, theres barely room to be able to press the buttons, and the color scheme is trash!!! On the bright side, the notes arent out of sync lik finger dance lite."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1327900600015
+  authorId: "cid-lg:AOqpTOGpmPfn-EH9bCBQlgNpXyJxYY9HXi9rM0j3ecSXHivP7vXXlNMSzb4VkmoSyF6JgXy1P2fwlZaRUjc8olc"
+}
+comments {
+  text: "Blah\tOk well the concept is there but come on lame songs like love songs who wants to listing to that! But it makes. Me laughter when u think there is a finger dancing game !!! IT NEEDS WORK !!!"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1327889706380
+  authorId: "cid-lg:AOqpTOGbFsUcdW2doYEYC7lD7cUxES7emJ-vQLT2sF10FBIVSWKSbke65Q079BqWVGCKmA5s8-Srixh41j9yPQs"
+}
+comments {
+  text: "Keeps forceclosing, this game really sucks, don\'t even bother installing it uninstall don\'t bother"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1327527933506
+  authorId: "cid-lg:AOqpTOEaQ1th0-4xUJvRaVI6AGWWNTFWFPwf61jd1r-F4woul6KdrMtdTBk9iU_KjKbKhiCzH969J96IdNfza8g"
+}
+comments {
+  text: "Uber guay\tLame songs. Force closes every time."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1327408022741
+  authorId: "cid-lg:AOqpTOHyYUgXWMPw4NnArDGwMc5FRyYqJEagjqzdvn--z7PJxpbkwO_3Pp38-5z6nOcoJE4LeunihdiJqh_GX0A"
+}
+comments {
+  text: "Lame.\tFun idea. Lame songs, poor gameplay."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1327357570985
+  authorId: "cid-lg:AOqpTOGBCI7Tmd3nZ_4UvLmTPDt2KnupbQG8v0OGN3OBVMq7gIklyuml5x2MOzfDxqJOTXHsrxP6erRUm0vefO0"
+}
+entriesCount: 795
+
+comments {
+  text: "Bad music,\tbad timing, annoying buzzing. Uninstalled"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1327006012187
+  authorId: "cid-lg:AOqpTOF5vF6PAEF-YQ54csKiszCpWbvDmxWjyIbFvWgdkgyfbX9_CWbYEnbQskUvM3AbMFlaovxKaiISPx3abDM"
+}
+comments {
+  text: "Fun\tThis Is fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1326239765198
+  authorId: "cid-lg:AOqpTOFrke6oH8B06tkJzigDzK_APPNuyw4zigtG-0a2PwUlz6euirbUM0h3wC306aCH9lkmp2F0877U6XmBvTA"
+}
+comments {
+  text: "Not bad!\tThis app is okay but the timing could be slightly better. It also features all of the latest pop songs such as \'Mary Had A Lamb\' and \'Jingle Bells\'. Get tappin\' to the latest tunes now!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1326198266217
+  authorId: "cid-lg:AOqpTOFHDtT2PzEzTdeYTE-zM3kWtsWvDBT33nAntRz-oroqOM_SzByzSPNYTzii1yVOm7kFasVpwg0q-tKSL9U"
+}
+comments {
+  text: "This game entertains me for hours. Love it! :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1323283361972
+  authorId: "cid-lg:AOqpTOElPkSN_Uz9hfS1gH3yCwIDZ62FgxPclc4r6jeITx7Hwr06QLhSEcFiFpopAv2NC3dxU6di7zof1xEgwdc"
+}
+comments {
+  text: "OMG\tOmg!!the music is awfull!!!delete!"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1322502564066
+  authorId: "cid-lg:AOqpTOGtZVwYPlvHnAYpVUyVWVhmfYci2PKGL96QLHGcLopDnxJ_zYYQi3EnzpyygL3KzQkHr4bCa_dLgrew-eM"
+}
+comments {
+  text: "Lovin it\tI look this apparently works great on my LG Thrill."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1320634105339
+  authorId: "cid-lg:AOqpTOHS6mnzsdg_ahM-MeZcINkW4rWsSakXS99jKtvo7AWdaX_3DSGE39hnJbCVO6nKovHt7V4WlHgI40w0aGA"
+}
+comments {
+  text: "Stupid game. The timing isn\'t too off but i barely failed the last song and its like \"ohp! Pity maybe you should practice!\" But it wont let you!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1319858997132
+  authorId: "cid-lg:AOqpTOHMEGVjw9LTSdgP6OVgCZj1UBXcBc8S70aII1rMEajy8bEoUfGPBZ2mIaxHOS_NVwISTXzWzvbsCHdDlH4"
+}
+comments {
+  text: "Fair\tCould be a good Pop\'n Music clone with better tracks/update options. As is gameplay is decent but song choice is rather poor."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1316582456970
+  authorId: "cid-lg:AOqpTOGE0BoS9JSzjGJKsdjnFDFVuEro6vj-HlwHpY8oxfPsrKU0_p_2W9EEU2tW_7iTTW2suc9cYoO6agcXyUY"
+}
+comments {
+  text: "Suckzzz\tItz so stupid. The music iz so slow n lame. Itz a waste of space."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1315004675067
+  authorId: "cid-lg:AOqpTOEtz_nqim12PmXoQ_uoyruUDUr1oss_jDA4EeJkfrNfmAdo3-tJrm-z_Rp7O3JoLAwP8QfFaY0gkVZSp5s"
+}
+comments {
+  text: "GAME SUCKS BOOTY... LAME MUSIC AND HITS ARE OFF BIGTIME. U CAN TRY IF U WONT SO U CAN EXPERIENCE THIS HORRINDOUS . U HAVE BEEN WARNED"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1312690172215
+  authorId: "cid-lg:AOqpTOEeWX7K-uUPBe0q7KpObaekl5qBC7LxKhPz-pU6lAOG_yEvZNh41x1nqQ-ZNK9eI-IiLYtL_QUucM6bAv4"
+}
+entriesCount: 795
+
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1312153045532
+  authorId: "cid-lg:AOqpTOE8JgRNtIwxZE8-7zRIXrWIsOtz_N78xujVEwIeWc1xJvY1H36Ympid1bdBvYEF-mZr5Ak2XiAqvH_SAKE"
+}
+comments {
+  text: "Lame. Stole name from finger dance lite. Be warned! This is not the pro version of finger dance lite! The pro version is finger dance revolution."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1311884895111
+  authorId: "cid-lg:AOqpTOHJA2gqgRgUoEJMgNd5orOChG1JLF098PyZnBc3RcRTgQC6WmY6Uhj0byIjQp_KWo1qogl4h2oRvh8itkU"
+}
+comments {
+  text: "It doesn\'t run smoothly, you have to tap way before it gets there otherwise it will just say miss tap tap revenge is so much better!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1311854096339
+  authorId: "cid-lg:AOqpTOHZJCrje9Fo4rgc1Mb8XCaDceXAXZT3MRYTOjaFpRgcQibYzfY1gHbdhNwbJwRw49YRzfkctRaG3Hl-kqo"
+}
+comments {
+  text: "i love this game it gets harder and harder each level"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1311583643086
+  authorId: "cid-lg:AOqpTOFxsoxtwCPn7_uFQUJBmWoWj6-MwLnir_rlLvLmBCaAtSWuyPejdQlS7qA_Mc5txowscxqgQSlUJtLuJDM"
+}
+comments {
+  text: "The songs sucks. Should have more popular artist such as katy perry ect."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1311484098745
+  authorId: "cid-lg:AOqpTOElbuVeih3fQo12ZSml29ycHMZGYtzc_Lgn8NFYLAeYNKhvGGRcFjKsTo7Hju-FKcoeyVt4OYWw864UQj0"
+}
+comments {
+  text: "Its fun nd interesting!!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1311130114736
+  authorId: "cid-lg:AOqpTOHM1PtFzhFpmrV0hA-_rSviu7PlXY0awAHgUG2faqgZgzggyZTY0aGCNK5OfTGB0iptyfMulzJbTDpoL74"
+}
+comments {
+  text: "the songs suck but it is challenging"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1311120056485
+  authorId: "cid-lg:AOqpTOEdzy-7BZIc6NlMKQICnOwDdjjyicmhfHi7sPn1JAEb40yUerYdCdB2V75UkNIIuW_7BWGWXmIlQ-f0-Tw"
+}
+comments {
+  text: "Challenging =]"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1309705776170
+  authorId: "cid-lg:AOqpTOEXfoc1bMWfONnxPClovhf7OGtrPbw4HDBUYE2RQU_z2OZpUxTb_T4oMkhWW-I2UnWxfH_ALxhgCwAU5aU"
+}
+comments {
+  text: "Isn\'t bad at all(:"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1309560275861
+  authorId: "cid-lg:AOqpTOGhmLSpQm662RZpJT8Xl4ESTF38BK-63xKNc_6Em0AhBs8fyWeuHWK5W1QDQhNylKewuuv5BuQ13HJ5_iQ"
+}
+comments {
+  text: "This game is so hard. I like the songs though. Great remix!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1308713162148
+  authorId: "cid-lg:AOqpTOHp8v9hyZS8b9XAE9tSvxDJeKKXiW5UYBe0YcH1T8iHOr6aquU-lGANuAWLPsdZNjVSiAkF8scYQmMhXLk"
+}
+entriesCount: 795
+
+comments {
+  text: "Prety fun but needs beter songs!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1308467498139
+  authorId: "cid-lg:AOqpTOHDdF8CXpmnM6sQejAxzBO-PwPi5qGFvjcyWtzKDtCDJZAjMhjTWcqurBsSKu40P4SXjB46DmUpcDNVKvE"
+}
+comments {
+  text: "Songs suck."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1307065182918
+  authorId: "cid-lg:AOqpTOGubllTqc0pefIpwA-O3mB1gU6IddQVsWVuspMEHDkUR9neEgVn7Mxn-UrPhxony1NH-wTO7TztFOIW_bk"
+}
+comments {
+  text: "No good songs."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1304996693541
+  authorId: "cid-lg:AOqpTOGQVrmcFyEChT-yC1wquglPRi8-vV_u6wXGw55AEsK-fxcQMGOV1X-E_HksrpLA70GyKq1szXRzVG9o3lU"
+}
+comments {
+  text: "need pop songs and full screen on galaxy tab.thanks"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1304181612821
+  authorId: "cid-lg:AOqpTOHQIH_lQVt9qbMPEJ2998CvvsM6-zfiCCXvFz1o5eg-NMZQWRjMsgusnUX8lyTKN_zyT9bPSpuhGyNYozg"
+}
+comments {
+  text: "Terrible no good song"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1303611621882
+  authorId: "cid-lg:AOqpTOGYxvPziyArEGApFDd5CnLkGdkrNH3mfVyxW-nLDfSMuvCdro_Q5ZWvP62eFWtLZbF62-dxBfSCglTY5aM"
+}
+comments {
+  text: "Its ok can\'t get it off of my phone"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1303392458864
+  authorId: "cid-lg:AOqpTOHR4TSY82wyIOKrua8Xe1GH3Xs-ByN7FkBCn2DENW15A-ifxnfk1iqAK4k_h2CoXJG9eOsmiNEoSqcTIcU"
+}
+comments {
+  text: "It was ok"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1301527236031
+  authorId: "cid-lg:AOqpTOH0qFJ-xWgChmvLQAfxuU8ZeHATE-0VpDYu3i2Q87Cpcjg-xegfaDa7IRTf1e73Uzo_psPNl_Nt4e1sd0g"
+}
+comments {
+  text: "Welp. The real Tap Tap has arrived so adios. Its been real."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1301501999424
+  authorId: "cid-lg:AOqpTOEWr-Io7NhnI1O346gmUcvZk9dCRMyttdYkgsTsYFR55Q0EwAx_KAchSBxe0oYMcI7FDFEUqP9F-wq-AxE"
+}
+comments {
+  text: "Omg"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1301427441155
+  authorId: "cid-lg:AOqpTOGu1rC3uYJx9TQJiIxE-a9t6vjUo8dMz8jZ3eSWd86TUq9Syj7JZwuJ4jqEE9cMNl8vhHq4iA_n56oUSiY"
+}
+comments {
+  text: "Lllllllllloooooooooovvvvvvvvvveeeeeee it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1301349642528
+  authorId: "cid-lg:AOqpTOFUDXqJFsAW87gIwhc7ZL79ZZsjagu6YV33ExQ18fxAVxfMq4E79p0TKwTokMxTMROc47Ktn2JNbFXyjgE"
+}
+entriesCount: 795
+
+comments {
+  text: "I loved it, original songs, fun and challenging"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1300810122072
+  authorId: "cid-lg:AOqpTOGiE3KsJgNkYLA9kGOswtfdnACRIDaSxXQ7Ramqqqpe7HZiw591qt_Dchm1eesrLQ5WJWlPr81IuNZTxVM"
+}
+comments {
+  text: "Needs better music"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1300656967204
+  authorId: "cid-lg:AOqpTOFGMPF3ReCrJoE1JhsKosFihq0_fIkIIV5nVcGHRhYJQ561B3inx9mnRycEQmGY8G7mqBMrZbg6eJ2ZWpc"
+}
+comments {
+  text: "Could do with more uptodate songs:/"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1300311645142
+  authorId: "cid-lg:AOqpTOFQq4lPU5GjH14w_ho9BH0f7S2_bTggPkjoHzbgitam9rRyZF7t6Wims2S0fmmo97sGzAromeGXNg-snZk"
+}
+comments {
+  text: "Boring, but theres a better game called finger dance revolution, it has fast songs, and it lets u upload ur own!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1300108446920
+  authorId: "cid-lg:AOqpTOHfGDwxtTzdfCIna0hXJ51QSeC-YtJRxxeo_y4_ebhh6R6ubKfIDsMFhIayUGsARixVTkLrQXPCgcsOMRA"
+}
+comments {
+  text: "Actually i like this game but the music sucks. Too slow. Make me bored and sleepy. Please add more beat music. Or something like \"otujam\" music"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1300070212611
+  authorId: "cid-lg:AOqpTOGH_6KpEOX23x_OQv9SSXQlnYzDVOS_1HFwleDels3LQrjouX6FVXVqBO3GeSqRNNpCmWKJG4OG8-bUveA"
+}
+comments {
+  text: "Music lame, buttons lame at lvl 4 n 5, and the lines coming down are off timing."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1299461864996
+  authorId: "cid-lg:AOqpTOGpkfYffEaQc1Iiw6l8nE8qjr7GOLRMHPBqdIw9mEgpMcSsUGwyuSSNN9MtjKfNFSExmqUs7o3onwEBBxY"
+}
+comments {
+  text: "This game is so great but plz do sumthing so that we can play with our on music... Then its gonna be more fun.."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1299450252955
+  authorId: "cid-lg:AOqpTOHSko36gBvBtF2IJm6oRVHh4f7y4u6IPy9cehp-9Xw1yCMKOttm4qxFYqmGi1XK1Zpo2BesRXPpn5oXMYs"
+}
+comments {
+  text: "make a game that u can play your own music but just like this one except u can play the game sideways"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1299336484972
+  authorId: "cid-lg:AOqpTOGcFdQleblIHLo4rhGPV1O9f1McFrzma0FfJWT52EBqif74_ciSOWeKiEMRVIBUfGgqd0NsSFk6C-NBJsY"
+}
+comments {
+  text: "Great game, make it so u can play music from your own music library,so I can playmy own music, and 5 stars ill probly change to 5 stars anyway!!!!!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1299208054217
+  authorId: "cid-lg:AOqpTOHQmNVk6UcmlzoXV-trD6-ii1uplm_Kyf4F-1kqcN5tpIgSonxFiLSoFtTW5jE1IhM-Na8gJSe5VkyX8cc"
+}
+comments {
+  text: "Pretty cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1299106725353
+  authorId: "cid-lg:AOqpTOENISA70bK-Q5Vgu90mr2kyOQnUSNDQEpZFLs9_Q8-h0yjzk-AN_CMg9f2PzcIIj9MZg4S93feWQu__U-M"
+}
+entriesCount: 795
+
+comments {
+  text: "Its alritee"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1298904917862
+  authorId: "cid-lg:AOqpTOE8hpRUNw7qrXigoM5FWuq5PyHakQONcWuSN6ryY0pTTuDHeqJQMWGQEP29v9EIP9yGslZeBTJXLCO5OYg"
+}
+comments {
+  text: "So stupid. You can\'t upload your own songs."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1298593522471
+  authorId: "cid-lg:AOqpTOExRrIBwajDoz3H42Sr7lpv_2vxFJglQq2Df9hKFgTpHKqcYvTAGPtLS8dr0tkIMQ1b5NfTnsQWPup3od4"
+}
+comments {
+  text: "The music is gay and the timing is way off"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1298401428118
+  authorId: "cid-lg:AOqpTOGyLTZAm-MNuBdrsJ9RBm-N7IFAHNpUc80amHXjouwWuqGNbn6c1OegQI1f4cwVklEwls1bl6sPjJWBoD4"
+}
+comments {
+  text: "It needs better songs i dont want to be playing jingle bells"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1298211119561
+  authorId: "cid-lg:AOqpTOE_j1REj9wExUU22oMTK9AWzzTKdAOIEockxQgFMsmRjgf57oatrxar141RmlGv7yA8xb9FeIiF1RYVQ-8"
+}
+comments {
+  text: "Works fine on my HTC desire :)"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1298159371516
+  authorId: "cid-lg:AOqpTOGeXJl4YTlJojQGv2eZXipg7KcuUAA8urzFOUtyXn-FkpQxdJ8Rzou4bHL4-G_CYw52_IbW-6hkReUovR8"
+}
+comments {
+  text: "Froze up my phone. Un-installed immediately."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1298098191290
+  authorId: "cid-lg:AOqpTOHrZ8d4kySG2ZeKTc8rMZdBCZLQ2hHMniZIdpj9oOVPN-eMrd72GPzSg6bOwr2DgXS29L9b8rkdTPppBqs"
+}
+comments {
+  text: "Lame imitation of guitar hero"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1298089426413
+  authorId: "cid-lg:AOqpTOG7mtUHdKiIycqpOixh8i9KzIv0QV6-k71jTc4c89BNEjp2-Rc6if3QtY7lbg3WIyNjIe9sn4tmX7VXRTc"
+}
+comments {
+  text: "This gane is perfect but when exit my galaxy tab will hang awhile fix it please will giv 5stars"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1297927291147
+  authorId: "cid-lg:AOqpTOGpJ6GvANLKAdlx0eXAbJf6ndbkQegu52Y3wflkuUQOySgJ8kI6yzZYRiVXVrAvWn8EWmFfhGfy77FweNg"
+}
+comments {
+  text: "Its fantastic, very adictive, need better songs."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1297763370612
+  authorId: "cid-lg:AOqpTOGUAtO3C_0DTzNmaGoAUJW88rn_BN8JckRPTM3ixPfFFttYUaeBObi_YGsiiIzs494G0W6sketxPqT__u8"
+}
+comments {
+  text: "Cima keep it cuz its like taptap. But the songs are stupid use realmusic like tiao cruz or taylor swift. Then five stars"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1297441640453
+  authorId: "cid-lg:AOqpTOH6gfxrtrigGzj3TVuT4th37UAyodJxZ_SqP9BbLy2OovgXg-sSGhlabB8ES3nnPgAcfZ6-_xt2WLvOpQM"
+}
+entriesCount: 795
+
+comments {
+  text: "Good but need better songs"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1297438712682
+  authorId: "cid-lg:AOqpTOHDaSFbHzqz8o83ecVPiM-DTYsUupB68dCVhR5lgNE0rCCW7Rvh2WxseIvLsc9fQSvari_S-hPayDDrwMk"
+}
+comments {
+  text: "Great game but please fix the latency issue on Samsung Galaxy S"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1296480206612
+  authorId: "cid-lg:AOqpTOGRnmvuwhB9Vg7kLpoS1UCabOekDoAjA-2jTHGK1ukavz-xVqy51TUchZs2u1euvgSb0tbYNlkPJQkJUsc"
+}
+comments {
+  text: "Needs better songs like from ddr"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1296013639039
+  authorId: "cid-lg:AOqpTOEB87pF28daRM3SUA4oNlNgKF3cdfNnB9-Rvy1mLuOJIsn7t2fWKWzRaRiKXpo8gCNFqfPzarS7IMOK03U"
+}
+comments {
+  text: "Gay gay this game is gay!!!!!!!!!"
+  rating: 0
+  authorName: "A Google User"
+  creationTime: 1295923805208
+  authorId: "cid-lg:AOqpTOGn0ZEOUxTX0UnDwFwPpHM5EH1tCxes4yOt3FvzMdm3XTHmFl4LgRwRr_AiE7byOpzjzCj2iXBWVKODpyo"
+}
+comments {
+  text: "Needs better music"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1295834090799
+  authorId: "cid-lg:AOqpTOGMnRhn8fg1O8OEz3cb1Zzad5TRD0xsAoMMUEFNjN2fq4JB_6G361EN8h-2Uh0ToUC7PzMaQu3yYehVqOY"
+}
+comments {
+  text: "stupid music... it ruins the game..."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1295832811736
+  authorId: "cid-lg:AOqpTOG8pKf20_KnRyA1Uf0D_9oEM6DjO8UR4DbfiQsmO3lH5n8iAYPIiWfg98ra4crxcNT3j-vDPmU5hCQKVEc"
+}
+comments {
+  text: "No music"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1295247748421
+  authorId: "cid-lg:AOqpTOGkHLzO5vjL1RlamE127QxoSSGSR00VhD4jhWFNYXD85BPtNkiYCGVVw3zqBtfNmdaRSlJTfTaXlEHU5bg"
+}
+comments {
+  text: "Stupid music, 5* for play uploaded song"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1294470086909
+  authorId: "cid-lg:AOqpTOG3zL3sEafBQvRQKx-pRcJ37MlIrDqG_gBFUnR03t-Ty-qh1_6a02IaKXwpNBRKkuf_RcwQn-VTHGgk5GY"
+}
+comments {
+  text: "Stupid"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1294393409877
+  authorId: "cid-lg:AOqpTOEoe7PgX03bVMjtSmWw93yYJ26FeNZ4ZepIvWAy3CN1HpOMg-50UyFZw9Imgsy8SPQ1kZgeBoLUg6XWRhc"
+}
+comments {
+  text: "Needs better songs"
+  rating: 0
+  authorName: "A Google User"
+  creationTime: 1294134187542
+  authorId: "cid-lg:AOqpTOFZ4_ZtklaCtEDIHDf4VI4xiexxd356GgrKofNjN7WgaqC1SfNmImDvIqhTJI6u8LYmftsno1cMJ2VujF8"
+}
+entriesCount: 795
+
+comments {
+  text: "Best finger dance game on the market. Needs more Techno like DDR idea for update?"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1294031480393
+  authorId: "cid-lg:AOqpTOG43ouBvFfyOMlpdsqUmCipX5rxBVnQ43Np8N7Ap6pmNwi19xkFWSCE4sLiT1kBjMAYGdMGxfoIIF80l5c"
+}
+comments {
+  text: "Songs are bleh!!! :I"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1293954668450
+  authorId: "cid-lg:AOqpTOFwGCpJ-M_XzPMRbMv5OpbtcJC3rxm1NS16jj93Fsmxu2L5PeM8KG62kBZZS8fP-kRIrjX7qHZAPSjOqJI"
+}
+comments {
+  text: "Bollocks..."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1293751754543
+  authorId: "cid-lg:AOqpTOEjP2-KinZvh4zR2X3YaBwOwjLeHHa62h9ompBAHfgn8XOsKy3Fvc4onaEVYmTbRrYdOhagflYuAAjSn1o"
+}
+comments {
+  text: "It is a very good design and everything but instead of these boring tunes put some techno or dance songs. Or let us choose custom tracks"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1292478443141
+  authorId: "cid-lg:AOqpTOHYVOjFMsOwrsZ2Ex8yCudbndbc4ki00dAkwWub1KGGsTq2jG0iga32GpEbjTEfKxrpVmaux1I4PddK25o"
+}
+comments {
+  text: "Would give a five if it is not so laggy"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1292342523875
+  authorId: "cid-lg:AOqpTOEMN-oU3rT09NAyAgMWtXb6ff-m5nxEY_GihzNaI2kspVkr2iDNCN1P_JGshIkO5Oc-JHJZ6xwgR80EJ20"
+}
+comments {
+  text: "Fail game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1290954728889
+  authorId: "cid-lg:AOqpTOEGVSjY46cpv_0obZDc67k6KNiaiARRIqIJZcjH9OTaGeu15x_MR1Mk62sSBC1MZPgQdldj8ViJ0sI4mM8"
+}
+comments {
+  text: "Good idea, but audio lags, Galaxy S 2.1"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1290744107643
+  authorId: "cid-lg:AOqpTOFUO0uEz1T_nOyhDiYaUCPwLEeTqva7AUAp1i3E-jvCLue9fiTnaPVjySGU9R6Kh0jJyc3wdCFdwE4oiYE"
+}
+comments {
+  text: "I like the idea. But I cant hear the music. How do u ajust the sound?"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1290058565656
+  authorId: "cid-lg:AOqpTOGP5tAKtYQR6vcdQRj6iULzYlhA18d9N9NPO_k3bFeaNhEBZLOcv_MDjpiyfw9i-oVcWkUII6npAPQPDQg"
+}
+comments {
+  text: "Great game! I love all the catchy tunes!!! Please allow me to change media volume when the app is open. Thank you!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1289613184082
+  authorId: "cid-lg:AOqpTOGoRoabDTaUotEAuJLPHzIDjs7gtyJuhPzwbIh2ssfBOJvKzxPCpYeVeVEchLFwfRBX0b2p-UdTCTOgXcA"
+}
+comments {
+  text: "Terrible. Whats up with the music? The music is like 80yrs old. What the heck. Uninstall. Its stupid"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1289529054895
+  authorId: "cid-lg:AOqpTOGzCQUhdihF9WJ4yxWP8RiWGj5Qrlbis7JUQANAl2yvu2bfQWwePbG3IbKHjuzj1v7CfRDZIwkpXAHXyos"
+}
+entriesCount: 795
+
+comments {
+  text: "Its so crappy"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1288841650715
+  authorId: "cid-lg:AOqpTOHQtQmwqWgYYXc64jEIGF9pyzPfT1bI0MCeoUES-iBb55rTohfR1YXQYUZEL4flBveQEK--Ax39puCbk7M"
+}
+comments {
+  text: "Its horrible!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1287388906832
+  authorId: "cid-lg:AOqpTOH6Fm8ofQ225WXb2pn8SQVAtQNzDxcWV5RUoZhmaXCp-oZ-khO_1QYAMuzLxWnzF7QAX635TfoJe2-hoy4"
+}
+comments {
+  text: "Terrible"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1287342959030
+  authorId: "cid-lg:AOqpTOF8B_1Uhj-AmsqqDe8-kM9JiWFN1fx7P3RLrTVL_jHk0X0YX4n375-ha3IcdvtWkiPv1H0DCPGeJYFVzDU"
+}
+comments {
+  text: "Crap songs that go on way to long"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1287173310589
+  authorId: "cid-lg:AOqpTOGBf_9DlQ7rfzAP-3OMFZcGE55X8a--qjWN2N9iF2IZq-DMK-SNKtI3ujlWYCAZFp7RJB-X5eXjkVXfUjY"
+}
+comments {
+  text: "Would be better if I could play to my own music..."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1287148525380
+  authorId: "cid-lg:AOqpTOGGtXifcyNn_ZJHc3SQspuh5G4bex4URGS3j49OsHttUopWdebFxepdOjTCTXi360nBAWPAF1gje17chjM"
+}
+comments {
+  text: "Really boring.... cant you just make something like dance of ? Better songs and to the beat"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1285906661752
+  authorId: "cid-lg:AOqpTOHI60bnzrUFhwl-IR47wTAqrc1b6lOu89kaR4EeiysyrmhSKcjJldk82al7WzH4WbBdWQWyFq9yD79AbZM"
+}
+comments {
+  text: "My god... Almost fell asleep when playing this game!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1285162689723
+  authorId: "cid-lg:AOqpTOFlfK0yP7QBEAaMWJWMTw5aQ6zBjYoy2RVul7nzAzX85YPI21hZwyPaNT7vUARVvIdAphEVWx-znbSxezE"
+}
+comments {
+  text: "Blah. Jingle bells come on"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1285130067115
+  authorId: "cid-lg:AOqpTOFA7fMlvjH4JbCnGX5QjNF3OpBKMjzKKiVRY7pC6PAzKaomUrkFyv8vWbmvMwmJBgOXNtvudPOuUxWVVr8"
+}
+comments {
+  text: "Would be way better with more songs, also sounds has stopped but media volume up full. HTC desire"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1285125709188
+  authorId: "cid-lg:AOqpTOGAmqHchgxFypdjS3VavUeLDRoleC9PKrMZiV2W_T30jFJ2GCNsNPhj73fr43POpm9Kp0lppCl1YlBdsts"
+}
+comments {
+  text: "Not great"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1284845734291
+  authorId: "cid-lg:AOqpTOHztRl6RJ9Yz5-O8Ox0oONya34YcaLB4Nc3BU2sBL92eqS-kag22nUjVYrTcu0EwuC-eomAXxnH7krJyp4"
+}
+entriesCount: 795
+
+comments {
+  text: "Beat of music doesn\'t play same time u have to hit buttons. Uninstalling"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1284482195269
+  authorId: "cid-lg:AOqpTOHpy4pwZAwqTUedKiWkDdace8oemgN1IkyybNqxY4FOh1gzqytQievpSjHkMxXcVh35gKGbKZYyUXLYmE8"
+}
+comments {
+  text: "Gets boring after a while"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1283955005823
+  authorId: "cid-lg:AOqpTOEpEbX6DCLFF5J67E7VTOUalRuk41ZhRAJ8VVKdlLOvpO0BGi4jWvCKAQZ3i9mnAtpD3unzHmUbxHmmyHw"
+}
+comments {
+  text: "Game is not bad but it is laggie on milestone... Hope u fix this.... Uninstall"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1283882521990
+  authorId: "cid-lg:AOqpTOGrB2p9QfDCyFZ424LJ9TG8fGXTAz3H1XAwE3EJKssfcZWrfMtAbNhsOebA9R_Qi52YjJD5hrj6a_t4fMg"
+}
+comments {
+  text: "I love this game so much it is sooo addicting!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283789304960
+  authorId: "cid-lg:AOqpTOGZ6y_1ow3xoG90U3A2RldKrtOqB_td0SJ3VXcEKVVQ_gt4qS2oBImyKrxnyeLPiHHxGuz_ngYxSZqaA2k"
+}
+comments {
+  text: "better feeling, game easier, seemingly. I can get more scores!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283629421010
+  authorId: "cid-lg:AOqpTOHHGoe0nwF5TgtouhhWTSxsIRZTgbdp1bCJyMT1_Wzv2O1ObgT77HMACkvGLdivmW2OkjtzJyApvOnf2Pk"
+}
+comments {
+  text: "Music not syncing. Samsung Captivate."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1283601222400
+  authorId: "cid-lg:AOqpTOGDe0AKiGwrryD3jultXtbJpaeGIyJlsLAKxxzDtbwF-iE7BS0OO3w-n05oTmHiQy0bySmfoyrjVJ12ZQM"
+}
+comments {
+  text: "I like it. It\'s fun."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283569723559
+  authorId: "cid-lg:AOqpTOGKJyUZtvm2eWv1SF4OjFQkbcro1AJmZ5_SZnzH_o03h5lRCJCt2EtLnKL8TnN5Wi2CQx_QINRt2keDsm0"
+}
+comments {
+  text: "It was okay. Force closed unless i had my keyboard slid open. Samsung Acclaim. Uninstall."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1283492303370
+  authorId: "cid-lg:AOqpTOEzmbllsQWajAUk6mD3oYzcbZ3xj9N90mzcghPnsMceP0y90IDa-gc28p2lElH6fLCO0VQ_X-DtNi-bCA8"
+}
+comments {
+  text: "Iz ok"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1283434827769
+  authorId: "cid-lg:AOqpTOFRciCRbAx1rW0orQd_gwemDzRO563Uf_Wp_BkMw_-7Dh1M52XWJiv3PLEaBofGdrLbYVqLiZe_NzVAkLY"
+}
+comments {
+  text: "Sound quality is not the best due to the nature of MIDI. But ok with headphones. Desire."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283169176527
+  authorId: "cid-lg:AOqpTOHTtcuKXMCEyUE7W5J1QgOGeEgle-roH_F-Kx3zw7Hxtv7cx3kw84YTttVCngRiV0BTWm_xgSFtzuSGESM"
+}
+entriesCount: 795
+
+comments {
+  text: "Simple control and better synced Need more music"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283113095822
+  authorId: "cid-lg:AOqpTOHxO8-PpRhqPEqXw4IQF1cUb0Ny2l2lt0yztq3zlnSohfdUSHeF_pwycMvhHE0oNydmXqLst9KphQj3pLY"
+}
+comments {
+  text: "Game is not bad. Timing is just not pretty right on my Galaxy Spica with SamdroidMod. Keys have a delay that\'s not constant, making it feel pretty bad"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1283061304694
+  authorId: "cid-lg:AOqpTOF2_IHBpr0Jb1nFH62r88FZ0RKBKwqrrnZlpVlLMvYy9pmxotx9XnvnIlE4mYRx1MAy2IXRIgUmZl7Hw5s"
+}
+comments {
+  text: "4 stars for bad music. Game is amazing! Droid."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1283004746714
+  authorId: "cid-lg:AOqpTOGksBxddE7Qzy4TNNSltDqsvPlfktYqtk35VmzUF1cqLeP_ksA0hrVWtEIh5E-erWJZyE1H-X6TCWLVf1s"
+}
+comments {
+  text: "Game is good the idea is there but the music is terrible. Jingle bells? Come on!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282919113969
+  authorId: "cid-lg:AOqpTOFvWmBPfeTiw2GB28UV6SeyoxKD6yR-sXOaBYV454WZCJi6hBBR0I8CzFNQqkSmB2zpBNiX7pHmGx0Frzc"
+}
+comments {
+  text: "Force closes and lame music. Its amazing how this game can both suck and blow! Music didn\'t even leo time with the game. Uninstalled (samsung vibrant)"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282798667827
+  authorId: "cid-lg:AOqpTOF1kVVVZIlzac1Koud-4VkMF7yH8HqdL3YbAgJuafKTgKo8iKxZOZrk0TrHEcxskkaZ82PTWDQzGr5WWWg"
+}
+comments {
+  text: "Small buttons,hard to press."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1282760231515
+  authorId: "cid-lg:AOqpTOHIcZW3EoKZvf12C3uW4Fb-zhAoukHAZC-hIRC66iQpD-twAoEyts3lhwmRGqYWsBfTHCe8zJSus4OOTy8"
+}
+comments {
+  text: "Ehh could be lots better"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282723628174
+  authorId: "cid-lg:AOqpTOG89KoZsonBZHaUL3oSfNo9CmO6ffQnY6tZphJq8IzigJ3Zn4PXP1d_RFLVk-CV7HNeGHKQXqjo1K_RBQg"
+}
+comments {
+  text: "It\'s good. Bad music and iffy controls though could be way better. Droid"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1282712800523
+  authorId: "cid-lg:AOqpTOHlavkfSCkc1e-UBtjxRtmL4rUHekBVl2R4aENcNw3qayNy0rhi974b5DLL01RGTnduyNkaM84bNsBvs5E"
+}
+comments {
+  text: "Pos doesn\'t work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282689358326
+  authorId: "cid-lg:AOqpTOF9octpUmM5vHxyZCI8LkFvjOjNTlKxVP2mbmzz6YHAeswO_LZA-JCfpBzINVQ2O-RhEsc09FIHCZSEMTk"
+}
+comments {
+  text: "Very colorful and fun but needs better music. Droid X"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1282687540542
+  authorId: "cid-lg:AOqpTOEJQ8YfH_c5Nj7_br4uk7iX1QJPyFIyvAPlfZEjqqS0KkNu3obJL3LZTS2Gj-WSEIblhAJqa2EOYyxXR9Q"
+}
+entriesCount: 795
+
+comments {
+  text: "Forced closed constantly."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282664229829
+  authorId: "cid-lg:AOqpTOFCuWx4sD3qMM6drnnBCuOAo-xK1N-FWTmcbPa35NXAKcMTzzC3A0WNd-qzDFlPLV8OcoWu-AUALv9dTvM"
+}
+comments {
+  text: "The music is so bad, time to uninstall."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1282584352107
+  authorId: "cid-lg:AOqpTOEYWT-9SjntUo5-HcJL2nKyIm8bfJPAiQ2CFPpa4OOBTO4Vdw6nweArOB90L4xVJjqXaYrAauOdN2_8ExA"
+}
+comments {
+  text: "Very bad controls. Evo4g"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282511421009
+  authorId: "cid-lg:AOqpTOHX_6PFAvNeFFX97P7N3BPnHhUXJQC77YeJlE5mZQWPAhZ0xuOAmgDazwbLKkQlhGOT7AGtlsJhJXiC40M"
+}
+comments {
+  text: "Las canciones aburridas, es bueno por un tiempo"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1282484987074
+  authorId: "cid-lg:AOqpTOHUrHJghJpphJZUUFbaJUW3nPjZRJDQuKvEbWrSPNPeHZYKNX5XWsWxUewhsflnHovYF_xYJ9JmpHYE_4c"
+}
+comments {
+  text: "This game plain sucks. Very bad controls, with bad music. Lags a LOT"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282229195464
+  authorId: "cid-lg:AOqpTOGMvTC42srqodXEjDA6xAeGnJ4afgphmsz5buzFXPjTG1dYk9n9vyR88SBXFap8FbQYmn41VhKK7SVHDUg"
+}
+comments {
+  text: "Great game, a bit laggy on my bh2 though, smaller size and more songs would be cool. Remove ads please!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1282027223109
+  authorId: "cid-lg:AOqpTOErrGYOTZ5OWpGYc4NiTfeTx7SpFyo8TTAHTzwx7fZjPtJRuaIw-1rsi7QBJ4Ic-LZAka1OsMZ2ere2NM8"
+}
+comments {
+  text: "One of the best games ive ever played but make it easier to hit the notes like on guitar hero or something the skinny bars is hard to hit sometimes"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281937451002
+  authorId: "cid-lg:AOqpTOH4jGxejJuTleUxGerTEVMexLandHBbhg0UXkRaxk09edSmQFZnDdd0WKgw5_76JZ0SaL3aHrkgAcRk-mw"
+}
+comments {
+  text: "Good, but music still played after leaving game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1281909184674
+  authorId: "cid-lg:AOqpTOH2imoyK261iPTZcBUx--4UDVo4yNDpMi1jTR1CggfLXBpdRa-cyVARu1AMN-5p8SzIlxkh8Tv1OV79o0w"
+}
+comments {
+  text: "Everything is mixed up on nexus and the controls aren\'t calibrated"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281909085010
+  authorId: "cid-lg:AOqpTOH6LHts9oCAFqq3snitNsHo4xcTmYvwV9-cBeohJyOgFvwnDysw4yAnNx3eP__2qA0fwjA2fslJPI009SM"
+}
+comments {
+  text: "Good idea, doesn\'t sync well"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281905459349
+  authorId: "cid-lg:AOqpTOF4Z605r3I7eqLZNYXVwbVBw3F5BefjbbG5OOqAmlO_PTXqBtGmCYo33aAVRwzY2jvGxUYAJ__hxAsrfEA"
+}
+entriesCount: 795
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
+comments {
+  text: "great way to pass the time until Android gets TapTap, except the music didn\'t sync with the screen at all. Give it a try, but didn\'t work for me."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1281892341810
+  authorId: "cid-lg:AOqpTOHZpxQW620w6n4KRRgLGRDTDVt9tbSn-Z6ag-c04EPT8eoY8hAEKzorT93do3XpiMuXmzKgaKjsT0uBg3U"
+}
+comments {
+  text: "Cant believe its free!! Wow this game is awesome more songs please!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1281889768969
+  authorId: "cid-lg:AOqpTOGudUGXilq4h6S3SBHInGKEpyUNC7w90zKsjLYVmbn54ByneYgMojc07o4u7RjvDNulT34-jb70MPv8ZrA"
+}
+entriesCount: 302
+
