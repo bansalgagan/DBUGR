@@ -53,7 +53,7 @@ public class Comments {
 		parseCommentFile(filename);
 	}
 	public static void main(String[] args) throws Exception {				
-		String sampleCommentFile="data/raw-comments/Keys Jumper Adventure-raw-comments.txt";		
+		String sampleCommentFile="data/raw-comments/ASTRO File Manager with Cloud-raw-comments.txt";		
 		parseCommentFile(sampleCommentFile);
 	}
 

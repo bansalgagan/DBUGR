@@ -4678,7 +4678,6 @@ comments {
 }
 entriesCount: 143319
 
-null
 comments {
   text: "Awesome update.... You ppl really made it super fast. Nice work."
   rating: 5
