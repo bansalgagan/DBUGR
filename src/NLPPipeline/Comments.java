@@ -38,8 +38,8 @@ class CommentBlock {
 
 public class Comments {
 
-	public static List<CommentBlock> comBlocks =new ArrayList<CommentBlock>();
-	public static List<String> timestampList= new ArrayList<String>();
+	public List<CommentBlock> comBlocks =new ArrayList<CommentBlock>();
+	public HashSet<String> timestampList= new HashSet<String>();
 	
 	public List<CommentBlock> getCommentList(){
 		return comBlocks;
@@ -53,11 +53,11 @@ public class Comments {
 		parseCommentFile(filename);
 	}
 	public static void main(String[] args) throws Exception {				
-		String sampleCommentFile="data/raw-comments/ASTRO File Manager with Cloud-raw-comments.txt";		
-		parseCommentFile(sampleCommentFile);
+		String sampleCommentFile="data/raw-comments/Air Call-Accept free (Necta)-raw-comments.txt";
+		Comments testComments = new Comments(sampleCommentFile);
 	}
 
-	private static void parseCommentFile(String sampleCommentFile) throws Exception {
+	private void parseCommentFile(String sampleCommentFile) throws Exception {
 		
 		BufferedReader br = new BufferedReader(new FileReader(sampleCommentFile));
 		String line; 
@@ -82,7 +82,7 @@ public class Comments {
 		br.close();
 	}
 
-	private static CommentBlock generateCommentBlock(List<String> comment) {
+	private CommentBlock generateCommentBlock(List<String> comment) {
 		
 		String line;
 		CommentBlock cblock=new CommentBlock();
@@ -125,13 +125,13 @@ public class Comments {
 				}
 			
 		}
-//		if (cblock!=null)
-//			{
-//			//System.out.println(cblock.emph);
-//				System.out.println(cblock.text);
-//				//System.out.println(cblock.timestamp);
-//				System.out.println();
-//			}
+		if (cblock!=null)
+			{
+			//System.out.println(cblock.emph);
+			//	System.out.println(cblock.text);
+				//System.out.println(cblock.timestamp);
+				//System.out.println();
+			}
 		return cblock;
 	}
 	
