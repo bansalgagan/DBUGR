@@ -2,7 +2,7 @@ package Utilities;
 
 public class Parameters {
 	
-	public final static String RAW_COMMENT_DIR = "data/raw_comments";
+	public final static String RAW_COMMENT_DIR = "data/raw-comments";
 	public final static String MALLET_DIR = "data/mallet";
 	public final static String[] APPS = { "2ch Browser",
 			"ASTRO File Manager with Cloud", "Air Call-Accept free (Necta)",
