@@ -4,6 +4,8 @@ import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.List;
 
+import Utilities.Parameters;
+
 public class MalletPreprocessor {
 
 	/**
@@ -12,9 +14,9 @@ public class MalletPreprocessor {
 	 * @throws Exception 
 	 */
 	public static void preprocessForMallet(String appName) throws Exception{
-		String appFileName = "data/raw-comments/" + appName + "-raw-comments.txt";
+		String appFileName = Parameters.RAW_COMMENT_DIR + "/" + appName + "-raw-comments.txt";
 		Comments appComments = new Comments(appFileName); 
-		FileOutputStream ostream = new FileOutputStream("data/mallet/"+appName+"-prepro.txt");
+		FileOutputStream ostream = new FileOutputStream(Parameters.MALLET_DIR+"/"+appName+"-prepro.txt");
 		PrintStream p = new PrintStream(ostream);
 		
 		for(CommentBlock c: appComments.getCommentList()){
@@ -26,11 +28,12 @@ public class MalletPreprocessor {
 				p.println(s);
 			p.println();
 		}
+		p.close();
 	}
 	
 	public static void main(String[] args) throws Exception {
-		String appName = "Keys Jumper Adventure";
-		preprocessForMallet(appName);
+		for(String appName: Parameters.APPS)
+			preprocessForMallet(appName);
 	}
 
 }
