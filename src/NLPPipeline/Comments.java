@@ -6,11 +6,16 @@ import java.io.FileReader;
 
 class CommentBlock {
 	
+	String emph;
 	String text;
 	int rating;
-	List<String> tokens;
+	List<String> tokensEmph;
+	List<String> tokensText;
 	String timestamp;
 	
+	public String getEmph(){
+		return emph;
+	}
 	public String getText(){
 		return text;
 	}
@@ -18,9 +23,11 @@ class CommentBlock {
 	public int getRating(){
 		return rating;
 	}
-	
-	public List<String> getTokens(){
-		return tokens;
+	public List<String> getTokensEmph(){
+		return tokensEmph;
+	}
+	public List<String> getTokensText(){
+		return tokensText;
 	}
 	
 	public String getTimeStamp(){
@@ -33,6 +40,13 @@ public class Comments {
 
 	public static List<CommentBlock> comBlocks =new ArrayList<CommentBlock>();
 	
+	public List<CommentBlock> getCommentList(){
+		return comBlocks;
+	}
+	
+	public Comments(String filename) throws Exception{
+		parseCommentFile(filename);
+	}
 	public static void main(String[] args) throws Exception {				
 		String sampleCommentFile="data/raw-comments/Keys Jumper Adventure-raw-comments.txt";		
 		parseCommentFile(sampleCommentFile);
@@ -72,8 +86,20 @@ public class Comments {
 			String[] words= line.split(" ");
 			if (words[2].equals("text:"))
 				{
-					cblock.text=line.substring(9, line.length()-1).replaceAll("\\\\",""); 
-					cblock.tokens=TwokenizerWrapper.tokenize(cblock.text);
+					String validText = line.substring(9, line.length()-1);
+					int tIndex=validText.indexOf("\\t");
+					if (tIndex==-1)
+						{
+							cblock.emph="";
+							cblock.text=validText.replaceAll("\\\\","");
+						}
+					else
+						{
+							cblock.emph=validText.substring(0,tIndex).replaceAll("\\\\","");
+							cblock.text=validText.substring(tIndex+2).replaceAll("\\\\","");
+						}
+					cblock.tokensEmph=TwokenizerWrapper.tokenize(cblock.emph);
+					cblock.tokensText=TwokenizerWrapper.tokenize(cblock.text);
 				}
 			else if (words[2].equals("rating:"))
 				cblock.rating=Integer.parseInt(line.substring(10,11));
