@@ -39,9 +39,14 @@ class CommentBlock {
 public class Comments {
 
 	public static List<CommentBlock> comBlocks =new ArrayList<CommentBlock>();
+	public static List<String> timestampList= new ArrayList<String>();
 	
 	public List<CommentBlock> getCommentList(){
 		return comBlocks;
+	}
+	
+	public int getUniqueCount(){
+		return timestampList.size();
 	}
 	
 	public Comments(String filename) throws Exception{
@@ -62,12 +67,13 @@ public class Comments {
 		{
 			if (!line.isEmpty() && !line.substring(0,1).equals("e"))
 			{
-				System.out.println(line);
+				//System.out.println(line);
 				comment.add(line);
 				if (line.equals("}"))
 				{
 					CommentBlock cblock=generateCommentBlock(comment);
-					comBlocks.add(cblock);
+					if (cblock!=null)
+						comBlocks.add(cblock);
 					comment.clear();
 				}
 			}
@@ -91,21 +97,41 @@ public class Comments {
 					if (tIndex==-1)
 						{
 							cblock.emph="";
-							cblock.text=validText.replaceAll("\\\\","");
+							cblock.text=validText.replaceAll("\\\\[0-9][0-9][0-9]","").replaceAll("\\\\","");
 						}
 					else
 						{
-							cblock.emph=validText.substring(0,tIndex).replaceAll("\\\\","");
-							cblock.text=validText.substring(tIndex+2).replaceAll("\\\\","");
+							cblock.emph=validText.substring(0,tIndex).replaceAll("\\\\[0-9][0-9][0-9]","").replaceAll("\\\\","");
+							cblock.text=validText.substring(tIndex+2).replaceAll("\\\\[0-9][0-9][0-9]","").replaceAll("\\\\","");
 						}
+					//System.out.println(cblock.emph);
+					//System.out.println(cblock.text);
+					
 					cblock.tokensEmph=TwokenizerWrapper.tokenize(cblock.emph);
 					cblock.tokensText=TwokenizerWrapper.tokenize(cblock.text);
 				}
 			else if (words[2].equals("rating:"))
 				cblock.rating=Integer.parseInt(line.substring(10,11));
 			else if (words[2].equals("creationTime:"))
-				cblock.timestamp=line.substring(16);		
+				{
+					cblock.timestamp=line.substring(16);
+					if (timestampList.contains(cblock.timestamp))
+					{
+						cblock=null;
+						break;
+					}
+					else
+						timestampList.add(cblock.timestamp);
+				}
+			
 		}
+//		if (cblock!=null)
+//			{
+//			//System.out.println(cblock.emph);
+//				System.out.println(cblock.text);
+//				//System.out.println(cblock.timestamp);
+//				System.out.println();
+//			}
 		return cblock;
 	}
 	
