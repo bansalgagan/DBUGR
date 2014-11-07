@@ -15,9 +15,9 @@ public class MalletPreprocessor {
 	 */
 	public static void preprocessForMallet(String appName) throws Exception{
 		String appFileName = Parameters.RAW_COMMENT_DIR + "/" + appName + "-raw-comments.txt";
-		System.out.println(appName);
+		//System.out.println(appName);
 		Comments appComments = new Comments(appFileName); 
-		System.out.println(appName + "\t"+appComments.getCommentList().size());
+		System.out.println(appName + "\t"+appComments.getUniqueCount());
 		FileOutputStream ostream = new FileOutputStream(Parameters.MALLET_DIR+"/"+appName+"-prepro.txt");
 		PrintStream p = new PrintStream(ostream);
 		
