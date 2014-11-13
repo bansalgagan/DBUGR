@@ -1,9 +1,11 @@
-package NLPPipeline;
+package NLPPipeline.Preprocess;
 
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.List;
 
+import DataStructures.CommentBlock;
+import DataStructures.Comments;
 import Utilities.Parameters;
 
 public class MalletPreprocessor {
@@ -17,8 +19,8 @@ public class MalletPreprocessor {
 		String appFileName = Parameters.RAW_COMMENT_DIR + "/" + appName + "-raw-comments.txt";
 		//System.out.println(appName);
 		Comments appComments = new Comments(appFileName); 
-		System.out.println(appName + "\t"+appComments.getUniqueCount());
-		FileOutputStream ostream = new FileOutputStream(Parameters.MALLET_DIR+"/"+appName+"-prepro.txt");
+		//System.out.println(appName + "\t"+appComments.getUniqueCount());
+		FileOutputStream ostream = new FileOutputStream(Parameters.MALLET_DIR+"/"+appName+"-mallet.txt");
 		PrintStream p = new PrintStream(ostream);
 		
 		for(CommentBlock c: appComments.getCommentList()){

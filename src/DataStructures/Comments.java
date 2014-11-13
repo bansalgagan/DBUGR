@@ -1,40 +1,11 @@
-package NLPPipeline;
+package DataStructures;
 
 import java.util.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-class CommentBlock {
-	
-	String emph;
-	String text;
-	int rating;
-	List<String> tokensEmph;
-	List<String> tokensText;
-	String timestamp;
-	
-	public String getEmph(){
-		return emph;
-	}
-	public String getText(){
-		return text;
-	}
-	
-	public int getRating(){
-		return rating;
-	}
-	public List<String> getTokensEmph(){
-		return tokensEmph;
-	}
-	public List<String> getTokensText(){
-		return tokensText;
-	}
-	
-	public String getTimeStamp(){
-		return timestamp;
-	}
-	
-}
+import NLPPipeline.TwokenizerWrapper;
+import Utilities.Parameters;
 
 public class Comments {
 
@@ -52,6 +23,7 @@ public class Comments {
 	public Comments(String filename) throws Exception{
 		parseCommentFile(filename);
 	}
+	
 	public static void main(String[] args) throws Exception {				
 		String sampleCommentFile="data/raw-comments/Air Call-Accept free (Necta)-raw-comments.txt";
 		Comments testComments = new Comments(sampleCommentFile);
@@ -109,6 +81,15 @@ public class Comments {
 					
 					cblock.tokensEmph=TwokenizerWrapper.tokenize(cblock.emph);
 					cblock.tokensText=TwokenizerWrapper.tokenize(cblock.text);
+					if (cblock.emph.trim().length() <= Parameters.MINLEN )
+						cblock.emph = null;
+					if (cblock.text.trim().length() <= Parameters.MINLEN ) {
+						cblock.text = null;
+					}
+					if (cblock.text == null && cblock.emph == null){
+						return null;
+					}
+						
 				}
 			else if (words[2].equals("rating:"))
 				cblock.rating=Integer.parseInt(line.substring(10,11));

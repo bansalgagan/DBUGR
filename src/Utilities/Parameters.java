@@ -2,9 +2,12 @@ package Utilities;
 
 public class Parameters {
 	
-	public final static String RAW_COMMENT_DIR = "data/raw-comments";
-	public final static String MALLET_DIR = "data/mallet";
-	public final static String[] APPS = { "2ch Browser",
+	public final static String RAW_COMMENT_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/raw-comments";
+	public final static String MALLET_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/mallet";
+	public final static String POS_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/POS";
+	public final static int MINLEN = 2;
+	public final static String TWITTER_NLP = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/libs/twitter_nlp";
+	public final static String[] APPS = { 
 			"ASTRO File Manager with Cloud", "Air Call-Accept free (Necta)",
 			"Antarctic Adventure Free", "Call Dispatcher", "Call-Timer",
 			"Calming Music to Tranquilize", "Cardiograph",
@@ -19,5 +22,6 @@ public class Parameters {
 			"Rebtel: Cheap and Free Calls", "Santa Fun Jokes",
 			"Street Dancer Deluxe Free", "Stretch Exercises",
 			"WikiMobile (Wikipedia Browser)" };
+	public static final String LABEL_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/labels";
 
 }
