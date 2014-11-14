@@ -16,7 +16,7 @@ public class DataLabeller {
 		String labelFile = Parameters.LABEL_DIR + "/" + appName + "-label.txt";
 		FileOutputStream ostream = new FileOutputStream(labelFile);
 		PrintStream p = new PrintStream(ostream);
-		String labelInstruction  = "BUG -> B, DEVICE -> D, FEATURE -> F, APP -> A";
+		String labelInstruction  = "BUG -> B, DEVICE -> D, FEATURE -> F, APP -> A, OTHER->O";
 		Scanner userScanner = new Scanner(System.in);
 		for(CommentBlock cb: comments.getCommentList()){
 			System.out.println(labelInstruction);
@@ -26,7 +26,7 @@ public class DataLabeller {
 				for(String tkn: cb.getTokensEmph()){
 					System.out.println("Token: " + tkn);
 					String label = userScanner.nextLine();
-					while(!(label.equals("B") || label.equals("D") || label.equals("F") || label.equals("A"))){
+					while(!(label.equals("B") || label.equals("D") || label.equals("F") || label.equals("A") || label.equals("O"))){
 						System.err.println("Invalid tag" + label);
 						label = userScanner.nextLine();
 					}
@@ -39,7 +39,7 @@ public class DataLabeller {
 				for(String tkn: cb.getTokensText()){
 					System.out.println("Token: " + tkn);
 					String label = userScanner.nextLine();
-					while(!(label.equals("B") || label.equals("D") || label.equals("F") || label.equals("A"))){
+					while(!(label.equals("B") || label.equals("D") || label.equals("F") || label.equals("A") || label.equals("O"))){
 						System.err.println("Invalid tag " + label);
 						label = userScanner.nextLine();
 					}

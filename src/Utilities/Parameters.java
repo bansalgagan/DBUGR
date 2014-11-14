@@ -23,5 +23,6 @@ public class Parameters {
 			"Street Dancer Deluxe Free", "Stretch Exercises",
 			"WikiMobile (Wikipedia Browser)" };
 	public static final String LABEL_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/labels";
+	public static final String BROWN_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/brown";
 
 }
