@@ -89,26 +89,27 @@ public class Comments {
 							.replaceAll("\\\\", ""));
 				}
 
-				if (cblock.getEmph().trim().length() < Parameters.MINLEN) 
+				if (cblock.getEmph().trim().length() < Parameters.MINLEN)
 					cblock.setEmph("");
-				
-				if (cblock.getText().trim().length() < Parameters.MINLEN) 
+
+				if (cblock.getText().trim().length() < Parameters.MINLEN)
 					cblock.setText("");
-				
-				if (cblock.getText().isEmpty() && cblock.getEmph().isEmpty()){
+
+				if (cblock.getText().isEmpty() && cblock.getEmph().isEmpty()) {
 					return null;
 				}
 
 				if (!cblock.getEmph().isEmpty())
-					cblock.setTokensEmph(TwokenizerWrapper.tokenize(cblock.getEmph()));
-				
+					cblock.setTokensEmph(TwokenizerWrapper.tokenize(cblock
+							.getEmph()));
+
 				if (!cblock.getText().isEmpty())
-					cblock.setTokensText(TwokenizerWrapper.tokenize(cblock.getText()));
-				
-			} else if (words[2].equals("rating:")){
+					cblock.setTokensText(TwokenizerWrapper.tokenize(cblock
+							.getText()));
+
+			} else if (words[2].equals("rating:")) {
 				cblock.setRating(Integer.parseInt(line.substring(10, 11)));
-			}
-			else if (words[2].equals("creationTime:")) {
+			} else if (words[2].equals("creationTime:")) {
 				cblock.setTimestamp(line.substring(16));
 				if (timestampList.contains(cblock.getTimestamp())) {
 					return null;
@@ -122,10 +123,9 @@ public class Comments {
 			// System.out.println(cblock.timestamp);
 			// System.out.println();
 		}
-		
+
 		// remove comment blocks with very short length
-		if (cblock.getTokensText().size() < Parameters.MINTOKENS
-				&& cblock.getTokensEmph().size() < Parameters.MINTOKENS)
+		if ((cblock.getTokensText().size() + cblock.getTokensEmph().size()) < Parameters.MINTOKENS)
 			return null;
 
 		return cblock;

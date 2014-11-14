@@ -1,5 +1,6 @@
 package NLPPipeline.Preprocess;
 
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.List;
@@ -13,10 +14,11 @@ public class BrownClusteringProprocessor {
 	static FileOutputStream ostream;
 	static PrintStream p;
 
-	public static void preprocessForBrown(String appName) throws Exception {
+	public static void preprocessForBrown(String appName){
 		String appFileName = Parameters.RAW_COMMENT_DIR + "/" + appName
 				+ "-raw-comments.txt";
 		Comments appComments = new Comments(appFileName);
+		System.out.println("Num comments: " + appComments.getCommentList().size());
 		for (CommentBlock c : appComments.getCommentList()) {
 			List<String> emphTkns = c.getTokensEmph();
 			List<String> textTkns = c.getTokensText();
@@ -34,20 +36,28 @@ public class BrownClusteringProprocessor {
 		}
 	}
 
-	public static void main(String[] args) throws Exception {
-		FileOutputStream ostream = new FileOutputStream(Parameters.BROWN_DIR
-				+ "/" + "brownClustering.txt");
+	public static void main(String[] args){
+		FileOutputStream ostream = null;
+		try {
+			ostream = new FileOutputStream(Parameters.BROWN_DIR
+					+ "/" + "brownClustering.txt");
+		} catch (FileNotFoundException e1) {
+			e1.printStackTrace();
+		}
 		p = new PrintStream(ostream);
 
 		for (String appName : Parameters.APPS) {
+			//appName = "Antarctic Adventure Free";
 			System.out.println("Doing " + appName);
 			p.println("echo Doing '" + appName + "'");
 			try {
 				preprocessForBrown(appName);
 			} catch (Exception e) {
-				System.out.println("Not done: " + appName);
+				e.printStackTrace();
+				System.out.println("\nNot done: " + appName);
 				continue;
 			}
+			//break;
 		}
 
 		p.close();
