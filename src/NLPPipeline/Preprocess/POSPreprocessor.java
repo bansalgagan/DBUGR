@@ -33,20 +33,26 @@ public class POSPreprocessor {
 	}
 
 	public static void preprocessForPOS(String appName) throws Exception {
-		String appFileName = Parameters.RAW_COMMENT_DIR + "/" + appName
-				+ "-raw-comments.txt";
-		Comments appComments = new Comments(appFileName);
+		Comments appComments = new Comments(appName);
 		FileOutputStream ostream1 = new FileOutputStream(Parameters.POS_DIR
 				+ "/" + appName + "-prepos.txt");
 		PrintStream p1 = new PrintStream(ostream1);
 
 		for (CommentBlock c : appComments.getCommentList()) {
-			String emphStr = c.getEmph();
-			String str = c.getText();
-			if (emphStr != null)
-				p1.println(emphStr);
-			if (str != null)
-				p1.println(str);
+			
+			for(int i=0; i < c.getTokensEmph().size(); i++){
+				if(i== c.getTokensEmph().size()-1)
+					p1.println(c.getTokensEmph().get(i));
+				else
+					p1.print(c.getTokensEmph().get(i) + " ");
+			}
+			
+			for(int i=0; i < c.getTokensText().size(); i++){
+				if(i== c.getTokensText().size()-1)
+					p1.println(c.getTokensText().get(i));
+				else
+					p1.print(c.getTokensText().get(i) + " ");
+			}
 		}
 
 		p1.close();
@@ -64,9 +70,11 @@ public class POSPreprocessor {
 			try {
 				preprocessForPOS(appName);
 			} catch (Exception e) {
+				e.printStackTrace();
 				System.out.println("Not done: " + appName);
 				continue;
 			}
+			break;
 		}
 		p.close();
 	}

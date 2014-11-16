@@ -10,48 +10,48 @@ import DataStructures.Comments;
 public class DataLabeller {
 
 	public static void label(String appName) throws Exception {
-		String rawFile = Parameters.RAW_COMMENT_DIR + "/" + appName
-				+ "-raw-comments.txt";
-		Comments comments = new Comments(rawFile);
+		// String rawFile = Parameters.RAW_COMMENT_DIR + "/" + appName
+		// + "-raw-comments.txt";
+		Comments comments = new Comments(appName);
 
 		String labelFile = Parameters.LABEL_DIR + "/" + appName + "-label.txt";
 		FileOutputStream ostream = new FileOutputStream(labelFile);
 		PrintStream p = new PrintStream(ostream);
-		String labelInstruction = "BUG -> B, DEVICE -> D, FEATURE -> F, APP -> A, OTHER -> O";
+		String labelInstruction = "BUG -> B, DEVICE -> D, FEATURE -> F, OS -> A, NEG -> N, POS -> P, OTHER -> O";
 		Scanner userScanner = new Scanner(System.in);
 		for (CommentBlock cb : comments.getCommentList()) {
 			System.out.println(labelInstruction);
 
-			if (cb.getEmph() != null) {
-				System.out.println("Comment-> " + cb.getEmph());
-				for (String tkn : cb.getTokensEmph()) {
-					System.out.println("Token: " + tkn);
-					String label = userScanner.nextLine();
-					while (!(label.equals("B") || label.equals("D")
-							|| label.equals("F") || label.equals("A") || label
-								.equals("O"))) {
-						System.err.println("Invalid tag " + label);
-						label = userScanner.nextLine();
-					}
-					p.print(tkn + "/" + label + " ");
+			System.out.println("Comment-> " + cb.getEmph());
+			for (String tkn : cb.getTokensEmph()) {
+				System.out.println("Token: " + tkn);
+				String label = userScanner.nextLine();
+				while (!(label.equals("B") || label.equals("D")
+						|| label.equals("F") || label.equals("A") || label
+							.equals("O") || label.equals("N") || label
+							.equals("P"))) {
+					System.err.println("Invalid tag " + label);
+					label = userScanner.nextLine();
 				}
-				p.println();
+				p.print(tkn + "/" + label + " ");
 			}
-			if (cb.getText() != null) {
-				System.out.println("Comment-> " + cb.getText());
-				for (String tkn : cb.getTokensText()) {
-					System.out.println("Token: " + tkn);
-					String label = userScanner.nextLine();
-					while (!(label.equals("B") || label.equals("D")
-							|| label.equals("F") || label.equals("A") || label
-								.equals("O"))) {
-						System.err.println("Invalid tag " + label);
-						label = userScanner.nextLine();
-					}
-					p.print(tkn + "/" + label + " ");
+			p.println();
+
+			System.out.println("Comment-> " + cb.getText());
+			for (String tkn : cb.getTokensText()) {
+				System.out.println("Token: " + tkn);
+				String label = userScanner.nextLine();
+				while (!(label.equals("B") || label.equals("D")
+						|| label.equals("F") || label.equals("A")
+						|| label.equals("O") || label.equals("N") || label
+							.equals("P"))) {
+					System.err.println("Invalid tag " + label);
+					label = userScanner.nextLine();
 				}
-				p.println();
+				p.print(tkn + "/" + label + " ");
 			}
+			p.println();
+
 		}
 		p.close();
 		userScanner.close();

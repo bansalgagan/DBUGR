@@ -11,6 +11,8 @@ public class CommentBlock {
 	private List<String> tokensEmph;
 	private List<String> tokensText;
 	private String timestamp;
+	private List<String> posEmph;
+	private List<String> posText;
 	
 	public CommentBlock() {
 		emph = "";
@@ -19,6 +21,9 @@ public class CommentBlock {
 		tokensText = new ArrayList<String>();
 		setRating(-1);
 		setTimestamp("");
+		setPosEmph(new ArrayList<String>());
+		setPosText(new ArrayList<String>());
+		
 	}
 	
 	public String getEmph(){
@@ -84,5 +89,21 @@ public class CommentBlock {
 
 	public void setTimestamp(String timestamp) {
 		this.timestamp = timestamp;
+	}
+
+	public List<String> getPosEmph() {
+		return posEmph;
+	}
+
+	public void setPosEmph(List<String> posEmph) {
+		this.posEmph = posEmph;
+	}
+
+	public List<String> getPosText() {
+		return posText;
+	}
+
+	public void setPosText(List<String> posText) {
+		this.posText = posText;
 	}	
 }

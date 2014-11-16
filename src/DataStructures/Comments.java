@@ -2,6 +2,7 @@ package DataStructures;
 
 import java.util.*;
 import java.io.BufferedReader;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -22,8 +23,56 @@ public class Comments {
 		return timestampList.size();
 	}
 
-	public Comments(String filename) {
-		parseCommentFile(filename);
+	public Comments(String appName) {
+		parseCommentFile(appName);
+		//parsePOSFile(appName);
+	}
+	
+	/**
+	 * Stores the POS from Twokenizer in the comments 
+	 * @param appName
+	 */
+
+	private void parsePOSFile(String appName) {
+		String posFile = Parameters.POS_DIR + "/" + appName + "-pos.txt";
+		try {
+			FileInputStream fstream = new FileInputStream(posFile);
+			Scanner s = new Scanner(fstream);
+			int i=0;
+			while(s.hasNext()){
+				String emphLine = s.nextLine();
+				String textLine = s.nextLine();
+				List<String> posEmph = new ArrayList<String>();
+				List<String> posText = new ArrayList<String>();
+				String[] tempPOSEmph = emphLine.split(" ");
+				String[] tempPOSText = textLine.split(" ");
+				
+				//e.g. It/O/PRP/B-NP
+				for(String str: tempPOSEmph){
+					String[] posSplit = str.split("/");
+					posEmph.add(posSplit[2]);
+				}
+				
+				for(String str: tempPOSText){
+					String[] posSplit = str.split("/");
+					posText.add(posSplit[2]);
+				}
+				if(comBlocks.get(i).getTokensEmph().size() != posEmph.size() || comBlocks.get(i).getTokensText().size() != posText.size()){
+					System.err.println("Error wrong number of tokens and pos tags");
+					System.exit(0);
+				}
+				
+				comBlocks.get(i).setPosEmph(posEmph);
+				comBlocks.get(i).setPosText(posText);
+				
+				i++;
+			}
+			s.close();
+		} catch (FileNotFoundException e) {
+			System.err.println("Warning: cannot find pos file for: " + appName);
+			return;
+		}
+		
 	}
 
 	public static void main(String[] args) throws Exception {
@@ -32,11 +81,11 @@ public class Comments {
 		// Comments testComments = new Comments(sampleCommentFile);
 	}
 
-	private void parseCommentFile(String sampleCommentFile) {
-
+	private void parseCommentFile(String appName) {
+		String commentFile = Parameters.RAW_COMMENT_DIR + "/"+appName+"-raw-comments.txt";
 		BufferedReader br = null;
 		try {
-			br = new BufferedReader(new FileReader(sampleCommentFile));
+			br = new BufferedReader(new FileReader(commentFile));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
