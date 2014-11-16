@@ -1,4 +1,673 @@
 comments {
+  text: "Almost perfect"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415872124115
+  authorId: "cid-gp:AOqpTOG1bakEnmDuw0r8eR-UXHPOz76_NmfUW3wpkPCbE6fnBgbufhZry516aFs1c07dgVNYqv4Jgrrh7lSC8RM"
+}
+comments {
+  text: "\331\205\331\205\330\252\330\247\330\262\t\331\205\331\205\330\252\330\247\330\262"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415868324623
+  authorId: "cid-gp:AOqpTOG-lv_1WoIjg445dlgbduhaxwTxpWIuwC9TX202dqi4ZXGQLfXAKTBVRSshOSamti70ZDn52lg6Tyv2qHI"
+}
+comments {
+  text: "qbbb\tcvb"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415863800720
+  authorId: "cid-gp:AOqpTOHt3jnCyanrsiRQ0FDzGV2c1ASKK3RJYw9DXuQarW8lANjo969HQD8O3hNZVDF79v_QZclKhKVTgPMbvwg"
+}
+comments {
+  text: "Totally wild and way off"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415858209898
+  authorId: "cid-gp:AOqpTOGCE9QFT5B3Vao4B1B8eA2Fjw4kkXldE2TQoTJ1PNeeJ6wWoutbEwbSmE8DHUCT7Z2ApnGKAbi5OidDK00"
+}
+comments {
+  text: "Cardiigraph\tNew to me. It might have a good result. Trials for outcomes."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415857960365
+  authorId: "cid-gp:AOqpTOGWnVnXNXbU66JCbLtRHYjdPFhEi2y9u22nx_Nf57M3DKN8Wup3ypvKLeSzylIH_0Inpm6APIOPPeTTAb8"
+}
+comments {
+  text: "\331\201\330\247\330\264\331\204\t\330\253\331\205 \331\203\331\204 \330\264\331\210\331\212\330\251 \331\204\331\205\330\247 \330\250\330\272\330\267\331\211 \330\271\330\257\330\263\330\251 \330\247\331\204\331\203\330\247\331\205\331\212\330\261\330\251 \331\212\331\202\331\210\331\204\331\211 \330\272\330\267\331\211 \330\247\331\204\330\271\330\257\330\263\330\251 \330\252\330\247\331\206\331\211  \330\272\330\267\331\212\331\207\330\247 \330\247\331\206\330\252\331\211 \330\250\331\202\331\211"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415826900101
+  authorId: "cid-gp:AOqpTOF5GUY16x6ID8x10bZBWcxYSbnUpafb2Q2AR7-0N58_dsOUzy4fW9Zf79p4YEhKMeTVqNjoZQGkj3bUo6M"
+}
+comments {
+  text: "Lookvery good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415824543644
+  authorId: "cid-gp:AOqpTOFhC0on2u8KzugFEScGazfFFTb72K_BYR9LZZRtFBUPNp1vdJKkk3KiZig1XtzkAj5NZxrd0538-CtivfM"
+}
+comments {
+  text: "Didnt work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415817452112
+  authorId: "cid-gp:AOqpTOGo7_XYGxYnPUGs2xN9-tznoWAO-AiC23Y9XXlwPhWFIFQdoR5in_ZJFZf93K3z_ZGrKW2or8ZVmcSLpG0"
+}
+comments {
+  text: "Really works!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415815436003
+  authorId: "cid-gp:AOqpTOHYtaZsdtTHxnvuXwrocumzOEhCSM4xfaW3I3b3eZ0nSZu2grGRhn1NtQ8Sqs15VPdAIL-d2UHVdxWzN90"
+}
+comments {
+  text: "Something wrong\tThere was something wrong with the app after I tested my heart the flash stead on it would not switch off I had to use another app to switch the flash off two stars from me"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415812998475
+  authorId: "cid-gp:AOqpTOH8Nu0ABhQ7ePdFeZY60M3l7LBSdJwrL-8UMiDSajrNHvWVwBCh86xdB_F4ABZhE20hJhzY04SG7sp1mzI"
+}
+entriesCount: 21720
+
+comments {
+  text: "Not gud dont waste ur time....."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415809347847
+  authorId: "cid-gp:AOqpTOGcSV8sl0GyL49nqMSww9CM9NOBDvdnalNvwibokX4Qy8J_JK_KqgnAmljsBEqHwF8V6zKipLOl5usXUSA"
+}
+comments {
+  text: "awesome"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415790305661
+  authorId: "cid-gp:AOqpTOEOKrmWU9YCnEEDHXTRp-ID35kdZJC8J7EGwl4gYzX-9dSGIbO6sQf0D74WQBILHbNRSuvxn1txgY1mJ5M"
+}
+comments {
+  text: "Awesome !"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415783040206
+  authorId: "cid-gp:AOqpTOGEbhrtCdUpFJVflPQioxjF_kk-CyTgjmRkFRUICOh31Pth7JAMp4Ijs0-qqKMyVL17qChtlmuO1toYoYg"
+}
+comments {
+  text: "Helpful as can be love it could\'nt ask for better app!\tTough app! THANKS!!!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415782823235
+  authorId: "cid-gp:AOqpTOGFhYJt5Dgswf-oi0qUYC-0ov6d5XTAk4aR0-oCXA276P2hsVQtWoT-l1g2yqfjhiRvxTJE6wGEXcBKpSU"
+}
+comments {
+  text: "I AM FLATLINE ??????\tI don\'t get it , I put my index finger like it says to do, I don\'t understand , it keeps giving me flatline, Can someone help , as I am not dead :D"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415778338043
+  authorId: "cid-gp:AOqpTOGj3gpySKppU3NfaYUYs_wjOJJMYJ54Kg4EA5uSOb-RKw6Z-JHNV9Z31EEEoKYT8KIDVhY_-x4wFTxzgiA"
+}
+comments {
+  text: "Totally useful\tCompared results to monitor at my PCP\'s office and found it to be very accurate."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415778103546
+  authorId: "cid-gp:AOqpTOGoj_sVzX4EFNeE1hogwKxN25OcWtG4T69boxomYEy-s5vC_MbIx7J9cLJD_19x1O5XRFyTseshSbi8Rlw"
+}
+comments {
+  text: "Why?\tWould be great, but why trust a machine when you can take your pulse manually and get accurate results instantly. It\'s like using your camera to see."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415769198249
+  authorId: "cid-gp:AOqpTOHxvGTxFg1wEB8zUcGE9VDDkXdijAjKN-o6savCSt8yhbDk_LPqtxBp8ribJT2a5PbFpoGopjYFLHglwBY"
+}
+comments {
+  text: "Accurate App\tI held my pulse while the app was doing it\'s thing and it beeped pretty much in time with my pulse. It was a split second behind my pulse but seemed to be accurate. I\'m using this on my Samsung Galaxy S3"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415753902033
+  authorId: "cid-gp:AOqpTOF6ZZZ61QCRwhWHwgOFbdYWJ_TSS7cu7gW9HKhanySmh4hj0MxKzk8ZIIAvuKeN8zIlvb6QirnYK5iEv_0"
+}
+comments {
+  text: "heart"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415751562992
+  authorId: "cid-gp:AOqpTOGGfAj1ciYl1tcHMstwyqXCyYJHVakOSMzg2Q99KyI5GsoO451VDbv6ibAY_ziVt6TdceNJ1JHQo3gyXgo"
+}
+comments {
+  text: "Perfect \360\237\221\214\tAn amazing app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415745411815
+  authorId: "cid-gp:AOqpTOFlmU3sXwgkEKvzn_f7qQm8DahkFXzcNRsMO3IJRdWdbtbVCTrbqAKhRfd5_KcrK84_SiEDLuZoQR9KsWk"
+}
+entriesCount: 21720
+
+comments {
+  text: "It works"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415739225285
+  authorId: "cid-gp:AOqpTOExDlk9p1kt-KMJTABUTmsnKr0x8L3w344seV63sY12KPifcVIURGUTUqm9xgmCXsV38bzrEK_ewaTpmUQ"
+}
+comments {
+  text: "Its very nice aps."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415727488950
+  authorId: "cid-gp:AOqpTOFw48G-SxYB3pKOc7wT7nu1dZu8jsFYDpvXp5ovI6imKXoC-qU8_s3ULYrMeyPbE4hllmzHBirtsWsfMSU"
+}
+comments {
+  text: "Nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415710991948
+  authorId: "cid-gp:AOqpTOFPhncSHiho7_GtDyWK2soknikMhNLU0rgnp-P9mzW0d-Jto7CzonjahqeG9QEgLqPGoTdy5bOyVZ8fCt0"
+}
+comments {
+  text: "Awesome\tIt is almost every time correct"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415709519209
+  authorId: "cid-gp:AOqpTOHsVpy-YsoM1iIjxDK6FKwPcSNJl68cdKFbnqMghjv6_Uu2Rv0EZ7M08_540TFKtSpM72zzM9etgq4huh4"
+}
+comments {
+  text: "BILAL YOUNAS JUTT\tMeasure your heart rate It\'s never been easier to know what your heart rate is! Without any external hardware, just using the built-in camera/sensor of your smartphone or tablet, you can get accurate readings almost instantly. \342\234\223 Know how fast your heart is beating It can be very useful while exercising, if you\'re under stress, if you have a heart-related medical condition, or even just out of curiosity. \342\234\223 Track your results Every measurement you take is saved to your personal history, so you can keep track over time. \342\234\223 Multiple profiles"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415698972958
+  authorId: "cid-gp:AOqpTOFaNTszr2se08vKnX7irkKLNT5jB7W-dtcrukVCPnTpVlfWW6qHpe1I-VA9SVvw8dXCThePoRYcJ52JvlY"
+}
+comments {
+  text: "Reads different from front camera 102 bpm rear camera 70 bpm.Actual bpm 58"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415681633141
+  authorId: "cid-gp:AOqpTOFFADNyY6qNkbyemnZA0RfbIlkt7kwUqjdDJrwAsQTvs6B5LFDAM70McuFjatUQ9hW2KI1ytgLGq4C2NdU"
+}
+comments {
+  text: "Way too off the real heart rate\tI tested this with a REAL heart rate monitor and it was off about 20-30 beats off"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415657357412
+  authorId: "cid-gp:AOqpTOGvxJruS1YII0o5WvFCw-BbUTqC8vR-J8BZ9sdWEzBQ6cYMKL_SLDzFGEcj7yoXD5BcZa0MHOQP9bqh-9E"
+}
+comments {
+  text: "Good application\tVery nice Mr. Ya3qoub....keep on"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415626134045
+  authorId: "cid-gp:AOqpTOFi2adwHkiUkpJYVZhKYdfJcNmWAIsHcbhG8i3Qs_gxy3yhWWFrCCGerH8SZWjEkU7uBMRbq6s7D1wK1EU"
+}
+comments {
+  text: "Cool & Almost every time itz correct\tBetter than Samsung\'s heart rate monitor....i used sgs5 heart rate monitor & than my dad(Doctor)\'s heart rate sensor...it was too many times showing wrong results bt this app showed correct allmost all the time bt sometimes it missed the spot too....but itz still way better than Samsung\'s gimmicky heart rate monitor..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415607178385
+  authorId: "cid-gp:AOqpTOE93oDDgSvjteMcU4hW1jVIVHb2gR5waRN6smoYnVDWIOQjPrAC9ypB6tk9W4J1f_t8gQ6CG9Tn1dw9yqs"
+}
+comments {
+  text: "Couldn\'t get a reading, this application sucks"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415605211237
+  authorId: "cid-gp:AOqpTOF5P8Frb1NXFBcv46DRTGByoF0srvaDzpnYUbsjFTXnrLM7EFtfruSc7TlSnhsA_VcFtibVI0QzKNFbGyA"
+}
+entriesCount: 21720
+
+comments {
+  text: "Its totally dummy"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415589478905
+  authorId: "cid-gp:AOqpTOFUo0M-00C6IpJG-c9KsGo47CTCYg2x-I2mkvvTGGEFItkrmwycwW-wthMbK4yhBksRTO6yp8XrScKtcQ8"
+}
+comments {
+  text: "Hot\tIts so powerful app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415557415440
+  authorId: "cid-gp:AOqpTOHAh3QnN0kJJmSix7igw4MS_vOrgHBgn7fsn_9-GqbS_qI6FqshzxqIBHWHJrIvC9l346IUJPUYxtgE1Kk"
+}
+comments {
+  text: "Sucked\tGave me a rate of 115 bpm while lying in bed just after another app gave me 62 bpm on three different tries. Uninstalled .."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415540300942
+  authorId: "cid-gp:AOqpTOE7GpMM5ftv0Ejsid-qHv9yaOc-JKVeIJ3Oxybii5xzY1GTy5RsE29SmbZrUZHRdXx_YZCXgNFhZKEvhaI"
+}
+comments {
+  text: "bad\tif you put any red colour in the front of camera than this app show the heart beat in graph .......... its only a prank"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415522311480
+  authorId: "cid-gp:AOqpTOFv5qrMUvXNymvfRDMXs_eVUnd1sh8G07TQVwqGrHGhqAXvQUGoaQ7itdmqLIgU9etkhKi7CZC1epilgi8"
+}
+comments {
+  text: "It\'s\tOk"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415473886484
+  authorId: "cid-gp:AOqpTOGeuNmX7MwTgI8UGjNwvAliBYml9zWFZMYDjdYRC83hoyJZm-5pGRArBWc9v3pNvxltoj6T7E3xIQxKakI"
+}
+comments {
+  text: "Ok working fine to some extent"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415463113573
+  authorId: "cid-gp:AOqpTOEKSbuplkBYiXXRg1fuYW9CrGokY-j1wd2mdTM2z0eMcX8UU0Gy59g-KD6s4cU47C6u59IiHRP71wxEmE0"
+}
+comments {
+  text: "it gives good and accurate result"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415457193932
+  authorId: "cid-gp:AOqpTOGSTDhFYaFhi143FA5AOaRjN6sg4KFS1mtFgc-vz9BcKtn-ktpUS4UhMXOn4q1UNy20XQuAkRmz6Ao6M9s"
+}
+comments {
+  text: "Best"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415452073889
+  authorId: "cid-gp:AOqpTOGhB7dLSujcI37FhUncqQzhH9t1lzcGvU8ZmPZv0HNBjbsAXuG2BIqxsbwuWMiEyKm44iQm3tr8vsmQ6pI"
+}
+comments {
+  text: "Best medical app\tOne of the best medical app on google play"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415451279062
+  authorId: "cid-gp:AOqpTOFQAbsMk44M8sVuFaHcZxzy7I9bAfLxXXGF59y4FM3f0kjP1Cou-s0-f4PqXhgBUZMwm1FFOdNBM9wqZzo"
+}
+comments {
+  text: "Motorola XT320\tMuito bom recomendo"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415449525638
+  authorId: "cid-gp:AOqpTOHYPMt4rQLGTjTT4PQTH7jdwF9ZuX7qeJSWMSJRUDq3rfXvb9cTCkVqabfNNTWQ9r9x46uxhp3XVKH6dmA"
+}
+entriesCount: 21720
+
+comments {
+  text: "Best app for phones without a heartrate sensor"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415449104071
+  authorId: "cid-gp:AOqpTOHq1jsrEePNe4rG6gE0cEWShuyAQb3SVBfXx8Ry5pK0CVHI774d1kcA0e1rJpjkOy8vLZ3Nhj6xnYq-83c"
+}
+comments {
+  text: "At least it\'s giving an accurate reading.\tTested it quite a few times and everytime gave the same result, meaning accuracy of course. But I\'m still not sure whether the reading is good or bad."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415448829172
+  authorId: "cid-gp:AOqpTOE5J8Lml646PaIODfAMmbg9GEA3yzn1t5rs4JnvLi8Ku_K3dGgcoJRnEB-jkvWXspkVgB1h_f3u2omcvL4"
+}
+comments {
+  text: "Very good!\tTried with a galaxy notes2 and works flawlessly, recording the actual heart beat rate. Did compare it with a professional device we use on ambulance shifts, which works on the same principle"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415448694406
+  authorId: "cid-gp:AOqpTOGdV5xGo79t5HWb7BtvoKwpDqEdvSSO-0_m2hTib2WAwhB2oXZZQjTcHkXkk1-o2Or4LPRPW_lK0F-ExDk"
+}
+comments {
+  text: "Cardiograph"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415445323772
+  authorId: "cid-gp:AOqpTOEHWG3ujKGYp7odQITDCOAv3D2id_XYtq9o-NSv5X-mfsy9ASGgupZ1L8ab3pT_ODXV16Ws2CuZJETh5Gw"
+}
+comments {
+  text: "Really works\tWho knew you could use your camera as a heart rate sensor?!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415421447962
+  authorId: "cid-gp:AOqpTOHpiPWX1BPl1h7TGSd-DxP-1_zvb8zuRy0oRwjdjpMU21l6Hxk7xqtSj-zyJOY6VOxhECkjkNtYfNHAWhg"
+}
+comments {
+  text: "Worked at first but stopped working and worked like normal when my finger was off of the lens"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415420277952
+  authorId: "cid-gp:AOqpTOEPGTQTYbjWKCNvdkqbB2_pq9Hp__a-wmIBEk0i3rJ7m4w5Jj4ubRIQtO7bapGRKryD7WVs3cDCcLFy15M"
+}
+comments {
+  text: "Good\tGood"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415418557613
+  authorId: "cid-gp:AOqpTOH7MgLRv8yK57Um7wqTj999LebtPCLOIu8DBVvjaek8Eb95LbregJv6aHGj6lEEyPOuo4dzbaarH7jeyuw"
+}
+comments {
+  text: "Waste of  memory space.\tDon\'t get it, doesn\'t work."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415410403858
+  authorId: "cid-gp:AOqpTOH3pj_Aj6s7XBuIDh45WIXfNkOnPJcirS86TMT_1o3RP6Kb5lT492tQKiK2vmgpmtkbkliIS-Sl77jWRUQ"
+}
+comments {
+  text: "Why it reads when I don\'t cover the camera with\tmy finger."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415377502199
+  authorId: "cid-gp:AOqpTOEN7i5Hj59GCxtLWbt-jT2vLKUdVVl345En0t-gW-kTnwmxCTSdmKZcCAbv4NFA6pPlmLAWbw1KThknAQA"
+}
+comments {
+  text: "accuracy\tNot accurate. Any slight movement makes the \"heart rate\" jump"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415372189288
+  authorId: "cid-gp:AOqpTOEeJQxyrbTb9nRDv9Cq9jS1vqFGvS0S2AS4NsSMssZX1UAe_022kHny-5RPkrGdvio0mywodg3e20cVxCI"
+}
+entriesCount: 21720
+
+comments {
+  text: "Good app . I like it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415361258292
+  authorId: "cid-gp:AOqpTOFNN_YRD5yGzb6lEHfkuUZyI7syK1Mr8XDVqVryYe0gIzBVI3t3SM0Oinz9GmZjIHXBOHBaDE1GynlyQg4"
+}
+comments {
+  text: "Cardiogramp"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415359688027
+  authorId: "cid-gp:AOqpTOEtxAk4yytDUCacfyQ6sie27eV-_Zsee5wUEyyvOu8yKPqb-AdTfrhcVOhBdMtL5HmVuXrb49PrjeH0uIM"
+}
+comments {
+  text: "Every. One I adder\tAll"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415338672354
+  authorId: "cid-gp:AOqpTOGIh__pTYMjIu5ArcA4sUzdxvQMt4wSkvDT-wktWK1xKPmO1ddd4_qoqE-fxgxArn5wzzugoFcCJ3Won24"
+}
+comments {
+  text: "-_-\tGood app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415328385119
+  authorId: "cid-gp:AOqpTOE_a8rJfwePJrdZ_DUTZ3MZOEQnkpR5R_s1ZFrBxHtxzhHRc4zFp8sf_hL3fkvQ0T9GO5PkV1denG05xgc"
+}
+comments {
+  text: "Not Work\tToo bad.. uninstall it!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415313927416
+  authorId: "cid-gp:AOqpTOGs0DDdG9tYI2k-4myTMij2fKboAfHh3b5RwJJvc1MHcGcgp0lW2Mtx8PRJtQqiN62hdlBBGmuAgofmxSQ"
+}
+comments {
+  text: "very nice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415297909692
+  authorId: "cid-gp:AOqpTOFqCjds9gBqx0NO_zKhqZeYY_OoA2koarbXwreuzrr15sLFotQaQnT-bQqxKAMBW3JaCd5q__SUgEHj0iM"
+}
+comments {
+  text: "\330\254\330\247\331\204\330\250\331\207 \330\247\331\205\330\247 \330\257\331\202\330\252\330\264\331\210 \331\206\331\205\333\214\330\257\331\210\331\206\331\205"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415296452684
+  authorId: "cid-gp:AOqpTOFatR6fkO7o9ty-JiG3pPP_67TNK3olKQKukizqJGtlfQ49MEbVnxnhNEb43A_mkLsElmdIgmXjxxv7CAw"
+}
+comments {
+  text: "Not good\tTotally wrong measures... heart rate pro app measures perfectly.."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415295221719
+  authorId: "cid-gp:AOqpTOFtmjwxFRVM27FkzP1qnNs0mFdbnwQwlr-9ZyqzIZKU3ZuLsdPDnX3Lg9Zn84Ox439Lnb-BlsPr7K8TYSY"
+}
+comments {
+  text: "Pretty neat but lacks Google Fit integration\tAdd Fit integration for all 5 stars ;-) (also having a paid version without ads would be nice)"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415286082253
+  authorId: "cid-gp:AOqpTOEfTwJJrJO0CycBSM_efdEI5e_LmwV6b88pRn8J672Z9HHM_90ScJxKSBymKcPaZk942oIsV1aOs6AFyuQ"
+}
+comments {
+  text: "Used to work with previous phones. Doesn\'t anymore.\tHave an Xperia M2. App doesn\'t measure accurately anymore. Over reports my resting HR as 110. Other heart rate apps work properly."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415279290773
+  authorId: "cid-gp:AOqpTOH_prIPjPHcc0zhup80GvP487S3iLWfsoyD3TrJqAni0WjM5oHNKbYLYjZsjjgbIFqUGQvouyjpocBSih4"
+}
+entriesCount: 21720
+
+comments {
+  text: "I\'m touching it it\'s not working"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415265402207
+  authorId: "cid-gp:AOqpTOHhKuI51XRxZ9TTa695QonNvVR8S4sqFHkP3RerDwKVYAwTh6rzCP7ArAOi54Me_A1Yrhhc6fCJFoKF33Y"
+}
+comments {
+  text: "Works\tDon\'t  know  yet how  much  showing  accuracy.."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415243506113
+  authorId: "cid-gp:AOqpTOGryALWJ8dKmvUu7kcTqUkRDaMLrJUzRBy46z6eOSPOWDBQHE-3idUhCQwf-vjypMb4uM3Rt2-0_RF_6F0"
+}
+comments {
+  text: "so good\texcellent  app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415241686763
+  authorId: "cid-gp:AOqpTOGR7VphEU0Z7eKHzuwTg3EkIl8vK7frCJ35qz8NlcDpWmVfHRtv4D9xpJwgRkz4AAMVHLM2KnnUS2G02vE"
+}
+comments {
+  text: "Worked great\tOn HTC m8"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415239010370
+  authorId: "cid-gp:AOqpTOGX5ZE2cgogpR3wZS7Jv5-Ze_gSqi3FN3vhU35Znaae4v3AC0iWyOEADTtCkCLc8gQ9zKEkKZxG4P5aeGQ"
+}
+comments {
+  text: "hut\tde man of each day"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415238698222
+  authorId: "cid-gp:AOqpTOEiNpT7QXj8MFF4_Ae-NGmp0sCZv5Edb0tjHOpMFKiRVmcB3nDMJI6YkngHA5zCcvZt0Qi6tQj9dcxkiKw"
+}
+comments {
+  text: "\330\271\330\247\331\204\333\214 \331\210\331\205\331\207\333\214\330\254"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415217196228
+  authorId: "cid-gp:AOqpTOE9C8k0FNP4oekeZmP85dTmE1WQpSOw7WimNelJMEIZRFarVmOWlX42JdPNB4zvs4xXnkKQtKPtQ7lBeE0"
+}
+comments {
+  text: "A very useful apps loved it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415210101849
+  authorId: "cid-gp:AOqpTOH293JFPkmKspu4oNPcb7WZZMAJDpNa6e5Lpt-ZYgxxC9uYGmSSPKi985HZDjTWnI2pwSgOBEsZmgd3BO8"
+}
+comments {
+  text: "the apps can help  users to monitor their heart beat and rates"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415201389831
+  authorId: "cid-gp:AOqpTOHxkhp8oA7eX5pUeGec3MlvBixixwprcVoPdlYq02j--T8uVjudJQ3Yr4nzP3fVr-dlCz7IujBfporZ7XI"
+}
+comments {
+  text: "\320\232\320\270\320\273\320\270\320\274\320\260 \320\274\320\270 \320\261\320\270\320\265 \321\201 130 \321\203\320\264\320\260\321\200\320\260 \320\262 \321\201\320\265\320\272\321\203\320\275\320\264\320\260 ,\320\274\320\275\320\276\320\263\320\276 \320\265 \320\277\321\200\320\270\321\202\320\265\321\201\320\275\320\265\320\275 \320\263\320\276\321\200\320\272\320\270\321\217"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415198219216
+  authorId: "cid-gp:AOqpTOFA0K4dcwHnb9MEl2LlrlFStbVm6BZtJ_wTCAbE77AmFTQHNZGRHwxLiLI40oCr6gbv4ula8lOS0IIKYZ0"
+}
+comments {
+  text: "Smells like cake!\tDon\'t know if it really works or not, But its quite fun!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415190685235
+  authorId: "cid-gp:AOqpTOFVItp6QdrcWPcYqEtWYDHcAQt9W_0a8SS5-3yTssPP7BQS6SYWQ0XmsEcftfEoSUoGcUXM50yhbB2wRx4"
+}
+entriesCount: 21720
+
+comments {
+  text: "Nice\tI like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415167720578
+  authorId: "cid-gp:AOqpTOFEU17kwRG6zdiLvQd9CGEOao38MGR7HiSgrSPaMIchP6AVrkWtULQrBfJkV_Sgz2SkFkSexI04v6EImLk"
+}
+comments {
+  text: "Its fake.. people who consider it real can go yo a doc."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415160204398
+  authorId: "cid-gp:AOqpTOGzdduBxwiETaFRDguL08pW4uA5ir7PouKuF_A0bGk9d194W-MOTskpZO500OCNAGmTcRwKjvO7LVbDep4"
+}
+comments {
+  text: "Good\t.."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415138690291
+  authorId: "cid-gp:AOqpTOGAzbzkXIxW9ysl2KJSQTjPxKyU1rZYNLDd9OUABWaObkRlRH-FZk9wQ25iwKv3y0_a2KV-Q8UJ94N-SPM"
+}
+comments {
+  text: "Top"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415137346409
+  authorId: "cid-gp:AOqpTOEg6TGDCum2UBJkzOQNGWbRkMRMolDh6IZbEvJUHn7NCNlw_NNMp1Rfrr4id38rjGB2BL7BwYCzH8uhc9w"
+}
+comments {
+  text: "Innacurate\tNot even close. It was 40 beats off."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415131832684
+  authorId: "cid-gp:AOqpTOFoQbiNpJZ2OeUMOM8IGLyXaESm_uCGOlfBB4B2aI3hRiQNoTLdaw0hfXE8fmGG3PPPGanwQ2jaG1wp5AA"
+}
+comments {
+  text: "Good app\tIt works"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415131347673
+  authorId: "cid-gp:AOqpTOGrqdyLqxgMvwi8Ud54K9Qzk0HghcasPxb7W1D5llcctbFGNJBGjLXDnX8TYb5YUs6jKi8UMakudE-g3GQ"
+}
+comments {
+  text: "Cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415127513820
+  authorId: "cid-gp:AOqpTOEkR0pjVay_nT7JxDilgFCx6e-sohlB_8-Me8ehVseeDKArVW0Tme92OHembA2XzV9qEjRf29_zRZxKc3c"
+}
+comments {
+  text: "Cool\tCool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415117980721
+  authorId: "cid-gp:AOqpTOE3iKc9LnaZgtZIHBBKcAimgyuFPJ_H2v-U-oJAoVsTGa0Xr89i1vZoz3A_nu556TFmFmGyrmwjzGoMaXU"
+}
+comments {
+  text: "Perfect\tI\'m using this product and this program gaves me good results"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415114817142
+  authorId: "cid-gp:AOqpTOEiMqWUoMDsQbV4f8LXz0Gm05iLwbj4BVEzAglXux7oyL87Wyp14Y-aRWeNf9vJpMordPM_KYcipb6oQl0"
+}
+comments {
+  text: "Accurate app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415113257231
+  authorId: "cid-gp:AOqpTOHCauRSl3asDdqwfj5v5l6OtgAAWaXfuUInjBmreU8M0WXbTA_bOTW6HdpvXr64UjMy-x8JsmHmLlahRAI"
+}
+entriesCount: 21720
+
+comments {
+  text: "Really wonderful app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415111357341
+  authorId: "cid-gp:AOqpTOH1GaTKBvv4h1DkHGIZmWUTcBiPnnajgfO--Gceh5fD4qkLb65Y3x9Nz-TKM3MPVlvp8X0HiTH6SOm7GeQ"
+}
+comments {
+  text: "Nice\tGreatest"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415101460669
+  authorId: "cid-gp:AOqpTOEiBYUl84-deXIswd3qhk1U3i9g0grll23Gk8bcaQXSluYuKa2eJbI5t3xgcpQ_ZGBvCRicgxK7_DrrW5A"
+}
+comments {
+  text: "Cardiograph\tTotally useless, hugely innacurate if it managed to work at all."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415097538868
+  authorId: "cid-gp:AOqpTOEz3JnT7xowPxNxScGYmVX5ySb4u1z-hUxIZIlAxp68ig2EO-h0IBJU4dl4ezaDQJy_gpnzvCXJmsOHAP0"
+}
+comments {
+  text: "Didn\'t like it\tCouldn\'t get it to work on my Samsung"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415075563966
+  authorId: "cid-gp:AOqpTOEQak5fo56qFnZCXC9udJqUE4SkFN4sATrmKGzcS1DZ6JNBGBMX1J_Z4smDyD2LM2IS2FvK181PBPbL0Xw"
+}
+comments {
+  text: "Ok"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415065371718
+  authorId: "cid-gp:AOqpTOFZfVQkW97tOMAC2XpkdzFr5JT32_vPjuyRC6njYJKIZJ2cVpofnNm43hnGPoe4S7W-5MD1aOGtBEI6Rn8"
+}
+comments {
+  text: "Nexus 4 Camera crash\tWhile this is installed, my Nexus 4 crashes every time I take a picture"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415055587907
+  authorId: "cid-gp:AOqpTOFYJJgBuW6XroUb-Gq7wPSwL2yyT8Fy_F-D4ad3FT7XBcjZld8SGf4oTs5825IWPqhU67M4TB6QBWIqZow"
+}
+comments {
+  text: "Moto360\tFinally a way to measure heart rate constantly from my moto360. Thanks!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415040400798
+  authorId: "cid-gp:AOqpTOGLvn73O_EUFZxAsPAwpRiBT6SLbhqcq7CyVgoxN9ITSvJFT0NVmcMCVjqrFk1NGHkLEgIqROTapbbZL0M"
+}
+comments {
+  text: "It works!\tUsed with the Samsung S5 built-in sensor.  Straight-forward and no issues for me."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415037305941
+  authorId: "cid-gp:AOqpTOFLYMBikTIkorZKZgrSn8Zlcor2rLbe3fmMHa2b8jGOyUJiP3mfXoDErj_n3N54cCHuPAju6qz1Z--IvWw"
+}
+comments {
+  text: "This is very good"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415035029253
+  authorId: "cid-gp:AOqpTOHIu0xybGGlWEiuuAaMZNHmd4pIDtFU5kEGyLR1LIbjGjIQ8ZtBaqCnzoXT2MPc_3MmFspGPJmHg3HRa8M"
+}
+comments {
+  text: "It\'s very helpful and resourceful like this application. Thank you very much\tto the creator\'s of this appl."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415034937865
+  authorId: "cid-gp:AOqpTOHyIiMcis-ec_46DnjzDEIHtwsOMB9xOpGfOfz-isRSYu0PswPqvSwywLNvd9hs4aSRgqOBT5RWNVMOrFE"
+}
+entriesCount: 21720
+
+comments {
+  text: "Works accurately\tSuperb"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415033937477
+  authorId: "cid-gp:AOqpTOHaGN9IUDUBfgz_-Z3x_OPFjWK3qqTMKuD2sC7mYGPypueH5iwvvh-1TOn4G3J2RQvhwjJTZtYQo307nAY"
+}
+comments {
+  text: "Mani"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415027247730
+  authorId: "cid-gp:AOqpTOGemQA2ZOh8dl6FdofidsTCTHRSiCezzr-tdZDd4PFDl33lntJJpBRfkYdjhhS8pB_4HCEf3AzKOcqv990"
+}
+comments {
+  text: "Great\tWorks for me"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415021911886
+  authorId: "cid-gp:AOqpTOH0Y9El8o53rpCz9LT7jprtWDvfHodPQYdzuBTf1ha1qXW9op-biFTWMZUJmWmIFSfuk7HPxuSrnaE9-sQ"
+}
+comments {
   text: "Awesome app"
   rating: 5
   authorName: "A Google User"
@@ -47,6 +716,8 @@ comments {
   creationTime: 1414921992560
   authorId: "cid-gp:AOqpTOEY5TuPDvlrgafwqHZXEL6Qbu0Y8pkCUWA_F45y9TSKOAKQZihivJJnx3hFwRRqLPxar9NnJ8a4hFxsfsw"
 }
+entriesCount: 21720
+
 comments {
   text: "I did not know which thong was the camera to cover."
   rating: 1
@@ -68,8 +739,6 @@ comments {
   creationTime: 1414867032520
   authorId: "cid-gp:AOqpTOGaJzXepmYoZxnah-LTGIgUOMg19zPlBDR7LIb4I0XOPFfzLDMfIcFtX9ywRtU0VFfVmZ7SnoCOBGgpheU"
 }
-entriesCount: 21182
-
 comments {
   text: "Perfect\tWorks great with my nexus 10 and with my HTC one. Better with my middle finger than my index finger though!"
   rating: 5
@@ -119,6 +788,8 @@ comments {
   creationTime: 1414809846692
   authorId: "cid-gp:AOqpTOFX76_XHq7WjGADLQZ-BIqdAz6Tg7s7F39Vc0mPM3CoOBOVXikaX7lcwvEN4ziI4vqfhFVQxFvkYWlybtE"
 }
+entriesCount: 21720
+
 comments {
   text: "Excellent, love it so much!!!"
   rating: 5
@@ -140,8 +811,6 @@ comments {
   creationTime: 1414798353248
   authorId: "cid-gp:AOqpTOHo_lx5AiUu9sXj1WM0Hso_9-FEDcT2sRWfmeVJlRboaI9WygNQFbtwlKQiwMypuFwUtTRNzzXd2MttTVI"
 }
-entriesCount: 21182
-
 comments {
   text: "Pretty cool!\tSeems to be accurate, and I like the fact that you can log and categorize the results, for future reference. And so far no problems or interruptions."
   rating: 4
@@ -191,6 +860,8 @@ comments {
   creationTime: 1414744770953
   authorId: "cid-gp:AOqpTOHWp9V0hvDU32pqF98_yUz9esyEDwkBRYUpziAx6FzWqx_1NVMa9ePsu5fjOX-wcdP0UdEKWLS7mLzfQMs"
 }
+entriesCount: 21720
+
 comments {
   text: "Good\tGood superb"
   rating: 5
@@ -212,8 +883,6 @@ comments {
   creationTime: 1414743164594
   authorId: "cid-gp:AOqpTOGA-kGhez8KWnmpm3_ATCEJGcpYTsLk-dsyEASDcVeDsYWEFb8i5VqJLFToZds8EHL2HDaLD1cqjYchToE"
 }
-entriesCount: 21182
-
 comments {
   text: "It\'s good\tSeems a bit erratic when taking the pulse but the results do seem accurate. Good stuff"
   rating: 5
@@ -263,6 +932,8 @@ comments {
   creationTime: 1414651223447
   authorId: "cid-gp:AOqpTOGvlyF7iBGxlWdLlqrKe1gXDgiSqJCv1-WaYMteJn4hBUVSZHVc-87PGhwQGb2OSwLhCuOQNsVcXGuR5ms"
 }
+entriesCount: 21720
+
 comments {
   text: "This app does not work on my phone when I put my finger on the camera the palm speed stays the same on 0"
   rating: 2
@@ -284,8 +955,6 @@ comments {
   creationTime: 1414606776736
   authorId: "cid-gp:AOqpTOE7KcADn_R3DkZHoUHuqwlVLvV5faUZ41glH6XUgdX_AhGkPHra0vCOQ5aaDU8ygZIrDIp_IsK8RFVdUIw"
 }
-entriesCount: 21182
-
 comments {
   text: "Real & Terrific!\tI just verified the results with an S5 which does actually have a heart sensor and it was accurate! People saying \"fake\" need to use it in proper lighting conditions for perfect results !Smooth UI,Nice layout ,Accurate,...... Something which I was looking for ! Brilliant people! Keep it up !And I would like to request for an All In One health app ie. Including pedometer, GPS tracking for running ,etc,So you can crush apps like S Health !!!!!! Well done !!"
   rating: 5
@@ -335,6 +1004,8 @@ comments {
   creationTime: 1414562067868
   authorId: "cid-gp:AOqpTOG9xWF7UcqQAbVo2deqgadi9Hm1uqgIr6DDq1OkvyuYnEaOvX2Z84-wmZzIX9thw4VxSOGq8kSfgwygzyw"
 }
+entriesCount: 21720
+
 comments {
   text: "Very good\tSupper support"
   rating: 5
@@ -356,8 +1027,6 @@ comments {
   creationTime: 1414512734457
   authorId: "cid-gp:AOqpTOFvQVQgmy3h8Wxc2hZAACIWCS24cE2upNRMHDkm74NK7dHbIh6qV9DX6mXblRQE1IG35vLV670LoI0XGLE"
 }
-entriesCount: 21182
-
 comments {
   text: "Its good"
   rating: 2
@@ -407,6 +1076,8 @@ comments {
   creationTime: 1414460613012
   authorId: "cid-gp:AOqpTOE6_srg7k8PrEYWE0x--B0lVhEAd5lpmEst8CvirRW2BxgW9uXzClgID2k5Ts-nP_8xw7vf24Xr5BgfYBA"
 }
+entriesCount: 21720
+
 comments {
   text: "Very important monitor\tThis monitor works well for people that do have tachycardia and other conditions causing the heart to skip beats I suggest that you go to the settings and turn off the sound. The sound alone can cause your heart rhythm to go faster. This is important for me as I can keep a record for my doctor. He has tested this app on himself and has concluded that it is worth the time to put this app on your phone. I use a droid Maxx and use the rear camera and it works fine."
   rating: 5
@@ -428,8 +1099,6 @@ comments {
   creationTime: 1414434990821
   authorId: "cid-gp:AOqpTOH-FqS46zyCccp8_N3OHu65IZjk-7uVf-mnttswIt7H1PwgRv0QMPpkwOzAvRWlIfOL8rqh90-aOuQRlUE"
 }
-entriesCount: 21182
-
 comments {
   text: "I dont think the resalt is real. It changes within secondd"
   rating: 2
@@ -479,6 +1148,8 @@ comments {
   creationTime: 1414387039222
   authorId: "cid-gp:AOqpTOFzOdE4XyDfMydXfVput50gEPm-EB_tbIeFBqx_p-xohgNardpSLf4AAR84XdnpLWhSkAJJdibtpzxq6qU"
 }
+entriesCount: 21720
+
 comments {
   text: "Really Cool App.."
   rating: 4
@@ -500,8 +1171,6 @@ comments {
   creationTime: 1414330749511
   authorId: "cid-gp:AOqpTOGHLS9sQJdxyRMUuRPywpVYAc0htUeGFATJWwEd8e1mB6comc0gGW4FZqUB3GmMNDSEvkOZfGl2eARowrs"
 }
-entriesCount: 21182
-
 comments {
   text: "Cardiograph\tGreat app."
   rating: 5
@@ -551,6 +1220,8 @@ comments {
   creationTime: 1414241774069
   authorId: "cid-gp:AOqpTOH-GAGbtUvjY1hQBzBdaPIdMbophgW_sJvK6jwnLPXnHJ6H28XkVGBcXuB5EzpVU2RjIBBgxgFAIAkAFOk"
 }
+entriesCount: 21720
+
 comments {
   text: "It\'s a show off app\tIt does not really read your vitals it\'s just too show off to people who have dumb phones. Also does not work at all on Android wear (G Watch)."
   rating: 2
@@ -572,8 +1243,6 @@ comments {
   creationTime: 1414221706106
   authorId: "cid-gp:AOqpTOHqBViD4vbZGdQzweT-s2F9RyWvtVQWGK129U_F3uXqrISb-RrB2NL7pZiOhMvkcyf1SRmpA_BUHqxKiXM"
 }
-entriesCount: 21182
-
 comments {
   text: "Moe\tKo"
   rating: 5
@@ -623,6 +1292,8 @@ comments {
   creationTime: 1414200204539
   authorId: "cid-gp:AOqpTOHy4a3ClFzNc7Ibef7UuOEc-mxIGSbVKTqJjsJ4_uVMGR0C9b6NvWumN_Z-KcQso_-mp7BvdpdjpSVDHwk"
 }
+entriesCount: 21720
+
 comments {
   text: "Wow!\tFor all that say \"wall has a heart\" is because you gidder ur phone slightly which it picks as heartbeat. Putting my hand next to the heart and checking signals- they match! Download every1 to show the world u dont need a hrs to measure heart rate."
   rating: 5
@@ -644,8 +1315,6 @@ comments {
   creationTime: 1414142175452
   authorId: "cid-gp:AOqpTOG7f219D6NZ3ZusSZZUHkaLOsNw50DSq_gy294g--1TtGzPnC-M3DOA2amPJbbmB8HXfWhNwe7iy76SFrw"
 }
-entriesCount: 21182
-
 comments {
   text: "True app\tIt true and i love it because of this app i got to know whether my heart is ok or not or when   to see a doctor. Macro pinch you did a great job on creating this app and that too free for only 0.95 mb."
   rating: 5
@@ -695,6 +1364,8 @@ comments {
   creationTime: 1414063430197
   authorId: "cid-gp:AOqpTOGpAybJzI-VCFoNM9-0WgcVVrb5P8jZfYwWpp8BDFdQEmmY76zrrYGHlhujNdHqJIVOw_vHwhpwknSfj_8"
 }
+entriesCount: 21720
+
 comments {
   text: "FAKE!\tIt doesn\'t work! Nexus7 2nd"
   rating: 1
@@ -716,8 +1387,6 @@ comments {
   creationTime: 1414053475286
   authorId: "cid-gp:AOqpTOH0sFK7hP9wxRKWFf6lOKoVf3fch7xrMjyKDyhXzADjKhMMiM8_Ou6-SBqF5hO1MVFARACwubkfrlyW7es"
 }
-entriesCount: 21182
-
 comments {
   text: "Cardiograph\tNot very accurate"
   rating: 2
@@ -767,6 +1436,8 @@ comments {
   creationTime: 1414029055861
   authorId: "cid-gp:AOqpTOHCd_CDFLCgzMlq6K8EmTXnvO9Wn4kWTTg_hNmCBNc4y2VBXFlhNv5LdRff9mMHxpMSrCbHWSGNa2rULRg"
 }
+entriesCount: 21720
+
 comments {
   text: "LG G3\tIt\'s nice minus the ads. Will there be a paid version?"
   rating: 4
@@ -788,8 +1459,6 @@ comments {
   creationTime: 1414014505661
   authorId: "cid-gp:AOqpTOEv3JTqvDqjftQhWCt0ZCSTBRA3DNncTh0XP8U8DCDRfjGWXBZZWTqKQNWzPe_wduX3jrUG_Z3boCAoA-0"
 }
-entriesCount: 21182
-
 comments {
   text: "Wow im dead yay"
   rating: 1
@@ -839,6 +1508,8 @@ comments {
   creationTime: 1413956579785
   authorId: "cid-gp:AOqpTOHZVA0PdaNZSf2S_OQo9V6rUi-ElihR2YWlkcpaKrYSWRGLozLEKylV4s898Jm1wnqZrWjWQUuadswqAmI"
 }
+entriesCount: 21720
+
 comments {
   text: "Good"
   rating: 3
@@ -860,8 +1531,6 @@ comments {
   creationTime: 1413945679115
   authorId: "cid-gp:AOqpTOEvvZZeBUNWhk7_yq_R2OGxGNzIhtJ7DydirX8BUlwAidNM0wHuFVRtDLnVlx29UBBPfLNrIndt-t0FxVU"
 }
-entriesCount: 21182
-
 comments {
   text: "Very good"
   rating: 4
@@ -911,6 +1580,8 @@ comments {
   creationTime: 1413929094557
   authorId: "cid-gp:AOqpTOGpxfZ9tXGf-jPC1RGMDIUr8xkN0LJpwwPzDXaVBYJxa9UbLPR0n_TeeZjiP-DAfczqMoX91j4RcMqxfKE"
 }
+entriesCount: 21720
+
 comments {
   text: "Suchi\tGood services"
   rating: 5
@@ -932,8 +1603,6 @@ comments {
   creationTime: 1413920957130
   authorId: "cid-gp:AOqpTOGKYLMVfREwpG2CdQz69UVQ9uP_J2NCCJSh77Y0OLJ1aFr7uOKgq7JW580zC-uD69ipVbBfF-b6iEPV43g"
 }
-entriesCount: 21182
-
 comments {
   text: "FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE FAKE. FAKE"
   rating: 1
@@ -983,6 +1652,8 @@ comments {
   creationTime: 1413901221379
   authorId: "cid-gp:AOqpTOEZ3H_2wFIxbLxC6VRHztgYQZL2AiVq1VuvGWT4mIM1qfsxxPGUS_BU8i15z4HDzw-7eC0J0_WAuSODRwc"
 }
+entriesCount: 21720
+
 comments {
   text: "Amazing!\tI would never expect that it is feasible to measure the heart rate using a camera. On my Z3 Compact it works perfectly with the rear camera. Wrong results with the front camera."
   rating: 5
@@ -1004,8 +1675,6 @@ comments {
   creationTime: 1413892587811
   authorId: "cid-gp:AOqpTOEISC9wbKeq0jEAefasa4NutT_e3i0irPc0zUovu6NUXjf-RZQ-OoMLqsXUP89ANPh80yEky09OjR038HM"
 }
-entriesCount: 21182
-
 comments {
   text: "Gulshan"
   rating: 3
@@ -1055,6 +1724,8 @@ comments {
   creationTime: 1413862335810
   authorId: "cid-gp:AOqpTOHb2eKyYr0cnRxtGdB3KlEAglsI9Z4AiJoBhIcdVaaxEiKtU4dzdlw75-Mcyj9bFpfPmRZb_qs1HUZKrY0"
 }
+entriesCount: 21720
+
 comments {
   text: "Doesn\'t work\tFake app"
   rating: 1
@@ -1076,8 +1747,6 @@ comments {
   creationTime: 1413837380862
   authorId: "cid-gp:AOqpTOGaHOmAF2L5F4o2FY5ZklUWmE2_OGCAXS5wjBUOi8ch030WDnZjeaYbNX4glsL-orBL-0c4dESqB6Fi1hk"
 }
-entriesCount: 21182
-
 comments {
   text: "I love this app but...\tI really don\'t like the ads that are in it, is there a paid verson?"
   rating: 5
@@ -1127,6 +1796,8 @@ comments {
   creationTime: 1413821186636
   authorId: "cid-gp:AOqpTOE0xZRmOrUmWRpKiz40UtsiIRqvwoS-VidYSqXmoNlWR4Ow7n6LmMUeHIu0XhCbUVnx4b9j0DLiWb-b0K0"
 }
+entriesCount: 21720
+
 comments {
   text: "Very accurate"
   rating: 5
@@ -1148,8 +1819,6 @@ comments {
   creationTime: 1413809377690
   authorId: "cid-gp:AOqpTOGiZdOthjVgLQeglbFL7CjQUyBYkxegvlPGokrNulzdLWdl4sN4aL33-Q-64elGxY19p-1h_VEneeYdl_8"
 }
-entriesCount: 21182
-
 comments {
   text: "Love\tVery good program"
   rating: 5
@@ -1199,6 +1868,8 @@ comments {
   creationTime: 1413783569470
   authorId: "cid-gp:AOqpTOHtnCWgHXzpXhNVc0F6l7ZjJOPIQyWlbKQCIcVXIHBi_iD0_PzngpFyiP7VH6opBw6pcxQBM6jvmZTx0TU"
 }
+entriesCount: 21720
+
 comments {
   text: "Good\tNice app"
   rating: 4
@@ -1220,8 +1891,6 @@ comments {
   creationTime: 1413776862961
   authorId: "cid-gp:AOqpTOFioKRS87Iv8QSNW9xn0hQnidyS9DnF-8UhNlzORa8TAGDCi8XgUUNmTJsyDlatjhYBc7FZv4Ot9k6sBCI"
 }
-entriesCount: 21182
-
 comments {
   text: "Good\tGood"
   rating: 5
@@ -1271,6 +1940,8 @@ comments {
   creationTime: 1413752266923
   authorId: "cid-gp:AOqpTOHPSOnEE80h9E_tp9rL5_6336ogEhyB47GBoMgY3Lg49HvY6Bw699D6ZtY68uMd_o2QrHKl2tbozKpviGg"
 }
+entriesCount: 21720
+
 comments {
   text: "Its ok but keeps freezing"
   rating: 3
@@ -1292,8 +1963,6 @@ comments {
   creationTime: 1413744541491
   authorId: "cid-gp:AOqpTOHBQlmF5O6xqdJN8FoGgKadWwGDWtDzyGNgqoZ71tAetlmUTOtQeZJm5MFxnsRwnHzZnGyzAe_zokaJB-g"
 }
-entriesCount: 21182
-
 comments {
   text: "Very good staff !"
   rating: 5
@@ -1343,6 +2012,8 @@ comments {
   creationTime: 1413732576749
   authorId: "cid-gp:AOqpTOGhnES1k87POvktG8cpSiL8zO8YGeH3AGisgzKgUknx41F8IWBjs1OMxF5H7LDQOTtj9S-_ek7oNdhvrsc"
 }
+entriesCount: 21720
+
 comments {
   text: "Hi\tJing"
   rating: 5
@@ -1364,8 +2035,6 @@ comments {
   creationTime: 1413721541359
   authorId: "cid-gp:AOqpTOGb_hAqUjqo3oooWaYFNooLhGH7bw4w99mtVacPGwpw2PVcosB1N_QQQBEgLOnfa5moYGnioxEwZCKmEdg"
 }
-entriesCount: 21182
-
 comments {
   text: "Junk\tSimply a waste of time"
   rating: 1
@@ -1415,6 +2084,8 @@ comments {
   creationTime: 1413707452373
   authorId: "cid-gp:AOqpTOHOWqAxvDj1fNkcEOXhVUkg4z1gXL0p5DjU2m3UabmV9P7sVc9YAdxRrJD-PMTLfJSr1kjFshauwnT8o6g"
 }
+entriesCount: 21720
+
 comments {
   text: "It will work for now . Not the real thing"
   rating: 4
@@ -1436,8 +2107,6 @@ comments {
   creationTime: 1413701955921
   authorId: "cid-gp:AOqpTOFO1z3mLqe1-J1WmVPAbuUgIBbDaPl3GbjTQiqFiKmg9Jy8h8-s5q1NT9klEqJTSUB7Jtck2ESpCaedNPY"
 }
-entriesCount: 21182
-
 comments {
   text: "Sony xperia m2 dual...\tNice app"
   rating: 5
@@ -1487,6 +2156,8 @@ comments {
   creationTime: 1413683269292
   authorId: "cid-gp:AOqpTOFc4KOCvQhvLVq3nQtVsxTjr2hGZxTR2XtbnU6klKQ1DQOipPWqX6jz0Ij1BitDG62zgDF6BcCJ-_lEElk"
 }
+entriesCount: 21720
+
 comments {
   text: "Happy\tGot it"
   rating: 5
@@ -1508,8 +2179,6 @@ comments {
   creationTime: 1413651982113
   authorId: "cid-gp:AOqpTOHJmumLlx26zuby_gLcjBzLTt46IaltC4IqkSqo57UKpGduRMlrB4Maeqm81VskOCmBTrs3YaYNOFGU4D8"
 }
-entriesCount: 21182
-
 comments {
   text: "Jagruti naik 91@gmail com"
   rating: 5
@@ -1559,6 +2228,8 @@ comments {
   creationTime: 1413625617329
   authorId: "cid-gp:AOqpTOFTFiuDp5hTji2Y-0A1mgaCpqEycs57f8EgJA0qOuYA6HHFEpsb8aFvZASgmrarfcqERZfiFSfNqh88kqQ"
 }
+entriesCount: 21720
+
 comments {
   text: "Dont use it.its false"
   rating: 1
@@ -1580,8 +2251,6 @@ comments {
   creationTime: 1413616942046
   authorId: "cid-gp:AOqpTOHD_2wqDgool3tRPeeToZq1iB2ygBZhqL83NZ4yeghTR-qhNj4jsziI2MpkmEC43NQuTEWdFMLCKLuDjcY"
 }
-entriesCount: 21182
-
 comments {
   text: "Completely Inaccurate\tThis couldn\'t take a pulse if it was directly on my heart! Instructions are simple, place your finger on the camera lens (front or back) and it will measure your BPM. However my count was over 100 as resting and I have no heart condition either. It even continues to \"measure\" after you\'ve removed your finger. DON\'T WASTE YOUR TIME PEOPLE!!!"
   rating: 1
@@ -1631,6 +2300,8 @@ comments {
   creationTime: 1413561964836
   authorId: "cid-gp:AOqpTOHZh9HwqpCv8VaKiT5pLwVXIc0wyxow2wO2XDM2eqxKyBJrHWAadlqN69ZUZPUUbKsUvgkeq_01krXWWyA"
 }
+entriesCount: 21720
+
 comments {
   text: "wow"
   rating: 5
@@ -1652,8 +2323,6 @@ comments {
   creationTime: 1413525729424
   authorId: "cid-gp:AOqpTOFGCQtk7CcTziAXu3ZPy4kZ25aUrhNwlvYVQcf1guNwMc1r3bPFW2tn29iaE64P0CW9HaX_UN6iwnlGki0"
 }
-entriesCount: 21182
-
 comments {
   text: "Nah..."
   rating: 1
@@ -1703,6 +2372,8 @@ comments {
   creationTime: 1413425318549
   authorId: "cid-gp:AOqpTOHb02xD-gn53aV4HdM2zBq1VtTtWecQIG-WFhj1KVTVgAPw_PsEYXcbSDHsUM5Fm1xB2Z4p9qiWmuzSSkk"
 }
+entriesCount: 21720
+
 comments {
   text: "Inaccurate\tNot at all accurate. Removed."
   rating: 1
@@ -1724,8 +2395,6 @@ comments {
   creationTime: 1413381147708
   authorId: "cid-gp:AOqpTOGiLCj793kGi7eJRhsvtI_jYwU1umHCveC_4isEwr661Y2FBoqKqXvxAQqB3WXDGG3RgSaKIkl8eqjq3qo"
 }
-entriesCount: 21182
-
 comments {
   text: "Junk\tIt measured my heart rate at 119. It was only 74. Just a tad different lol!"
   rating: 1
@@ -1775,6 +2444,8 @@ comments {
   creationTime: 1413230555229
   authorId: "cid-gp:AOqpTOHa7m3K00ewhRJe63JEdYcpazk4m9a0ZN8STQ5BFau8gvGYZuTlDacdgnuOrpHttc_E1FS3nynLaHD2D34"
 }
+entriesCount: 21720
+
 comments {
   text: "What I am post to do"
   rating: 2
@@ -1796,8 +2467,6 @@ comments {
   creationTime: 1413109023966
   authorId: "cid-gp:AOqpTOEFk-B3s91zeqg-UBTuezJlxT4_pz8io1zFMcbw4QzUJ28L8wDwL5CU4MJp-5aIQc3GcPnZzMYhFzmi_JA"
 }
-entriesCount: 21182
-
 comments {
   text: "Best\tAfter trying a few apps this one is clearly the best."
   rating: 5
@@ -1847,6 +2516,8 @@ comments {
   creationTime: 1413010486319
   authorId: "cid-gp:AOqpTOFBc-RM677DhmUicgsjyOkH_Ac6IBH2NrrIfG41VuOo23H6Bk21ZSS2-k_YmJCUfA0vyJE58-miUtkPGGo"
 }
+entriesCount: 21720
+
 comments {
   text: "Nexus7 - forget it."
   rating: 1
@@ -1868,8 +2539,6 @@ comments {
   creationTime: 1412977178968
   authorId: "cid-gp:AOqpTOF4esJT4wvGwxZV0vGhxNOd5m8KbrBHUBH-Ot7lpunKdulYq6medfdqVGYmFE8lm7t4ulTBbxLLkuvrX4o"
 }
-entriesCount: 21182
-
 comments {
   text: "Don\'t work properly"
   rating: 3
@@ -1919,6 +2588,8 @@ comments {
   creationTime: 1412922218995
   authorId: "cid-gp:AOqpTOGLY59kN5PfKZoakl-iaaLl9daQpaAbxT-lC8V6b5IVctxTHAiKCSxZAcCSpLMyEiTzafUDc1K2LCo6Qq4"
 }
+entriesCount: 21720
+
 comments {
   text: "jabardast. ..\tWorking superb. .."
   rating: 4
@@ -1940,8 +2611,6 @@ comments {
   creationTime: 1412892401421
   authorId: "cid-gp:AOqpTOEkZRW5LYcNlFgGnwlwkm5Wt-iIgbi2BWILnRSu67_OldxoD117WHXfK6JpnY4bKMeu7gZYmPllErXeoOE"
 }
-entriesCount: 21182
-
 comments {
   text: "New version\tLove it! Great new look and features"
   rating: 5
@@ -1991,6 +2660,8 @@ comments {
   creationTime: 1412701089493
   authorId: "cid-gp:AOqpTOFTP4nVNrbyFlcwnUIMGLo5owSx8GsNiM4kTLfxIW7V6xp01hf2fPFFeBaXs8EjzuhKT8NndH8AVmo3FwE"
 }
+entriesCount: 21720
+
 comments {
   text: "Worked for me\tToday installed after my dr apt got EKG and other test and it was very close to what hospital test said :) maybe others didn\'t do it correctly lol"
   rating: 4
@@ -2012,8 +2683,6 @@ comments {
   creationTime: 1412596739378
   authorId: "cid-gp:AOqpTOFLD3ku7ljDLm25pX5GGL9H16mPA-twKECqiVKckWGvjgCg73YgAdiy5wezS5dbeHVqJInnhsyHQpXAMLY"
 }
-entriesCount: 21182
-
 comments {
   text: "Does not work"
   rating: 1
@@ -2063,6 +2732,8 @@ comments {
   creationTime: 1412472736635
   authorId: "cid-gp:AOqpTOFU_T66VerVtHvlSqSi2yGOwC9TmbWJJZp-kU-ykjN36H_by6i9ISwzP5erQ4FflScP_M-YcdL7QJ7OPRI"
 }
+entriesCount: 21720
+
 comments {
   text: "Pointless"
   rating: 1
@@ -2084,8 +2755,6 @@ comments {
   creationTime: 1412450185770
   authorId: "cid-gp:AOqpTOGtOfmWexPUmdJaPFM85JHkoveWh2e59Wu_2e9FSx9feioIZwTA8RnKm3dULjXo8PjQKZf_bzoeXAGgodw"
 }
-entriesCount: 21182
-
 comments {
   text: "Fake\tI put in the pic of wood and he said 60bpm"
   rating: 1
@@ -2135,6 +2804,8 @@ comments {
   creationTime: 1412147804121
   authorId: "cid-gp:AOqpTOH7t-2bmnpsF-1xBOsIXyUfV2tFXJB1YaIf61gJPIG8Eteyu7gV9UliNxN8uTmw0X7n9H3FjskEquPZ2S4"
 }
+entriesCount: 21720
+
 comments {
   text: "Good"
   rating: 5
@@ -2156,8 +2827,6 @@ comments {
   creationTime: 1412027899371
   authorId: "cid-gp:AOqpTOFVuBL-XA_yN-Pq4-9j0ICVl6Se4dhiA_shBa73z1xLngdlXEpFXm_0XhQZNIg4Xkob0rtKM2wuncxrwkU"
 }
-entriesCount: 21182
-
 comments {
   text: "Suooooper\tHa"
   rating: 5
@@ -2207,6 +2876,8 @@ comments {
   creationTime: 1411874529234
   authorId: "cid-gp:AOqpTOEPk9nXOSRp59vJhmdXW8HT0hngPGHjRDARgtVVdILOlqB1tP3rpp-g9gxggp7uUY8nKgvae7TrySI6YA8"
 }
+entriesCount: 21720
+
 comments {
   text: "Ok"
   rating: 5
@@ -2228,8 +2899,6 @@ comments {
   creationTime: 1411815480258
   authorId: "cid-gp:AOqpTOFYjgojmWUnZAQy541iymLwmmKzyltRcQWjcULLRmjaDQFAW9WItF02-uheLF512_cMAYXgFO_k9U5lV98"
 }
-entriesCount: 21182
-
 comments {
   text: "Very  usefull\tKeep it up"
   rating: 4
@@ -2279,6 +2948,8 @@ comments {
   creationTime: 1411467257986
   authorId: "cid-gp:AOqpTOE3pRePq7VEXGCsbc6iySmFHLQx4h9VePFIDVukBWxww07e1u1Hkr7s9EVBtewWhUF8zG4srdC7AIwvytM"
 }
+entriesCount: 21720
+
 comments {
   text: "Loved it\tNice"
   rating: 5
@@ -2300,8 +2971,6 @@ comments {
   creationTime: 1411395314046
   authorId: "cid-gp:AOqpTOFkYyR6az3vcQcV2lv4YVUaJQeVorHtE6K7Mrh9M7lD7PHU4mD2d7xtS11jboz-nCbYfJB7VENrZllr6aU"
 }
-entriesCount: 21182
-
 comments {
   text: "Ecg"
   rating: 3
@@ -2351,6 +3020,8 @@ comments {
   creationTime: 1411318109061
   authorId: "cid-gp:AOqpTOGcgqn1hCVYJPtfSEjO5rdBnPhCh4b0uVzCNf1c-s-d_cb9yyLAjZjeyLkqMQ7qw3Fa1LcHgO-uidRTcvE"
 }
+entriesCount: 21720
+
 comments {
   text: "Hope it help"
   rating: 4
@@ -2372,8 +3043,6 @@ comments {
   creationTime: 1411237253568
   authorId: "cid-gp:AOqpTOEjbTrQulFi2tUXFS3ZAe_Gr-M3qNeTH8AnsHKCVgx5LjzdLiW83icOodB3c0g1ZVok_4uzp4-kV7ELtMg"
 }
-entriesCount: 21182
-
 comments {
   text: "Good app."
   rating: 5
@@ -2423,6 +3092,8 @@ comments {
   creationTime: 1411135016430
   authorId: "cid-gp:AOqpTOHEw1lQV72DcG7JsqWWT5NZPEeQT1sxk0XU_JfzwGvKgPndW6_j4qYzH7ybcZR2EhsqAJ2SS2BKfeWxjXk"
 }
+entriesCount: 21720
+
 comments {
   text: "Micky"
   rating: 4
@@ -2444,8 +3115,6 @@ comments {
   creationTime: 1411118365180
   authorId: "cid-gp:AOqpTOHNA0XrUsCHsgtdmSXPXs_JIDff3sT5imnLEPvryYXgsWOqHfw6goigDdcGyKBY50ba9VTqY9TiYjuTaaI"
 }
-entriesCount: 21182
-
 comments {
   text: "Good for you"
   rating: 4
@@ -2495,6 +3164,8 @@ comments {
   creationTime: 1411016525693
   authorId: "cid-gp:AOqpTOFWdpI6svWkjqBWZm6f614H0v32vR4n0D9UcprefkkEGMMpzDSEtc7EegQ05DCJrnPz5cEwgr0-20niZ3c"
 }
+entriesCount: 21720
+
 comments {
   text: "Good\tNice for health"
   rating: 5
@@ -2516,8 +3187,6 @@ comments {
   creationTime: 1410969196064
   authorId: "cid-gp:AOqpTOGpFc3ZbcsMxWN11SO7S5atyayRZX_8gKFRLk_l1RWL76dFxGMqKC82cURaAHOz1MWm2NswnVOO6R08byY"
 }
-entriesCount: 21182
-
 comments {
   text: "Fine"
   rating: 3
@@ -2567,6 +3236,8 @@ comments {
   creationTime: 1410626769474
   authorId: "cid-gp:AOqpTOEdUXUSsQueDALDzJR6iqfJ971bvZ9fFr2Mp-DON03QMPyfpUPhPY6l2970oPzDnW5FOo-BRIncf6CN5bw"
 }
+entriesCount: 21720
+
 comments {
   text: "\340\244\265\340\245\207\340\244\260\340\245\200 usefull"
   rating: 4
@@ -2588,8 +3259,6 @@ comments {
   creationTime: 1410578606685
   authorId: "cid-gp:AOqpTOE7wHBgE6UyWNlo_8IvWitEPXOwVbL3BW3pxATSJioSsTyKDIqdqaBBnDjWVyQOHtusFCyxM1i1Z87ACqA"
 }
-entriesCount: 21182
-
 comments {
   text: "Good\tMay work."
   rating: 3
@@ -2639,6 +3308,8 @@ comments {
   creationTime: 1410476552039
   authorId: "cid-gp:AOqpTOFFPRspzuNZ4BcDSPjecmBp5D8k4EAGmldAvgN9sM4k1PAPL8JThy9R0fiiAyX3dIpvHE3L0zRStYrGdts"
 }
+entriesCount: 21720
+
 comments {
   text: "Cardiograph\tPulse rate"
   rating: 5
@@ -2660,8 +3331,6 @@ comments {
   creationTime: 1410409684166
   authorId: "cid-gp:AOqpTOG1LQHLOlyOXO6f6JhkCeKlNEn2KQccJmM-7F-9Fb8cnMc4kA7TmMlm5KPdWQd_WLnPRstjtphz4NjkaD0"
 }
-entriesCount: 21182
-
 comments {
   text: "Doesn\'t work\tJust used this app with Galaxy s5 sensor and works perfectly..... Good work...                                      Edit :Just received the  4.4.4 update, this app doesn\'t work anymore"
   rating: 2
@@ -2711,6 +3380,8 @@ comments {
   creationTime: 1410254972193
   authorId: "cid-gp:AOqpTOEABaKnt_fWnMzP_jpWq-6fm7NhCpM7tLi_kanm2xy9YXOas9wrxQGV7RPaCgo9RjrYTkf9pRZlr1Y64mk"
 }
+entriesCount: 21720
+
 comments {
   text: "S5 sensor not working\tIts not working kinda dissapointing"
   rating: 2
@@ -2732,8 +3403,6 @@ comments {
   creationTime: 1410185186290
   authorId: "cid-gp:AOqpTOHypZZf0lAZe_lkTceyD4Sol98Tte8Sr2lJQ_JSJIC3hrpUuzLV045PI4hwS_re6DsUZTUNIVC-NqdF2ps"
 }
-entriesCount: 21183
-
 comments {
   text: "Simplicity with accuracy at their best."
   rating: 3
@@ -2783,6 +3452,8 @@ comments {
   creationTime: 1410059520852
   authorId: "cid-lg:AOqpTOEuiqYZa26ASrU6vG8BQN6U021SN3mJStW6q34jKzYpk58pKE1CZahPSmZYPoyXx5Vq8lAFUrc5hYGfcXQ"
 }
+entriesCount: 21720
+
 comments {
   text: "Mrs simona stroescu"
   rating: 5
@@ -2804,8 +3475,6 @@ comments {
   creationTime: 1409876522405
   authorId: "cid-gp:AOqpTOFGK-qhx8apPmm-cffIGTSK98ymruZjGuEexSAkmS5dhTHDtqch_2tX8fzqXXOSyJ5DYWhX87vTN1Zh-64"
 }
-entriesCount: 21183
-
 comments {
   text: "Inaccurate!\tThought it looked good until yesterday when my doctor took my pulse by hand while also watching the Cardio app.  The difference -- 74 by hand, 128 by app -- isn\'t even close.  Plus at 128, my implant would kick me to break the tachycardia.  Going to have to try a different one; got to have something dependable."
   rating: 1
@@ -2855,6 +3524,8 @@ comments {
   creationTime: 1409748222544
   authorId: "cid-gp:AOqpTOHB67Xla8HvT_PqnT88UMRRpfKmOq2_HH5J7QXbsOB8prYo2G5HyHRxgrlcO0N7t83b3O3-N-KUWeiss2o"
 }
+entriesCount: 21720
+
 comments {
   text: "Totally hate the new ui as do many of us\tsensor on s5 turns on but doesnt work Hahaha major fail you idiots even test ur own app or what totally hate the new UI as do most of you who actually know this app have been using this for over 2 years I recently went to go find this app and was looking for the old icon I didn\'t realize that the change the app icon I no longer like the way the app looks and its just not cool to me anymore I just I hate the way this looks I\'m sorry but you know you shouldn\'t change a good thing change is not always good...."
   rating: 1
@@ -2876,8 +3547,6 @@ comments {
   creationTime: 1409622508410
   authorId: "cid-gp:AOqpTOHsKyZNlg_L_gh6nL-zV3xhT-dN_CTbu8EdLUhBBQ02BcvXT2ja1_Aomm8NMEM2RHvurPkwfsTYpBPX59Q"
 }
-entriesCount: 21183
-
 comments {
   text: "Waste of time\tDoesn\'t work at all."
   rating: 1
@@ -2927,6 +3596,8 @@ comments {
   creationTime: 1409488337495
   authorId: "cid-gp:AOqpTOHwyAsysE-Qa0oV8aPj4qoPpW97YsTwqdZEjjYpzd9e1UjzGM-7Nsa1s0aTIfgAFZHyiQtyMevNuWD7hzE"
 }
+entriesCount: 21720
+
 comments {
   text: "Its\tGood"
   rating: 5
@@ -2948,8 +3619,6 @@ comments {
   creationTime: 1409460542430
   authorId: "cid-gp:AOqpTOErluO5tGR5kbMG-NeAerVCktT9Rqvs5nCPNUJL1EX-MfLdYrG1COnppB40JOQhHsMAr__VkMrN56iHV9g"
 }
-entriesCount: 21183
-
 comments {
   text: "What\'s the point.\tDon\'t app it dose not work.And is not accurate."
   rating: 1
@@ -2999,6 +3668,8 @@ comments {
   creationTime: 1409321333535
   authorId: "cid-gp:AOqpTOFZzKuqigMrCqxtUICBidACdqTXUGe6le9sWodd_q5DciayDEL47YPO08VPmlynXw3ITM2fxVfSEIgW8Jk"
 }
+entriesCount: 21720
+
 comments {
   text: "It does not work"
   rating: 1
@@ -3020,8 +3691,6 @@ comments {
   creationTime: 1409266256882
   authorId: "cid-gp:AOqpTOED1nqtLhydI10u6EvL1Y99Yv5Tp1PzF6sxql_NHHg5F01Wijn5mF-3ZaxG9Ysr9xuTf2oLQIwRG4ViZ70"
 }
-entriesCount: 21183
-
 comments {
   text: "Best\tI love it"
   rating: 5
@@ -3071,6 +3740,8 @@ comments {
   creationTime: 1409169561586
   authorId: "cid-gp:AOqpTOHJTEbvFJmwpRCiZIdFQG69Tt5TWvkT86AGaJbNrIYy35QR5RDqhrt958MG6LfAaUqZLZPRJzJbhjIxU4I"
 }
+entriesCount: 21720
+
 comments {
   text: "Dhak Dhak!!!"
   rating: 3
@@ -3092,8 +3763,6 @@ comments {
   creationTime: 1409130777959
   authorId: "cid-gp:AOqpTOFAW8GFT4vMu-XRntNpyT-RV7YESYGmMFbELi_5rKkwga4xiS2XQnD3fMP3I-DbduAaJRLeL061amGYOpk"
 }
-entriesCount: 21183
-
 comments {
   text: "Doesn\'t work"
   rating: 1
@@ -3143,6 +3812,8 @@ comments {
   creationTime: 1409064332566
   authorId: "cid-gp:AOqpTOF99rD1Ggr4CiYwLSOrfJGHqR5F6g0vHK_mGkkhOOP0dwMTNhZCAPnXqjdtw5kdq88op7VfhsoMLSXFgSo"
 }
+entriesCount: 21720
+
 comments {
   text: "GOOD\tCARDIOGRAPH"
   rating: 5
@@ -3164,8 +3835,6 @@ comments {
   creationTime: 1409025138458
   authorId: "cid-gp:AOqpTOF-RGciIR45Jd1-9Z3_QlWtTk4_8qTGPurZgisZ-cOMIkxrrp50V_FBUq14T_SScBJiNHYSktCFSJ-8N_E"
 }
-entriesCount: 21183
-
 comments {
   text: "Nice"
   rating: 5
@@ -3215,6 +3884,8 @@ comments {
   creationTime: 1408932677248
   authorId: "cid-gp:AOqpTOFMyyum5isZT5h-ujdouX2qn8ZdI1rblVEDU5EKaI5PgErGiUz1NOk1HDHZeXRiaOKC6BUHIf_sM7HjYYc"
 }
+entriesCount: 21720
+
 comments {
   text: "It is good for all people ."
   rating: 4
@@ -3236,8 +3907,6 @@ comments {
   creationTime: 1408907028714
   authorId: "cid-gp:AOqpTOGjcSzwtRFgjhl2M9s_aD9674oFjGyRStsX0AAqq9KT2qJ39HZKuYlfmJs17ZzYU9Cjmd0v5cM9lz0Eolw"
 }
-entriesCount: 21183
-
 comments {
   text: "Loved it"
   rating: 5
@@ -3287,6 +3956,8 @@ comments {
   creationTime: 1408893640153
   authorId: "cid-gp:AOqpTOHqfF4IZ9OXxR_xFfdHQb2IxaJ0fo-V6TsQKVysCULb2dcCAej4pT1FssnsP1UqBZ03AR5c8N26Sol7Yx0"
 }
+entriesCount: 21720
+
 comments {
   text: "Simple, clean, functional\tAn option to remove ads would be great though."
   rating: 5
@@ -3308,8 +3979,6 @@ comments {
   creationTime: 1408879156385
   authorId: "cid-gp:AOqpTOFlIiJ6KZiGhGECjXLprgcWMPHm0Ac51Q41HbhCBVxXbIIDY6TatIV3hIRTUGiGyS1LsnFZhlq4OaRj8MI"
 }
-entriesCount: 21183
-
 comments {
   text: "Nice UI\tIt makes really nice feeling. It feels like living in a beautiful hotel, only because of UI."
   rating: 5
@@ -3359,6 +4028,8 @@ comments {
   creationTime: 1408731815076
   authorId: "cid-gp:AOqpTOHODpGbobN_655Wx8Ys6GSR49aT9FfYiN9-Q-L1uJGH8rE20d_whw8dhnLSiNDQu_OJ3U_3aaVYSS-5Np0"
 }
+entriesCount: 21720
+
 comments {
   text: "Great\tLove the new UI"
   rating: 5
@@ -3380,8 +4051,6 @@ comments {
   creationTime: 1408716060710
   authorId: "cid-lg:AOqpTOHY57Wkl1gRMjJsV4ER18adhIPT_YCspJ3XtiKsB5kiYQIm0RPUkaB1wc6gTaKBbmzTHljXm3pIOgRuCts"
 }
-entriesCount: 21183
-
 comments {
   text: "Heart Bit\'s. .\tJust nice..."
   rating: 4
@@ -3431,6 +4100,8 @@ comments {
   creationTime: 1408662262300
   authorId: "cid-gp:AOqpTOHtMncOOqrQ_Wh-mFJPf4gc_eNLVWr1lMsQ8TMU3v8kTChdwFLY9b_OrkwktjDc7ojmIQ46-wyhZrDb8LM"
 }
+entriesCount: 21720
+
 comments {
   text: "New UI\tThe new UI is just totally awesome! Loved it!"
   rating: 5
@@ -3452,8 +4123,6 @@ comments {
   creationTime: 1408654847553
   authorId: "cid-gp:AOqpTOHVFh9korSO3D1PZuJrkk4Oh7W9Mai597wTBUfjQGrXqWQHRP7-oDy7eigZoXukDpjcE01UEJdb9fxcCvA"
 }
-entriesCount: 21183
-
 comments {
   text: "Remove ads!\tNice update, but I wish you could of removed the ads, they are data consuming."
   rating: 5
@@ -3503,6 +4172,8 @@ comments {
   creationTime: 1408634036189
   authorId: "cid-gp:AOqpTOF9ZG_54H0aVcy5qr15KH7I8R7NYiAjRvCmVdC0nXnc-7ZXJoaA9ziBcZZvPXy_VnpI95-hVBhxX3iYyKA"
 }
+entriesCount: 21720
+
 comments {
   text: "It real\tYeah thast prof"
   rating: 5
@@ -3524,8 +4195,6 @@ comments {
   creationTime: 1408630585030
   authorId: "cid-gp:AOqpTOGZYwQxYcOP7migqq5f1sspAsJdLWXSYMfoBSe3X0fFNHpVcAwHgqAjviCt0nQMo77CBIbV9YCDy0drZXY"
 }
-entriesCount: 21183
-
 comments {
   text: "Good application"
   rating: 5
@@ -3575,6 +4244,8 @@ comments {
   creationTime: 1408298479772
   authorId: "cid-gp:AOqpTOEZr_KzGrnTy3VIbhFtspL6yFzW69cA9DuRDnqvaMhDKM_a_FRFXnkK4MSJOql8Y7DCzoUzxsfWKpjgfe4"
 }
+entriesCount: 21720
+
 comments {
   text: "Cute idea, helpful and safe IDEA.\ti was still getting a heart beat with my hands no where near the phone"
   rating: 2
@@ -3596,8 +4267,6 @@ comments {
   creationTime: 1408133228035
   authorId: "cid-gp:AOqpTOEHb2i3VyV0FrWhYS_y6OB5Q71jd9LecXNblR5vCpqclIgPaPFVrwZZv7w5EQReS9yzRPtmejXuHFP2G4Q"
 }
-entriesCount: 21183
-
 comments {
   text: "nice\tsurprised"
   rating: 4
@@ -3647,6 +4316,8 @@ comments {
   creationTime: 1407954378988
   authorId: "cid-gp:AOqpTOFENIZGi4XT2iqUV7hC9-ttt2arghswTjrvEXq3Jg_A2RkBgOa_oTIsdxeFfBNN7S7zweUL2DGOzALRxhg"
 }
+entriesCount: 21720
+
 comments {
   text: "fittuuu"
   rating: 5
@@ -3668,8 +4339,6 @@ comments {
   creationTime: 1407814017114
   authorId: "cid-gp:AOqpTOEIOmDY-jOj9HM3qCaGcxpfYtZIkNE_eUQmNW6lTD8yx9OLVU102NWxBhITukKbFPYO1bW0hmUPO28R_Dk"
 }
-entriesCount: 21183
-
 comments {
   text: "Fantastically stupid\tContinuously and annoyingly beeps and never produces an end reading no matter where or how long my finger was placed on the camera\'s lens. I grew more inpatient after every attempt with no results. After several attempts and over one minute hold times., I decided it was a complete waste of time"
   rating: 1
@@ -3719,6 +4388,8 @@ comments {
   creationTime: 1407481566088
   authorId: "cid-gp:AOqpTOGNkQ2x6On5vRTUaqHoVyFN31MMcXrSBG9dQAIPHGZH2Dlt9SpU6OIolCC2gb44WznzglrLxObMhzUONkY"
 }
+entriesCount: 21720
+
 comments {
   text: "Very god"
   rating: 5
@@ -3740,8 +4411,6 @@ comments {
   creationTime: 1407284644765
   authorId: "cid-gp:AOqpTOHcxR5h_1W2yhaU9J3LlP9LRT722uYg63Jc0MSAOLKG5num5vxbwTRPHQyx0WFzBhP88QVXZQlLmV1Jfl8"
 }
-entriesCount: 21183
-
 comments {
   text: "Ok\tBagus"
   rating: 5
@@ -3791,6 +4460,8 @@ comments {
   creationTime: 1406911869047
   authorId: "cid-gp:AOqpTOGRkbJYKc0S4ixPXcU6CkJ7Fu5FQsk5QzGcnk8N7vd9nCoMZgjwNlyrAejRunlIUVGLItSHydAq-DbDwLY"
 }
+entriesCount: 21720
+
 comments {
   text: "Mr.\tKetchum"
   rating: 3
@@ -3812,8 +4483,6 @@ comments {
   creationTime: 1406832132329
   authorId: "cid-gp:AOqpTOFMGKtbeM9_1m6nQcnf2C64o9xhpIaMpA4eoozjnOKstXCwHlMPw0aqIFn-3nyTXFgUIE0HgJczL7Bpq1Y"
 }
-entriesCount: 21183
-
 comments {
   text: "Seems cool\tGoing to use it and see if it works with my walking"
   rating: 4
@@ -3863,6 +4532,8 @@ comments {
   creationTime: 1406396978246
   authorId: "cid-gp:AOqpTOFHprAcXxqgjjLnQ_0bJ6tZ2_fqq3kSGWuSL4Xb5YDowgQ4I_IX3FgxQ3l45tFwEW-5LcoOwV4NCivN1uY"
 }
+entriesCount: 21720
+
 comments {
   text: "If timer would available"
   rating: 1
@@ -3884,8 +4555,6 @@ comments {
   creationTime: 1406332442773
   authorId: "cid-gp:AOqpTOHKle0PEYX7zpin4R2INBJFKZh3endU3DpS_TxfFyDmcv9aGyylseLZ4oDwFeDFr5FTgGUehJFOflrTUDI"
 }
-entriesCount: 21183
-
 comments {
   text: "Good\tIt is good"
   rating: 2
@@ -3935,6 +4604,8 @@ comments {
   creationTime: 1406051520341
   authorId: "cid-gp:AOqpTOGhugUpn1ptt94b4eI-58Qorjj7a386QcuXgpb9raUAIuz_6PutCefIVdY8nxRSp_N0iT0yLfa6mvXeZKg"
 }
+entriesCount: 21720
+
 comments {
   text: "Refe"
   rating: 1
@@ -3956,8 +4627,6 @@ comments {
   creationTime: 1406017765209
   authorId: "cid-gp:AOqpTOEnLX7das9TmWt_mpu99RRJgoPzG2x0-M3bnOBcaJ4lbcK3Fah6cDR9xRxlQUk3iwxaPcKGcO5eNNCnGFY"
 }
-entriesCount: 21183
-
 comments {
   text: "Fake app dont install\tMy table chair and bed has a heart rate too. Wat a joke this app is"
   rating: 1
@@ -4007,6 +4676,8 @@ comments {
   creationTime: 1405712957948
   authorId: "cid-gp:AOqpTOEjhK9nA2GR3KenKr7IaKktwpMLZRV9a_O1RzlfXS7CvKCsbLSZieO39_ncrdSsou77THjVZw0g3FMgzQA"
 }
+entriesCount: 21720
+
 comments {
   text: "Nothing to say"
   rating: 4
@@ -4028,8 +4699,6 @@ comments {
   creationTime: 1405576397936
   authorId: "cid-gp:AOqpTOE3kkfPRNtDkUYgRHVc-0_aezxYV_u596UcbVSmAyrL9ndMoc3QI6IUUodrbg_91KqsGLqw36dvKse6a4A"
 }
-entriesCount: 21183
-
 comments {
   text: "The reviews are excellent and I can hardly wait to try it myself"
   rating: 5
@@ -4079,6 +4748,8 @@ comments {
   creationTime: 1405277188962
   authorId: "cid-gp:AOqpTOHuiEJYWoD6Cy8w758RU3R_qL-9jtmRQfSeUSVGiO6gNqPZYqQTi1c6wEgBNcKUXglm1utALYCF__DvTyo"
 }
+entriesCount: 21720
+
 comments {
   text: "Good one\tSometimes correct"
   rating: 4
@@ -4100,8 +4771,6 @@ comments {
   creationTime: 1405255511867
   authorId: "cid-gp:AOqpTOGH2PgIVfq3tBfeLu0Sy-HHhbZbRI7S7hzWyGFLSt2Pe_raorXgrA_E2orJGSFISG9E_I_Quc3KZOpP5zg"
 }
-entriesCount: 21183
-
 comments {
   text: "Is definitely accurate, but I definitely like Instant Heart Rate by Azumio better..."
   rating: 3
@@ -4151,6 +4820,8 @@ comments {
   creationTime: 1405153216262
   authorId: "cid-gp:AOqpTOFr5MSBHUKG47lHPySdLRcCxElOA-mPquFt0xdGCy_Bas6fzOV1VjsZFNUuKcW2X62E14M6waoLyhtllOQ"
 }
+entriesCount: 21720
+
 comments {
   text: "Nje  kontakt i bukur dhe mrekullushem ku njeriu mund te konktatoi me rahjet e zemres."
   rating: 5
@@ -4172,8 +4843,6 @@ comments {
   creationTime: 1405079347508
   authorId: "cid-gp:AOqpTOGTJU4qUhQmPckYqLEphpHzHIW5RkvPuOXLqVusQg6Q4DmikBj2e_TV6TfT6wv0J4_yuM2Kuc-uO1Qm2o8"
 }
-entriesCount: 21183
-
 comments {
   text: "Its true"
   rating: 5
@@ -4223,6 +4892,8 @@ comments {
   creationTime: 1404817610977
   authorId: "cid-gp:AOqpTOF7ZshlQ93OcNZwc0jAsvWt-qOP0Ibg8nrcKBCeLPwODlaT1J6e52pll8M2ee_M1rdtOOoMbN1dH6neUbk"
 }
+entriesCount: 21720
+
 comments {
   text: "\320\245\320\265\321\200\320\275\321\217"
   rating: 1
@@ -4244,8 +4915,6 @@ comments {
   creationTime: 1404763033978
   authorId: "cid-gp:AOqpTOGNz5twwH_pYb_O9a5mx2d8CUjPaVwvT-iu3UqtN0BIG-uXwopQgIlxNWWcRkE1mGD4epaTafYxpOzt1VI"
 }
-entriesCount: 21183
-
 comments {
   text: "It\'s good"
   rating: 5
@@ -4295,6 +4964,8 @@ comments {
   creationTime: 1404577253437
   authorId: "cid-gp:AOqpTOGXSW4OMzORZoPSIP_pz-rW1jx8hslF4chPIpBzl-4kLJOTAEfmKmm3pEbAoeoZk_yE5gCTRhIM6l08tJE"
 }
+entriesCount: 21720
+
 comments {
   text: "Very useful"
   rating: 5
@@ -4316,8 +4987,6 @@ comments {
   creationTime: 1404455295506
   authorId: "cid-gp:AOqpTOEpAlcdV0h9fxstbM9ISVUBeSFCLrA1ZVrlco9WUdoECgPBAmnr1mS00UgFcxkk1sIAyvpXqerlQ3nBLMY"
 }
-entriesCount: 21183
-
 comments {
   text: "Time waste"
   rating: 1
@@ -4367,6 +5036,8 @@ comments {
   creationTime: 1404335068130
   authorId: "cid-gp:AOqpTOG7b1ZGv6kM1HlpQYbxOSEiZzmnnLTadTh584oMWOUJjGn_A9WsYLPEgFQRU5fQ1sXk7FaTeVaFCAAKFhk"
 }
+entriesCount: 21720
+
 comments {
   text: ":-)"
   rating: 5
@@ -4388,8 +5059,6 @@ comments {
   creationTime: 1404278648321
   authorId: "cid-gp:AOqpTOHlbDdm2qCjD-yWgloqF2VVoBvs_wNk0ztEHAWr75uHEFO_8QcKcEmtlq49-mFpgYm-uPm1uTLL4y5XIUo"
 }
-entriesCount: 21183
-
 comments {
   text: "Great\tI tried many apps and this Is the best"
   rating: 5
@@ -4439,6 +5108,8 @@ comments {
   creationTime: 1404054847820
   authorId: "cid-gp:AOqpTOFMpleEmFabn3DoeX3vL7KPZH-mrlXu5srVwyh7dlDsZfulHyZy2S_OMuhEFXO15Z_AmTQh9vI_16LXvPo"
 }
+entriesCount: 21720
+
 comments {
   text: "I like this"
   rating: 5
@@ -4460,8 +5131,6 @@ comments {
   creationTime: 1403815965881
   authorId: "cid-gp:AOqpTOEELlwGw--CKDnO8o_-Zvi_mz0Jf4hoxKnG2oVnrDte4L-caiKe_rELNqJTv5y6bL1jU3inZdgMHzgQNWw"
 }
-entriesCount: 21183
-
 comments {
   text: "Crap app, its based on how much you move your phone"
   rating: 1
@@ -4511,6 +5180,8 @@ comments {
   creationTime: 1403707927882
   authorId: "cid-gp:AOqpTOFctI2iKe-6Ac8VRc3wutfhkdQvgTy2w_LMp3CaR552AlWKUgM4U1WFfWT-l2v016oL98nipDysqeGeE9A"
 }
+entriesCount: 21720
+
 comments {
   text: "Ekg\tGreat, but no idea if normal"
   rating: 4
@@ -4532,8 +5203,6 @@ comments {
   creationTime: 1403686102384
   authorId: "cid-gp:AOqpTOEwAqgZLEM0VtpMOBhgfYgDyYybf3Vy6WWTT0gFR2pGU8B0xPhiYW6fRLo72z7hDYgxHX5gCszKeqjLA68"
 }
-entriesCount: 21183
-
 comments {
   text: "Temperamental\tDoesn\'t really work that well"
   rating: 3
@@ -4583,6 +5252,8 @@ comments {
   creationTime: 1403360900666
   authorId: "cid-gp:AOqpTOHKHV5Sg9yFBQ-CpVsP48GDR-PtITVA1ZiFLjied1LgnE35wnsZsHzhrH62jEAvZM8M987fkZAXXaCYJTo"
 }
+entriesCount: 21720
+
 comments {
   text: "Fantastic\tFinaly a good heart rate moniter"
   rating: 5
@@ -4604,8 +5275,6 @@ comments {
   creationTime: 1403244291358
   authorId: "cid-gp:AOqpTOE08HHxKhvvt_bcqOTkHLoC9_cAtxSKtVnGg-ed0e08njqMHkApBIGkpEkGU03RBGJXRZKQ275OX1j_IWo"
 }
-entriesCount: 21183
-
 comments {
   text: "King"
   rating: 5
@@ -4655,6 +5324,8 @@ comments {
   creationTime: 1402976329442
   authorId: "cid-gp:AOqpTOEhwpDgX_K0OJLfZRyE-7MG-NmdTXVszAsA6fTT37hkrUGzM6FclRGvUKMU01fhHh7HR02CKNwjvzkdC2E"
 }
+entriesCount: 21720
+
 comments {
   text: "Perfect one\tReally nice"
   rating: 5
@@ -4676,8 +5347,6 @@ comments {
   creationTime: 1402933059298
   authorId: "cid-gp:AOqpTOEZxZUE2vov8PlNdNvGlmzB7b9V7L7o9QVoLwcjk6DpbsD38w3-DR3f5H8l6HK4DyV5pvwhTK9b5bbltKw"
 }
-entriesCount: 21183
-
 comments {
   text: "Pirosky4real2020.sp@gmail.com\tExcellent"
   rating: 5
@@ -4727,6 +5396,8 @@ comments {
   creationTime: 1402708879944
   authorId: "cid-gp:AOqpTOFbJL32Ac5j4fLR-_dEl-6kF2GoGIv7vEQSyxAea1GQgYeaTLyOk1xQDaDoYZDKfEiS69dzV5mhqBD_8J4"
 }
+entriesCount: 21720
+
 comments {
   text: "Good"
   rating: 3
@@ -4748,8 +5419,6 @@ comments {
   creationTime: 1402640517741
   authorId: "cid-gp:AOqpTOFwLEtijSMRkRuHEP9x9hSQDTfytbL0yEu3AQA7YaOdZugWm3QZQOkkk_e_Q0yqtp3NG5gXuou3Vzk8EQY"
 }
-entriesCount: 21183
-
 comments {
   text: "Satisfactorly"
   rating: 5
@@ -4799,6 +5468,8 @@ comments {
   creationTime: 1402475738735
   authorId: "cid-gp:AOqpTOEI1m4uHkpzoYM0xiKhBUdEghnYOfTfRbLpF6Tml9OFE8z6MN1lH0_dDDH5NP0GQNrkH_3kFrV6pKBVepo"
 }
+entriesCount: 21720
+
 comments {
   text: "Does not work\tBogus"
   rating: 1
@@ -4820,8 +5491,6 @@ comments {
   creationTime: 1402289596197
   authorId: "cid-lg:AOqpTOHZ9TE98ssBp5z5sP8A80gzeux1npKDnOtuflL-lfDub_9UrmnVX4ShaTiSE-8YqFC-AlEFUhqk1s3Z5NI"
 }
-entriesCount: 21183
-
 comments {
   text: "Maudaha very poor apps"
   rating: 1
@@ -4871,6 +5540,8 @@ comments {
   creationTime: 1402025045742
   authorId: "cid-gp:AOqpTOGBnzljR8xE-2GcGaVHdkIUyC__0FSi2AowiwOBKbIZtgtT5iPCo6oQN3udGFviPseCRIA9lxX4K4cAg94"
 }
+entriesCount: 21720
+
 comments {
   text: "Good but sometimes not giving accuracy. fix this."
   rating: 4
@@ -4892,8 +5563,6 @@ comments {
   creationTime: 1401969593240
   authorId: "cid-gp:AOqpTOHhcbDf5oRbRm36H1q7fSUU48do05ENt3UBNAgAYBMh2FQOs1CNxL6XOuHV4RAIOprR2TnmGIylH5mSKSo"
 }
-entriesCount: 21183
-
 comments {
   text: "Good\tIt works but I don\'t know how accurate this is.."
   rating: 3
@@ -4943,6 +5612,8 @@ comments {
   creationTime: 1401648472878
   authorId: "cid-gp:AOqpTOFtytj6U3YFTp_fGdGJW6ipXTM5S6lTkzy89vYvoLdF3qXQcNQbWhGfQrJhplKuC6KQutFYeipHpTAr0dE"
 }
+entriesCount: 21720
+
 comments {
   text: "...S**t\tAMAZING"
   rating: 5
@@ -4964,8 +5635,6 @@ comments {
   creationTime: 1401489522462
   authorId: "cid-gp:AOqpTOHNmtdY-BmHFhsLtHixB49uYP53XleIYEPDBcTjzmvcQb2eX8IJSa0HRZ5ZcUMOuYn1ihMtCXdf4N4HMyU"
 }
-entriesCount: 21183
-
 comments {
   text: "Superb\tExcellent"
   rating: 5
@@ -5015,6 +5684,8 @@ comments {
   creationTime: 1401255430788
   authorId: "cid-lg:AOqpTOGYwp4z8bkWvqN88MG3S5sB4n-c2L3iV1Pk75jxHGNFjW-GdbXQw_YkjwXZYRy_TXC7Q84ENZz9StEKtho"
 }
+entriesCount: 21720
+
 comments {
   text: "Pretty neat\tPretty cool seems  accurate!"
   rating: 5
@@ -5036,8 +5707,6 @@ comments {
   creationTime: 1401175662696
   authorId: "cid-gp:AOqpTOEHeuTD74IqiAtg2y1ms6tMh2vkre-vIo2WVCAa3Huf_OvWqS85JNJbtOs7QJuMS4oMhNvGFPzpbe7IUSo"
 }
-entriesCount: 21183
-
 comments {
   text: "Excellent\tWorker"
   rating: 5
@@ -5087,6 +5756,8 @@ comments {
   creationTime: 1401068875105
   authorId: "cid-gp:AOqpTOGUiDEQqBPr5AXfazV6yOMDz_7Njmw6hldUQQPVZl2WUA561Eqkyqv1xosMU1e6e6AWZngJfcZjKZQ_Q74"
 }
+entriesCount: 21720
+
 comments {
   text: "it don\'t even work for me\tI\'ve tried re-adjusting and it still don\'t work :("
   rating: 1
@@ -5108,8 +5779,6 @@ comments {
   creationTime: 1401029851979
   authorId: "cid-gp:AOqpTOHQ_x59jXaCS0vXq2_lOzpkwf7OQf3idwknNShEdVFbNV85GUCQLb6NL1y9Ak1JavtItYVqz3ZKieK8RHU"
 }
-entriesCount: 21183
-
 comments {
   text: "Ok\tis it true ?"
   rating: 5
@@ -5159,6 +5828,8 @@ comments {
   creationTime: 1400825780703
   authorId: "cid-gp:AOqpTOGYeJH7NZuEXfXXyZOmaYTs6XwaPq1ioOrubtRZj0lb6EPJPcjJd-tzwmu7OE7x6209SDN3OEAJF7xGjrc"
 }
+entriesCount: 21720
+
 comments {
   text: "Three stars are good for u"
   rating: 3
@@ -5180,8 +5851,6 @@ comments {
   creationTime: 1400652337576
   authorId: "cid-lg:AOqpTOHT1qRgaJCjK1bRlJ82L31zwGFnWe8lHncN8PF69HhS0FXI4qf08qBiDUmlDqAeQDtS8oq9LKyMrw2ppso"
 }
-entriesCount: 21183
-
 comments {
   text: "Very very poor app ..!!\tIt gives different readings of one person simultaneously .."
   rating: 1
@@ -5231,6 +5900,8 @@ comments {
   creationTime: 1400509024523
   authorId: "cid-gp:AOqpTOFuIFXzw-m6wFF7uSbFmRjnsMX--hQiNzNCuVRLhehGy-_nwNZQhyu6ThNP4A_HqLPgljag1FhIivkQMuA"
 }
+entriesCount: 21720
+
 comments {
   text: "Download fast"
   rating: 5
@@ -5252,8 +5923,6 @@ comments {
   creationTime: 1400482962376
   authorId: "cid-gp:AOqpTOETJSBsbUce9rvZAR1j-xRiPFb0QASPRfEc-laH2yAp1FpbdpDgAtnGSMU0vfrUSz_YLcibDvn9k5Ty2Yw"
 }
-entriesCount: 21183
-
 comments {
   text: "Mr mahmoud\tGood"
   rating: 5
@@ -5303,6 +5972,8 @@ comments {
   creationTime: 1400290365949
   authorId: "cid-gp:AOqpTOGUyAF10X44pEh_VSca7bcEkEDxk8ecCWd49cAtEXps5sgV8wIQ_BzmTTCp5CU5Gc_OqM0ydom4G_g2Mqk"
 }
+entriesCount: 21720
+
 comments {
   text: "Surprised\tI was doubtful it was going to work but checked while using a SPO2 probe on and it was accurate but as the app states it is not a medical device. So for a general checking of your pulse rate it\'s perfect to show off to mates. Otherwise learn how to check for a pulse using something called a \"finger\" and a watch can\'t go wrong."
   rating: 5
@@ -5324,8 +5995,6 @@ comments {
   creationTime: 1400163005387
   authorId: "cid-gp:AOqpTOEEZsrzC4C-GWen-l-GORPMT4NzN8tYk9tVEgj9EYtDde7yzKR4ETqTelrrfgfo_zzkwRC2RsA5YgnV9PE"
 }
-entriesCount: 21183
-
 comments {
   text: "Above average\tone of the more accurate and you can get all of the previous results in a nice note pad style theme."
   rating: 4
@@ -5375,6 +6044,8 @@ comments {
   creationTime: 1399928846576
   authorId: "cid-gp:AOqpTOH79DT6nF-fpNyeKw89yCC8_z6GkNWBAWw_z3Ba4tOUGQmdy5HtMAo9TNyfHeiKcu9FQ6PE0Xls77rXnE8"
 }
+entriesCount: 21720
+
 comments {
   text: "Nice"
   rating: 5
@@ -5396,8 +6067,6 @@ comments {
   creationTime: 1399887444579
   authorId: "cid-gp:AOqpTOGtCq7sDenOB70suRMQU-TyTckfEQSgRULWyt_Yw1MoXdKeyghiWg30Mjzy98mdkp6M0krf65EFfBT3nlE"
 }
-entriesCount: 21183
-
 comments {
   text: "Ba\tBa"
   rating: 5
@@ -5447,6 +6116,8 @@ comments {
   creationTime: 1399575994177
   authorId: "cid-gp:AOqpTOGc7kC--s9PHmhrHBDZ1iKaXeQZVD661FC-GNKAX8TVlz--59rUh-L3mWXPqVN99I-eA8KJReJM9hP0epc"
 }
+entriesCount: 21720
+
 comments {
   text: "ECG : Rate, Home monitor etc okay..\tIt should not be real ECG, but I suggest to improve it as early as possible, because I think it might give us more & more informations. ( because MRI woks on Hydrogen movements).  best wishes. That\'s whay I give 4stars!"
   rating: 4
@@ -5468,8 +6139,6 @@ comments {
   creationTime: 1399405156295
   authorId: "cid-gp:AOqpTOHsql8W2c7qiZ9xlXIxXISzi3Wt5HH97eB9JUxpE6l-OsVR8gZw-SiLPthYEM3mFDAoxqiFurGiy3Wvu10"
 }
-entriesCount: 21183
-
 comments {
   text: "Horrible\tThis app sucks I put my finger on my camera andit didn\'t even work:("
   rating: 1
@@ -5519,6 +6188,8 @@ comments {
   creationTime: 1399130879282
   authorId: "cid-gp:AOqpTOH64kFqAS5b-hfqh0OdJ7YU2CNtxnfbPuQ5LCSGXL1cKePRkkfgidts9hhDk1WPB3mX7bQQU6lNyyzIQsA"
 }
+entriesCount: 21720
+
 comments {
   text: "AMAZING !!!\tAlthough not accurate but this is the closest u\'ll get to measuring ur heart rate with a smartphone !!! (provided its not a galaxy s5) P.S. u need a flshlight on ur phone  ;)"
   rating: 5
@@ -5540,8 +6211,6 @@ comments {
   creationTime: 1399059797566
   authorId: "cid-gp:AOqpTOHbpzt25Ypbym3pCNZKMArE3usu10NH9OFuqzNwxrsMi3gw6m0g0W7aNV4I7PEfG_yhzDJqQNYLNSSX7_8"
 }
-entriesCount: 21183
-
 comments {
   text: "Excellent work\tReally excited to use it!"
   rating: 5
@@ -5591,6 +6260,8 @@ comments {
   creationTime: 1398860753844
   authorId: "cid-gp:AOqpTOEk88EUIk0VvPjxOGgxS7JFd4HMU-xc0JNRDTW81m7LZp9OUqdDJDBy1wHHWVsge6Q7w9ncGFyOs82QjCQ"
 }
+entriesCount: 21720
+
 comments {
   text: "Amazing\tThis would be even more amazing if it would actually read your %SpO2"
   rating: 4
@@ -5612,8 +6283,6 @@ comments {
   creationTime: 1398746534384
   authorId: "cid-gp:AOqpTOEv2YQQpk4J3anq_jaAz8_tmX8C3y-jSG3NISuzjXITERfHAF8ijLH6qLJj_1hMSOzPp2iMdvhE-vMGNXg"
 }
-entriesCount: 21183
-
 comments {
   text: "Excellent"
   rating: 5
@@ -5663,6 +6332,8 @@ comments {
   creationTime: 1398530831815
   authorId: "cid-gp:AOqpTOEyk1dTohPx4jijHOPrMQDvFPtfTLlYBK7Qaj7VuXeaFf8AaHJEtKSuaTeE5P0cw5IgKrc1pnwtBOUAEmA"
 }
+entriesCount: 21720
+
 comments {
   text: "Seems to be work very well but when i put my index fingure on the lens it won\'t work.When i put my thum on the lens it works.How come.      :( I like it but  my index fingure.    -_-  :("
   rating: 2
@@ -5684,8 +6355,6 @@ comments {
   creationTime: 1398425079520
   authorId: "cid-gp:AOqpTOGR4W1YO1NK75F9oOWA9hf1Bjs28DUb6sPCs_1gV-EO-qJ4nRAUG-zsvLjXaGi0eCnxmFhQ84PMkn5Qq2g"
 }
-entriesCount: 21183
-
 comments {
   text: "Superb\tGood enough"
   rating: 5
@@ -5735,6 +6404,8 @@ comments {
   creationTime: 1398273446438
   authorId: "cid-gp:AOqpTOFDPlBCzbrXksQKtY5nkDk23FDbKqS06gK7FdPtu2smI08rPD-RHX5QlAKHrUJrphT7r9Ly4Rn3gYmUh7Y"
 }
+entriesCount: 21720
+
 comments {
   text: "Nice app\tThanks"
   rating: 5
@@ -5756,8 +6427,6 @@ comments {
   creationTime: 1398189918425
   authorId: "cid-gp:AOqpTOHVBdXevME5q4BckdcPkwjtDNrANmLnq_-nQdblEMli02DX9mtHdkI4p6PelBeGDVDHwV9__lg1J-3TwHg"
 }
-entriesCount: 21183
-
 comments {
   text: "Super"
   rating: 4
@@ -5807,6 +6476,8 @@ comments {
   creationTime: 1397912199455
   authorId: "cid-gp:AOqpTOFJx1s_VAkL7LKoJeIMaZfVctsRADX3HQOw1th-hs9cg7S8b1KppMfORibqxhoXIUMA-kFunhX8qWg7T1c"
 }
+entriesCount: 21720
+
 comments {
   text: "Waw it what i have been looking for"
   rating: 5
@@ -5828,8 +6499,6 @@ comments {
   creationTime: 1397811968663
   authorId: "cid-gp:AOqpTOEnO6IgWy4huhoYC1m_jxvUKXCOdnaB6uIEXlZy0eJXQOKW8QsQLwZqaImimFxwXEJIt1ieVMJTIdd3vu8"
 }
-entriesCount: 21183
-
 comments {
   text: "Like\tLike"
   rating: 5
@@ -5879,6 +6548,8 @@ comments {
   creationTime: 1397398360359
   authorId: "cid-gp:AOqpTOH-Pfglqgpiwu_k4LJCABi3q2V7X3fIVD-qUHYwauPHt_oWlEVhjFvjOg2tSvnOn8ciDGJtN74hvs-IrRc"
 }
+entriesCount: 21720
+
 comments {
   text: "Nice app\tNice app but a bit slow and laggy while using"
   rating: 3
@@ -5900,8 +6571,6 @@ comments {
   creationTime: 1397360669940
   authorId: "cid-gp:AOqpTOFw2ySeQOPAl7XtkQ882Ok3CcC9kQ4L2ljjuESNGqenbt4B6BDrIeCN25hIWeBDxBFUuzdppETTA74RCXs"
 }
-entriesCount: 21183
-
 comments {
   text: "Google user\tGreat"
   rating: 5
@@ -5951,6 +6620,8 @@ comments {
   creationTime: 1397193307650
   authorId: "cid-gp:AOqpTOG1ATeN4U5vmQfdP7gLzDueEKFDMdDTloT0v_ns32JSf-qPHNdgMthEfFj1olqNMRt4DdVcnGA9K_7pOAg"
 }
+entriesCount: 21720
+
 comments {
   text: "Great app"
   rating: 5
@@ -5972,8 +6643,6 @@ comments {
   creationTime: 1397146532228
   authorId: "cid-gp:AOqpTOHSuwYvL7D3hBx1MDJr5Yx5KpZPJFCMI6LJzrkL9qDd1jIdmzxiBaVreoQO3jrO95OWZ6zSrVQt5jHW_j8"
 }
-entriesCount: 21183
-
 comments {
   text: "I try application\tPemilu 2014. Rabu 9-4-2014. Tps 3 Setabelan, Surakarta"
   rating: 5
@@ -6023,6 +6692,8 @@ comments {
   creationTime: 1396873803956
   authorId: "cid-gp:AOqpTOHvAKVKAtgThxmO6t979wtEFjTp_zUUHUOsN--5qoPwBMxF7LePVzKokgpTu9LDG6qaVXOYU1XCzG953ec"
 }
+entriesCount: 21720
+
 comments {
   text: "Nice App"
   rating: 5
@@ -6044,8 +6715,6 @@ comments {
   creationTime: 1396622018543
   authorId: "cid-gp:AOqpTOFRsgaBiWeTyKe55f0VIG3rqbRC_5WYTmuV7ehE9y5F91xdrmuRCF6F5M71L4Sig8NZeUn5qfTt_0yiPmY"
 }
-entriesCount: 21183
-
 comments {
   text: "Very nice"
   rating: 5
@@ -6095,6 +6764,8 @@ comments {
   creationTime: 1396240250156
   authorId: "cid-gp:AOqpTOFMngYTLxrnYTOVwQRcJXxv6rV4b4T4D1sgvOAFUzIw962zWXpVroW4QmCSPj3gk276RZGCc45GU2sB_L0"
 }
+entriesCount: 21720
+
 comments {
   text: "Pity can\'t turn the sound off without muting the phone !!!"
   rating: 2
@@ -6116,8 +6787,6 @@ comments {
   creationTime: 1396111193520
   authorId: "cid-gp:AOqpTOHOgeR1PRQvXOFZ4rncZc5nfhfZRcw_YvhzBbNs0UL40w8KmPZuPx4IN4_m64YRvUapn8xSY12ZC6L-NvE"
 }
-entriesCount: 21183
-
 comments {
   text: "Good\tIt is very simple to use"
   rating: 5
@@ -6167,6 +6836,8 @@ comments {
   creationTime: 1395845526278
   authorId: "cid-gp:AOqpTOEGScSY9GMKeGoC5WAzDDgM0fqycpqg4ooD21_007dkCydzCQX05922wicEdsf069vluJpddLpDCzHBcT4"
 }
+entriesCount: 21720
+
 comments {
   text: "GREAT IDEA FOR AN APP:):)\tTHAT WAY EVERYONE CAN KEEP A CHECK ON THEIRSELVES!!"
   rating: 5
@@ -6188,8 +6859,6 @@ comments {
   creationTime: 1395761186799
   authorId: "cid-gp:AOqpTOGdid-STqRR7bgBEy0hne-USc3gAxQ6Msu9PT6VcPE161eRcepAQjYbhFplJOJ4pozqGnL5TE-cJNKw87w"
 }
-entriesCount: 21183
-
 comments {
   text: "Simple and Accurate\tLove this app"
   rating: 5
@@ -6239,6 +6908,8 @@ comments {
   creationTime: 1395516927704
   authorId: "cid-gp:AOqpTOFayDlna2NQRUcBalLcZapBo5jyhw-47W06RPVEPCrAlRjDzr-_V2JpJy_RQLitAOy6uEnPZxNlzHvCN54"
 }
+entriesCount: 21720
+
 comments {
   text: "V nice\tGood app"
   rating: 4
@@ -6260,8 +6931,6 @@ comments {
   creationTime: 1395383019274
   authorId: "cid-gp:AOqpTOHwR48fDkwNM0mxVNZw8DphzKuio6tt0vc9v22FjLv-pwXVRMQo2gscAMAgq9XdQgfMcMC4DrlNFZwpDm4"
 }
-entriesCount: 21183
-
 comments {
   text: "Crappp...\tUseless...completely."
   rating: 1
@@ -6311,6 +6980,8 @@ comments {
   creationTime: 1395209517754
   authorId: "cid-gp:AOqpTOE_gjk0DjcpmMgKO33XT2LP-MRaYyV3nrjxZlKe1MOL_6jCvpOYPC0xpeu1Xj_yMdKBC7ihRgEIP-Pl0Go"
 }
+entriesCount: 21720
+
 comments {
   text: "So correct"
   rating: 5
@@ -6332,8 +7003,6 @@ comments {
   creationTime: 1395110744973
   authorId: "cid-gp:AOqpTOFiUEj6JpCH3Bmfl91-_sjnLj-eGyl023SrP-z3LgfkwOIBPEHbOs23P_xs1QxuUJSs_zK_eSrGlP49dmo"
 }
-entriesCount: 21183
-
 comments {
   text: "Love it.\tVery accurate and easy to use."
   rating: 5
@@ -6383,6 +7052,8 @@ comments {
   creationTime: 1395017233270
   authorId: "cid-gp:AOqpTOFz6vDfhoyOaP2zNSYUH3HpmeioaqwKJ_rAfX9Q3OBacp1xkd-CWDut3FY8UECx3xq3mIB-JK00_9ydk0Y"
 }
+entriesCount: 21720
+
 comments {
   text: "Cool"
   rating: 5
@@ -6404,8 +7075,6 @@ comments {
   creationTime: 1394904118103
   authorId: "cid-gp:AOqpTOF-0WM2SXltVPrwFc-SbTC2Z9OLru8n3vOMRcnfpZ7zIll_fk3n8UioaEaKcuEGH2mhX6ATOQpdqlQfJrY"
 }
-entriesCount: 21183
-
 comments {
   text: "So cool\tI have a pacemaker because my heart beats too slow and this will really help keep track of my heart rate."
   rating: 5
@@ -6455,6 +7124,8 @@ comments {
   creationTime: 1394705960009
   authorId: "cid-gp:AOqpTOEtMNgjYaXa73fi7iAWUdquIOTym7YEW2oSX4fVbCW8YizTWVGWmKWGKJQI-XNT1sN7Wk4GOkZBVLgNo1U"
 }
+entriesCount: 21720
+
 comments {
   text: "Fake\tEven if you take your finger off it it still keeps on going:("
   rating: 1
@@ -6476,8 +7147,6 @@ comments {
   creationTime: 1394554527171
   authorId: "cid-gp:AOqpTOGyVEkEXI6Axh6tfpfxoHyu8clDWqmtvBOzpITJ-3XZ7hZx1boBeR6IwBpqx4I20qt1fa4FEp9qGuGAN6k"
 }
-entriesCount: 21183
-
 comments {
   text: "Terrible\tAparantelly according to this app Im dead"
   rating: 2
@@ -6527,674 +7196,5 @@ comments {
   creationTime: 1394469795447
   authorId: "cid-gp:AOqpTOEsbLx6WZNBkCxm_b7cgG7kIkzWtaIsDxXf_AwG0N1nplL2lSe7BY7t5Zdus24XWPqHh8NGp97KpziAtXE"
 }
-comments {
-  text: "Nice\tWould love to get it right at all times"
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1394465593900
-  authorId: "cid-gp:AOqpTOEcGSzQfO0mzFx8iwiO9obbsnAKq560mtQRjymWPSNukjLfRkZwYtB6mZz-I3O0nbZ-c8oUtdXHxDO54Nc"
-}
-comments {
-  text: "naresh"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1394453669193
-  authorId: "cid-gp:AOqpTOHEmwg6i5JMeU2DhWsCgmFIu62FsuaU0750Frnx6xLiRgOicCHC2Lq-owlviLah8Br6kt2s0ZTah5UvMk8"
-}
-comments {
-  text: "Good\tPretty good features"
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1394442413794
-  authorId: "cid-gp:AOqpTOH00CXwBGkm8CKDNLuC6uN-N2cokQQv7JOoWHYW2XNZtjbegqMGSJsNlE858yR-w2gW351ue7KXv7BKbVo"
-}
-entriesCount: 21183
-
-comments {
-  text: "Pretty neat\t+ Neat + Quick + Surprisingly pretty close reading! - Forces flash light on (even when in bright environment) - No mute button"
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1394418100449
-  authorId: "cid-gp:AOqpTOG2cW_CUqXyC2khxnDNE1aSehy_rPWvdvqK99Sjn3-mD2nZ2Apwrh8Rudfk9BMHh6Sdhk_J20JKn3d0fu8"
-}
-comments {
-  text: "Works\tI verified this with a nurse and she said it was pretty accurate. Mind blowing"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394416069135
-  authorId: "cid-gp:AOqpTOGMAvP9Y0kPwIyBXmJbftofPf7mYSBlDCod-_AeqhrTQp3PvfKhn1o3i99HXvoo-g-CkOw-CmtieIxPcPs"
-}
-comments {
-  text: "Simple\teasy and convenient"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394390360429
-  authorId: "cid-gp:AOqpTOF2yBH2zuxBZmh5mNZtuC6jausIfK1qJnrWOtZzMWyJIK-C0wavM83gMDWAXyddJ0BWgPmg5Olq9C0ioAw"
-}
-comments {
-  text: "Good app\tNic thinking"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1394382536441
-  authorId: "cid-gp:AOqpTOHdzknNNPmW8odII4t5rWkRt_UA7SNP9i8zwi49wk33KIkdr6EQTioKqnl5mAOIFq2g0QBIrxFByjPgCpU"
-}
-comments {
-  text: "*****\tExcellent"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394340097981
-  authorId: "cid-gp:AOqpTOEcPP8KltvCrVBOxrmv5JVlRlY_cFp3emdjwH7LSdNVZ5nPEV_K-DXw5UYpvMOSsfJtZ6KCyvEqfljz9Mk"
-}
-comments {
-  text: "Poor\tI think that is a shame of any app. It is telling the heart rate of a living being 0"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1394301222788
-  authorId: "cid-gp:AOqpTOHtnLvRIOjO5bSHFwBJQId0ODMPoh0V066d_hWDeE1F6-pDiem7k-hfV9OK0kKEcNIpggEgGl4WI9JxlYo"
-}
-comments {
-  text: "I Can\' t believe!\tIt workss! See your pluse rate and this rate for a minute! Pulse rate of my body was rising from 68 . It should 68 too"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394288503708
-  authorId: "cid-gp:AOqpTOGCa_-eviMKD-_5p0jUlu15v99IGWkFbiutAeALWGHCl49jnL4WL6_zrGgGLCvoI8ZbYxTI6JTm4cKrekk"
-}
-comments {
-  text: "It\'s ok\tOk.does the work.,love it"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394259951830
-  authorId: "cid-gp:AOqpTOGa8XPvnzxpD3YMQF7svSbhNFwh7AXtUIXaTE6v3Gs0fka7elyD5NHA15kYP_51Vd3PPB5EOn2EmVLAF0k"
-}
-comments {
-  text: "Very go0d app\tNice app"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394249967658
-  authorId: "cid-gp:AOqpTOEJr_6zHjC_oflBgS52TjgBCF1m8Qd8CIpniJ5zeUuYNOvQbQdTJTBG7EX1VDNoJIt1J7Qd8Ua-a2oVsW0"
-}
-comments {
-  text: "Excellent\tUseful it\'s good"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394211758052
-  authorId: "cid-gp:AOqpTOFnACWpwxAIevL3mlE6mnv0ecHQl709Ye_4EvKAghLMpALsUS49lhHZSpSnlBE44xnsM_eOCs3QefPsV5E"
-}
-entriesCount: 21183
-
-comments {
-  text: "Archos\tGood for your health and well being a good strongly recommend app"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394203434926
-  authorId: "cid-gp:AOqpTOFuEwkjRqtkDqsHgKfGoPFvzAarI_LPL_9a3M49xHP6jUVI_xAMyFwJfi2of1nWhJtMD9XWw74YKEh0WXI"
-}
-comments {
-  text: "Not bad\tBut not very accurate results"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1394202742145
-  authorId: "cid-gp:AOqpTOFH98gHv0-8b2WduLZNTt8mJ9dR_N5ELdP0vuL3bu9CLXedWkQdipiEQra4jEZGutXKTBHx1MvmI9QfV5Q"
-}
-comments {
-  text: "Works very well\tFinding myself in hospital hooked up to a heart monitor i decided to see how accurate the app was. I can say honestly that the read out was the same as the hospital heart monitor. 10 points for a very good app that actually works as described."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394197553141
-  authorId: "cid-gp:AOqpTOEyPwDtBtgkHaOF_iog5wcm2GcI01XCCCVIo9wqLXYtcY2JoUig3feCc4KpFoMt1Cm4pg0pcGmbo69sjOc"
-}
-comments {
-  text: "good app.\ti used zs app. it\'s result is some what nearer to the exact one. i appiritiate it. so good"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394112802462
-  authorId: "cid-gp:AOqpTOFVErelDDMFDPtxEruKKNmvjElkMai_W-dhdJZA6T6v00KP8fjQ2HglAZzKAFx_l6SQozbFK4V4GeQOp1E"
-}
-comments {
-  text: "Pretty accurate"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394085313535
-  authorId: "cid-lg:AOqpTOHkkfluH3lYfjaVmPyx63GTTGdSJBTItgu54WAmP-Ct-X-oM6IAX-xv0KFuL0CwafBdWdqKl6qye09eoME"
-}
-comments {
-  text: "So sweet aap"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1394067412294
-  authorId: "cid-gp:AOqpTOHPuzGRoEz0vGTaR-5n2KF0eoLhKKUraIWMPnxNGRTuQV---YU8yTK-IctRu5Yx9LKJSz8FtfAtzGm1hCU"
-}
-comments {
-  text: "Good\tExcellent"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1394042691755
-  authorId: "cid-gp:AOqpTOGXfFX9HrfCP8BPuBwJZzojcATC5Sw6uvmq7v4ds-9LSJJGcY1VcsaVC2ESZGOhtP639uapS5Kqpvm5XsY"
-}
-comments {
-  text: "Did not like it"
-  rating: 2
-  authorName: "A Google User"
-  creationTime: 1394017046540
-  authorId: "cid-gp:AOqpTOGwjbJtLhSpTrq_KGd558k0MlZdHRnlN2Ic-PFan1921An6lkZwbGtj4PtkVb2ADetHP5Ih8gxN_wFmkK8"
-}
-comments {
-  text: "LOL, what the fudge?\tIt doesn\'t measure your heart rate. Just start this app then aim your phone cam to a source of light and you\'ll see what i mean."
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1394016039857
-  authorId: "cid-gp:AOqpTOFZRXlRticg-mBSuXPWQ7ceUOdgzISW5rRPAnh55I5oXHLNqDRljReP7GYf86UV87iy0jqsacx43wh1uSE"
-}
-comments {
-  text: "Nexus5\tPerhaps on other phones it detects pulse better, but on nexus 5 it is extremely inaccurate.  I do love the design and graphics. Sound is really cool too."
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1393930543843
-  authorId: "cid-gp:AOqpTOGZe9YnMbCHt0jFzdY_OctRmaZnmIF-yIzsMmycWByG3bg-4AL02BFXAChSUb6STEbtijK3eSAZgSZqrHg"
-}
-entriesCount: 21183
-
-comments {
-  text: ":c\tnever worked on my phone... similar apps do, but i like the ui of this one... sadly the only good thing is the ui (at least on my phone - Motorola Atrix)"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1393872834557
-  authorId: "cid-gp:AOqpTOHSi4fWxBQffqahM0smA-_pNJ2ZjGY3pP0IaYME0ScHs9uZSV0eNvu-smsuIluMKIaw1eoQcC-0YMgD6Kc"
-}
-comments {
-  text: "Very nice app\tWow"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393860202099
-  authorId: "cid-gp:AOqpTOHU3dfx9SQNACTvUhoHgDUCj3vQoNvDRYhOYXXIOmXQGUqZ17E3aw4ib6XSj0TrGbAZhUMwrC6Up5KrEYo"
-}
-comments {
-  text: "Used to work\tI have recently downgraded my phone, I went from gs1 to gs2, 3 then 4 and now temporarily back to gs1, its detecting an above average heart rate without covering the camera! This is the 5th app ive commented on by saying that you all do your very best to update for the new upgraded models but fail to tweak for the old. There are a lot of people out there who can\'t afford new firmware upgrades/models or are satisfied with older versions and don\'t want a newer phone. Please take them into consideration"
-  rating: 2
-  authorName: "A Google User"
-  creationTime: 1393810816556
-  authorId: "cid-gp:AOqpTOF3Uila3i8nRjIEppAScul83owcHKzyqO_b_fblrNtlhZRQwcGYaoNCUMncRW6RHOCmK313NBIbOOw_Iu4"
-}
-comments {
-  text: "Rubbish\tIt stopped functioning & blocked my phone."
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1393797448919
-  authorId: "cid-gp:AOqpTOFBMzctpwtdF_9SCbe1rsWww-QaKJTcMxST1PcxcvEyNBvTRgr2HHI6Z-31So8Omel6n6KmYvm4qpx2L5A"
-}
-comments {
-  text: "Best\tBest"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1393761692694
-  authorId: "cid-gp:AOqpTOGPEe_rrVJ6ejXEWW49xb3edMSTz9lKfwNWo4v-ikH-XSxy6dL-JYKTU3Bper80cX7Qi1aPXn1K1jQgofI"
-}
-comments {
-  text: "Good"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393749541309
-  authorId: "cid-gp:AOqpTOEYe-8yH0K0lX2EPwFc4EcScbd7jtpXvNWc2jA3CksDLMw2qn_QQAapfWfW2aK__9hutIyt9p3Y3SsvZe4"
-}
-comments {
-  text: "Doesn\'t work for me\tI have a android I guess it doesn\'t work for Androids tried it time after time,"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1393692338075
-  authorId: "cid-gp:AOqpTOEUAKkEsu40bNYn--bvcu79KzHoYEUz12gy5pcQYUjLL5Cq8-vEskiHqckBoh4Kj2Z67za7H-b6-Z5uijE"
-}
-comments {
-  text: "Nic\tOk"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393690646011
-  authorId: "cid-gp:AOqpTOF_rf0dRV343jsdZ8jrfvDD7yoqvPWI33qPQ1TlrLRGr6SrDgXlRvRZBqh6WZbbpiEZ0aU9b0RMUZf6aY4"
-}
-comments {
-  text: "Great app\tReliable"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1393672496089
-  authorId: "cid-gp:AOqpTOF8wDwS2KVzGV9IcZ8ZJ3jbrsbsxgUgTeDjNnX4ySwc5cF2ZBkD2Ty60HZD6k1MPd3Dx894fah2yVJETNY"
-}
-comments {
-  text: "Rrae"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1393668588008
-  authorId: "cid-gp:AOqpTOHdjcKBmXeKg_x1b1ah06BCUcfNnZV448Hqjw9f_ry7RA2ao8pzUbsoBsLGk10Tci9zJDIwr0JqEDnih5k"
-}
-entriesCount: 21183
-
-comments {
-  text: "Nice\tSo good"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393656355976
-  authorId: "cid-gp:AOqpTOHxiPreT3vTB9-7SZeU6Kan7QP8t5-YCLQ7p8GrJ4oaCnqg3kBaysCetUK3kMcS6mnZ1qRZWgCX6YKzHB0"
-}
-comments {
-  text: "Good!\tGoooood!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393655678080
-  authorId: "cid-gp:AOqpTOGr_AQl5mISiz_EKj5tecg9b7fN_IqyLeAfZZG6NzPGVtpM_AZuGxcPuumMQlx5pOtH-U-XD5Xbu0Ln_h0"
-}
-comments {
-  text: "Holy cow\tThis app actually works!!!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393647350310
-  authorId: "cid-gp:AOqpTOHQjsR7Trzu6QgaRYWNTnawwco9KEgYJvQZBfpN_OcswIEo3jr6ZfGwj0-SHCN9MkEyULacMuUJ7p3Uh1Q"
-}
-comments {
-  text: "Great for walking\tYou get out and take a walk and want to know what your heart rate is at? Well this is perfect. I love that I can moniter my heart at any time."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393644320568
-  authorId: "cid-gp:AOqpTOFnqVfEQTBHaijzjOfUoDEn_afMl8h0AnMht7exL8olLRW3grpUvshcRl_yBVhEXzo_104Js-u0xA4DPZc"
-}
-comments {
-  text: "good app"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393640495251
-  authorId: "cid-gp:AOqpTOE_4HHQkw8QqJz07q4VOcbyQABrbyJDUlLSSSK6WX33flGmtMcaID4bS-gUKmCH33o3OY277JbRe81Ql0U"
-}
-comments {
-  text: "Seems accurate\tHad this measure pulse on rt hand and used oximeter on left hand. Results were identical. Oximeter uses similar technicue for measuring pulse . Also checked pulse using finger with same result.   Needs an option to turn off annoying sound."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393613338055
-  authorId: "cid-gp:AOqpTOHYaVOhG7srSdsl4-_cHmQhGqvr1CN0uPd44Gh1zS_ud-0zfNzS2paUwlKETP8XPdafQFmAME5YFLdk7-c"
-}
-comments {
-  text: "Good but\tGood but did not show accurate information .plz improve and make this app too good .I love this app ."
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1393599490308
-  authorId: "cid-gp:AOqpTOGARrl8cJe2ESq_PwQLKypZ_CAXPP5mohYXjDdlVo6oOqZo138o1K_xNQMNGnYucClTTFvIud2MK2DbKBA"
-}
-comments {
-  text: "Very good app"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393592389586
-  authorId: "cid-gp:AOqpTOE4fyObQZ3S8T_nj-mBu6TyK3gvm_jnU-b71tzpHzDRCuYHydGzSIBwAzvFSqW7Xr5houYkNVZ_BvXCFLk"
-}
-comments {
-  text: "Excellent\tWorks for HTC Evo 3D and Samsung Galaxy S4. Wish it could automatically measure & beep for 10-15 sec then stop beeping when it\'s done for face-down phone measurements."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393553267196
-  authorId: "cid-gp:AOqpTOFYHciW1Y0ELJhVjjQrwGL2yOwcZTj-kCAU0qYnQGe_yad9s720tQL99Ial8Tt-K6o6w_aJGlbJiwtOcXo"
-}
-comments {
-  text: "Sweet i don\'t know how they do it\tawesome app I really would like to know how they do it"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393503207069
-  authorId: "cid-gp:AOqpTOE9F36Jj9cBZsa1K1TZ8j-l54hlTsqeaXhLa_g7leEv_QVZVtTqbrn0vIOngc9jFdcZlOzpH063XL5h9w8"
-}
-entriesCount: 21183
-
-comments {
-  text: "Hope good\tHave not tryed it but hope it is good"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393449141595
-  authorId: "cid-gp:AOqpTOE_nN6VYhd6EyfCSSCwM569jqmy8EZMVFGS1p8mXTTZUn5TTwksdPeeUC0-SRRclbZX7QMyj089qm6lqvs"
-}
-comments {
-  text: "I believe it\'s accurate...."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393414509397
-  authorId: "cid-gp:AOqpTOHNj9-ogpxHQzzKNov6dQ1UGKQIu6lOfS2ltzr8f4CFsV-95hKvCptaushSKOZsr_2lCbN0CEU_r7KTr28"
-}
-comments {
-  text: "I\'m dumbfounded!\tI am truly dumbfounded at how the developers have been able to take the camera and use it as a heart rate monitor! Of course it\'s not the most accurate as the slightest movement will throw it off. But I was able to test my heart rate against a clock while doing this. My bpm was around 60 and the app showed 60-63 right along with my reading. Truly amazed! Just don\'t use it as a replacement for a real heart rate monitor. PS. Use your thumb. It has the strongest pulse in the hand."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393393366701
-  authorId: "cid-gp:AOqpTOFGVYjmPwPHy6qbrZFI9v4qwM1Gid0XN1gG-jS7p_FHxmZdPrecJenJaT5GwYTy0zTU6wpO8evXEDE3mHc"
-}
-comments {
-  text: "Cool app"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393339813092
-  authorId: "cid-gp:AOqpTOF59NnXVGp4rwV2RIDGUn16XaMdfjWwKQGme9YESJPEu32ZZJjav52VNnbc4fkJhX8CkL2lO_-f-aQAVBM"
-}
-comments {
-  text: "Fake totally   don\'t believe  try it\tPlace your finger on the camera lens and switch on a light opposite to the camera itshows   bpm   and without moving your hand with your other hand switch of the light out showsoever u     dead"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393319286176
-  authorId: "cid-gp:AOqpTOFxqU4poZv7k8LvbKfIqb3-rlJDySSgmQbkOPmeAld82WUZD6v6kr5d19vRZlCPquNPl0Dd8lfqtjYJ74Y"
-}
-comments {
-  text: "hot\tI didnt think this would work but it really does thanl you so much keep the excellent worl up. cant send summary"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393301206653
-  authorId: "cid-gp:AOqpTOFHKoly2QMD06M6O-ehPMx9ZqX6H6OL7ZX9CB94xUAHczRJcuMHDiTHSRMBfuICohK2y5dKUW09Mm3cuMQ"
-}
-comments {
-  text: "Siraj\tMomin"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393297904762
-  authorId: "cid-gp:AOqpTOFvMuAllF7mhPLhAt1AGJA_ETcvlZUiumYMd8qZWVW-q7GJ0xAe7A8xGz0HtuojVIeAAT3yE6A27W-lJw8"
-}
-comments {
-  text: "Awesome\tGreat app"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1393244701044
-  authorId: "cid-gp:AOqpTOFz6A5R0_B0QS6dleuIicBqRnG3WJImOO7yfIb-5UgT3tTMx7PooOro0rBRewh0B8Hud4X2IUrTE88ttII"
-}
-comments {
-  text: "Terrible\tAccording to this terrible app,  I\'m dead because I have no heartbeat. This was used on my Galaxy Tablet, and my HTC ONE and still didn\'t work."
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1393154860503
-  authorId: "cid-gp:AOqpTOHHq-GhXtcH1X49YK4VOoOkMt76lw-NNqoh42tzBt_hZWYHaUTKniMQTG5weE2kaOCWjx2NcS8BTF5hmuQ"
-}
-comments {
-  text: "Good\tTsis app is so good"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393151280038
-  authorId: "cid-gp:AOqpTOHnnIWjKO6U2mopA3-ZDBsYlKyhsA74JEHOwc2XgFa544MzUJOMCOSj5kCzzSjXeIr6MhGuiI8MSMTt6cs"
-}
-entriesCount: 21183
-
-comments {
-  text: "Wow\tVery impressed! Works great on Galaxy S 2."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393132851164
-  authorId: "cid-gp:AOqpTOG4k6VpJ8OrsAsTkbME3TtThCSshRKM_XROQGicqgX1TkJ2EyZ2K-Am6YOyzJepbZF4BDDVY8F2LUr2oMo"
-}
-comments {
-  text: "Not bad"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1393075349277
-  authorId: "cid-gp:AOqpTOFLf5MMJum8uyXTcPPJNpY-ECWQKBSrmnLAdTuJHKXFbm6tHrC5L0r6cCn0JpZ02755BXg1l4dDMqhyBls"
-}
-comments {
-  text: "It rocks."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393042866482
-  authorId: "cid-lg:AOqpTOGEvjK0y2mi-E579uZhViOPX-eXomjG-WOsr9LcaFdRhR8sm_F_Y1d5FEPVcxBrM8wDlBTYdIO_YAXWFRQ"
-}
-comments {
-  text: "Good\tGood"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1393030992546
-  authorId: "cid-gp:AOqpTOGbj7PWWlgm5pdqmaDt06VlCuH6A1kYav5fHFeJo2qTB2z7RjYLqB6Illxt-d3qtXYuO8egbgxhFESFxdw"
-}
-comments {
-  text: "The best\tGood"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1393020772648
-  authorId: "cid-gp:AOqpTOFQChAXSxLkopU3jVDQ_2ofSTULrw7AaoFvQBi7jUeZk2mNHL7xL6mpVWhLR3-Q28DQaZRx16WV8ot2Uy0"
-}
-comments {
-  text: "Thanks"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1393020143850
-  authorId: "cid-gp:AOqpTOHXO_JC77uoAM7dQwcklHLjPqx6SLnAf572PToM50QG4AucKoab2CALqS0Lt7DYKbUGvUz1Ps0rgEESY0Q"
-}
-comments {
-  text: "Good"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392990634622
-  authorId: "cid-gp:AOqpTOHRaWUpB3DV2hLb1TvGbOz5fDZKpQUFElIvcrbD8sv1BYuaQI1x753B4cZnAaRyL0RWqR7mYTMnDxIEo2Y"
-}
-comments {
-  text: "Good\tBest."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392950118964
-  authorId: "cid-gp:AOqpTOHLnpuOfKtvdYvP8JeSGaq2GH6ucpreNS4VKCtJAaMtfdoc14dHqWw3CiMumXZKWGQlwxClmi2Fl-jbACw"
-}
-comments {
-  text: "gud\tgud"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392925043381
-  authorId: "cid-gp:AOqpTOEs1I5ltvU7DOQFUKA1svk4jky2zjkZVwmcNAqGLzuxBDGt2TnUef4w6zPaXmZBIfXCf3hDe5tImcW0FhI"
-}
-comments {
-  text: "Good\tGreat"
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1392831644450
-  authorId: "cid-gp:AOqpTOFH4i9pvhVUSmHyp3D2_PKvoguXNumpmSwPkd2c2WW0xVr3uT0vbBZ5y-vAhOgjRRB3eg1GvfAtT6u-CpI"
-}
-entriesCount: 21183
-
-comments {
-  text: "Doesn\'t work properly.\tIt gives off the wall readings then says 0."
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392825273426
-  authorId: "cid-gp:AOqpTOFWiTZ6yCVYPq6bcnPAboS9EsMpN12U1fDuYTKoIy4_mijZrnZDafgu9YCe-5O4pHLeTyKAj8yl8kNgiQY"
-}
-comments {
-  text: "Amazing\tAwesome"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392809327770
-  authorId: "cid-gp:AOqpTOHFbrazV88Hz0158NJvt912ojQZ84ysKFGGA791bLk7aLBMj1am0fPuFUBcCrq-2mXoHwKiF6RwkOxs56c"
-}
-comments {
-  text: "Dies the moment I hit start."
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392800555369
-  authorId: "cid-gp:AOqpTOEao-cJHsQSua-Wo8eNz9DfHNkOEjA170FxC3uyfqHFM8w1RXLriH89jJSyBmL54yKaMLMhRLAO2t9YBww"
-}
-comments {
-  text: "Does what it Says\tGreat app for taking yours or anybody\'s pulse. ... time to play nurse or doctor which Ever you prefer ... have fun with it."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392790150753
-  authorId: "cid-gp:AOqpTOGvUpIfyTg367PtFJL5KA8F-yeen3Y4neZLS8e2Ho3a6UGt3Kse7urLD8xyh53ESAH7eWq-uO5XGjXzh4o"
-}
-comments {
-  text: "Its very accurate not\tAccording to this app my heart rate is zero"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392697805642
-  authorId: "cid-gp:AOqpTOH3HAcRxSldYBt5weUEBAWuAwkZjm3ZLWo0ALSGy19N_R95ygCqVwKUbbieIaz45ziSAPniYVphBFiA7AU"
-}
-comments {
-  text: "Good\tGood"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392666540207
-  authorId: "cid-gp:AOqpTOFKqpwwLA5WTeXdxLSbodc6EJk1GgXruEHXWX3Af40MYD0lR1CyflbRMQULOsgZVW5Fxghmzeckvyhu1Bc"
-}
-comments {
-  text: "jerry elder 34@gmail Google Com Rosie Smith\tRosie Smith"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392655074634
-  authorId: "cid-gp:AOqpTOGM7z4AGtsBLzpCcrMGhEWxVbfbocPh1D9Lb8ELLEtBZOuzFOkq6Z2IIBGAYgJ6DYMQwH52chrRN6TiaNs"
-}
-comments {
-  text: "Poor job\tThis is not really good"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392653903101
-  authorId: "cid-gp:AOqpTOGNIV_cYQTOKXMrY26dWs6RTFDYrCnv8GhQ_4fOboBvBabFWvYYFo2EDE8jzS9I1sDGDJrRPl-qX--wfVo"
-}
-comments {
-  text: "Excellent"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392652817197
-  authorId: "cid-gp:AOqpTOEOS2XZ0KIUURVsVGYIgYSq9oaOg2asm0_sG56othbtlMzuIW2AyYaqzA-xUDeFOUG__N9rrxloQwr8LMQ"
-}
-comments {
-  text: "Worked once\tShowed 80 heart rate for the first time I opened the app .  Then never worked again"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392650726287
-  authorId: "cid-gp:AOqpTOFfJnSBRPcpLT-s5c8jxVa4paMdysBoDnlxM16trb_nZVwBcSXc8V5TyJhKG4F5-hhIZX2xJd9yW94jRGs"
-}
-entriesCount: 21183
-
-comments {
-  text: "It only worked one time for me.\tI wish it would stop messing up after I use it one time. I\'ve tried to download it 4 times already in the past and it\'s done the same thing. Uninstalling again."
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392632301946
-  authorId: "cid-gp:AOqpTOHNrdUnlQeH2EWvhN49c2pRI9uJ7re3o4zGMb5GCFb9BGJlsGMWH1Dopz1Z_4ztChkA9Awca3u2_ujKVqQ"
-}
-comments {
-  text: "It\'s awsome"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392526672839
-  authorId: "cid-gp:AOqpTOEAxIkuYMVnpSgKBmkLtzPHAjhuqV-5n7al9LfYUiwzfchOj07X2Q1YKGs1vXpkbj65AFYV2f3NI7Bohf8"
-}
-comments {
-  text: "The best heart reading application ever"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392457853142
-  authorId: "cid-gp:AOqpTOH6shhNQ8hxm4dpGvJZUkplYXcYuVuclgNpbZsMlV1TXQszttuGIpeEqNxaJiC_q5B_38Gfc0K7Y8TeDcI"
-}
-comments {
-  text: "H"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392429751849
-  authorId: "cid-gp:AOqpTOGI17uJAW1oCUtoNEmKYf07vhPvxUqes9UcN34vB6FXB4HhA20eLVo52HVquy4gr-9QteT0kRl4YgkJcsE"
-}
-comments {
-  text: "Amazing\tOnce my left arm went numb i checked my heart rate and found iut i wasnt having a heart attack yay."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392416131244
-  authorId: "cid-gp:AOqpTOHBSOnHKDVhg7IjzL00KpPPhoB0MlQeZ_kfzpFUwQ9oM6stXQBT329fI9JZx6NAqwCNceF2fJrq3_a-hGM"
-}
-comments {
-  text: "\340\270\233\340\270\261\340\270\231\340\270\242\340\270\262\340\270\255\340\271\210\340\270\255\340\270\231\340\270\231"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392385162671
-  authorId: "cid-gp:AOqpTOEJMG-bLGeAJ8EPXUAs-wFhlooQ3Y1LcZeV-uxsOIdcHex6Mfpyxp9ddp82WwsNXRak_sYdQ-3ssFYpWHc"
-}
-comments {
-  text: "Nibu"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392382192467
-  authorId: "cid-gp:AOqpTOHmKNHvHaAi-QV7fxHiJRolY89__NnqetLAyTo16CTWUF2sVvdfZ9s0kQURtUT8T-vPxRr97oYoryab66A"
-}
-comments {
-  text: "Good\tBest way"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392363626187
-  authorId: "cid-gp:AOqpTOGxeeODZ5ySbPOmJmddfp1STcrnG1Csvqts38NiPi6zLRPqXJ0W6UlKJW3VSG1mkF8Nna-LB6YKNrtjYng"
-}
-comments {
-  text: "Excellent"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392275111552
-  authorId: "cid-gp:AOqpTOFS-5wXh2Y-kyCwdRKGrJCoCFL-0gPrN6SS2ymX2WFuLT7arwRLAqHNxZoVXuBsnqs2p7wgleuweK4nhj0"
-}
-comments {
-  text: "Samsung note 3 T-Mobile\tExcellent"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392257062601
-  authorId: "cid-lg:AOqpTOFkFru1aRwBhXTCsfZm4FxvEMbk7BImKj0nqm0zsZfeqzmkiEwWvunMrBEzDal4j9XdJ9Be1pAvlEfaQVo"
-}
-entriesCount: 21183
-
-comments {
-  text: "I\tI like it ok"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392256376752
-  authorId: "cid-gp:AOqpTOGpyMv41cuy-UUg0Hgsg-TYU4CqP50QD7WQuuHBftntFpMUm1UGx3i2qIwN0Aogkubh8jUv7Cghz11Asu4"
-}
-comments {
-  text: "Great that you can check your old records and can compare. Even better that you can change profile."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392236755549
-  authorId: "cid-lg:AOqpTOG-HHMbsA4ntSdWvxQcuI5UoV2rhhlGJlM1dpd4ESRA0fZ3U_f79fJRSgy8S6Tuv6cS-bpYmRjfKMT1cO0"
-}
-comments {
-  text: "Doesn\'t work"
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1392236529011
-  authorId: "cid-gp:AOqpTOFHQqZh1ONRxUd9b5GCdhQ63mXt_GKiro4iLGyVb-blGeI_Pf9VhG7D43wVcvI-Id3ukmewicjRn0j6RlI"
-}
-comments {
-  text: "Great!\tFun to keep up with heart rate regularly!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392172519311
-  authorId: "cid-gp:AOqpTOFHM7l-PVuCo9ha54YcWQU3yLA_5Vu5TTsDILe7MHOzoXrtj7RXG6qBBL-tqHbODeR14ll4hmLOcRQh4U0"
-}
-comments {
-  text: "Cool"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392137146718
-  authorId: "cid-gp:AOqpTOGnOeyjSR4mPG2iyo0e3yzK6R8QDgRcH_WTbt7FJd9qQJHOytl6s1xDdUk_C3UbMql2n9JuHEqccIdjoGU"
-}
-comments {
-  text: "well\tFor us"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392134327715
-  authorId: "cid-gp:AOqpTOHTQEVBsBgVNWCZy8Hr321NG3qZsEz3E7ce5DrfU86lRhLS4oRbOV065EmmaQG1npp_hakbQhItFjv3lDM"
-}
-comments {
-  text: "Bombolo\tVery nice, congratulations"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392109207340
-  authorId: "cid-lg:AOqpTOEofB0WQjna9iJOjiNe5hMc3ldvCfaD3LdOuaKIUKFPeXRSCN5TRg5VsHtPCwZxFQXWIPpGqu5afRIX1PM"
-}
-comments {
-  text: "Great\tGreat"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392093514013
-  authorId: "cid-gp:AOqpTOHzggcNhvzPDVT0KL7y5A2NG2z3l9v9awKkzfC9W4aSHGX6LoojXtS_IDa6hF1KaWZ41_gHe0v9tiIUAlw"
-}
-comments {
-  text: "Is really accirate"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1392084210903
-  authorId: "cid-gp:AOqpTOEPCW1hS3O8ujwBPaZq96fEaxlENCTbgN_Sq4g_PG3ivuj6fszBVPYd2WxjkAmwzSZctmESnEy5njhJr4M"
-}
-comments {
-  text: "Bkawas"
-  rating: 2
-  authorName: "A Google User"
-  creationTime: 1392040123503
-  authorId: "cid-gp:AOqpTOEDF0ncKbKpugQIvgAue1dbZPGOPSeD_ayt-VfQBJ8XteuwCtW8JAdwWxlSRmtLIi6-ikv7rxMHl8bJ568"
-}
-entriesCount: 21183
+entriesCount: 21720
 

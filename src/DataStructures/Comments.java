@@ -127,6 +127,9 @@ public class Comments {
 		// remove comment blocks with very short length
 		if ((cblock.getTokensText().size() + cblock.getTokensEmph().size()) < Parameters.MINTOKENS)
 			return null;
+		
+		if(cblock.getRating() >= 3)
+			return null;
 
 		return cblock;
 	}

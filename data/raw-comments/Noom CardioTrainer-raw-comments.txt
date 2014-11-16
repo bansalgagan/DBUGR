@@ -1,4 +1,25 @@
 comments {
+  text: "Not that great!\tNeeds a lot of improvment"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415705965721
+  authorId: "cid-gp:AOqpTOFza62mjvh9fNzs4ggJ9-QxOUxjFqX8VyE6DG_t5_xzKOSD3Q36_zJlmu59h-MYuJjqbdu4p1Kp6CynSg"
+}
+comments {
+  text: "My favorite fitness app!\tLove it!! I have been using it for years to track my fitness and reach my goals!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415287137567
+  authorId: "cid-gp:AOqpTOE7RZKqB0TISPZSlatzgMZ-hHiBldOXSQVy6jvmNk3PRKffxzZXZbWJT-caFkBcCSbdrz11RVQRquYbrQ"
+}
+comments {
+  text: "Great app\tThe only thing I would add is belly dancing to the exercise choices."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415023608489
+  authorId: "cid-gp:AOqpTOFoV62YHn6bf2gUdBAWWp3H21csApmMQ4qhY1yIrpquLg-CXQQXGfgWh1w2Ss2ydLT28WE1sirT7fmalg"
+}
+comments {
   text: "Yay\tLove it"
   rating: 5
   authorName: "A Google User"
@@ -47,6 +68,8 @@ comments {
   creationTime: 1414074569560
   authorId: "cid-gp:AOqpTOH1gIZp2gkp9kaXn6L6p0zCIDkVFOwokhy9S-QbgMoErn-rPQLNbvmOR5_E0vhY2S5UMGnYjJpLflAHNQ"
 }
+entriesCount: 14632
+
 comments {
   text: "it\'s still the best, just need fix & update\tLove using this because got twitter tweet & History, but now tweet fail & old History gone. Update please"
   rating: 3
@@ -68,8 +91,6 @@ comments {
   creationTime: 1413755007121
   authorId: "cid-lg:AOqpTOG7uIhL_2jjSS98ZKKlTfeiB-senJlxQPeMgKhrCHXxLXJLsa7-Md_fFy0_SGSjKZP6MoMFQcuu5qY6nA"
 }
-entriesCount: 14612
-
 comments {
   text: "Excellent"
   rating: 4
@@ -119,6 +140,8 @@ comments {
   creationTime: 1413042111707
   authorId: "cid-gp:AOqpTOFlkAFMEcny-KbS-n3W7awBDzK7k-y_1DtRBOt5V3Yk8tGt7MiuNLOpZXXEOZHSYRUU1-waDKBTIVc9yA"
 }
+entriesCount: 14632
+
 comments {
   text: "Ive been using this app for years and it has been fairly relaible and has improved. However it has randomly faulted which is frustrating. I uninstallled and installed again and it has not fixed it- i belive it must think it is suddenly 2015 as all my months say \'no workout this month\' for 12 months since previous October (I.e. yesterday)"
   rating: 3
@@ -140,8 +163,6 @@ comments {
   creationTime: 1412884536748
   authorId: "cid-gp:AOqpTOHHBEUVYw6guh6dyu5UfQd3IO5Hy_1z6vD4eEnryJ5tATbe1Vys2DjYjOU3p4ZyDpAeFqkMOZA9wWUFvQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Cool workout app\tgreat app."
   rating: 5
@@ -191,6 +212,8 @@ comments {
   creationTime: 1412280171377
   authorId: "cid-lg:AOqpTOHEdZhV7PP9iQn9PYgQf1qfZqCZVQt1sHyiDDx3b9Segz_sfyvh99UX3FBDfdT_3J2-YhDB0Je2IL7Mwg"
 }
+entriesCount: 14632
+
 comments {
   text: "Kept me on track"
   rating: 5
@@ -212,8 +235,6 @@ comments {
   creationTime: 1412150943184
   authorId: "cid-gp:AOqpTOHUVgUhjzR-ba-PWZKsKcaaquF382IDHxpUQGViv6ka4QVxTrXGvFuKuFgWVowE6D7VLQ5f19YcJMc5QQ"
 }
-entriesCount: 14612
-
 comments {
   text: "No Android Wear support\tUsed to be my favorite app, but it appears it hasn\'t been updated in a while. Now that I\'m using a smart watch for my runs, it\'s pretty useless. Trying other apps that offer android wear support."
   rating: 3
@@ -263,6 +284,8 @@ comments {
   creationTime: 1411447404090
   authorId: "cid-gp:AOqpTOFiBi_eAsAjQUma4pA0sJTFTzfuUGLQmgy3TwcsNrM-BIqoIrf-mxbdPTpbVBLm8O0zMDGHOm5UYCqueg"
 }
+entriesCount: 14632
+
 comments {
   text: "Why cant work with Polar H7 ?\tWhy can\'t connect to Polar H7?"
   rating: 3
@@ -284,8 +307,6 @@ comments {
   creationTime: 1411321441398
   authorId: "cid-gp:AOqpTOGyfNg_lQV0DeExzCWhcTUB57wHZMNFGUUeu0UwO9KkzJPc262vyAFtbKBHYZs-j2qQfYvxsZMy1Xmn6w"
 }
-entriesCount: 14612
-
 comments {
   text: "Love it\tI\'ve had this app for years and wouldn\'t recommend another (thus far). It\'s always been my fitness tracker!"
   rating: 5
@@ -335,6 +356,8 @@ comments {
   creationTime: 1410708006895
   authorId: "cid-gp:AOqpTOHJ8_FmvUyhy2jxdJ2cVUxXZ9JouftzPH3akQ61LTkrXyZIrt9JwUI5mjK2MSSj6SGbxMFT0y7qepMAhA"
 }
+entriesCount: 14632
+
 comments {
   text: "Best Workout Tracking App\tI have been using this app for a while now. It tracks everything. I have not found a better app yet but who\'s looking.  I use it everytime I workout.  It also helps to motivate me.  I would like to give it than 5 stars. I LOVE THIS APP."
   rating: 5
@@ -356,8 +379,6 @@ comments {
   creationTime: 1410137719063
   authorId: "cid-gp:AOqpTOGwgBAanmxnYVw30_uQt5lLrGjDh_-2WNcxycZOls08-xSs8DeggYbYSzc7ETX3k6CR3TNxtvdcLYLEmA"
 }
-entriesCount: 14612
-
 comments {
   text: "Has potential, bugs\tLots of features. Enjoyed logging my workout except how it crashed every time I changed the level from moderate to low or high strenuousness."
   rating: 3
@@ -407,6 +428,8 @@ comments {
   creationTime: 1409526077866
   authorId: "cid-gp:AOqpTOFG_s-5exIvgClqS23VnvWO4xTI_dEgkDUBj_Ae6l19mUhGxFXeH1HIC2Q2IoHprvPotOq88dcORTpUZQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Why no support?\tShame the developers don\'t seem to want to support or update the app any more. As for the FAQ saying we hope to be able to update all previous workouts. Where is this?"
   rating: 3
@@ -428,8 +451,6 @@ comments {
   creationTime: 1409423057786
   authorId: "cid-gp:AOqpTOF_77B3JLJNlUkKxlLdyhZzzFGxQyfNtQfejEqBCadtf0sGh4kwsiqiVM5sAoLZ5893P7xoPXKumXiJLw"
 }
-entriesCount: 14612
-
 comments {
   text: "Noom Cardiotrainer really works\tNoom Cardiotrainer really works.  It works if my phone goes into sleep mode.  It continues to run if I go to a different app on my phone.  The distance measurement is very accurate.  The map feature works very well.  And most important, it does not crash in the middle of a workout.  I tested 5 different pedometers for Android and this is the first one I found that really works.   Jim D"
   rating: 5
@@ -479,6 +500,8 @@ comments {
   creationTime: 1408971977865
   authorId: "cid-gp:AOqpTOFEM6BIqcs9RrvzXPDxOL6ZDkPIHNCh_FnlEGpFPpQgzywdm97DSyxTqT3BaSI2YR_P2bGTN35eh3peqg"
 }
+entriesCount: 14632
+
 comments {
   text: "Update needed.\tLast update-icecream sandwich?!"
   rating: 1
@@ -500,8 +523,6 @@ comments {
   creationTime: 1408805185807
   authorId: "cid-gp:AOqpTOFCz2gcWHyLBRuJttDjtzi-KFL4j_wmmk50JeYVJw3SZZx6Lti9rOy1aVXDORRCaDA-bdfpH_ZNEEJuoQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Used to work great\tFor some reason this app now changes the volume on my phone  while in use. Really annoying!"
   rating: 2
@@ -551,6 +572,8 @@ comments {
   creationTime: 1408279778242
   authorId: "cid-gp:AOqpTOHt7b_qXvdTZNQY3wdZAvAFBxSXTNTv_Xy7hn2Wi4If8XvlIRxw4OB5wJGPSRd2xm2z8vCjYgcQfyKiqw"
 }
+entriesCount: 14632
+
 comments {
   text: "Good app\tOnly thing I don\'t like is when you share your workout on Facebook it doesn\'t let you share with map why is this?"
   rating: 2
@@ -572,8 +595,6 @@ comments {
   creationTime: 1408146369015
   authorId: "cid-lg:AOqpTOHHCPFjEkBWx-4hD2JSAvTuuJv5a4ps92C1Jj9RxilkPOMmHpHcTuTN0A9NLmRS14SV_epSrrehYdvRqA"
 }
-entriesCount: 14612
-
 comments {
   text: "Noom"
   rating: 4
@@ -623,6 +644,8 @@ comments {
   creationTime: 1407655353546
   authorId: "cid-lg:AOqpTOH559hjoZv7vjwC2Y3-8FVqebI0cywIPKdpBIQ2ZDX6tYs5wZWFNuUJuVgvaqhf39qmJ9hu0gEUP_60qg"
 }
+entriesCount: 14632
+
 comments {
   text: "Awesome\tWay better than Nike plus and any other app out there."
   rating: 5
@@ -644,8 +667,6 @@ comments {
   creationTime: 1407625759984
   authorId: "cid-gp:AOqpTOGpdc046xw1OGb5XpYv4AOrboJ2jtqBJMNzf54D7hSITJMKM0D3MzgKmVhhf7rvUIbNHIu8bf29dKjh4A"
 }
-entriesCount: 14612
-
 comments {
   text: "Best work out app\tDoes everything I need it to do"
   rating: 5
@@ -695,6 +716,8 @@ comments {
   creationTime: 1406855017626
   authorId: "cid-gp:AOqpTOHz-rLJS2N9fz0GbYfe86LB9huVIW5lMkJpBuj2q5jSGc7bKZoCQDFOAPY5dihS1itjRGB6lC5etJYQFQ"
 }
+entriesCount: 14632
+
 comments {
   text: "One of my best apps. Latest updates only makes it better. Good for all my training."
   rating: 5
@@ -716,8 +739,6 @@ comments {
   creationTime: 1406318127109
   authorId: "cid-gp:AOqpTOGZHpz5CE9MiZcfeuscorUXEvLjZPFxVQLML810FI_lHMfN6iLzFqMJ-4Q-5_lr0_xlKmftP9rrQle0Mg"
 }
-entriesCount: 14612
-
 comments {
   text: "Can\'t stop music!\tThe app is great but it automatically started my music and there is no way to stop it once it starts. And no way to change songs. I had to restart my phone to end the music from playing. Needs more functions to fix music and give control to the user. Otherwise,  great app for fitness"
   rating: 2
@@ -767,6 +788,8 @@ comments {
   creationTime: 1405867216544
   authorId: "cid-gp:AOqpTOFy2P5_bMCPZh-yoYLSDabfmhUYm8Hpf7k6KjWzBfkgPK1Dre7JtYPQ1IFCNuKImrjYQgESSB1HeGxIzw"
 }
+entriesCount: 14632
+
 comments {
   text: "Please do not download this\tNo technical support available. You cannot see friend activity, you cannot restore previous workout. The developer has stopped updating this app."
   rating: 2
@@ -788,8 +811,6 @@ comments {
   creationTime: 1405753836353
   authorId: "cid-gp:AOqpTOEC0o7k1tS6nEQhx2nqUqIpXjeHg7EtkDvmpcqXH3Z1O38X7uJbtQNjyDx2_6bSmBGhGaX3r4mSVVE8kg"
 }
-entriesCount: 14612
-
 comments {
   text: "Works great on Samsung Galaxy s5\tI like this app. A few things I would like to see included is stopped time and moving time, not just total time. I would also like to see total ascent and descent in feet."
   rating: 5
@@ -839,6 +860,8 @@ comments {
   creationTime: 1405299441431
   authorId: "cid-gp:AOqpTOEl-nThgKIFjbNzpcjmtQ3OKBCbzKljU-17ybGbP6EnQDd7fxY1igPgrEMI11JRjkXVdNdYFWdzhtvmtw"
 }
+entriesCount: 14632
+
 comments {
   text: "Awesome app but need update.\tNo more updates from the team. Need online access to view data need on account."
   rating: 5
@@ -860,8 +883,6 @@ comments {
   creationTime: 1405209631157
   authorId: "cid-gp:AOqpTOHuGqrOXydGyZvyLSTH0YDZHXLJu9ASoe_iem_WqbKVT2tKqKNlwaIAjKmO4qXb1IsWYmRVlLqQbBUEMw"
 }
-entriesCount: 14612
-
 comments {
   text: "New Review - Where\'s My Data?!\tFor YEARS the devs have said that prior work-out data would be restored on future versions. This hasn\'t happened. I want to look at older work-outs, but can\'t!"
   rating: 1
@@ -911,6 +932,8 @@ comments {
   creationTime: 1403883954416
   authorId: "cid-lg:AOqpTOHn387WFi6Hj-6HJwcsS-pNyxTNOqnmkREx5CQcnZHypCoAqZVNlDJAQ6jF8EovhzZRFW-BdNrxvxeDJQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Calories burned are not correct.workouts calories burned done in the tracker but not updating anymore. What\'s up with that?"
   rating: 1
@@ -932,8 +955,6 @@ comments {
   creationTime: 1403790532709
   authorId: "cid-gp:AOqpTOGu0uxQ4dtXJ--BEOI09ZMykXGnWRFH7agGtiKr2YjQrHBis8V7g614w4JPi_0KMqQATevsOyBJk8ndCg"
 }
-entriesCount: 14612
-
 comments {
   text: "No complaints\tThis app has been my companion for two half-marathons in the past year. I\'ve tried others, but this still works best for me."
   rating: 5
@@ -983,6 +1004,8 @@ comments {
   creationTime: 1402855891181
   authorId: "cid-gp:AOqpTOFVJGSt-DefNRzCpGmbQwfNl5sI4QXJ13JL14AQ_mKFptwG3sQfc1vz5iBOiI2iC_fYlUYerf25ONbLnQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Good tracker\tTracks your workout pretty good. Definitely worth the download."
   rating: 5
@@ -1004,8 +1027,6 @@ comments {
   creationTime: 1402591503852
   authorId: "cid-gp:AOqpTOGTbd8AfuQrvVyU1CIvQ4pqzcRJayfHWmCBNeN9fSFn7o3lBRYcKyRcgKvHTAydbVVDiYEFxmFZ-7uOeA"
 }
-entriesCount: 14612
-
 comments {
   text: "Very Good\tVery useful.  Got everything u need to monitor while working out."
   rating: 5
@@ -1055,6 +1076,8 @@ comments {
   creationTime: 1401812416427
   authorId: "cid-gp:AOqpTOGovVglOEr3KkyeOAEgsWD7tv6jACV7Ngm79dYcOPk3-rJBqHcqE-ikgiC9TagLk6fSaj1-CVxiv3pARA"
 }
+entriesCount: 14632
+
 comments {
   text: "Tracks progress great. Good customization menus."
   rating: 5
@@ -1076,8 +1099,6 @@ comments {
   creationTime: 1401712660554
   authorId: "cid-gp:AOqpTOH4aHk382NwZqRrshJKgaeYJoxAYZOOXaFnpDpYpJ1bF6HfaIDxVKLcJtWAm8e_J6L3nuGnh29RrZ9iPg"
 }
-entriesCount: 14612
-
 comments {
   text: "A very useful application. Feature rich. Works great on my One M8."
   rating: 5
@@ -1127,6 +1148,8 @@ comments {
   creationTime: 1401474405595
   authorId: "cid-gp:AOqpTOE2N-U4v5N_2Rpz3bZLaQ3Att6VQY5mfJ5OxN7q8FEsE62c3Xo1nXYzMhxsiNUONtQlaTgvZJq_AUML0w"
 }
+entriesCount: 14632
+
 comments {
   text: "Excellent!!"
   rating: 5
@@ -1148,8 +1171,6 @@ comments {
   creationTime: 1401221744535
   authorId: "cid-lg:AOqpTOE0cV8Ub87JH5j4NFsuXyjHn9_VJK2-iQatrJ94HIJTqI4amTWR_u8vaClvsuXb7moqCO5YXr4jTUIE3Q"
 }
-entriesCount: 14612
-
 comments {
   text: "Used to be great\tAfter last update, all my previous workouts since 2012 disappeared. Not sure if I want to reenter today\'s if they\'ll be gone tomorrow. Motorola RAZR max"
   rating: 3
@@ -1199,6 +1220,8 @@ comments {
   creationTime: 1400556301036
   authorId: "cid-gp:AOqpTOEHt8dS0GcVoAdGkq-bv1n0I0tsNkOJy0OsIYmoAsBe-0NVtmtqvVegUuKN7GXWYcB6hKuZ39iYoCkTdA"
 }
+entriesCount: 14632
+
 comments {
   text: "Great all around app. No bugs to report. It\'d be nice if workouts were saved in the cloud."
   rating: 5
@@ -1220,8 +1243,6 @@ comments {
   creationTime: 1400523910025
   authorId: "cid-lg:AOqpTOECULKVwKA_YIb4pPxZFo0uW9IWHcjSLPs7Q8hIMYx7of6Y4OXcyJdK089GyJxzYtSqIRlFRKCQP4z8TQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Love it"
   rating: 5
@@ -1271,6 +1292,8 @@ comments {
   creationTime: 1399941953901
   authorId: "cid-gp:AOqpTOHODUWgcJvIk4rdXsio5vzGfd5OXmmDgRujai45EaCTap8FjtrMFgca-zChJDzMgIjcPbHWBx8fmN8xKQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Used to be the best. Not any more.\tThis app has been quietly abandoned by its owners and isn\'t being updated or supported any more. In the meantime, it\'s been overtaken by other apps; it\'s no longer worth paying for."
   rating: 3
@@ -1292,8 +1315,6 @@ comments {
   creationTime: 1399585795479
   authorId: "cid-gp:AOqpTOGV1mkad8kRDbilSgFsIjT15LqkGX2KcQuetnQqyIuM0PLw45ADGBtY5lO5AvtUCnB4NvDWMiYoqMK3UQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Love it\tGreat workout tracker. Had it for years now"
   rating: 5
@@ -1343,6 +1364,8 @@ comments {
   creationTime: 1398183268175
   authorId: "cid-gp:AOqpTOEtKrFNP_NDOXbBS76TeMHtrFjGzhkNbiUyFk8qsLI4H82seDwmzVrBtXiurHIXfNbLlHbv5OkiXL4gCg"
 }
+entriesCount: 14632
+
 comments {
   text: "Great App!!!!!"
   rating: 5
@@ -1364,8 +1387,6 @@ comments {
   creationTime: 1397732777931
   authorId: "cid-gp:AOqpTOGZ-HAnhNH7oEa9I9tndzzTVxGGQMkLmMk5tQIyHiEXRtTo1PWDD6g7JIWxl1NcN9R0qE7r00zsBqndJw"
 }
-entriesCount: 14612
-
 comments {
   text: "6 months and no update?\tNo updates in 6 months and it no longer sends updates to Twitter. definitely a bummer. Would love to switch apps, but this has years of history that i\'m remiss to give up. Don\'t leave us hanging, please."
   rating: 4
@@ -1415,6 +1436,8 @@ comments {
   creationTime: 1397300635627
   authorId: "cid-gp:AOqpTOGW7FUs_Tb6htkJBs1bBZ3QIbma5Wq3zQJDR1Q8hdURklXwpQFrpJD5E0tApjv6T4WZTOpnaRE5E-pCSA"
 }
+entriesCount: 14632
+
 comments {
   text: "Very good app.\tI love this app so much\342\231\245"
   rating: 5
@@ -1436,8 +1459,6 @@ comments {
   creationTime: 1397241242708
   authorId: "cid-gp:AOqpTOGJzZSXQ1Q699kLV1oRxJ8JGTEaZfcYejB89i09GxYW7RxKiKRElAgriw_Pu_k32bVr0_tB8o4BPZXCdQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Good but....\tWe should be able to share our workout to more social networks come on now look how long others have been out. I would love to share what I\'ve done on Google plus make this an option please."
   rating: 3
@@ -1487,6 +1508,8 @@ comments {
   creationTime: 1396486145042
   authorId: "cid-gp:AOqpTOHI4S8l9ET6AvSnyiiwbUzCfKAYnQKvvcrZu_tk1lBthlqSBvhqzx1Efrb1kgv5H7u1PQrdTZGEKIRzfg"
 }
+entriesCount: 14632
+
 comments {
   text: "Nice app."
   rating: 5
@@ -1508,8 +1531,6 @@ comments {
   creationTime: 1396190208883
   authorId: "cid-gp:AOqpTOEcRzifafZBvDqe24yrB-OEB7tTa2B28UCZq38-SFa90_rnBRq9CoAHPO7qee7oS-5KGjY2LDLhbYlrKA"
 }
-entriesCount: 14612
-
 comments {
   text: "Very good application."
   rating: 5
@@ -1559,6 +1580,8 @@ comments {
   creationTime: 1395525792733
   authorId: "cid-gp:AOqpTOEi7syi2xdrX4R3fztjDNHNd1xVM5wpXdFmm_0kLndOPYpwg5Gqv3NHhRB_I-i8575G28pclNxDZ9yF5g"
 }
+entriesCount: 14632
+
 comments {
   text: "Works well\tThe distance it says you travel is off. I measured the sake route with my car and there is little over a 1 mile discrepancy and sometimes it will pause itself mid workout which is a little annoying. Other than that it works better and it shows on a map your route which is cool and I haven\'t been able to find another app that does that."
   rating: 3
@@ -1580,8 +1603,6 @@ comments {
   creationTime: 1395272520922
   authorId: "cid-gp:AOqpTOGzm6zROnLSwwoQP5B1Lt-fgnwNiI026I9eDm9O-k-tJltEeJ3Lcp1STNUNcJAzTS_jP37eSJx29_c45g"
 }
-entriesCount: 14612
-
 comments {
   text: "Great Motivator\tVery helpful app"
   rating: 5
@@ -1631,6 +1652,8 @@ comments {
   creationTime: 1394905852646
   authorId: "cid-gp:AOqpTOHh2MDWx2P2TY-vVzse-GA4jiqDBT94_-PvN_6sfbOn90ufr8N9U5TN_5kkDO2Bpm5udN29Op6ykhlE8Q"
 }
+entriesCount: 14632
+
 comments {
   text: "Route tracking/loging\tI love this freaggin app! The layout is simple and user friendly which makes me keep the app on any phone I ever get,  and the easy logging and route tracking is awesome and makes it easier for me to visualize the distance I can push myself each time so that I can exceed the time before! Plus it has great features I love and always tell my friends about =) the creators of this app are awesome!"
   rating: 5
@@ -1652,8 +1675,6 @@ comments {
   creationTime: 1394821598757
   authorId: "cid-gp:AOqpTOFdz-4v2C10xwi1p4yAwQudADJZXUKWbxNJgZYkOaSepkDuMMungFxDI7928v6aiyiMQ451T4y3qK8gmQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Omg\tAps have lot of bugs lately :/"
   rating: 2
@@ -1703,6 +1724,8 @@ comments {
   creationTime: 1394379829687
   authorId: "cid-gp:AOqpTOE83QCDvNXYpbTHF5a4lFPsceVeHXUgWHjNdo4OS9v5YZFWbH0flgqKfqb7uXDeSEAIHIgw_spHItqSpA"
 }
+entriesCount: 14632
+
 comments {
   text: "Crashes\tOn gs3 stock rom it crashes the whole phone and causes a reeboot, looks like gps issue"
   rating: 3
@@ -1724,8 +1747,6 @@ comments {
   creationTime: 1394256036224
   authorId: "cid-gp:AOqpTOGbw2-KmhDDWNHYlpDcVgBs8RiTBA-sPs2uDmXVHaVFL5U2hOGK8ufOD4kXpw2CT3x4LdQF3KNGaLCA4Q"
 }
-entriesCount: 14612
-
 comments {
   text: "The best apps for motivating you to lose weight and listen to your good music"
   rating: 5
@@ -1775,6 +1796,8 @@ comments {
   creationTime: 1393996380108
   authorId: "cid-gp:AOqpTOEpVGwOUHuc4s27hQzyhmM3agSOCL8ABldGtyalbXKqTDa-L9d1NcZ7d1aR_558-lpxaAlzR88_Vlf-QQ"
 }
+entriesCount: 14632
+
 comments {
   text: "No longer supported"
   rating: 1
@@ -1796,8 +1819,6 @@ comments {
   creationTime: 1393926022863
   authorId: "cid-gp:AOqpTOFslxV3A8OzjkQfapLfrg_NWkX0oJKsYluMJAwxzXGklEkgQzz2P5ctbwHK65iz8SlJrV1DWQQDCxlimw"
 }
-entriesCount: 14612
-
 comments {
   text: "Playlist issue\tThis app used to be great except that I cannot get it to play my playlist.  It will play all of my songs but not the playlist I want for working out and running.  I find this a bit disappointing as you used to be able to select certain playlists.  I am looking for a new app."
   rating: 2
@@ -1847,6 +1868,8 @@ comments {
   creationTime: 1393122828631
   authorId: "cid-lg:AOqpTOE4GJpEhdncONdAQmt4ZqI8e2Q87KaEXQWrQNnfg00mrAqWGyZvNJzWePwVn-5FaPO4OtgWHfwtCUQ4DQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Excellent\tExcellent"
   rating: 5
@@ -1868,8 +1891,6 @@ comments {
   creationTime: 1392656396721
   authorId: "cid-gp:AOqpTOE3KUMJ8TxzCeKXPWUpjH6mnBBSKMsjHOO8TtzhbS76cHQ0oTfnkOl1E35gnWxkua75eZsxFxbggRGtaw"
 }
-entriesCount: 14612
-
 comments {
   text: "Love it!\tI love using this app to track workouts, especially running/walking. It tells me how far I went, how much time it took, and even where I went."
   rating: 5
@@ -1919,6 +1940,8 @@ comments {
   creationTime: 1391877095150
   authorId: "cid-lg:AOqpTOGVZKR_qYgbpEJ2gLOdF62DaujjHuK6nQsYQd97VTOBDBOI4kwtyk_EI2eAlDXH2a0zGT0WkkNGUMEJqA"
 }
+entriesCount: 14632
+
 comments {
   text: "Good app! But when using FB share the map is not showing up"
   rating: 5
@@ -1940,8 +1963,6 @@ comments {
   creationTime: 1391722912913
   authorId: "cid-gp:AOqpTOGB3xqSMfEY0wDfLezcaibYgE4agkroJyLsXlacHNSs3ErkY6TDfH5ZuSIhGlfuWDH0SdvcNeoqdSLxYQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Its so faltu"
   rating: 1
@@ -1991,6 +2012,8 @@ comments {
   creationTime: 1390928295831
   authorId: "cid-gp:AOqpTOH9mnw28W9LvA4gQ-6vGY72FGodxbTaU4dJ-GcbbvV6TkGgChVmoi07nMyTxwce31dMcoy5AycnVoYGbQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Updates have stopped\tThey haven\'t replied to my query. The map posted on FB is broken"
   rating: 2
@@ -2012,8 +2035,6 @@ comments {
   creationTime: 1390823638470
   authorId: "cid-gp:AOqpTOEovf7H0xBjbvsVuDZYi0oLDPhojHApGf1KHKU46DOMowiioHIQkrVSRmvL6yFpmtWEQKrwwLcqNegNYQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Poor could be great again if updated.\tNeeds updating and repairing, was one of the best apps going but failing now."
   rating: 1
@@ -2063,6 +2084,8 @@ comments {
   creationTime: 1390343859961
   authorId: "cid-gp:AOqpTOFzmHF-ToDx9efka8Aq_x6Y3-MPDl5tb3mnyHWvY6Ba3Nm20ekMvWDA3yoT4PmtT4P6M29dW09Y31yjzg"
 }
+entriesCount: 14632
+
 comments {
   text: "Bloat ware\tCrap that just takes up memory"
   rating: 1
@@ -2084,8 +2107,6 @@ comments {
   creationTime: 1390217482894
   authorId: "cid-gp:AOqpTOHygLdlfU1veGPvPtEfsWZLLF2Sx7risI9kEraqhci2uF5SesbmIjGY0mCJ97ZL7dS20i1V15V0RXCikw"
 }
-entriesCount: 14612
-
 comments {
   text: "Was good\tNoom took over and gave up on this app... Facebook link broken."
   rating: 1
@@ -2135,6 +2156,8 @@ comments {
   creationTime: 1389896221816
   authorId: "cid-gp:AOqpTOFZfz_r3dS60djwXDB7aPO-slNK7nraLD-5wLxrKQeKuIRKzL-vSle1KlFOBRopSajUEeVYExpaYzMkQw"
 }
+entriesCount: 14632
+
 comments {
   text: "abandoned app\tshame, even payed for the pro version"
   rating: 1
@@ -2156,8 +2179,6 @@ comments {
   creationTime: 1389794365292
   authorId: "cid-gp:AOqpTOEYN5xE99611RYsOQfCRpVno60bfaJz6xLvYB3fyMpeMC9mg6EQStQOrG144-PxKUsundryJv_hX2Bb3w"
 }
-entriesCount: 14612
-
 comments {
   text: "App crashes\tThis app used to work great on my Thunderbolt.  But now I have a Razr and it crashes everytime I try to choose a setting.  My OS is 4.1"
   rating: 1
@@ -2207,6 +2228,8 @@ comments {
   creationTime: 1388850248887
   authorId: "cid-gp:AOqpTOGsVVvkk_EWyMgNZ0eCF2tq1vlNCTRLRYEL2u2bdUiYj1uETEpmbEC2fk4siLfV38lgAGBDXHQQkPXXEg"
 }
+entriesCount: 14632
+
 comments {
   text: "Used to be OK..\tI think the developers got bored with this app and are moving on. Their website doesn\'t work properly anymore, their support community has been deactivated, the link to their website from the Playstore/Market is incorrect. Updates provide no new features. No offline maps possible, so you need a data plan or have to pay a lot for data. So, the more you run, the more you have to pay."
   rating: 1
@@ -2228,8 +2251,6 @@ comments {
   creationTime: 1388418150394
   authorId: "cid-gp:AOqpTOH1Loyc5-szqRK5rWvV3eyTt9XJCLhvI_FMse7i89XIrvI4aCWU-hw9ixnP_XGnp6-k3FQU4BJp3JYYyA"
 }
-entriesCount: 14612
-
 comments {
   text: "It\'s the best."
   rating: 5
@@ -2279,6 +2300,8 @@ comments {
   creationTime: 1387952351756
   authorId: "cid-gp:AOqpTOE5s37m9QYd620zWW30xAip7zmTZ0nNCb2wPcSFGnvpgbCfGME3eOgcUWbWfPQM9Cqiaip5KGmxhPQnzw"
 }
+entriesCount: 14632
+
 comments {
   text: "Great for keeping track\tLet\'s you know your calorie burn from walks/runs. Plus keeps a log. I use it all the time when walking the dog."
   rating: 5
@@ -2300,8 +2323,6 @@ comments {
   creationTime: 1387722591471
   authorId: "cid-gp:AOqpTOEz1KNAna8061LthC0BAHdH8zlGGF6bVzwIEzK4kl9EDv3DQB8In15-8vImGC6cVq8NQc_HNFBN5pdPJw"
 }
-entriesCount: 14612
-
 comments {
   text: "I love this app! And use it every day. Music player sucks! But its not a deal breaker. If yiu could fix the music player i would give it 5 stars."
   rating: 4
@@ -2351,6 +2372,8 @@ comments {
   creationTime: 1387128167051
   authorId: "cid-gp:AOqpTOEBtPX9P6EWJILpvJveHgdV8aVyabl6F96joUPLeHpXv4bMq7i93P1GByhI8AlJeO7xJxBzFtBHncUL4A"
 }
+entriesCount: 14632
+
 comments {
   text: "Been using this since 2011"
   rating: 5
@@ -2372,8 +2395,6 @@ comments {
   creationTime: 1386987223279
   authorId: "cid-gp:AOqpTOFsvRLnyzi1wGKuYCOyfhqJ9UQd-CkP3e6dvmo3adJ6pL6mOSrJN3J4cpHyWUFFWwbdFtAwE_kaUE0JOQ"
 }
-entriesCount: 14612
-
 comments {
   text: "No support for BLE heart rate sensors"
   rating: 1
@@ -2423,6 +2444,8 @@ comments {
   creationTime: 1385852108944
   authorId: "cid-gp:AOqpTOHNLyuTdmKaXKKhdtnoKQhl4FkgSNPM4SzrbFV8edOQpljiWitQmz37aMZTFhtgAD4VVheSWv1ecqz0aw"
 }
+entriesCount: 14632
+
 comments {
   text: "Very good\tI find this the most handy gps tracking tool, as it loads extremely quick compared to most of the others, and it\'s got the best countdown & start/stop timer available. The calorie counter is also very accurate. In addition it\'s the only one that can continue tracking still after turning off the power in the middle of a session."
   rating: 5
@@ -2444,8 +2467,6 @@ comments {
   creationTime: 1385516938586
   authorId: "cid-gp:AOqpTOFefzvzYygmLBjbqjnSiWWTSQNRQRIA8GZOo1L8AheUrqLeCGkh9UHZwTyC0PlEDTzHpTF6B74D9bLB2w"
 }
-entriesCount: 14612
-
 comments {
   text: "Perfect on my galaxy S3.\tThe best fitness app ever. I use it everyday.  It\'s so accurate."
   rating: 5
@@ -2495,6 +2516,8 @@ comments {
   creationTime: 1384781050957
   authorId: "cid-gp:AOqpTOGuM_2qGzeV9qfspdYdmfwJ3Hyph7R8h1h_KELpkd5YoczWp0S-diZwfQptQOS1un6QJapPUsVp3ZkZqA"
 }
+entriesCount: 14632
+
 comments {
   text: "Love this app... it plays music I have loaded on my phone, tracks runs very accurately!  Not at all sorry to have paid $ for the pro version. Being able to use the interval training feature was very valuable when I first started running."
   rating: 5
@@ -2516,8 +2539,6 @@ comments {
   creationTime: 1384558134318
   authorId: "cid-gp:AOqpTOEAKfPovKtfIr3K9ekP9d-y4oMlH280ZX4tahyF2hXk6mMfnLAoKtt0asLRIf-dTXzL_r63EqEioV3xlg"
 }
-entriesCount: 14612
-
 comments {
   text: "Worked for me\tEverything works fine, can post to FB, backed up to Google so I\'ve gone thru two Samsung\'s and just factory reset and workouts still there.tried RunKeeper didn\'t like that I couldn\'t manually enter cameos or workouts and Edmundo was too simple.came back to cardio trainer."
   rating: 5
@@ -2567,6 +2588,8 @@ comments {
   creationTime: 1383524726672
   authorId: "cid-gp:AOqpTOEjiQLS0KPrzROtd5sb2eMxazLaN7VPCEC5bz10d7k1U3YzNy89QtvbWOdnz27HqmT0n6DfPctSF206ng"
 }
+entriesCount: 14632
+
 comments {
   text: "Ugh\tWish it would let me uninstall!"
   rating: 1
@@ -2588,8 +2611,6 @@ comments {
   creationTime: 1383493222172
   authorId: "cid-lg:AOqpTOFgPkZ_kwI3G_oWLykmpy82EhvoZ3P7rIaOAkRwx6vu0IkQ_6j8zomlv4YBfl6FrGbcdjSd7gNE8_EfPA"
 }
-entriesCount: 14612
-
 comments {
   text: "Abandoned App, used this app for years, stay clear!\tI have been a Cardio trainer PRO user since before \"Noom\" swallowed it. Ever since Noom this app has been forgotten by the developers. No new features, nothing in YEARS. I now own a Fitbit and of course Cardiotrainer will never add support for it. I moving to Runkeeper and never looking back. PLEASE steer clear of this and any other Noom software. They have become a soulless money-hungry group that could care less about it\'s users."
   rating: 1
@@ -2639,6 +2660,8 @@ comments {
   creationTime: 1382810425272
   authorId: "cid-gp:AOqpTOFsJ5zznDTaPxzy2530xK6kT58u7zoNIfE1Bu2idZj7FaDkaqr3_OMs9jnyb5CclKhJZTGZeUAsTiuWRA"
 }
+entriesCount: 14632
+
 comments {
   text: "Facebook fail\tDoesn\'t post to Facebook properly. Click on the map on Facebook and up pops an Apache error."
   rating: 3
@@ -2660,8 +2683,6 @@ comments {
   creationTime: 1382487741953
   authorId: "cid-gp:AOqpTOFuIwdTs8WpTAxjqAVxagfWBXtSxtlI-ISIYXSdPGCugUWhFbPNkBXbf12XXSJs5wG0hJz2jCw3jrpXyA"
 }
-entriesCount: 14612
-
 comments {
   text: "Great app\tOverall it\'s a great app. I love that I can switch from multiple types of workouts and it combines them into total distance and calories by week, month and year. Also it\'s pretty cool that I can see how far I have traveled on the world map, I\'m in Mexico to the south and Canada to the north right now. Watch out South America and Alaska, coming there soon! There are two issues that keep it from getting 5 stars. The first is that if you switch phones  or have to redownload because of phone issues you lose all details of the individual workouts even though you keep the overall distance and calories burned. The second is it doesn\'t incorporate elevation changes."
   rating: 4
@@ -2711,6 +2732,8 @@ comments {
   creationTime: 1381952089206
   authorId: "cid-gp:AOqpTOFkP0dl7zEoB0xpLQICTeJVRAK7lZl0bmDTo3VlRLJl1BJAzPtRWpoJhEBhNfwSCu33ZvY3DbhIP5tNYQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Below expectation\tLG optimus black. It doesnt record my track accurately. For the roughly same amount of workout, the difference is outrageous"
   rating: 2
@@ -2732,8 +2755,6 @@ comments {
   creationTime: 1381645623060
   authorId: "cid-gp:AOqpTOHZViiELs1av5J5vQ9ZTiWoYwodxTQwVEtOvGS-3mGqeQKRdJlqKvtMKlsWALI-GGIQbDMaWjDXRJ96QQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Buggy :( but useful, & pretty :)\tWould by Pro IF could EXPORT history. Notification are OFF, yet, I\'m getting notifications. You broke this, setting -used to work properly. Tracks from previous year evidently didn\'t record year, as dec 2011 (etc) are listed under Dec (nov, etc) of a few months ago! Yesterday\'s Custom workouts are initially filed under Jan. Displays properly when go-to History tab later. SLOWS Phone. Turns on randomly, running who-knows-what?! in the background! Causes phone to Stutter. Doesn\'t exit properly __Nice graphics"
   rating: 3
@@ -2783,6 +2804,8 @@ comments {
   creationTime: 1380835107362
   authorId: "cid-lg:AOqpTOHCDVpehr6ZS4m4650uUul_LbFRemliwqIntNTM0GUDi6T8dXguZNGzgern-WwVzjCTqrN1NG3uoMsWJg"
 }
+entriesCount: 14632
+
 comments {
   text: "I\'ve had this app for at least two years I love it and recommend it to everyone"
   rating: 5
@@ -2804,8 +2827,6 @@ comments {
   creationTime: 1380564622067
   authorId: "cid-gp:AOqpTOEUmjf8PbLASgBjfY0FRloI8CpZox1jrg3FTjlDnMgpEpaQOgkojBnIIjuvsRK5UUQ36TKPvxCI3bPxyQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Better, but still music problems\tMusic player now uses native playlists, but doesn\'t seem to start at the beginning. Last couple of times it stops after two songs. May be related to shuffling?"
   rating: 4
@@ -2855,6 +2876,8 @@ comments {
   creationTime: 1380017853694
   authorId: "cid-gp:AOqpTOFl0xHEb9YcwGGxvNIFtWNVQFou_XGldM6rF-uT_jvzLetDa-XzWUaYvvSgSMHN7thGEhLR4zhRb2eknw"
 }
+entriesCount: 14632
+
 comments {
   text: "Great app, but ....\tIts doesnt sync my manual entry workouts with my other devices!!"
   rating: 3
@@ -2876,8 +2899,6 @@ comments {
   creationTime: 1379890152466
   authorId: "cid-gp:AOqpTOFRj5clKCrmqjfpIUUVumop9lTbfGP97FZcz899zwhiVw8p1EhxRPlyVaZFY9eP7xeLAzKmqgVBlxBlCw"
 }
-entriesCount: 14612
-
 comments {
   text: "Too...\t...many unnecessary permissions needed. Found out it leaks emails. Only install if you don\'t care about your privacy at all!"
   rating: 1
@@ -2927,6 +2948,8 @@ comments {
   creationTime: 1379477343307
   authorId: "cid-lg:AOqpTOEK8nGgiFLko5CoCTbtWalV7VkmtcFVLJWhup0k-Hip2uE3AqcbygeQFec4K-M83Gdg3ElvYUjdFwOV7Q"
 }
+entriesCount: 14632
+
 comments {
   text: "Please fix\tWorked fine, but now isn\'t recording my workouts. Please fix."
   rating: 2
@@ -2948,8 +2971,6 @@ comments {
   creationTime: 1378947997444
   authorId: "cid-lg:AOqpTOGOVxLg9T_iT6Iuo860ekdCP-4YnGCx4h6w88mRbwP4xQGlf3Q2Afoq9-PYSzVq-KWvh7OLKPybEUnOWQ"
 }
-entriesCount: 14612
-
 comments {
   text: "almost perfect\tPlease add multiple exercise per day scheduling. A lot of your users screaming about it."
   rating: 1
@@ -2999,6 +3020,8 @@ comments {
   creationTime: 1378514158849
   authorId: "cid-gp:AOqpTOGJc04uS1gZ3Zjm6bdsrujwzLz36UBh5MxFBNJuzzSOPTaZDyf_2oflq20joKb0_GPIi_Az-XAlL1hGdw"
 }
+entriesCount: 14632
+
 comments {
   text: "Great\tBig smile"
   rating: 4
@@ -3020,8 +3043,6 @@ comments {
   creationTime: 1378336362055
   authorId: "cid-gp:AOqpTOFCBHY2CzHBQv69XSwbJhsGQsyiNkCm-nQM2OWHwtgFwd_BTDWKi4_BWHKs3vQnLUH0qf-0O4tl_MCSXA"
 }
-entriesCount: 14612
-
 comments {
   text: "Nyc app\tBrilliant app I love it"
   rating: 5
@@ -3071,6 +3092,8 @@ comments {
   creationTime: 1378073416588
   authorId: "cid-gp:AOqpTOGGEz5R6hs0ZiaRX3wuT-uwipjp0aJdqiAsn9al-63uCiyUIgLD0DrhRKy5dGTMPS1-N9yTpKF5hINT8w"
 }
+entriesCount: 14632
+
 comments {
   text: "Want to delete this.\tI never use it and I very much dislike not having the option to delete it off my phone. Why can\'t rogers let me choose what I actually want instead of just filling up my memory with apps I clearly don\'t want?"
   rating: 2
@@ -3092,8 +3115,6 @@ comments {
   creationTime: 1377885456640
   authorId: "cid-gp:AOqpTOGbUkx2HFy0s4oryqg0xIQiWDMHe-w3n0NKC8z7UsxskQa0FMlAoM5OI4q5yj1aFHeq1w_W2XjcXoi4BA"
 }
-entriesCount: 14612
-
 comments {
   text: "Abandoned?\tHow do we get google to pull this app it has been abandoned by the dev.   So the app has not been updated in over a  year it has many bugs that have been reported but the developer seems to have abandoned the app. I really hope I am wrong because I love the app but it needs updating. I have the pro version and I feel like they have/are just taking the money and forsaking their users.  Does anyone know how to get google to take a look at a app and pull abandoned apps?"
   rating: 1
@@ -3143,6 +3164,8 @@ comments {
   creationTime: 1377510136090
   authorId: "cid-gp:AOqpTOEzP-BuTJa98_Dlzlamd3bt0t4SH2_a2M2Y3uheamHEKejpLeP3AffrFqGs-57ISUZB8-xy2lxWGCV4xw"
 }
+entriesCount: 14632
+
 comments {
   text: "Love it!!! It\'s easy to use and I\'ve lost 35 lbs in 5 months :)"
   rating: 5
@@ -3164,8 +3187,6 @@ comments {
   creationTime: 1377281206184
   authorId: "cid-lg:AOqpTOGo_bxmgkI9h0WuDDTXrsamxnjPtu8yBnaRzB-AA0BRSnB7DgWDwXYqCpejLJkDmno-lU9JkqeBCDyMUA"
 }
-entriesCount: 14612
-
 comments {
   text: "Love it!\tAbsolutely love this app!"
   rating: 5
@@ -3215,6 +3236,8 @@ comments {
   creationTime: 1376875772577
   authorId: "cid-lg:AOqpTOEq-qKY8V3cUgjLerLbPQsj8im27tytIjxW0ffUmbJ_tEi7H88_PQLC0nyaro6XRBribuKHRYPkkO4eYw"
 }
+entriesCount: 14632
+
 comments {
   text: "PLEASE allow uninstall\tThis app is eating 4mb of the already small internal storage of Defy Mini and it cannot be moved nor removed."
   rating: 1
@@ -3236,8 +3259,6 @@ comments {
   creationTime: 1376684843919
   authorId: "cid-lg:AOqpTOFKvS8AQyEsbuO7XZFLDVEdbHqfZYSq1ENvpiMn5RI2MlHUdrBIudJfQVhKXzVv-FEx3RTSb_2e8Z4woQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Nec\tAwesome"
   rating: 5
@@ -3287,6 +3308,8 @@ comments {
   creationTime: 1375918874552
   authorId: "cid-gp:AOqpTOGlSFY2QytxZkYeDYk0GkHEtarKiNpOPZU62ft-6v86G1eJbKdGXjPv74HvatmM-nDOtYWLdrwnf_25cg"
 }
+entriesCount: 14632
+
 comments {
   text: "Good but..\tKeeps failing when I try and share on Facebook"
   rating: 4
@@ -3308,8 +3331,6 @@ comments {
   creationTime: 1375768443948
   authorId: "cid-gp:AOqpTOEB2nngCxrvGCMSxGQFsHgLo5qbzj8bkYxB75wiZDP_j30YH8ESk1KP0T-BA6KnigK194Tg1yCLE7gyTg"
 }
-entriesCount: 14612
-
 comments {
   text: "Great App but needs improving\tI wish I could find one of these tracking apps that would do what they say they do. this one will not update to Facebook, will not update and let me on their website and the app\'s Facebook page denies access. The app has super features but just lacks final completion of all desired tasks !"
   rating: 3
@@ -3359,6 +3380,8 @@ comments {
   creationTime: 1375439393961
   authorId: "cid-gp:AOqpTOEO5QEIMipCTuWeGdJwM_rxgybXuE_6QlJzPLrCT8bnjHgR66cQeTD6v3FLXN__ziWoPTmU1wsv07zFlQ"
 }
+entriesCount: 14632
+
 comments {
   text: "World high scores list not working\tI am unable to check the world high score list.its showing error. Please fix  the problem"
   rating: 4
@@ -3380,8 +3403,6 @@ comments {
   creationTime: 1375106564574
   authorId: "cid-lg:AOqpTOFuYdShZ5z3OxNLcWJ4iiQsGJF6CBCmCJEk1jRUzuaeo0bScZ-4mn5rj4t7kFJ0If8dTY1cYjxSLT2_yw"
 }
-entriesCount: 14612
-
 comments {
   text: "Not so accurate\tI have been using the app and corresponding widget for over a year and have no complaints. Until I compared it to a workout on my treadmill.  I did one mile at 3mph as per my treadmill,  and cardio trainer shows it at 3 miles @ 7 mph way off...have updated and even reinstated,  makes me wonder if ALL my workouts are this inaccurate. So I have to go over just to balance...can you please fix?"
   rating: 2
@@ -3431,6 +3452,8 @@ comments {
   creationTime: 1374599385097
   authorId: "cid-gp:AOqpTOG1tjwYU8Mh2KWNHg43Jk09O1ovhPYYw8Ofg6n9vfdohBaAlA4kjWGy7WOdENUNYhTa2eU5ilykXTbYDA"
 }
+entriesCount: 14632
+
 comments {
   text: "Used to be an outstanding app, Now...\tUpdate 7/22/2013 - One of the best features IMHO was the \"World High Scores\" where I could compare my progress with those around the globe who use CT. For about the last 3 weeks I\'ve been unable to access the servers and it keeps telling me to check my Internet connection. My connection is fine. It still records my scores but I cannot access the servers. Others appear to be having the same problem or similar. Tech support has been non-existent and I can even get a progress update or acknowledgement of where the problem resides. I am at the point of just ceasing to use this app, and trying to export all my 3.5k miles to Garmin. For me the World High Scores was a integral part of my workout routine."
   rating: 1
@@ -3452,8 +3475,6 @@ comments {
   creationTime: 1374439468392
   authorId: "cid-gp:AOqpTOFg6dnmExjEJaMfW6dFDTPSc_fJBUeilQ1hMwoFn7OxB85NabB4m9YOa0VtWpFm0yuFo96jNedXrklhmg"
 }
-entriesCount: 14612
-
 comments {
   text: "Gret app\tPlease add Tapout XT to the workout list."
   rating: 5
@@ -3503,6 +3524,8 @@ comments {
   creationTime: 1374070639229
   authorId: "cid-gp:AOqpTOHuq0r3JL4q5EVBM3qVEeWssZifIN_ig01x4xoDbZTGZeeGwCCu-dBT1FAdAzGJ-942C9wmdmcWIlvbmQ"
 }
+entriesCount: 14632
+
 comments {
   text: "What happened?!?!\tThis app was amazing and worked perfect on my last phone. Since downloading this app on my new phone, its subtracts calories when I enter in a workout, not add them!!!! It also only goes to 900 calories then when entering my next workout, goes back to 100 calories. Very frustrating!"
   rating: 1
@@ -3524,8 +3547,6 @@ comments {
   creationTime: 1374054249461
   authorId: "cid-gp:AOqpTOGzCPELz-1DHP4V9x5S-1mikxG3SnL7UfnBokF7KNjZKNvdwOiKh0BK7KbZWdlOkTX3LPcseKqh4pLEWw"
 }
-entriesCount: 14612
-
 comments {
   text: "HTC Thunderbolt\tI love this app. I\'ve been using it for several years. It does everything I need it to."
   rating: 5
@@ -3575,6 +3596,8 @@ comments {
   creationTime: 1373487976013
   authorId: "cid-lg:AOqpTOFKGAWfbwse1FR_BAxm-l6ht8NPlT1R98H2wPxJS8DdJ3ys54n3cqYaDskY7fza52ZM3iyGv_jy2fZ1_Q"
 }
+entriesCount: 14632
+
 comments {
   text: "Developer In Denial\tI have used this app for over a year and a half logging 4860 miles in 203 rides. Recently, the app either loses or never connects with a GPS signal. I rode 22 miles two nights ago with my phone mounted on a new frame holder and the app never once acquired a signal. Others have complained but the developer has chosen not to address the issue. Time to ride on and try something else."
   rating: 1
@@ -3596,8 +3619,6 @@ comments {
   creationTime: 1373403881242
   authorId: "cid-lg:AOqpTOEvDurXFfM_u34DjD7zcL9ZzcaL1IwlNr7Iz7zJrsRp0K68NwLPKn580zfc5pMm0ZW756OsHdP5rOHwgg"
 }
-entriesCount: 14612
-
 comments {
   text: "Fantastic app\tThis app has helped me lose weight, giving me motivation to walk home from work more often. Easy to use, accurate and quick, I only wish it would give you calories burnt in terms of cake, 4 pears doesn\'t seem like much when you\'ve been walking for an hour! Have recommended to friends."
   rating: 5
@@ -3647,6 +3668,8 @@ comments {
   creationTime: 1372864180177
   authorId: "cid-gp:AOqpTOEtypqoZutIkHCqkAVuUnpeIkvYM3Idf60OkLgdKC3lEHC5wSPI7JQcjjkMxbaYUWV6zhc2KfITjz2YSg"
 }
+entriesCount: 14632
+
 comments {
   text: "Brilliant app, but.....\tI want to change email addresses!! PLEASE FIX!! This is the best app I have found, but it is super annoying to not be able to transfer to a new email address!!"
   rating: 1
@@ -3668,8 +3691,6 @@ comments {
   creationTime: 1372795575626
   authorId: "cid-gp:AOqpTOHc_rwUnMdx-fI4H841uLjYnOZxRa6apZvckhIPtWRkewC2geE54llo4ePfqBfxQ1cNkRmx06VGM_abOw"
 }
-entriesCount: 14612
-
 comments {
   text: "Doesn\'t sync with Facebook\tthe application stop sync data with Facebook."
   rating: 2
@@ -3719,6 +3740,8 @@ comments {
   creationTime: 1372332350770
   authorId: "cid-lg:AOqpTOEX3PEcOPQXGC2CiNQ-wkMJ1DTYQH-WeL8UKhYOoJkg7kYzA_eiKlKS5zMkSBIvLFhSwcq-kTfPilBYAw"
 }
+entriesCount: 14632
+
 comments {
   text: "Force close w/GPS\tI love this app. Been using it daily for 2 yrs+ It has all my history, I dont want to let it go BUT it keeps closing whenever I open GPS to start workout. Please fix asap!!!"
   rating: 1
@@ -3740,8 +3763,6 @@ comments {
   creationTime: 1372038168281
   authorId: "cid-gp:AOqpTOEmoLJb33DkQwWxNFh9brjg-bWMKa4jm6LcCOzXnnwEB29OnNeE4AHgePhGNJj_N3dJUYvGDLP3fG8Ibg"
 }
-entriesCount: 14612
-
 comments {
   text: "Overall great but room for improvement\tI love this app. It just works. I have tries most of the alternatives over the years but have always returned to this one. However I think there is room for improvement the app has stayed the same for the last few years. It could easily be brought inline with modern android design practises very easily. Twitter doesn\'t work and need integration with G+"
   rating: 4
@@ -3791,6 +3812,8 @@ comments {
   creationTime: 1371674363294
   authorId: "cid-gp:AOqpTOF_NwEwofC2h_-LJzL_Q_AOul9uCuic9JH0DRsltfNQiULpUX9nXpL2oiL17g5GEaZKfpkv24Ru1NxnKw"
 }
+entriesCount: 14632
+
 comments {
   text: "Wish it hadn\'t died...\tWhat a great app.  I\'m sad it\'s no longer supported. Got the pro version and everything. Emails to Noom weren\'t returned. :("
   rating: 1
@@ -3812,8 +3835,6 @@ comments {
   creationTime: 1371521192751
   authorId: "cid-gp:AOqpTOGEg61AuotUybuVgoXTnRQM3PCL-E5do11_QYFzJf-Jm89rnarbiBfBrM9CRyYmaGeH-WtMbJApwovW3g"
 }
-entriesCount: 14612
-
 comments {
   text: "Update suggestion ~\tDaily use, mostly walking 4 elderly dogs 4-6 miles/day. The 2 minute automatic shut-off needs to be higher. Sometimes it takes 2 minutes to get my smallest dog into his dog backpack when he needs a brief rest. Otherwise, I really like it!"
   rating: 4
@@ -3863,6 +3884,8 @@ comments {
   creationTime: 1370961343448
   authorId: "cid-gp:AOqpTOHKy91W3uqrqh-I1JRwpxZ_DLgSTZqn3HusYHL2jU4ai_ReWWR5pssM35j4d0-en9FuU6fsguNJiGJCzQ"
 }
+entriesCount: 14632
+
 comments {
   text: "So sad my phone is not compatible\tSamsumg SGH-I997 is incmpatible please fix it"
   rating: 1
@@ -3884,8 +3907,6 @@ comments {
   creationTime: 1370909199156
   authorId: "cid-lg:AOqpTOGVPNlkzyJePi880XzZ9KL_nkRVyp8Lk0Nf5ctmwJL4g-0HFcIhrUxqDWT45Wt-nrw4fhzdz_XA-SDWMA"
 }
-entriesCount: 14612
-
 comments {
   text: "Love it, but...\tI really like the cardio trainer app, it works as expected and does what it should, but the extra features don\'t live up to the standards that the main app has set. I tried the racing feature to race against myself and my music wouldn\'t play and I couldn\'t hear the voice telling me how ahead/behind I was, no matter how high up I set the volume. I ended up beating my time by nearly a minute and it showed I was behind about 80 yards. strange!"
   rating: 3
@@ -3935,6 +3956,8 @@ comments {
   creationTime: 1370226429303
   authorId: "cid-gp:AOqpTOGhYuRRCTtKuagxjBzbWar7JnZOWm3TPyvYIAjxEsygHT8Ty1oHFbt1US3dIUWBU83dmS-wjg4A8FFk2A"
 }
+entriesCount: 14632
+
 comments {
   text: "Love this app!\tThere are a ton of apps like this out there but I like this one the best. It\'s very easy to use and there are a ton of activities preloaded. It\'s also very easy to manually add workouts. Music integration works great, reminders are effective and notifications are helpful but not annoying. Highly recommend."
   rating: 5
@@ -3956,8 +3979,6 @@ comments {
   creationTime: 1370116703230
   authorId: "cid-gp:AOqpTOFPEMmKJRd3KBy3fqU8inZKUBXLRno5EoE2iPtxf2uHK2HBw_X0Qvn8WSfCM6hChJUPuHkRi6hBcF56qg"
 }
-entriesCount: 14612
-
 comments {
   text: "Can\'t express how much i love this app <3\tThis is the greatest sport app that i ever tried :D and its free :D big thanks to all that people working on that app."
   rating: 5
@@ -4007,6 +4028,8 @@ comments {
   creationTime: 1369920887211
   authorId: "cid-lg:AOqpTOGBc6DwIG7XrjJW5xJtNepG_3IZeayxXhs8N6xpb1WZQNHQ51SqlqVgE2ypnuH_mRZebFBYZr9mwke1oA"
 }
+entriesCount: 14632
+
 comments {
   text: "I Love This App! Sometimes it mess up.....but it still gets a 5***** rating {~_*}"
   rating: 5
@@ -4028,8 +4051,6 @@ comments {
   creationTime: 1369662772955
   authorId: "cid-gp:AOqpTOE5UQRIWLrIB4c0D8ReqhbzfJkU1b9DL2O2FMHP4J6x9-48YPQy7G9bVkwGT29eZFVb828i6QqyEW4p8w"
 }
-entriesCount: 14612
-
 comments {
   text: "Cant unistall"
   rating: 1
@@ -4079,6 +4100,8 @@ comments {
   creationTime: 1369099480567
   authorId: "cid-lg:AOqpTOHTw0yNB8mw_xkSma_VIakKKap3L3r0Pl3oUuw1H2IoZY5lqBGE7ms7XPYUQo5JERRimeChtpicbXqMMA"
 }
+entriesCount: 14632
+
 comments {
   text: "Defy plus\tExcellent app for those who love exercise..."
   rating: 5
@@ -4100,8 +4123,6 @@ comments {
   creationTime: 1368834646742
   authorId: "cid-gp:AOqpTOEEDZ6wyknh1joM6JUjZgnXTrfF-0MeUob7GbwmNZisQqcnaC44wkpZG2nOU4QpeVdnkSEXG7gHy6gNGA"
 }
-entriesCount: 14612
-
 comments {
   text: "Won\'t share to FB or Twitter..\tIt says it\'s sharing to my FB, but it actually doesn\'t. Twitter is linked, but it doesn\'t post under either. Please fix. Used to love this app. GS3."
   rating: 2
@@ -4151,6 +4172,8 @@ comments {
   creationTime: 1368294115833
   authorId: "cid-gp:AOqpTOHbbQtWaZvMSdZ0-aIVFc0gxHvW-1IuaPH50vtnT6otPffvGtHVxPPmdcOU8cdfW3dB0wmK5AHLZXul4Q"
 }
+entriesCount: 14632
+
 comments {
   text: "Great\tThe best"
   rating: 5
@@ -4172,8 +4195,6 @@ comments {
   creationTime: 1368163327547
   authorId: "cid-gp:AOqpTOF80WTjXQUM41-LTpKS8EcwfRPG6BTbVeb6sSZs_PZ9YwV80mSjDj2IYimG7bnX5dMrb34dO8YnYKyB7Q"
 }
-entriesCount: 14612
-
 comments {
   text: "Good\tDoesn\'t count my steps right but atleast it measures the right amount of time/milage I walked :)"
   rating: 4
@@ -4223,6 +4244,8 @@ comments {
   creationTime: 1367890210706
   authorId: "cid-gp:AOqpTOFEX2619hayswzpXshgxO9QN4nSexAldDikMn9K5V0uR3n0gNjfbr8HNLbbZRqAV6EVo2V5oYtDqdlpUA"
 }
+entriesCount: 14632
+
 comments {
   text: "Gone downhill\tThis used to be my primary running app, but it\'s fallen from those lofty heights now due to the stagnated progress. No update in over a year, no way to review your detailed history when backed up to SD card, broken Facebook integration. I wouldn\'t bother buying this any more as the developers don\'t seem to care any more."
   rating: 3
@@ -4244,8 +4267,6 @@ comments {
   creationTime: 1367869041659
   authorId: "cid-gp:AOqpTOGYF350-C8j3X8cdU9p8xYX8m9FrlZ9yEiTyBQVs_PfM1pTBK5J-tLS0QQ0PVeOywl1kXtOb4Avx5AZeA"
 }
-entriesCount: 14612
-
 comments {
   text: "Awesome app!\tLove this app. It shows how far I walked...where I walked...how many calories I burned. Just a great app!"
   rating: 5
@@ -4295,6 +4316,8 @@ comments {
   creationTime: 1367538593039
   authorId: "cid-gp:AOqpTOHoX0pEHrn3OLzBbOcNzm5rFOJOfvemCQs7urwvHavoNjCXuQeRsgozLvlIcbE9Q_D19Cpf2oQrG4mRnw"
 }
+entriesCount: 14632
+
 comments {
   text: "This app is a good reason to buy a phone"
   rating: 5
@@ -4316,8 +4339,6 @@ comments {
   creationTime: 1367458241535
   authorId: "cid-gp:AOqpTOGT_oUejI3LRvi9000aVnxGygD9JfLpPKFYOD6FX8R36V-QlLiarPyBCalbHeQXXugDsjLMHDPahMj1Rw"
 }
-entriesCount: 14612
-
 comments {
   text: "Love it!!!!\tWhat a wonderful pedometer! It gives so many cardio options and keeps you on track. I especially love the graph display to track speed and distance. I believe the calorie-burn count is off, but overall this is a great app!"
   rating: 5
@@ -4367,6 +4388,8 @@ comments {
   creationTime: 1367242410443
   authorId: "cid-gp:AOqpTOHwdHh2tgJxf2BBGiYyRDW8GUNlhvOfWjoA9DHJEQ6MhfuneAQEig128g7rUgjX6LnwLn9zTpMhbulE5Q"
 }
+entriesCount: 14632
+
 comments {
   text: "Note 2 won\'t track\tUsed to work, now i must always adjust steps."
   rating: 2
@@ -4388,8 +4411,6 @@ comments {
   creationTime: 1367192040408
   authorId: "cid-gp:AOqpTOFCg9uDaKuqMmq5ZSH0U1Vl0tFgJJN_pwtT4RYgiOEvjjRIY1aWV738vePC4env1ODqZSdHImuNYHynBw"
 }
-entriesCount: 14612
-
 comments {
   text: "Great app\tThis app is great; however, the time I complete a workout is incorrect when posting to Facebook. It shows as a hour earlier than when I complete a workout. Or could there be an option to add the time?"
   rating: 4
@@ -4439,6 +4460,8 @@ comments {
   creationTime: 1366315746784
   authorId: "cid-lg:AOqpTOG3bZdDaV49HGnSE0U9QyTwW91EorvV3dQiDkDjS70gFldl4qh6gdhldCfLmKoz6nWXbDpFgh6TxVl38A"
 }
+entriesCount: 14632
+
 comments {
   text: "Love it!!!! Love it!!!!\tDid it once guna do it again!"
   rating: 5
@@ -4460,8 +4483,6 @@ comments {
   creationTime: 1366236442117
   authorId: "cid-lg:AOqpTOHahf7fGOTgbviRPe2FJeH5AFjxefeiGZjF6806QAZ5gsgWgcG8xhn_ahsVIha9_SVRf0zg_qsv7EKvsQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Abandoned by developer?\tI was an early adopter of this program and use it daily. It was and continues to be excellent. But the developer hasn\'t updated it since Jan 12 2012. Over a year without a change? Has the developer abandoned this program or just decided you shouldn\'t mess with perfection? And on my phone, its still labeled \"beta.\"!  How about a way to save and export GPS track data, apart from downloading each track individually?  How about a way to save weight data? Everytime I get a new phone, I lose all my weight data?  How about an updated UI or one that is customizable by the user? I never use \"friend activity\" and I\'d love to be able to personalize it to to have \"log workout\" on the main screen. Or make the buttons a bit smaller and put all of them on one screen -- especially as phone screens are getting bigger and bigger, this seems a reasonable option (one that could, perhaps, be set in the \"settings\").  How about supporting more than one brand of heart-rate monitor?"
   rating: 5
@@ -4511,6 +4532,8 @@ comments {
   creationTime: 1365676180448
   authorId: "cid-gp:AOqpTOHVntWAgN0Pxbvot0NVUl5aSb5YOt-LkYn_KHe5jhlT-LNChHVigFSyQpqEdszdoVgkhPQYRqsas0eZTQ"
 }
+entriesCount: 14632
+
 comments {
   text: "N C\tWay to go"
   rating: 5
@@ -4532,8 +4555,6 @@ comments {
   creationTime: 1365403621168
   authorId: "cid-gp:AOqpTOEvpBWGOB8Yyt9aHwVSU_nIYJ1y7f4dZqbNUJnECAvQ-oJhoLYQ7NsF3SOHFLfo-mnfhdZse0G1Squ8Mg"
 }
-entriesCount: 14612
-
 comments {
   text: "Used to be a great app!\tI used this everyday but now it doesn\'t work. The gps can\'t find my location and it won\'t log steps! Emailing the company doesn\'t get no answers :-(  Please fix!!!!!!"
   rating: 2
@@ -4583,6 +4604,8 @@ comments {
   creationTime: 1365055923237
   authorId: "cid-lg:AOqpTOE20ZfXjHTXPDRgqABW77EP-G7imVtkoW7z5-1sberfYs44D_2z0SfnjRMSCGye-6bXMTmLDtfKmTC3LQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Good app, but hope for improvements\tWorked better on my Droid2 Global. On new Samsung S3 Autopause does Not pause @ stops and then sometimes pauses while riding! (In Hawaii and fairly bright days and no notice of gps signal loss). Plus wish it had way to keep screen on."
   rating: 4
@@ -4604,8 +4627,6 @@ comments {
   creationTime: 1364825610863
   authorId: "cid-lg:AOqpTOFhuJ1R0qkWdglMdObNBo31jTeP33q-AbpuspF-a2UTtShewst6ZFvTZRHr1dYaMGImzKRx8nytz0LW4A"
 }
-entriesCount: 14612
-
 comments {
   text: "Just Excellent\tKeeps me motivated to go out there and train my body every day. Installed it from LG Smart World but it crashed a lot, now i got it from The Play Store and its working fine."
   rating: 5
@@ -4655,6 +4676,8 @@ comments {
   creationTime: 1364380528802
   authorId: "cid-gp:AOqpTOFf_OGOWNZNJyZfE7MR5W2qUs1gQRylME-JBLDb3u6xk9S4vbqtI_4jhCGmBFGE3WgZF6YjkjdYAQAaNg"
 }
+entriesCount: 14632
+
 comments {
   text: "Worthless\tFrom my car to the office is about 100 feet and this app registered 4 miles. It then increased another half mile while sitting at my desk. Uninstalled."
   rating: 1
@@ -4676,8 +4699,6 @@ comments {
   creationTime: 1364107345071
   authorId: "cid-gp:AOqpTOE3PA1t5r_0Iw4Gtv-9KgDHJftd2ad-6xl13YQJG_FRus8VhRw8lNM2k8fteJLkW1xqguegwIoN7eNVdg"
 }
-entriesCount: 14612
-
 comments {
   text: "HTC Rezound\tLiked the App but somehow an old Voicemail got embedded into trainer narration. Uninstalled and reinstalled and now find. Very weird"
   rating: 3
@@ -4727,6 +4748,8 @@ comments {
   creationTime: 1363586066439
   authorId: "cid-gp:AOqpTOEy4QaMjraXr57fy52_Vk3NIMDSAyDzdIeNf9v_CzH8nEQtWPr0CcnLPvcsN0aZI9AqcjwxCGcRbuNOnA"
 }
+entriesCount: 14632
+
 comments {
   text: "Good app\tI am using Cardio for a half year and can only recommend it."
   rating: 5
@@ -4748,8 +4771,6 @@ comments {
   creationTime: 1363407983535
   authorId: "cid-gp:AOqpTOGCeOOZrBFyuwcZk1lprBYiVrvvOPbV6cdcUm-PyZLwNBROoEMo0vrCiOBU89UJpNmn0fElcqksJ7efHg"
 }
-entriesCount: 14612
-
 comments {
   text: "Seconds out!\tWas ok until a fault introduced where you can\'t update seconds when editing stats. Ridiculous decision by developers."
   rating: 3
@@ -4799,6 +4820,8 @@ comments {
   creationTime: 1362567102026
   authorId: "cid-gp:AOqpTOE4QOp1kVde1aF3FeD_zxCCCuxHxpcpx-GMhr40-hJ8oHPtFqXTNyrH3jFApKggbCzAdgX5xqiMfWcZwA"
 }
+entriesCount: 14632
+
 comments {
   text: "Love it"
   rating: 5
@@ -4820,8 +4843,6 @@ comments {
   creationTime: 1362089974520
   authorId: "cid-gp:AOqpTOHIvrt6q4W8jlz520BuU2kDF8hXdhxD-Wzkr_DkQFUfh9De3fkwPSIppl1jE3ys9M-MYFSP4l9ll0JjNw"
 }
-entriesCount: 14612
-
 comments {
   text: "ZTE Warp\tLOVE this app!! Never had a single problem with it. Easily tracks and records all workouts, calories burned and exercises."
   rating: 5
@@ -4871,6 +4892,8 @@ comments {
   creationTime: 1361419432379
   authorId: "cid-gp:AOqpTOGKtld3ApiQbNezIR19NqMbdDFHFWFWqgvfs2VOu5g41iwIjusE-9pJyxyH7acybo8yJOksbY5hBhSClA"
 }
+entriesCount: 14632
+
 comments {
   text: "Music bugs\tFor the features i would rate this well, but the app hijacks the android music player and while this app is installed, the music player goes haywire when used on its own. Worked fine once this app was removed. Also, app will not allow selection of playliets. Says it foes but it wont. Since music while running is a must, this app fails for getting that simple part wrong."
   rating: 2
@@ -4892,8 +4915,6 @@ comments {
   creationTime: 1361200657226
   authorId: "cid-gp:AOqpTOErvQJ0m5IFLVnSt3O3NLkGgcwZ_Kh0zRtwdCP6KXLprbkx5Ku-OfaAadQ52TnPc_oJJKg9R0YlOh3KJA"
 }
-entriesCount: 14612
-
 comments {
   text: "Music stops playing on s3\tLove this app, but my music will stop playing during my run.fix that you get 5 stars"
   rating: 4
@@ -4943,6 +4964,8 @@ comments {
   creationTime: 1360802093245
   authorId: "cid-gp:AOqpTOGVbS-4Dv20e8gKifYl8mXlPoZ4Ler8zNQ8GVe_ZUqtVwkocLd_q55B47rfAvQ9IwaNxgs5xSBnC5sKxQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Love It!\tI love that it even tracks indoor exercise like aerobics and senses intensity level and adjusts calories burned accordingly!  I wish it synced with My Fitness Pal!"
   rating: 5
@@ -4964,8 +4987,6 @@ comments {
   creationTime: 1360583905910
   authorId: "cid-gp:AOqpTOEMRlsHrCfJOyr3KVzPs6w9hUC7YpICCikNjFccRt2yZHJo0fzL_UAfo3saSIG9D2bTw1t-AP1WvcldGg"
 }
-entriesCount: 14612
-
 comments {
   text: "So far so good\tI\'ve only used this once but it seems to be good. I\'ve used Endomondo for the last year so I\'ll be comparing this to that. A couple features that I would like to see added: let me make it more personal by uploading a profile picture and my name. Also would be nice to take pictures whilst out biking or hiking to remember your activity."
   rating: 4
@@ -5015,6 +5036,8 @@ comments {
   creationTime: 1359886051491
   authorId: "cid-lg:AOqpTOEUgI3eI_1C5GYlz4FsvcJittSPpoPG_kuMHg9xP5AKUh5k5mynVtHaKVYfAPTjMpFwcYbb1Ge7sclpdw"
 }
+entriesCount: 14632
+
 comments {
   text: "Really nice app but just like posting workout on facebook and twitter can we post workout on Whatsapp"
   rating: 4
@@ -5036,8 +5059,6 @@ comments {
   creationTime: 1359816462945
   authorId: "cid-gp:AOqpTOFhwpi07FChuHFXHftMlYCQCIfH7NF9owKMfHX3R20ehCPbnKm2OFA7yHYJ2lMmTUk6iDO0mo2AaFDT-Q"
 }
-entriesCount: 14612
-
 comments {
   text: "Sync\tThe app should be able to sync between devices. I have the app on both my tablet and phone."
   rating: 4
@@ -5087,6 +5108,8 @@ comments {
   creationTime: 1359179806978
   authorId: "cid-lg:AOqpTOGaw9ZhQZt1F-C4Gyxulvm-sXA1oVkaLPktfo7BJYB_-Gr8q7RhCpzcSKM8zwFTvsI-auDHt169NFYekg"
 }
+entriesCount: 14632
+
 comments {
   text: "Just that perfect app !\tLost 14 kg using this app. no gym membership, no personal trainer, no fancy equipment. Me, my run and cardio trainer keeping me motivated.."
   rating: 5
@@ -5108,8 +5131,6 @@ comments {
   creationTime: 1358855205500
   authorId: "cid-lg:AOqpTOH59c7dLNJFUNpekCbF9Z1E89okvtEb4c81ba1FK49MBdNwyx21n-_gWdZ2RjIYFD9E5Zp4M5Pg1jGT8w"
 }
-entriesCount: 14612
-
 comments {
   text: "Great app.\tGreat app. the free version is good for recording tracks that you run and GPS tracking on the Wildfire S is superb. That last point alone is why i consider this the best GPS tracking app.  Other apps have better features like racing or being able to modify your tracks online, or racing against other people but the GPS tracking in other apps (on the wildfire S) just isn\'t as good."
   rating: 5
@@ -5159,6 +5180,8 @@ comments {
   creationTime: 1358372000814
   authorId: "cid-gp:AOqpTOG8gMTAcTbgm6Df-7cTz7kT-6aiyZLbPld19G9OjBLIv2hQiHlsETTOMZpMGye48dAtD1-YWK_hscXwjA"
 }
+entriesCount: 14632
+
 comments {
   text: "Still the best, wish Noom would support it.\tIt is amazing that this app has not been updated in a year and it is still the best out there.  It is a shame that it has been abandoned by Noom because it has the potential to be so much better with a few small adjustments.  I will stick with it until something better comes along that has the support it deserves."
   rating: 4
@@ -5180,8 +5203,6 @@ comments {
   creationTime: 1357925190174
   authorId: "cid-lg:AOqpTOGuM1dIF0hLXkH5jzklCdmyqL_EhmxTZNpd1ffWu89QRyjV9TtQaGtPgUDDIXfXJ-bLsXzCfdxGTLROIQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Great running app\tI have been using this for years, and it hasn\'t failed me.  There are two things more I want with this app.  First, I want to be able to share to Google+.  Facebook and Twitter doesn\'t do anything for me.  Secondly, I wish that the music player would tap into Google Music.  I don\'t want to have to make a specified playlist of mp3 on my phone."
   rating: 4
@@ -5231,6 +5252,8 @@ comments {
   creationTime: 1357685207923
   authorId: "cid-lg:AOqpTOGg3qqzwMcEmhdcc3QpcAzfsN9_pqDDGox3pL2sWNfKVf3Ee3WfZnQ7GypFuAASP4rzng4a13U_lDyxPA"
 }
+entriesCount: 14632
+
 comments {
   text: "Great apps!\tJust the apps im looking for. 1 thg.tho, cant share on facebk. Even afta i hv set to to allow posting to facebk, it doesnt do that. Pls fix, then i\'ll rate 5 stars. Tq Noom! :-)"
   rating: 4
@@ -5252,8 +5275,6 @@ comments {
   creationTime: 1357582362457
   authorId: "cid-gp:AOqpTOE4LeSoZ2dA4ZGm9TgqDiX3DZqndr8AF0L_c59N7PY_gf7l4RvTTqc2Qmo6NMDD_MIVgaHd8F4nJ7kklg"
 }
-entriesCount: 14612
-
 comments {
   text: "Awesome app!!"
   rating: 5
@@ -5303,6 +5324,8 @@ comments {
   creationTime: 1357265659582
   authorId: "cid-gp:AOqpTOHt45QhzFIDpOipBHJfRIryGieT_w-lyDTyBVKDVMxmfJzJ2aL56sbH7_uO0AnkngEcWarqyQ49sxlxCg"
 }
+entriesCount: 14632
+
 comments {
   text: "One of the greats\tI\'ve used this app on over 100 walk/runs and it tracks them perfectly. And has really useful features"
   rating: 5
@@ -5324,8 +5347,6 @@ comments {
   creationTime: 1356978978123
   authorId: "cid-gp:AOqpTOELErOeoLX3RaPS8jJKfCGLi2CPvf1uuTSBrorIT466REPFQxM8D8DMpA5f5vNeFNPUx2CBROG8gvvb3g"
 }
-entriesCount: 14612
-
 comments {
   text: "Nice, but requires GPS"
   rating: 4
@@ -5375,6 +5396,8 @@ comments {
   creationTime: 1356616056456
   authorId: "cid-gp:AOqpTOGk-V8BO_pKSBvO2tXZBhZeUVdxlK7eYs35k86AP1tBdKHwPBal26V8TRwRjtaHByoqE6D3NXyycfkbMw"
 }
+entriesCount: 14632
+
 comments {
   text: "Great app! Well worth it!"
   rating: 5
@@ -5396,8 +5419,6 @@ comments {
   creationTime: 1356551404213
   authorId: "cid-lg:AOqpTOH_WHjId0RI-H9R9r3zRlIOgkfsIOfVYSv8ls3k4oMPMFHlx3S-91V3E9QCIsa4cxoxUIsyMZMEvVLSnQ"
 }
-entriesCount: 14612
-
 comments {
   text: "No ICS support!\tproblems with ICS 4.0. Force closes on settings."
   rating: 5
@@ -5447,6 +5468,8 @@ comments {
   creationTime: 1355192439447
   authorId: "cid-lg:AOqpTOE3S0HieF9L-cVedn8QlQmjhEB4RSeDuv4eEmPblnrtydz74Rz7bNkboz3b_5kG6PX4xF0luT0JG9GpDA"
 }
+entriesCount: 14632
+
 comments {
   text: "Five stars!\tEverything i could ever ask for! Broke my phone, transferred my sd card, installed on my new phone, all my runs were still in my history automatically! Will be upgrading soon!"
   rating: 5
@@ -5468,8 +5491,6 @@ comments {
   creationTime: 1354755013502
   authorId: "cid-gp:AOqpTOGnWepiuF6PQD_2D7bBqfjEFIX6c_JGfk1WvG1ermPzHK5o2TalvVInqZ4Jkd_DBPEeQ1hSwr3WC-4vLw"
 }
-entriesCount: 14612
-
 comments {
   text: "Great!\tGreat app...just wish I could access my old tracks on the server like promised."
   rating: 5
@@ -5519,6 +5540,8 @@ comments {
   creationTime: 1354011468140
   authorId: "cid-lg:AOqpTOE6lCCh1VoCjNrZJdqYU9dkhRafYKc_gfvc9DxS8U8zY_uushIJMCdjSfy8Y9mTz4bzipHLfLy1p6V6sQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Love it\tUse it ever  time i run now."
   rating: 5
@@ -5540,8 +5563,6 @@ comments {
   creationTime: 1353835697688
   authorId: "cid-lg:AOqpTOEKlyGrhSNWWl7qBeoxd2m40FJ0SdzHvBMrhrg5zgBidnEPzLoxJv-o9S5MtENZpBXP7xQVynzsIwj2Uw"
 }
-entriesCount: 14612
-
 comments {
   text: "Perpetually plays a voicemail\tI have an galaxy s3. Instead of playing music this plays a continuos loop of an old voicemail really annoying and a shame since the app worked on my atrix"
   rating: 1
@@ -5591,6 +5612,8 @@ comments {
   creationTime: 1353444570230
   authorId: "cid-lg:AOqpTOFZ8Os_c2qNRg_N36N1uyTc7WegQ9Q60KClTQ0_3qKzwsPtteiXvCjAgqtVhZP65cvuyNKvaQtZCor9_A"
 }
+entriesCount: 14632
+
 comments {
   text: "Stopped working\tExcellent app but stopped working following the latest firmware upgrade to my Nexus 7. A pity; I hope it gets fixed soon."
   rating: 4
@@ -5612,8 +5635,6 @@ comments {
   creationTime: 1353204444610
   authorId: "cid-lg:AOqpTOFtXHXSCMnkQ9AGEGj-TRAK0DA0NHMv5JpwfZZJKKFLGfro1wI-O3raUB9Ug-mBYLHBcnOKk9tlGJ3iLg"
 }
-entriesCount: 14612
-
 comments {
   text: "great app\tvery convenient. smart. ready to use."
   rating: 5
@@ -5663,6 +5684,8 @@ comments {
   creationTime: 1353001303359
   authorId: "cid-lg:AOqpTOGGfuMW1PX48T-u09BD8BfGLPGOtLYIMyVc0fGqNHzrj3Ay-tB9Ws4_Hg7817pZ1p268_NeD4HgQQDWuQ"
 }
+entriesCount: 14632
+
 comments {
   text: "\344\270\215\345\245\275\t\344\270\215\345\245\275"
   rating: 1
@@ -5684,8 +5707,6 @@ comments {
   creationTime: 1352929545681
   authorId: "cid-lg:AOqpTOGbahq6dVMfuc7Lc_rykmG1ydMNpgVh5JU3_ox2UYG-J-bQx0kd9Ytx_oP9TXygBG_RlAAQv6OlQNDEOA"
 }
-entriesCount: 14612
-
 comments {
   text: "Brilliant app"
   rating: 5
@@ -5735,6 +5756,8 @@ comments {
   creationTime: 1352661066194
   authorId: "cid-lg:AOqpTOGUIucBaVTtG44mWoQkV-CcpsEkoGATNfNp08lB0GKAzaFIK_phx7a7PMWjZ-IwGvxKIlF9IAal3Xbfng"
 }
+entriesCount: 14632
+
 comments {
   text: "Needs to sync\tThis should sync fully with Noom Trainer.  Shouldn\'t haven\'t to enter workout twice.  Workouts and gps pause for no reason. Annoying and causes inaccurate data. Fix these issues and 5 stars."
   rating: 2
@@ -5756,8 +5779,6 @@ comments {
   creationTime: 1352379511971
   authorId: "cid-lg:AOqpTOFZIJjVcMMzJUNFGwnthRIAaMKS19Jzf0xf1z9Yp_9fAjUvKjMHECZyyYkQQEVCe_Wdbzshg0FPu9PYVA"
 }
-entriesCount: 14612
-
 comments {
   text: "Sr.\tSo far it has worked well in my SIII and I prefer it to the other apps I tried."
   rating: 5
@@ -5807,6 +5828,8 @@ comments {
   creationTime: 1351984210052
   authorId: "cid-lg:AOqpTOFpmHm9nHS7T7V0VO8GouxDfQAMH6C6BVgQ6a568_cMX9j10G0cXQTDNpslPD-DGfKO8qSRwTA7lQo1YQ"
 }
+entriesCount: 14632
+
 comments {
   text: "This will get you running again\tI hadn\'t really exercised regularly in two years, I\'d go on runs every now and then but very inconsistent. It wasn\'t until this app, that I started going everyday, at first walking, then running a mile, and now walking and running 2 miles a day. You see how many calories you burned, you have GPS data on your route, and it motivates you to go everyday so you can meet your goals and it keeps your history. Great app."
   rating: 5
@@ -5828,8 +5851,6 @@ comments {
   creationTime: 1351818086690
   authorId: "cid-lg:AOqpTOHTpaFBIbpmCHHNOxIqp_2SywlmkCd1ICfSdls9NwQll5ecQIr1B-jLy_0Zqi_CM_rejgK8FN21naEfRQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Nope\tIt wont even download!"
   rating: 1
@@ -5879,6 +5900,8 @@ comments {
   creationTime: 1351617470016
   authorId: "cid-lg:AOqpTOF-etmOqMrFV1W23urBKXE8A6kREFlplQ5x44EWiumQ1r37QTZzBP6kRUiLcfZgSpO_h2gk_9OkMqwaXA"
 }
+entriesCount: 14632
+
 comments {
   text: "Great app\tCould use measurement tracking for better accuracy."
   rating: 4
@@ -5900,8 +5923,6 @@ comments {
   creationTime: 1351480934248
   authorId: "cid-lg:AOqpTOFDpTK7S5ZYBOBvnN_nft4UozUSXMJQPFRDhJd0ir6_5CCf0wNpsvQD4GtG2oty5EWENzK73Xc3HC9NYg"
 }
-entriesCount: 14612
-
 comments {
   text: "Galaxys2\tNew to cardio trainer, will let u all no how i get on. Dissapointing since upgrade wont load to facebook. Going back to endomondo"
   rating: 3
@@ -5951,6 +5972,8 @@ comments {
   creationTime: 1351130432441
   authorId: "cid-lg:AOqpTOGZNj1PVXDLbMTHghz61pTgfiiMPN2EeW3GoX7B5Lq2u7gslS78Z2l59WYYf3IjVzILoIHQlAVBZl0LZA"
 }
+entriesCount: 14632
+
 comments {
   text: "Seems to do it all!\tFirst app I\'ve seen that combines all of the functions I want in a single application."
   rating: 5
@@ -5972,8 +5995,6 @@ comments {
   creationTime: 1351061211736
   authorId: "cid-lg:AOqpTOEe_6weEvPtoSxFCv1j8usyvz8xM57NsDoEcXHSOUGlWg3b2L9hOlYRr5sc2mfhZV2daNJTt09mdjn6DQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Worthless\tInconsistent. I\'ll walk the same route twice and get completely different results."
   rating: 1
@@ -6023,6 +6044,8 @@ comments {
   creationTime: 1350847416281
   authorId: "cid-lg:AOqpTOE94fF0sAi1n7feN2Aw4N5KI_aS5egMfGcCGRuS9yupjjhg0xjrpCZKAJFGY29zqSpDHIPBu2UThpiaMA"
 }
+entriesCount: 14632
+
 comments {
   text: "Better then Noom Weight Loss Coach\tWay better then developer\'s newer Noom Weight Loss Coach"
   rating: 5
@@ -6044,8 +6067,6 @@ comments {
   creationTime: 1350666279140
   authorId: "cid-lg:AOqpTOGGCI5ud4m4IV5X0tEnM0HL6RrnHyL7MlkxcbwXG-NDqiXscSTLFxJx0QYflYArbu7U343I8WB0CywWeA"
 }
-entriesCount: 14612
-
 comments {
   text: "Sadsac\tVery good could do with putting insanity workout in there so i can publish it on facebook"
   rating: 4
@@ -6095,6 +6116,8 @@ comments {
   creationTime: 1350441347019
   authorId: "cid-lg:AOqpTOGApLCMyFqSKRvbOGq29AsAcn3E8POXHbinVtNt5NqATgVdNeLaLju3ZtJwZ2VipRLW8XJuQsgoBsXFpA"
 }
+entriesCount: 14632
+
 comments {
   text: "Begging for update\tPlease do some updates, this app is dying."
   rating: 2
@@ -6116,8 +6139,6 @@ comments {
   creationTime: 1350272903764
   authorId: "cid-lg:AOqpTOGPG4V6ZrXhLqvMKbeZ2xHh6wR19oZnUVJPid3zw_SrBMpfzfXVQKa1flyW8K4FpIZzRMvYbGpTWFNW1w"
 }
-entriesCount: 14612
-
 comments {
   text: "Great little app\tI\'m really pleased with this app - if you want a pedometer with GPS that tells you how many calories you\'ve burned then this does the trick nicely. Would recommend :)"
   rating: 5
@@ -6167,6 +6188,8 @@ comments {
   creationTime: 1350078957028
   authorId: "cid-lg:AOqpTOFgJLHPJMOzlzflVNqAI1JtDWMuKjHa_EOIBkI52A71CyGG1BpY6n63WL5dAGKrTTk9P6aJeQ-cTPvijQ"
 }
+entriesCount: 14632
+
 comments {
   text: "Works well.\tGreat response and reliability."
   rating: 4
@@ -6188,8 +6211,6 @@ comments {
   creationTime: 1349933603659
   authorId: "cid-lg:AOqpTOEIis-_R3dPDFFy28YpymR6TSKgErzdN6mxdNQ3wW0G5lWg7EmqXKY4r4lvJTmdHhWsXZn9AChjebHt1Q"
 }
-entriesCount: 14612
-
 comments {
   text: "Awesome"
   rating: 5
@@ -6239,6 +6260,8 @@ comments {
   creationTime: 1349722266005
   authorId: "cid-lg:AOqpTOHC7zS7xYVpfYpA0adg_XIgCSxOX6vAnSZAPvHYG4Ff1ETsweINtf6CuA77zFMbsZNiIVeNRAs_ajHw9A"
 }
+entriesCount: 14632
+
 comments {
   text: "Love this app\tIt does everything as others have said and more, I also like the music integration I\'m using win amp and I can select a specific playlist and even get it to shuffle the songs, this ap is so great I will be up grading to pro as I want to log more then one workout per day.. ..this is perfect for now though!"
   rating: 5
@@ -6260,8 +6283,6 @@ comments {
   creationTime: 1349649302819
   authorId: "cid-lg:AOqpTOHxHlEGLXLzVB2so6i58LbbfvLsG99dtcXC8viXFIc-gHKrRzur3qQ9AbRZU-yUhi-jg6pb57rI-Tk7aw"
 }
-entriesCount: 14612
-
 comments {
   text: "Lovin it\tGreat app...love how it talks u & plays my fav songs & keeps up with miles & calories...keep up the good work!!!"
   rating: 5
@@ -6311,6 +6332,8 @@ comments {
   creationTime: 1349294835421
   authorId: "cid-lg:AOqpTOHPH-KYeC0SnNrqBf0s00jJKcLCcAofZkJeSvdGYi6CRHrFOCh6lR11tHXfNZi0AA0RWzGAZ_j7bxCr7Q"
 }
+entriesCount: 14632
+
 comments {
   text: "Best fitness application out there!\tI use it to time how fast I can run the mile! It\'s free too!"
   rating: 5
@@ -6332,8 +6355,6 @@ comments {
   creationTime: 1349199109831
   authorId: "cid-lg:AOqpTOGEeVd-RL6rO9pUfSgpbzwVYBxdezWRE_xQEsHoqy8AjNrRZ2X5D7dA8TlAmJ280WgmxivyZLb_QCBImg"
 }
-entriesCount: 14612
-
 comments {
   text: "does not uninstall\ttried for months to find way to uninstall and not finding a way to get rid of it."
   rating: 1
@@ -6383,6 +6404,8 @@ comments {
   creationTime: 1349021005532
   authorId: "cid-lg:AOqpTOEpAU3C71-UdTbtNGlHzIBE9g9YRfx9Ex7tRk8TmzIKZOLMr14JV1o_AXu5xoAuxH7b-tEsqEXq2u25sA"
 }
+entriesCount: 14632
+
 comments {
   text: "Will not recognize playlist\tProgram is fine, but no longer recognizes playlists. Very annoying."
   rating: 3
@@ -6404,8 +6427,6 @@ comments {
   creationTime: 1348953717139
   authorId: "cid-lg:AOqpTOHZU_vF5syeHWXxI2mn-O7atAmjqiJv8tEl10EQpTGMvprbREGZJPtuD0_B3uPT1Je7tJPLXFRNbm-DVA"
 }
-entriesCount: 14612
-
 comments {
   text: "Meh\tI love the pedometer feature for rainy-treadmill days but that\'s about it. I can\'t view my heart rate recordings online and when I re-install the app I lose all of my history!!! There\'s just this promise that the data are safe on the servers and \"rest assured\" that they will be restored in a future version....that announcement has been popping up on every re-install for 2 YEARS now! Also...needs custom music player choice (stock Droid RAZR Music Player is not compatible) and a better companion web site (Run"
   rating: 3
@@ -6455,6 +6476,8 @@ comments {
   creationTime: 1348640499456
   authorId: "cid-lg:AOqpTOELNFlTN7TBQOD-ApImEw0ZdKZeV2__wqOE6JInyn0_4DYl77l2xqDILR_EyqAqcon5LiQFUSB5G1Sx7A"
 }
+entriesCount: 14632
+
 comments {
   text: "Fitter now than past 20 yrs.\tNoom has been a godsend. I use cardiotrainer daily. Easy & intuitive ui. Helped me loose 16Kg in 6-mos."
   rating: 5
@@ -6476,8 +6499,6 @@ comments {
   creationTime: 1348598287697
   authorId: "cid-lg:AOqpTOH6zYWceTTRrCigJxzehxQjrjn3v9w9xRD9vZP-aUI0mq17BvBsOsQ0FUvDEr-eSOB40komEwpppplDRQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Eh.\tI really depend on this app to log my workouts. However, due to issues with my phone, I\'ve had to do a hard reset twice & both times my synched workouts are completely messed up. Major bummer :/"
   rating: 3
@@ -6527,6 +6548,8 @@ comments {
   creationTime: 1348346199243
   authorId: "cid-lg:AOqpTOGh5Erj-4a5KXjdQ98y67ciGnixqygvWXKesjEtmgeZyAAtO1IhLBKykCIXd_QoFSltKeXG7ZT3HrrdEw"
 }
+entriesCount: 14632
+
 comments {
   text: "Great app\tLove this app.now I don\'t have to remember how many laps ive done. It keeps track of how far I walk and the time."
   rating: 4
@@ -6548,8 +6571,6 @@ comments {
   creationTime: 1348126423656
   authorId: "cid-lg:AOqpTOHCoQn7oBPzrZkkRxsuEmzDQx4IRmHwcG0V_7cNFaVw-e2nPDc-HLEyd0bPpRf3uzuBYSkDnNQ6NsnOyQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Was great until..\tIt stopped tracking my calories. I would burn 500 calories and have 2000 calories burned for the week then the next day it would say I had only burned 1000 cals for the week. I don\'t like this..."
   rating: 3
@@ -6599,6 +6620,8 @@ comments {
   creationTime: 1347976039456
   authorId: "cid-lg:AOqpTOG56j2iDBsOD49gIaYDlSbg4mVRKh1WCxbXpnFn0oe3a--utFXZseDR-HR7t7XjEnjghZhB4mri4hj-Gw"
 }
+entriesCount: 14632
+
 comments {
   text: "NOT a pedometer\tUses GPS only. If you don\'t have a clear GPS signal, this app won\'t work at all. ."
   rating: 2
@@ -6620,8 +6643,6 @@ comments {
   creationTime: 1347823971787
   authorId: "cid-lg:AOqpTOFwbWOiB6wb_Py1oB3hyCU4jDedEm_yej-CJ6YIM-EVxGV4rgzjGB810kTvcHRJPDdq1W4W3R8My3H4pQ"
 }
-entriesCount: 14612
-
 comments {
   text: "Essential exercise app\t5 stars when server data is accessible... It\'s only been what three or four years now???"
   rating: 4
@@ -6671,6 +6692,8 @@ comments {
   creationTime: 1347619472034
   authorId: "cid-lg:AOqpTOFl6D-jai216rtonrpzJj19XDTU7zyyqFPhpKu7ZKiFXFZFpDo9_CIbSxb6TqsmO-B-rRNu2I_B2XSOaw"
 }
+entriesCount: 14632
+
 comments {
   text: "I love the app but it needs more workouts & the elliptical calories is a little bit off\tCould you please add Insanity. I see the PX90 but I think Insanity is more popular & is the one I\'m using & I would love to add it to my cardio history."
   rating: 4
@@ -6692,8 +6715,6 @@ comments {
   creationTime: 1347529952266
   authorId: "cid-lg:AOqpTOETJ_4UNq9s0phanE-zIC1l5cYz-2MLzwEibUL0sxGM6RkSBQbx2eX-SgsoVtf7AdLbLyS-o8lBMPSGbA"
 }
-entriesCount: 14612
-
 comments {
   text: "The best!\tHands down the best!"
   rating: 5
@@ -6743,6 +6764,8 @@ comments {
   creationTime: 1347392720608
   authorId: "cid-lg:AOqpTOGh9dXG3cwd79W2Or63DxXG_GiacY5fZpaMmrK67C4UWOhIRAIcMNZR3AaoqoGpxvz9t39AsVO4aKMNsg"
 }
+entriesCount: 14632
+
 comments {
   text: "Will not let me uninstall.\tPlease go"
   rating: 1
@@ -6764,8 +6787,6 @@ comments {
   creationTime: 1347381145786
   authorId: "cid-lg:AOqpTOHxreRcFaKjX0g5dzwgpE4CAZq0NSRrnqssGRJlCYq8DoKS7nGYZRjSOPFkhreZz51IiDKL6AvkHsBTTw"
 }
-entriesCount: 14612
-
 comments {
   text: "Used to be the best app for recording your workouts imo, now it totally bombs.  Force closes all the time."
   rating: 1
@@ -6815,6 +6836,8 @@ comments {
   creationTime: 1347115103553
   authorId: "cid-lg:AOqpTOGI7oGOR7CODGyVp1mNDf6lKJ8h67Z__UkCw44cgQIJ-p-ThUayJK_Q8PizVl4uNkpdMv8veQpv5zcb_w"
 }
+entriesCount: 14632
+
 comments {
   text: "Motorola Defy\tExcellent app....helps me to get in shape...whenever im out of shape....grt wrk"
   rating: 5
@@ -6836,8 +6859,6 @@ comments {
   creationTime: 1346970590314
   authorId: "cid-lg:AOqpTOFcAUHLU_s844GDbaGNmTgT_iyFlrhCpAUNIUoYxmZ0P1V1bviQCiyz5pL52U2w_ZCRKGW-BhMgI3oWxQ"
 }
-entriesCount: 14612
-
 comments {
   text: "One thing to make it 5stars\tThis is a great app. Fairly accurate and easy to use. Got friends to get the app and now we all keep track using cardio trainer.  Only problem is the Friend Activity. None of us have access to it! Disappointing because knowing what everyone else is doing would make it competitive without have to look for the shared workouts on Facebook! Fix it so everyone can see their friend activity and ill give it 5 stars!"
   rating: 4
@@ -6887,6 +6908,8 @@ comments {
   creationTime: 1346725246161
   authorId: "cid-lg:AOqpTOFnFszypXDyGcn0EO_T_CSF4XYZ91I8wi7z6nWFBgGhM2ji6_s3O5852YCiwQBmxbLN0uu9xeg1rLRg5A"
 }
+entriesCount: 14632
+
 comments {
   text: "Was a good one....BUT\tAwesome app till it decided to force close on me. Fix & I may reinstall & rate higher. Was a 5 & should be -5 for force closing."
   rating: 1
@@ -6908,8 +6931,6 @@ comments {
   creationTime: 1346656548318
   authorId: "cid-lg:AOqpTOERzfD1dpKErwWS-Dk5_7sZb1xiO2UtUunnJ1j0ZSGX8qKtHzcCiWVOExd0dCYS6vss-sVj23LxUwcnAA"
 }
-entriesCount: 14612
-
 comments {
   text: "Pretty sick!!! I love it"
   rating: 5
@@ -6959,6 +6980,8 @@ comments {
   creationTime: 1346510251497
   authorId: "cid-lg:AOqpTOFOF3RO5fH_5Nw2O6r8CSGxSd3sKvNfJbCtESGEbb8mKwdPUtSCHuo_BxprCNBRaLd6vYrrOBmhcDSdHw"
 }
+entriesCount: 14632
+
 comments {
   text: "Works great"
   rating: 5
@@ -6980,8 +7003,6 @@ comments {
   creationTime: 1346395106308
   authorId: "cid-lg:AOqpTOF9Xx4CGoVcwv-IYnus-B8UHEgkRvk5DNcjN6F15OkB60tuKgCR1h9MI3DoN2Femfwmk05crDVVyhuYzw"
 }
-entriesCount: 14612
-
 comments {
   text: "Ok\tIt keeps putting me back te my home page instead of  letting me start my work out ,had to un-install twice and re install .it is a awesome app if that would stop happening I would give it 5 stars"
   rating: 3
@@ -7031,6 +7052,8 @@ comments {
   creationTime: 1346237312095
   authorId: "cid-lg:AOqpTOE0MecHctufHBFNeqEyWYTnceChVWF10XsX2ZgnEYPF6duIbn0q7nPYI31UO0agAExZ6icDOtudS79xEA"
 }
+entriesCount: 14632
+
 comments {
   text: "GPS issues\tGreat app except every time I run with GPS on it breaks my GPS. Started after I installed pro version! :("
   rating: 1
@@ -7052,8 +7075,6 @@ comments {
   creationTime: 1346146447345
   authorId: "cid-lg:AOqpTOGrAy5TC43-_jDJumlPzrKXuku8BxH0qQ-ia8zlwj2YqwY8eh-VcYvFW0IhbOqZL76H2bGeXM5ibWVwRA"
 }
-entriesCount: 14612
-
 comments {
   text: "Great app, Jelly Bean problem\tBeen using it for a while but it just doesn\'t like Android 4.1. Still hoping for an update. Great work with the app and ty."
   rating: 5
@@ -7103,6 +7124,8 @@ comments {
   creationTime: 1345896117590
   authorId: "cid-lg:AOqpTOFhHEzEOUqPXxNqQU4VIo1viNtdzIPQyMVDCRxwItuwf_rqeEP76rCblabXQ2J-WRsOq-zbRzZyzn3POw"
 }
+entriesCount: 14632
+
 comments {
   text: "installing...\tnow checking.."
   rating: 5
@@ -7124,8 +7147,6 @@ comments {
   creationTime: 1345757482682
   authorId: "cid-lg:AOqpTOGaEGLr_rofycyDkX5euINTAtfKVg_GlK_fV1Xtp3LUvO7ZyofUwDGnjI8Kvptisg5sBK4SNgemvZ7WOA"
 }
-entriesCount: 14612
-
 comments {
   text: "Very Good\tWorks Very good.. been using it for a long time now.. sometimes the GPS glitches where it isnt accurate.. the path that i take for running usually is recorded as 12K but every once and a while it will record 9K... Would like to see it record elevation as well and take that into consideration when calculating Calorie Burn. Also Calorie Counting is off a bit.. if i manually enter a run it will record less calories than if i track it via GPS. otherwise good..im happy with it"
   rating: 4
@@ -7175,26 +7196,5 @@ comments {
   creationTime: 1345609493971
   authorId: "cid-lg:AOqpTOGtRIywUKCea85699aEBABtXH3yE5Qd0u-N1AZLxnZMyhRUh5AoKb1CdU2PuQSDp2dUfSQ5wIIKNNJFUw"
 }
-comments {
-  text: "Fix GPS\tWas great until update, now gps not working properly.  Does not record full track. Always searching for gps and my regular maps show exactly my location. Razr maxx ics"
-  rating: 2
-  authorName: "A Google User"
-  creationTime: 1345603969464
-  authorId: "cid-lg:AOqpTOG7c3CxgU-vprQwnutxEZ9v3ouUHqNtCxawByo509eIHc46QZp1k8v2lTs7fwuDZ7JQDsyUMCu95C-jNg"
-}
-comments {
-  text: ":-D\tFree! Milage on map, calorie counter, share to FB, history log, and more make this my go to running app."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1345587075018
-  authorId: "cid-lg:AOqpTOFZ8Cc1w15qNHaUUOOzeVi2QWMG2Dl93TltBuKP20AotoDSXCUhEYPy0jg8DcxXW5mPlCPWVGMlvak-Jw"
-}
-comments {
-  text: "Great\tGreat"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1345574911581
-  authorId: "cid-lg:AOqpTOGBv7gh_yOaHjhKWxfkirwzTHr2LdUt4sa4rIAZ8_pMdGaoP6dQw2AQiuAz895uQtmOQKNyx37Jo0Qk5A"
-}
-entriesCount: 14612
+entriesCount: 14632
 

@@ -1,4 +1,183 @@
 comments {
+  text: "Used to work great on my Samsung s3. Does not work properly on my new droid. I cannot view it in month format or even find the correct date. Used to love this app."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415760762514
+  authorId: "cid-gp:AOqpTOHpAQQ27_GLk440U_ApPSjSQNn7Jrnkmogw_Ua9ST-BiHG6AAp95c_njUxQf9vj1BofonRXAzSKRoMB7g"
+}
+comments {
+  text: "My days: ovulation & period tracker\tIts predictions are spot on."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415732553596
+  authorId: "cid-gp:AOqpTOGv0cdOVqWqqoLNhnenr0AUxs79yzstreRhSP1zXJSRVZXhIBIx5ziIvSlFiKg1VemajJ5i0kAL2Ar9xA"
+}
+comments {
+  text: "Shot\tI would give it 5 but would like to be able to enter last time I took my BC shot"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415723554725
+  authorId: "cid-gp:AOqpTOGUTt96IiZqhQycGAXmiyS-2E64AMJQbnbBgpVx8RGA4LEYnDNDbZhkMl6T4DpEXhltuym9iqtmUyM16g"
+}
+comments {
+  text: "Crashing\tKept crashing and highlighting random days"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415649052460
+  authorId: "cid-gp:AOqpTOGNjkjTZ1NNfG5OEIUIp_4T-JfkF9_UsB6wdOrZwdjNUGwB3QxR_Dhos6wOHLOHh7GlHvT79ulqftDw-Q"
+}
+comments {
+  text: "Great\tI love it I haven\'t gotten pregnant in over 5 years\360\237\230\206\360\237\230\206\360\237\230\206\360\237\230\206\360\237\230\206\360\237\232\253\360\237\221\266!!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415634075617
+  authorId: "cid-gp:AOqpTOHg2CAe6gNT_KbIxIpPjwfSgCDSu-ZQYFsQCMvhGBq2ypMcXG79N0UkU0wi39BBqOzRDd9q_WsvI49DXg"
+}
+comments {
+  text: "It ok but disappointed\tI downloaded this app and had it a while, but then for some reason it wasn\'t working out when my next period was due it was telling me less days than what it was, so it was giving me the wrong ovulation days etc. Other than that it was a good app to download at first when it was working properly; so this didn\'t work for me. So rather disappointed with it now and time to find a new one what may help."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415605952461
+  authorId: "cid-gp:AOqpTOFE1w9Z5LSPZDtud8bRbEAeAEhQI5hvk8N1h_RC53RUCL1EN8VhRTuLlqMWtyGIrle3koTMTE1Mx60SiQ"
+}
+comments {
+  text: "Easy App!!!\tThis app is so easy to use and strait to the point with everything. Very user friendly and isn\'t a memory hog like others i have tried. Your period is already complicated so your app shouldn\'t be, and this app is just what is needed so quick and easy to help get pregnant or not, or just to track your periods. GIVE IT A TRY ; )"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415577392985
+  authorId: "cid-gp:AOqpTOEKoVBRINkqmf9VUzaK55vd9krUaeJCJgQum9y6nHH-0bcG2T2BfdGqgzDS3QjYndM6RWBSc9-sNcW2HQ"
+}
+comments {
+  text: "I really like this app,  now  I know about my rhythm exactly"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415574594285
+  authorId: "cid-gp:AOqpTOE6Gh-0rxO5e_EtJHoG5Sw0-ENuiqPbu4WDsxGFrWsI6vxvzn6rDFJAu36VcCDrOl3ArVr4xFgzLR992w"
+}
+comments {
+  text: "Fantastic app\tClear but not overly detailed but incredibly accurate. Definitely recommend."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415574530165
+  authorId: "cid-gp:AOqpTOH0_mOs8X8oWHvfl49qb1o0z5T3QKdEqXgNGapOzOmWOr4DVLaMavfo8tZ0BSC84tEM_QuOG6bSnjq1_g"
+}
+comments {
+  text: "I love the app you can\'t go wrong with it. every female should have this app on the mobile phone."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415565598492
+  authorId: "cid-gp:AOqpTOEorrts0uhGVn1_FnjRVRkgI29XNsMpBHHo8cTifeaJrovNY8ZGvgh12drChGVyfQTlIAZDcTcc-wxiZQ"
+}
+entriesCount: 24189
+
+comments {
+  text: "amazing\tI\'ve used this app for the longest of time and now ive got my daughter and my mom using it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415553944495
+  authorId: "cid-gp:AOqpTOGYqCIiSyfyZ6oeRI357Lpxxbkt35q45lBpPRCHQegyyQjyXxVSRlo1MWG3a5b8bdiXH-BR-WijWguHaA"
+}
+comments {
+  text: "Great but ..\t\' love app but would even better if all information could be kept/saved when it comes to getting a new phone instead of trying to remember every detail. PLEASE make a way for data to be saved when getting a new phone, like an account login or something"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415552636925
+  authorId: "cid-gp:AOqpTOH-Lt0gGYrUhiHlLRT7J2mLuJWjKNcVTL8cXZyWReIRtqjTzhEB32QuUOxhQps7jOiqwgTply5xLYep7A"
+}
+comments {
+  text: "Love it.\tI been trying to get pregnant for the past 10 years believe it or not following this for 2 months i became pregnant . knowing exactly my ovation dates 5 stars for me .unfortunately I had a miscarriage at 3 months but god willing I\'ll get another chance good luck everyone. ."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415519253403
+  authorId: "cid-gp:AOqpTOG2tJ4oEQcFUtJPnEizjv29saYynkvgwkqSd0ImaYJQgwHG3Y-jVPfMk04HjI97rEPxRzHEZnmv69C9EQ"
+}
+comments {
+  text: "Should I find another app?\tI\'ve been an avid user for a few years and loved it. I\'ve used this app on 3 different devices from 2 different carriers. I\'ve even installed it on my loved ones\' phones. For the past several months, however, the alarms/reminders do not show and the expected start dates are off by several days to a week. This is not the accuracy I\'ve come to know and love about this app. Fix that and I\'ll gladly up my rating to a full 5 stars and give a positive review."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415517509652
+  authorId: "cid-gp:AOqpTOHAEvgb1QYradBdDfNCizOSVmPZlXv0SThLHljNklHlyzUeVS9OzxaupEIga8SN7gSozflGTUZdtBd9Ew"
+}
+comments {
+  text: "Samsung galaxy rugby phone\tVery good app, great way to keep track for future but deletes older info which I did not like. Would be 5 star for me if it kept info longer (only keeps on mine for 1 year)."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415504726976
+  authorId: "cid-gp:AOqpTOFY33Ixg_7v_FeQUQKzO8MZ5c_VAUsPfBEzBOiW2Yzr-uk6bsnU1baN-4tisg39zytRjKoQTkBkfbrkxg"
+}
+comments {
+  text: "Better and simpler\tI tried other apps, but I keep reinstalling this one."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415490694320
+  authorId: "cid-gp:AOqpTOF-LHJgOgZHogrQvFVG7PpMA2RVpWEZ78a5x9ALdF71Jvyylmfbn6AWztYdEjcYUXWoq-qhTJjO4Y5qDw"
+}
+comments {
+  text: "Works\tWas able to get pregnant with both of my girls within 2 cycles after we had tried for years!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415404011133
+  authorId: "cid-gp:AOqpTOG0Xe5XdHao4IqwDev-01JxZ9Wt9B6f5gcf7QFdHgbMvhL4LO9DcBPOfHo0abGtcN4tvnWWGTpjwgNodA"
+}
+comments {
+  text: "Totally works!!!\tMy husband and I used this for one month and got pregnant !!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415397663112
+  authorId: "cid-gp:AOqpTOEs4lttkD4NkRVvvE1PEM9Wr7980EfpYFNbqxwWJcloPPWdqCLaXdYdgo0tyKGZ8TCqQp_MSJ01tCOG_g"
+}
+comments {
+  text: "It use to be a great app but...\tIt use to be a great app but it keeps crashing when I push on calendar days. Please fix it because if I can\'t keep track it\'s pointless!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415344137170
+  authorId: "cid-gp:AOqpTOEcc7fDQ3g786B5K3G2GpGy-Obxvkgufim7jTuH4atPaYnyKuz5xaKVMLUO2nvJrHxn6OBhZKJfVLaiIw"
+}
+comments {
+  text: "Great\tAlways on time love it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415303821154
+  authorId: "cid-gp:AOqpTOGqzJTX5TGP6mRu5VX4Ao8pPqOBq34b48Bio2UdwFmBo8Xg28jMXCa_trQ66UQJqkrPO7Rfn3p9HDMOsQ"
+}
+entriesCount: 24189
+
+comments {
+  text: "This app really works!!!\tI had a healthy baby girl 4/2014 thanks to this app!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415257805814
+  authorId: "cid-gp:AOqpTOHezHImE8IUJjZ-RVHLPNKhp_76u29jHB_U8g6tujgw7V2i6Kv1DQC5IxXHjUWzdnCsForANesqH40MJQ"
+}
+comments {
+  text: "Been using this app now for 2 yrs & up until this latest update rated it a 10 . This latest update crashes every time i try to open up a date on the calendar.  Will uninstall again if this issue isnt resolved! #YoureDefeatingThePurpose"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415241390886
+  authorId: "cid-gp:AOqpTOEINvym6pzuxqkQ3tw7HbI077BQxEmv9YKnFu-RjAuCs9fdaddpqiihHtpUTNouIJ-W_9hM_D6HC5u0ow"
+}
+comments {
+  text: "Needs a bug fix\tLove the app and how it helps me keep track of my cycle, however I don\'t like how I always get a pop up, even when not in the app that \"my days has stopped working\"... once the app quits with this issue it\'ll be a five star."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415202870398
+  authorId: "cid-gp:AOqpTOHuDBeFyPgAd5YuaI6fdkWf9nddGrWCZDDOwfwEth1sgDzDEy9umyY_pUSoOeRwk_tEiin2JZ5uRtmiPA"
+}
+comments {
+  text: "Love it\tThis app really works i love it very much :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415193525987
+  authorId: "cid-gp:AOqpTOEIQ9K5pR1_vROk1TmvSioO4dhuIzQTkvY9SgxApp80qhWH1ifeLEyXY9zPO7BtM3lEy5AgR_QUc6Ko0Q"
+}
+comments {
+  text: "Keeps crashing\tI\'ve had this apparently for a few years and I am extremely disappointed that it keeps crashing and I can\'t keep track of all my past entries"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415028559357
+  authorId: "cid-gp:AOqpTOG2aTzW3u18JuAOdtkD3HfbYn9rKVfhkmJ_XpfRXSvHMPAFh3KQLtq1JO8v1AJwvF_BbpaYpICwrQUHXw"
+}
+comments {
   text: "Keeps shutting down"
   rating: 4
   authorName: "A Google User"
@@ -33,6 +212,8 @@ comments {
   creationTime: 1414772242941
   authorId: "cid-gp:AOqpTOGDpGMHDPrAeEAfJUCQnbFXo6bwVu-vr46TJfFvuwd1ybDN2g46TJmG8_SW37_B4Wldvvyc7ypG_zykyQ"
 }
+entriesCount: 24189
+
 comments {
   text: "My widget has disappeared!"
   rating: 1
@@ -68,8 +249,6 @@ comments {
   creationTime: 1414645039640
   authorId: "cid-gp:AOqpTOH9plya2C5K9-ByIpSbtSKFjkOBCEvz19onKHEdsJF5APV6ZFAyQjmH19i9Zamcu3CkuFYgiiZwpghGYg"
 }
-entriesCount: 24157
-
 comments {
   text: "I CANT SEE THE WHOLE MONTH\tMy phone (Droid Maxx) did an update and not the calendar is so big I can\'t see all the days. Please tell me this is something that can be fixed because I lived this app and don\'t want to lose my data!"
   rating: 2
@@ -105,6 +284,8 @@ comments {
   creationTime: 1414510245809
   authorId: "cid-gp:AOqpTOHMwvBkeXaPSnasozd4nM8PTx7bcQFEfIAEum_x-IryhgKADRmb1A6d58xI3ypZ2SaAoLSgaEKuIXSZEA"
 }
+entriesCount: 24189
+
 comments {
   text: "Very anoyed\tJust lost all my data following your online steps :( a years worth of data gone."
   rating: 1
@@ -140,8 +321,6 @@ comments {
   creationTime: 1414363844943
   authorId: "cid-gp:AOqpTOHU3TN7BmtfQD7YGIKbsYtt2wtnM58U2JBgffIItzapE2BHq_O1DQ231QIuABlcD5T_W4q--QUqRsaIPQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it!\tVery helpful and easy"
   rating: 5
@@ -177,6 +356,8 @@ comments {
   creationTime: 1414105583607
   authorId: "cid-lg:AOqpTOHK2sBBn8GzvN95unIkDi9Myj4jlyNzaIKjiKZNqjGG_yI_ei5ADpG-3aixJTkPDIrpZBFBIf2XC4s3rQ"
 }
+entriesCount: 24189
+
 comments {
   text: "What happened?\tThis app use to work great.  Everything use to be right on point from my period starting to fertile and ovulation days.  Now, my past months history is gone and most the it\'s not telling me when my cycle is suppose to start. Making this app practically useless."
   rating: 1
@@ -212,8 +393,6 @@ comments {
   creationTime: 1413994678588
   authorId: "cid-gp:AOqpTOHXmQOnlZB7zXch4A6NZgoJnTZtrcrqMDoLywaRg5_98jhrF1LK4R9JUjtoJshOht-DgNEZNHjlSM-OqQ"
 }
-entriesCount: 24157
-
 comments {
   text: "It won\'t download\tI don\'t know why I have a Samsung galaxy s5! This is aggravating"
   rating: 2
@@ -249,6 +428,8 @@ comments {
   creationTime: 1413820055891
   authorId: "cid-gp:AOqpTOGSHdL_9_Rv6CA90uFSQB9fzfrd3zP2F_uJfjt6gXOajmWzEzPgho5VHNkODluM3Dm-GTfEkow0sePYMg"
 }
+entriesCount: 24189
+
 comments {
   text: "Brilliant\tGreat app love it. It\'s pretty easy to use. Does all the things that I need."
   rating: 5
@@ -284,8 +465,6 @@ comments {
   creationTime: 1413517185778
   authorId: "cid-lg:AOqpTOHhQ3aJMiBuPGNp0Krh3D34iNlcBFNyE9QiWIuB02xyHiUaTVTyMHUQ5rX7EaZfjLizRZlMkLOV3mtAXA"
 }
-entriesCount: 24157
-
 comments {
   text: "Most reliable app ever!\tThank you for making this app free. I\'ve been using this forever and never failed me even once (if you religously logging your menstrual activities like me). It predicts the EXACT days of my mentrual cycle. This really helps me a lot. Thank you."
   rating: 5
@@ -321,6 +500,8 @@ comments {
   creationTime: 1413306924249
   authorId: "cid-gp:AOqpTOEF4H9XEiANLkpnM2ap35KmCx5wtvqHZZSt8GEW82BQiZQmKbt2RW9TAcC90JzUSHbX1Ux5rDnjqm4BaA"
 }
+entriesCount: 24189
+
 comments {
   text: "Simple and efficient"
   rating: 5
@@ -356,8 +537,6 @@ comments {
   creationTime: 1412974355269
   authorId: "cid-gp:AOqpTOFSAxpx_j5RwgKpHxQABwRHGNLjRJzpjksE_cH0cSw_gX535824dQ0D6KPzOHHjBwlwpUQqp3TrkShPJg"
 }
-entriesCount: 24157
-
 comments {
   text: "\"Passwort is wrong\" really? This typo needs to be fixed! Im OCD, so it really bothers me that its misspelled."
   rating: 3
@@ -393,6 +572,8 @@ comments {
   creationTime: 1412711559296
   authorId: "cid-lg:AOqpTOHFQ_iCqtYxuEhLV2uT6p8kztTBS1Oe6dTa7Rt8PJwhqjJpamsqkx0FbncD8tZ94n14pYsYgyAyYFXsGQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Keeps crashing\tI\'ve used this app for years but recently it\'s started crashing every time I click on pretty much anything inside the app"
   rating: 3
@@ -428,8 +609,6 @@ comments {
   creationTime: 1412575957973
   authorId: "cid-gp:AOqpTOEVK3xZ56EQ_17LkEzjoe87K8iAAC6ybRcpvqw3fK70Miq74eD4bFJD7ITtlZqSVc6XymlQGOKiCJLMEg"
 }
-entriesCount: 24157
-
 comments {
   text: "Love this!!!"
   rating: 5
@@ -465,6 +644,8 @@ comments {
   creationTime: 1412325020608
   authorId: "cid-gp:AOqpTOH9rYZqeKy_ukZSsGi-fto10VNO7n9hnFwT0XOeZ8rEOeAWFPEstgKPSTSoJ70iCXtAw2I76JhQzhmrCw"
 }
+entriesCount: 24189
+
 comments {
   text: "Banned?!\tKeep gettn banned for no reason! Mods suck"
   rating: 3
@@ -500,8 +681,6 @@ comments {
   creationTime: 1412095490178
   authorId: "cid-gp:AOqpTOHsyHeXWImtXGsBnzWcrVcbrlvLGdzCTRAXPxdYlnoMadgFFlMJa7Kn_058XAHvHAheaY-5fR_5rqJoJQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Luv it its wonderful"
   rating: 4
@@ -537,6 +716,8 @@ comments {
   creationTime: 1411823424269
   authorId: "cid-lg:AOqpTOFrwigDSCnPSO5zT9xMKLdAzBmsKm6onX49E5O1yRb8zPwciCz_DsWEMZDwUGnoBm_K04LtxviiCSihWw"
 }
+entriesCount: 24189
+
 comments {
   text: "Handy for planning\ti take note when would be my next period so i would know if it would be the same day as the event i agreed like pool party."
   rating: 4
@@ -572,8 +753,6 @@ comments {
   creationTime: 1411620773563
   authorId: "cid-gp:AOqpTOEG7mG2YCb8WDDhYsTWBGwtsrlsH0JgALO1YYEaIMcc_0RAR-VqMHIap6zVZ4MbQ7Iq1DBqltpz_q36Sg"
 }
-entriesCount: 24157
-
 comments {
   text: "I really like this app"
   rating: 4
@@ -609,6 +788,8 @@ comments {
   creationTime: 1411373592800
   authorId: "cid-gp:AOqpTOFqF3iNStqQ17A-zBZpwwdEbSr1nn7gatD2s9FDQrIe_x-2TlOYDkCjtxOHYL2IO1Fgnm4apggQ2m6Igw"
 }
+entriesCount: 24189
+
 comments {
   text: "Its an awesome app for bussy ppl like me!"
   rating: 5
@@ -644,8 +825,6 @@ comments {
   creationTime: 1411268769369
   authorId: "cid-gp:AOqpTOE6HqtF_mcDrrF12uURhnQXlxVQ8rwln18osM6_r9Isb_hAyjtxYyEvaOV9494jBd7hmG3AvsQ_FlpUDQ"
 }
-entriesCount: 24157
-
 comments {
   text: ":)\tthanks  !"
   rating: 5
@@ -681,6 +860,8 @@ comments {
   creationTime: 1411004933449
   authorId: "cid-gp:AOqpTOFNAEQ-dPvqFPsajfw0x36gXq3qS71UG-pBIpFtr_NI9yXUwZRb7poC3u0ZQwl9_3fiAt2Wfi1Po2imLQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Can\'t upload data saved to my SD card. Years of data lost!!! Help please."
   rating: 5
@@ -716,8 +897,6 @@ comments {
   creationTime: 1410688157235
   authorId: "cid-lg:AOqpTOFoN7PtpQtIvsCyv5guAWVoqp26iKEHhi949Ea99W_pH2bdFKX_ctQvHt7bA6t_HxCL_VvnSY43j2dIvg"
 }
-entriesCount: 24157
-
 comments {
   text: "Loved it\tWe tried 4 years with no luck we were going to start fertility treatments when I found this the app  in 2010 on my HTCone I noted everything from dates I started menstruating to days it stopped it let me know what days I would be ovulating the days my hormones were at their highest on those days me and my husband went to work lol and I got pregnant!! Going to try it again but this time as birth control. Good luck ladies!"
   rating: 5
@@ -753,6 +932,8 @@ comments {
   creationTime: 1410446546045
   authorId: "cid-gp:AOqpTOEcCUfDXKZP9edjG36qEtSofPDK6ChwlEEYQ-RMZIefz4NVku713ZXQtb29yI7z5lZYSTi_PK52yC3epg"
 }
+entriesCount: 24189
+
 comments {
   text: "Great App\tEasy to follow and helped with family planning."
   rating: 5
@@ -788,8 +969,6 @@ comments {
   creationTime: 1410262035821
   authorId: "cid-gp:AOqpTOFnoRADjv1LXz0QBEH12l5E4tjhoRt5lY2eFOe5__LYVMDxzbORRhacTIbP79WCEEFr22WuyYh_iyb0ow"
 }
-entriesCount: 24157
-
 comments {
   text: "no other app can match this\tBeen using this app for years. Very reliable! Accurate to my cycles and love the custom themes!"
   rating: 5
@@ -825,6 +1004,8 @@ comments {
   creationTime: 1410061787346
   authorId: "cid-gp:AOqpTOHZzWnN-4iQW88wOwX4BdS4-5j6eqtqi9g4O9HCiASu0EMt5z6Fx-y2e___USfEvntBPOfJgHDA31k0nw"
 }
+entriesCount: 24189
+
 comments {
   text: "I love this app!!"
   rating: 5
@@ -860,8 +1041,6 @@ comments {
   creationTime: 1409833846024
   authorId: "cid-gp:AOqpTOET-1noMr2dDItqyyZTD3A7acEeTIGhauS0UF3aA0TNRRJwHhnDGOxJdzP24jEO0sK3xUjqJE-CcenJmA"
 }
-entriesCount: 24157
-
 comments {
   text: "We\'re pregnant!!!\tThank you My Days Tracker. With your help my husband and I were able to track my high fertility days and just found out a couple days ago that we are expecting baby #2."
   rating: 5
@@ -897,6 +1076,8 @@ comments {
   creationTime: 1409571954187
   authorId: "cid-gp:AOqpTOEP_ZMCZ12r9LV5v_8kvd62mq1Fjm-ytimbCl2MWtjBmCsBzVYHOl3L88M-JkwZt2yDMwvito0f3-pS0g"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app."
   rating: 5
@@ -932,8 +1113,6 @@ comments {
   creationTime: 1409349528362
   authorId: "cid-gp:AOqpTOE6Jg4Dpz40FHoLXZURHOZ97W0td_3UQJQRaUDRZKZO1-fTS2fyic_fpH9XrbTSyAWRwwenILQSt19Scg"
 }
-entriesCount: 24157
-
 comments {
   text: "Awesome app!\tI installed this app over a month ago after getting married and getting off the pill after  almost eight years, and now I\'m 5 weeks pregnant!! Amazing! My husband and I followed what days where my fertility is high and boom,  it worked!"
   rating: 5
@@ -969,6 +1148,8 @@ comments {
   creationTime: 1409102828290
   authorId: "cid-gp:AOqpTOF2Ju_gIeb900srT-yzmaELTgZ3sCV82v28RSQ8ppOck2zoOy1Cz7xj12-gdEgsWptb21_v7YiJxRzWYw"
 }
+entriesCount: 24189
+
 comments {
   text: "Must have app\tIts amazing, i get prepared a week before i get it"
   rating: 5
@@ -1004,8 +1185,6 @@ comments {
   creationTime: 1408905015729
   authorId: "cid-gp:AOqpTOF_GCXJeOL4q3ZRyNdqC2PqF-4BvINCFp5vJ-tr_3IlqqGaUHWJcy8WGpQrkiAEJf-YF8lamhNxFfz-uA"
 }
-entriesCount: 24157
-
 comments {
   text: "Calendar days on July are wrong"
   rating: 3
@@ -1041,6 +1220,8 @@ comments {
   creationTime: 1408782627336
   authorId: "cid-gp:AOqpTOGtVYy12BZPcdWpxRgodWPhMvkrki7L_cWlLPRxMx0WZdc3FGktqjoYolkVpfQ0Kwvy7ctGXki0U4mwWg"
 }
+entriesCount: 24189
+
 comments {
   text: "really useful app :)"
   rating: 5
@@ -1076,8 +1257,6 @@ comments {
   creationTime: 1408613223151
   authorId: "cid-gp:AOqpTOEWlE182E01jKxcvilEXy3lBsJbfrv3w4J_7ZSzY3OisstrJXyxU4BtI_URfOuSsUecatrjdHBd9QnMGQ"
 }
-entriesCount: 24157
-
 comments {
   text: "My Days\tI like this app"
   rating: 5
@@ -1113,6 +1292,8 @@ comments {
   creationTime: 1408366128497
   authorId: "cid-gp:AOqpTOELlKKxQDspoXWbdaCRCxaq6AVeEitHz96PjEBbRvXt2_8gf_7t2jKOlwVj0vO4guIbssX9mjzmzUpLZQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Easy to use\tGreat app for tracking periods."
   rating: 5
@@ -1148,8 +1329,6 @@ comments {
   creationTime: 1408211661248
   authorId: "cid-gp:AOqpTOGyBugQ9gOkkbqiUyb13_rakBkKUmwrX--cFVEJA2LQ_xVIm54dpX6pq3yjerBXY16lSEmtncvL9hXF0Q"
 }
-entriesCount: 24157
-
 comments {
   text: "It keeps deleting past info\tIt\'s great that is not pink.  But twice I lost all my info.  I had years stored on there. When I got a new phone I tried to take info from SD card.  And it would not work.  Lost everything!"
   rating: 1
@@ -1185,6 +1364,8 @@ comments {
   creationTime: 1407978295453
   authorId: "cid-gp:AOqpTOG4GesDEc_85w9QXaqowv3hKUUKVfiTacKxGrwlEU7C850WRcZqmyxZleUYjuQvYLiZMp5zCHSVUHgb7Q"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app\tI use this app on my Nook Tablet. I love it. You can put when you have had sex, when you have your period amd your temp. for the day. Very accurate on period starts and ending."
   rating: 5
@@ -1220,8 +1401,6 @@ comments {
   creationTime: 1407943826044
   authorId: "cid-gp:AOqpTOExluI_WZWKQw58iJOYbh4OA-naBF9Uw_AyMiZfYxVXBWmWEZyZ6uMlyB9iBGrdh5gp5qTi5tAc1-mLew"
 }
-entriesCount: 24157
-
 comments {
   text: "No backup\tI\'m trying to back up everything of my SD Card and it says error.  Really upset with that"
   rating: 2
@@ -1257,6 +1436,8 @@ comments {
   creationTime: 1407865165998
   authorId: "cid-gp:AOqpTOHYYvtIhYYmCsQd0OiR6d0HffisfZ81jejHYFpUQ05-PXer4W8_29gK43ZcD6P_t_OMTwUNJHIHsZxUpQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Its cool to use\tSimple"
   rating: 5
@@ -1292,8 +1473,6 @@ comments {
   creationTime: 1407552709052
   authorId: "cid-gp:AOqpTOFHtAkW3RWsxuYuJIJbc1DmEgUgjeIRTY7kh4a7PRzpfeglp56iTROIpMXPvBfs26INr4NdUbNXefNG-w"
 }
-entriesCount: 24157
-
 comments {
   text: "Help!\tI really like this app... It makes that time of the month predictable so I\'m always prepared for it,  but this month it won\'t let me add anything to my days!  When I click on a day it says the app stopped working unexpectedly and it just closes. .. so frustrating!"
   rating: 1
@@ -1329,6 +1508,8 @@ comments {
   creationTime: 1407425648820
   authorId: "cid-gp:AOqpTOHgTxuQtKGMr2KG1y3lvWqvDv2iLPd_ZSDtwLDfJzbTa2Wk3QMlBXSdzXMYiNebRhQ35yv8OAQaMQH1-w"
 }
+entriesCount: 24189
+
 comments {
   text: "Easy to use"
   rating: 5
@@ -1364,8 +1545,6 @@ comments {
   creationTime: 1407186741358
   authorId: "cid-gp:AOqpTOHtpPxZ-8B-h8hBEGaAUu47cCVFxZ7y9N9DGy8L_CwDQ6CwXvDnek3cyqUws56Svk8ToOuwDz56A_ZByg"
 }
-entriesCount: 24157
-
 comments {
   text: "My Days\tBest app ever! Always accurate!"
   rating: 5
@@ -1401,6 +1580,8 @@ comments {
   creationTime: 1406963400643
   authorId: "cid-gp:AOqpTOHP2Ttj4SacjLJmyEmHbYKAh1rTgiVf3baU-T41Z-zYzJfx08jZOImLFY37GXyzFgIhSVT3NfEsLYSYfg"
 }
+entriesCount: 24189
+
 comments {
   text: "Love it..keep tracks my s___life"
   rating: 5
@@ -1436,8 +1617,6 @@ comments {
   creationTime: 1406764948052
   authorId: "cid-gp:AOqpTOES30chzjA6E1AtqVey78WesE5RPHS5amKMEo1aXmgxttdbcUu3jZTN9D92cvvfvbojRblZf6isaWipbA"
 }
-entriesCount: 24157
-
 comments {
   text: "Great\tIt would be awesome if there was a missed period button and a pregnant button added."
   rating: 5
@@ -1473,6 +1652,8 @@ comments {
   creationTime: 1406411766581
   authorId: "cid-lg:AOqpTOF6KYNDuW_CBKUo0vDSX_RlUprRH6dG6Bse5WSHtpRkUES5IerHG2zs6tbxT8abEByq6jgHv0XCJM48Bw"
 }
+entriesCount: 24189
+
 comments {
   text: "Dates are wrong\tIt tells me that my ovulation day is on the 15th day when actually its on the 14th.  And I have to put the settings on a cicle of 27 days otherwise it won\'t be right on the 28th day. Not all women have the same cicle but thats what doctors count. Day 14 as ovulation and day 28 to start period."
   rating: 3
@@ -1508,8 +1689,6 @@ comments {
   creationTime: 1406250314345
   authorId: "cid-gp:AOqpTOGnp0RgDo5hCqt5sej5KzTsbgxkU_cQLEkBt_ozmWfaGclR28gXX38TGUBSXRye7u3pOgJhqsOEUBhDAA"
 }
-entriesCount: 24157
-
 comments {
   text: "Amazing"
   rating: 5
@@ -1545,6 +1724,8 @@ comments {
   creationTime: 1406168321993
   authorId: "cid-gp:AOqpTOHHbpfFp1Q9kwmwQmmKQGuUwhMJZ6yMXdW2Tp-wJN9LYCZMnuD6BnqVrw26z7kRTvM_daJqMproMAfqNA"
 }
+entriesCount: 24189
+
 comments {
   text: "Awesome App\tLove it!  Great way to track and plan!"
   rating: 5
@@ -1580,8 +1761,6 @@ comments {
   creationTime: 1406131398471
   authorId: "cid-lg:AOqpTOH5cW-PQFg9V2KJwMEkU1MoLGMe0quHODz99Uhs73WIq4lCtuK2RJa51rt2yCL9UkVD6Qqlqw_AaXSfPQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Could do better.\tIt starts great but... I hated when switching phones having to manually re-enter my history. I want to save info for easy transfer between devices. Sync with Google sign-in. App crashes every time I clear it from task manager which freezes phone. I want to save in app my doctor\'s contact info, for easier communication, set reminders to pick up/fill prescriptions, and have an easier method of taking notes over just a blank notepad. It could be like what my doctor reviews so I\'m ready for each visit."
   rating: 1
@@ -1617,6 +1796,8 @@ comments {
   creationTime: 1406002621240
   authorId: "cid-gp:AOqpTOEwMqEWEHebpCA3MaxmvpMhyl5-Z7uEo2W8uRHetaundErYyd6VB62Z6XNoZuj36T0pFyJK86V7NMkgUw"
 }
+entriesCount: 24189
+
 comments {
   text: "Wow.\tThis app is dead on."
   rating: 5
@@ -1652,8 +1833,6 @@ comments {
   creationTime: 1405943254292
   authorId: "cid-gp:AOqpTOFjza15CJ_RbCETOvFBKyUUg3aYJlFGlHc1r5dLtAdbDFbev3ndGlp7wsPtZeh9W6COBlZrgoYiFk5YGw"
 }
-entriesCount: 24157
-
 comments {
   text: "Almost excellent ...\tThis app is great in functionality and interface - no bunnies, baloons, pinc or red flowers etc. Just a program that does what it should do. Full stop. Excellent. But cloud backup would made it exactly what I need. Please."
   rating: 5
@@ -1689,6 +1868,8 @@ comments {
   creationTime: 1405799446729
   authorId: "cid-gp:AOqpTOEzsVHnqmtXrE4q4F8eQLQt0wOzOzROrsMorhfWaxT2Jh_KqagNTBHVFl7wszPmMbiWonXIUFVRZOxSVw"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app\tThis is a great app. Most period apps assume that there is only one user and don\'t have multiple users. This one does (in my case I\'m tracking myself and my daughter because we aren\'t in sync). I really love the widgets they make it real handy to see at a glance when your next period should be. (All problems fixed!)"
   rating: 4
@@ -1724,8 +1905,6 @@ comments {
   creationTime: 1405643301304
   authorId: "cid-gp:AOqpTOF1z2mfL1nhMR_sLDATcXpgxguCPNNYFLkK5SNb5HEqxF6QS4Ai8OrTU6IoEjocE9aYdkV-D6nPwcRASg"
 }
-entriesCount: 24157
-
 comments {
   text: "Nosey App\tI think the app is good but I Dont know why it needs access to my media files and to be able to read my call log. Nosey nosey..."
   rating: 3
@@ -1761,6 +1940,8 @@ comments {
   creationTime: 1405593564945
   authorId: "cid-gp:AOqpTOExisWC8EpwSO2S2MOb5V_CIuKYIQN2KVBVyA0naZKbyM7kihmfGu8GsmTUwL3ogvNC5rD2ei0fqKSwWg"
 }
+entriesCount: 24189
+
 comments {
   text: "Perfect for me!\tOnly flaw would be the fact that it can\'t be backed up to another account. Once you lose your phone or whatever, you pretty much lose your history on the app."
   rating: 4
@@ -1796,8 +1977,6 @@ comments {
   creationTime: 1405572893665
   authorId: "cid-lg:AOqpTOEj1_UmQF-TJKuiNrH0h44Umzu8LGNrgN5GRvuZkkqtJCdLLX4wXlfhnbyJWgDcbd3CG1NNgWifqqsTXw"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it!\tI can keep track of everything. I even used it during my pregnancy."
   rating: 5
@@ -1833,6 +2012,8 @@ comments {
   creationTime: 1405551800439
   authorId: "cid-gp:AOqpTOH4GXxBfVvbYSaRtzYZYrCEgSmEx5oqNYOg_psvTYxeKtwFCatG0mqD2JhPxq45D0W3wK4TvD8kgUEK-g"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app and not all pink\tOne of the big draws for me was custom color options. TAKE NOTE PERIOD APP MAKER PEOPLE (in shouty caps). I dont know why pink is the reigning theme for period calculators. This app wins. Deftly avoids cartoon bunnies, furry animals, growing or wilting flowers. Period app+female=User is *not* 8 years old. I would like something other than baby pepto Barbie pink. This app allowed custom colors - and a widget that isnt too frou frou.  Great custom options, works well."
   rating: 5
@@ -1868,8 +2049,6 @@ comments {
   creationTime: 1405535850531
   authorId: "cid-gp:AOqpTOEYyD3fYH5tvqKtVBmwrxmLrF12FKLr-RSi2RVUV6dkyEwWfMtznpF2XYw3zD5zmsxzT7XWgxlBQot6_Q"
 }
-entriesCount: 24157
-
 comments {
   text: "Good... But\tIt works great, until after pregnancy. Now after my cycle has begun again it is saying I won\'t ovulate for three months & my next period is over 6 months away. That would be great, but it\'s just not correct! It needs a way to tell it you\'re pregnant so that it doesn\'t average that 9 month break in with your regular cycle. I have been using it for years & don\'t want to delete my info just to set it straight again. Please fix & I would give it a full 5 stars."
   rating: 4
@@ -1905,6 +2084,8 @@ comments {
   creationTime: 1405520597570
   authorId: "cid-gp:AOqpTOHLKDSmbTAQIgUrPnKrHzaoBwP20ry1_bWDKoEy306svRVqE9vYIygSzFwg_qPG0IFw9Z21R2Nf2tZTtg"
 }
+entriesCount: 24189
+
 comments {
   text: "Amazing\tLove mydays incredible very very very accurate."
   rating: 5
@@ -1940,8 +2121,6 @@ comments {
   creationTime: 1405396521160
   authorId: "cid-gp:AOqpTOHF83qS1t_4iHKrs7mODIDHa2WbFdMAHDXEZnlUVLkPlZh2rwJcT0U481nJNjusgtJ6nM7s9XLav6_qAg"
 }
-entriesCount: 24157
-
 comments {
   text: "No settings\tI used to love this app. But now I dont see options anymore. Wheres the settings? I cant chat anymore and also there is no optiom to back up my data like before. Please fix then I will rate it 5 stars like before"
   rating: 2
@@ -1977,6 +2156,8 @@ comments {
   creationTime: 1405310845411
   authorId: "cid-gp:AOqpTOEQf7jWPUtsRtzpS3kc_KNsX5Acb6m0LMUWXXD9gDETFHQYtdsUKxPDI9z2lyT_DPxjABbcDH4d6y2A0Q"
 }
+entriesCount: 24189
+
 comments {
   text: "Easy to use\tI love this app. I was able to better track my ovulation and had a wonderful baby boy!"
   rating: 5
@@ -2012,8 +2193,6 @@ comments {
   creationTime: 1404983148350
   authorId: "cid-gp:AOqpTOEYKuEPwLjwMmaabPfMAo0XhgHn9_1hhg0zwAO36BjpWeu5lCkTzZ1Cg7OVjul1zhjtrvLLrxseU7Suag"
 }
-entriesCount: 24157
-
 comments {
   text: "Only app of its kind that I love any other sucks its simple and easy to personalize"
   rating: 5
@@ -2049,6 +2228,8 @@ comments {
   creationTime: 1404795481598
   authorId: "cid-gp:AOqpTOFb-NvvzGPN8p13PSytQ7sFe-QoWm84nJKEEctcTSEx8ZOTsjG_j2voLmcenu9sFEJPb8mxb_jhJnbtzQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Always download this app its accurate unlike the other period apps goood app"
   rating: 4
@@ -2084,8 +2265,6 @@ comments {
   creationTime: 1404596198243
   authorId: "cid-gp:AOqpTOGlwHmWgeWUqzUsFFkPR-hM7bBvuMiXP-htyE4g_vJ-OM-c7Ptt3fpk7UP2TZ-PZn01w3CNgTwBshH3lQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Needs 1 thing\tNeeds a missed period option"
   rating: 3
@@ -2121,6 +2300,8 @@ comments {
   creationTime: 1404403299173
   authorId: "cid-gp:AOqpTOGG59MNQYE7X7AKFYYjpo705gKVnmAWJ2cID5dUMP-awa5byTX6mF622abaxGiLeBCmZJiM8d_pV4R6RA"
 }
+entriesCount: 24189
+
 comments {
   text: "Not as pretty as other apps.\tLove this app! Very accurate."
   rating: 5
@@ -2156,8 +2337,6 @@ comments {
   creationTime: 1404267106471
   authorId: "cid-gp:AOqpTOHiW85SBQq9TYhHdR9yST1VT8nfF2l9jDgOQ6stY1BIQkJX1UaZaGcVU9RrsboH-HFIUho0puDXNzR54A"
 }
-entriesCount: 24157
-
 comments {
   text: ":D\t:D"
   rating: 3
@@ -2193,6 +2372,8 @@ comments {
   creationTime: 1404020777173
   authorId: "cid-gp:AOqpTOH5u7V3T9RH8bjdfHs4LZiZRnnlRK5z9OJTtktaHzcjMAdTbRlOvz5q6KLTtfrBfqqe1JtrWaKe5us8mw"
 }
+entriesCount: 24189
+
 comments {
   text: "Love it"
   rating: 5
@@ -2228,8 +2409,6 @@ comments {
   creationTime: 1403675971341
   authorId: "cid-gp:AOqpTOEiHtFdaej-tm13nTXe3F5EIg_9e7S1WQl9TXQH9tSkamQ5R5ipQLGzYNjo6Ad9l4-nkHXqqCdu7PhBbQ"
 }
-entriesCount: 24157
-
 comments {
   text: "My days - ovulation & menstrual tracker\tLove this app. Lets you track other things as well and make notes. My cycles aren\'t always regular. So if im at the dr and they ask. I can pull out my phone"
   rating: 5
@@ -2265,6 +2444,8 @@ comments {
   creationTime: 1403320108576
   authorId: "cid-gp:AOqpTOHkXXDT28E92F5lyWSpdsZaH4DmZ8DQ4Da-ReGAwcb2IjZBgUUU4WbLexfjf59AKjk0LgzGbvIimkQXPQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Just reinstalled this app hope it works better than My Days X"
   rating: 1
@@ -2300,8 +2481,6 @@ comments {
   creationTime: 1403123689060
   authorId: "cid-gp:AOqpTOHD1RjIQTd6z29PvoJwXI_cetSf8sNceDTZF86bVVyJWU6ZkRX6FFItadRpQM_APavmbI-mElyQOC4v3w"
 }
-entriesCount: 24157
-
 comments {
   text: "Simple and easy\tI tried a number of period tracking apps, and this one was the easiest to use. It has one bug which gives a random popup every now and then that the app has stopped working, at times when I wasn\'t even using it that day. Other than that, a great little app."
   rating: 5
@@ -2337,6 +2516,8 @@ comments {
   creationTime: 1402753082974
   authorId: "cid-gp:AOqpTOHDQlLpglAxz-mCNpjkKzghSb1BkbiQmDTguL391hEIqhUTbpCvU3ReQFe9EbkVakIgS-8ZvA82uJsbNg"
 }
+entriesCount: 24189
+
 comments {
   text: "Inaccurate\tFor the past couple months this app has been misscalculating my ovulation period. This has always been a great app, and I\'ll give it 5 stars if this flaw can be fixed. Many of my friends are having the same issue."
   rating: 3
@@ -2372,8 +2553,6 @@ comments {
   creationTime: 1402406744071
   authorId: "cid-gp:AOqpTOHdUvNfmRuxbGEPQFBSaqDrwh4WJI_qmeAU3_lGMG5hJyFajg7vs2Sq4KnWrN-Uoc9eqhQq6oyNpX9R6w"
 }
-entriesCount: 24157
-
 comments {
   text: "This is the app I used to conceive both of my daughters. I love it."
   rating: 5
@@ -2409,6 +2588,8 @@ comments {
   creationTime: 1402149092568
   authorId: "cid-lg:AOqpTOFqtZ5cXb1oa0__2giXS7Vu2-S-HfO31eGFkKxBNm8woSXG0AawoOSMCyuriBdyw30tKTJTztpDvUBFFQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Excellent\tI know when i am coming on.   When I\'m ovulation it\'s perfect"
   rating: 5
@@ -2444,8 +2625,6 @@ comments {
   creationTime: 1402030609944
   authorId: "cid-gp:AOqpTOFYuBJlLNIyrL79Ce6yiA7OpRcroI9o3NIYilNbxgJxFH_HOkWKtM9G_2O_8PJ4jVyMIpDzCMAe0cIgjw"
 }
-entriesCount: 24157
-
 comments {
   text: "Would be 5 stars but...\tThe countdown widget disappeared. I want it back! Will rate 5 if it\'s fixed/put back."
   rating: 1
@@ -2481,6 +2660,8 @@ comments {
   creationTime: 1401769835507
   authorId: "cid-gp:AOqpTOFsY-1KHolAgl4SwanwWUdKGAMPm7EkrYo0cfdETzVwC18hf7Wd1FIYqOvD9Hdwa3RcVLiHtvVE3yD3jw"
 }
+entriesCount: 24189
+
 comments {
   text: "Good but\tWon\'t load data from sd. Card to my new phone. But this is a very Useful app."
   rating: 3
@@ -2516,8 +2697,6 @@ comments {
   creationTime: 1401461746440
   authorId: "cid-gp:AOqpTOE7Rl_KRjeCXuqq_-eg9_XozuhtPTSNR_T9BXM4v-oYJsTXPh9dmnU88i9wnWDxI1Ki8o-s-2i05Bgntw"
 }
-entriesCount: 24157
-
 comments {
   text: "Just love it"
   rating: 4
@@ -2553,6 +2732,8 @@ comments {
   creationTime: 1401297947985
   authorId: "cid-gp:AOqpTOHn9lF9uibdRtU4rH4Mk79H58YXTlFQ2zuUNgPnIqkb0H8dD5rMuu4_i48jCeaQwxA0vo_crSvoy94t-w"
 }
+entriesCount: 24189
+
 comments {
   text: "Awesome\tgreat app\302\246"
   rating: 5
@@ -2588,8 +2769,6 @@ comments {
   creationTime: 1400729186778
   authorId: "cid-gp:AOqpTOH-Qzd8ltNV-KQvRJCg8SICHxQgWDUfj1eUP_abSky-RtIFEbD-L-u5Bvp_gf8Pk_2t49PQYPAZNbkqlQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Better than most\tI always reinstall it. But it has no back up. So im uninstalling"
   rating: 3
@@ -2625,6 +2804,8 @@ comments {
   creationTime: 1400629147054
   authorId: "cid-gp:AOqpTOH2qP4MCgNJapJ11pT5b6fCSgRYeaPo4htFqfrq-AP98c-Ofu-slvFTZYnRCieajq6NJSdG6ml_lxGmNw"
 }
+entriesCount: 24189
+
 comments {
   text: "Great"
   rating: 4
@@ -2660,8 +2841,6 @@ comments {
   creationTime: 1400518253077
   authorId: "cid-lg:AOqpTOEiMjB_kJgA0RQgfCCwvKMMUiapEMWKOuWOR0uALgKOFKlYbOPy6zlemizRotmuk4PU_e5TZ1gpBEuR4w"
 }
-entriesCount: 24157
-
 comments {
   text: "Not galaxy S5 friendly i cannot get to the settings..."
   rating: 2
@@ -2697,6 +2876,8 @@ comments {
   creationTime: 1400328679543
   authorId: "cid-gp:AOqpTOGareMJvg3sU8chkWrJuoWuxkzyaVJRBuMQdqQjOx053WcXKxHzt0hU5pTGm3e-X2H8ASHjyegVaWkxkQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Superb...."
   rating: 4
@@ -2732,8 +2913,6 @@ comments {
   creationTime: 1400172901342
   authorId: "cid-gp:AOqpTOEoWaEhAfkuoqyocOVHkzMrMm9EjNuW71TMS98kqk-2_f1w1-5g23LlpXZxLwxxiSfrdYjcaQ3O98E9zQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Worked twice for me :-D\tI used this app 3 years ago and first month I tried it I got caught :-)... well I had my implant taken out 2months ago and guess what tried this app again and now just got a positive... fantastic app. Il def be recommending it"
   rating: 5
@@ -2769,6 +2948,8 @@ comments {
   creationTime: 1400025529068
   authorId: "cid-gp:AOqpTOGqDyhzclwk6U44KQ1mqw8ZQi6cf2AztxUy-8tsxV2VEaFVPgiHuKLnDCDjNErS8Wq36FWX_3pIm1pA1g"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app!\tKeeps me on track and I finally feel in control with my cycles. perfect for every woman especially ttc!"
   rating: 5
@@ -2804,8 +2985,6 @@ comments {
   creationTime: 1399865753792
   authorId: "cid-gp:AOqpTOGkwF00j0rVKai2AgMpkssU70yAaHLt3Gs_I6PrLFEpp01SUJJU2Y14apB3OdDxDPBjJ--oJ4dEpQXXRA"
 }
-entriesCount: 24157
-
 comments {
   text: "I love this app. Works great."
   rating: 5
@@ -2841,6 +3020,8 @@ comments {
   creationTime: 1399736157814
   authorId: "cid-gp:AOqpTOGzO6PdZlnolXReTzIyuj8Ty0bx1RlmLCNInp5IkR44IQhLb72mUg5dyPcL4M-cUkJnNGAmre6W3FP5UA"
 }
+entriesCount: 24189
+
 comments {
   text: "I hope great app five star I love this app it so much"
   rating: 5
@@ -2876,8 +3057,6 @@ comments {
   creationTime: 1399603502058
   authorId: "cid-gp:AOqpTOE4XFOT4wJybF47HsOmYfoa2XRrRIctBfHOLBQwj6un94qIfsnPPjsap2S51bAzMyCNfse8ZZ7LZSt7QQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Until this proven me wrong and I get pregnant then I will ill rate 5 stars"
   rating: 3
@@ -2913,6 +3092,8 @@ comments {
   creationTime: 1399374802464
   authorId: "cid-gp:AOqpTOFZlFxIKbZ1jhht-onxJJ4XwoX1TKbwmcf0h4xLtJucVkoPZs4AEFW7TdeFkcQbPcc7q2EVYokVRgrjsQ"
 }
+entriesCount: 24189
+
 comments {
   text: "It can\'t count\tI\'m usually a little early but when I started today it told me I should start in 2 weeks.  I\'m a couple days early most of the time but I don\'t have my period every 34 days! I\'ve tested this out any times.  I\'m going off my last note about starting. Today is day 24. I do like being able to leave a note"
   rating: 2
@@ -2948,8 +3129,6 @@ comments {
   creationTime: 1399176700141
   authorId: "cid-gp:AOqpTOGgrD4-kqnqhQU_BP2PGc0PlrCvRaWC_CoFi1kRM8kFMOxUlMNDgOS1l-FRbbokRXqoxbLY3uDQivEaaQ"
 }
-entriesCount: 24157
-
 comments {
   text: "It works\tI came off birth control and used this app to get pregnant...after being told it would be a slim chance. Within 3 months i was preggo!!!!"
   rating: 5
@@ -2985,6 +3164,8 @@ comments {
   creationTime: 1399042164954
   authorId: "cid-gp:AOqpTOFOa9HstLUdF01rpigZtR_Vsgd7zXTlDTPSTK_7K9QxdmVLBhY0apAMYhMRZkBhLfz9eGE10DHVA8eLDw"
 }
+entriesCount: 24189
+
 comments {
   text: "widgets missing\ti upload the app and its great, its very helpful for me but unfortunately i set a widget after i upload it last night but when i woke up this morning the widget is gone and i can\'t find it now on my widget list, please fix it or help me find it, thanks."
   rating: 3
@@ -3020,8 +3201,6 @@ comments {
   creationTime: 1398712712847
   authorId: "cid-gp:AOqpTOEmtDdgnX5WkoUsXGt3PL1kAlKikHEp6SvOHFVuxKjOLmmxO894GUmIG5qt_vu3jeE8Tesk6S79EGwqTw"
 }
-entriesCount: 24157
-
 comments {
   text: "Pretty Stinkin\' Accurate\tI used my days after coming off of BC because my fiance and I want a baby. I typed in all of my applicable information and it tracked me well. I am currently expecting and this app has a lot to do with it. I have done my research and the my ovulation date according to this app is the same as what it is according to my doctor. The color coded calendar is extremely helpful, and the alarms/notifications you can activate are helpful too. I will definitely keep this app around."
   rating: 5
@@ -3057,6 +3236,8 @@ comments {
   creationTime: 1398443278054
   authorId: "cid-gp:AOqpTOF5uuuLws22ZNx4oLqxvPoJDt9GJVoRYCspxU80ofYxcr5snVQbOcdGwevoVYOauMhw-PZ524Wbzi-vvQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Works, and is not pink\tThis app is a clear and easy way to track your period - and it\'s not pink and flowery like most other period tracking apps."
   rating: 4
@@ -3092,8 +3273,6 @@ comments {
   creationTime: 1398135345091
   authorId: "cid-gp:AOqpTOF6T4UubGnmq8cdxBieVkATqIu1YnAqIwukXNnyIt9BA85DYCPTDLNj51lbPOvtBc8gU3nT1lUgVj6Nkg"
 }
-entriesCount: 24157
-
 comments {
   text: "Great application, very accurate"
   rating: 5
@@ -3129,6 +3308,8 @@ comments {
   creationTime: 1398085202307
   authorId: "cid-gp:AOqpTOFD5VMJJPqAFR2_mb3bqa_2TdSo_tHDYSwsL_f341Q2cE-6evQM5S-WzTseMuNqC0Y3RSiFQDOJgLD6Wg"
 }
+entriesCount: 24189
+
 comments {
   text: "Luv\tEasy"
   rating: 3
@@ -3164,8 +3345,6 @@ comments {
   creationTime: 1397960799437
   authorId: "cid-gp:AOqpTOFl5a5PDzRmeKYg7rda845xUa1tglhuAwXK163zHd085y0JlA1amoY2QBGRNLeDFW30JhhnucoAAwIZJw"
 }
-entriesCount: 24157
-
 comments {
   text: "Great"
   rating: 5
@@ -3201,6 +3380,8 @@ comments {
   creationTime: 1397822729688
   authorId: "cid-gp:AOqpTOFXNCSpksBnE2N130QGKLMOXaP60rzE98_ka0tAeN30hee3Y6ufJ26JJTRm_qrMeIfLZHIz1GYZ9myiVA"
 }
+entriesCount: 24189
+
 comments {
   text: "Excellent\tGreat app. My husband and I used this app for 2 mths and now we are expecting a little girl! Highly recommend"
   rating: 5
@@ -3236,8 +3417,6 @@ comments {
   creationTime: 1397650769260
   authorId: "cid-gp:AOqpTOGTj8ypMXsqU_5xqbtm3DCmou41HoW0s2Nt83sUQ5VpU_ZqTu4-KvLKFTYEBhi-KWJGJ3PqkSxg9fBh7w"
 }
-entriesCount: 24157
-
 comments {
   text: "Best app"
   rating: 5
@@ -3273,6 +3452,8 @@ comments {
   creationTime: 1397413851930
   authorId: "cid-gp:AOqpTOHKbXSOv7lrID4OAiP_NPUQKsYAa-Kvee-yvcvPUlfNhUZ1tnsQNcsE63J46qMMEfMybwQz46pajcrGYA"
 }
+entriesCount: 24189
+
 comments {
   text: "Good app been trying to have a baby nearly five yrs  and I\'m happy to say ime six weeks pregnant really recomened it"
   rating: 5
@@ -3308,8 +3489,6 @@ comments {
   creationTime: 1397262253596
   authorId: "cid-lg:AOqpTOF8u1R7-1swi8IHctTt8LvJ5VoHPJi36JmSAhB07ZS8EUWF-s1fYfdtw2uguOjEMhWDckq5sZISXRm5xA"
 }
-entriesCount: 24157
-
 comments {
   text: "It\'s broken!\tThe app keeps crashing. I can\'t do anything with it. It opens just fine, but when I try to do anything, I get an error message saying that it stopped working. I don\'t want to un-install/re-install it. I did that once, and lost my whole history! :("
   rating: 2
@@ -3345,6 +3524,8 @@ comments {
   creationTime: 1397084841863
   authorId: "cid-gp:AOqpTOH9l6vq3ghBqfMybgV765kBsME_kjKEWDD4-X-uh_35QELWjyYBZmAN8PSGxohSgB_0t_NPq-3ENBZyHA"
 }
+entriesCount: 24189
+
 comments {
   text: "Babyboom\tI absolutely love this app. My husband and I had been trying to have our second child for quite a while and we used this app for 2 months and now we are expecting a new baby! Love this app and would recommend to anyone who is trying for a baby."
   rating: 5
@@ -3380,8 +3561,6 @@ comments {
   creationTime: 1396939428739
   authorId: "cid-gp:AOqpTOEOL6v9JwhzoJGPYgXGIws5CLCN4we6OruFkRCpdYUMvsLoj2NpRi1G8SeHqExF0ghtzA3sO_fa4HBweA"
 }
-entriesCount: 24157
-
 comments {
   text: "Great"
   rating: 5
@@ -3417,6 +3596,8 @@ comments {
   creationTime: 1396782861885
   authorId: "cid-gp:AOqpTOE9kpQQnhJi_gkzqrH89rn5qhNsUfZtROtPIwAXF4UiXZxFy1E1b9Wi6kYthUrtbeYKFCoSemhtXsRNbA"
 }
+entriesCount: 24189
+
 comments {
   text: "Way better out there"
   rating: 2
@@ -3452,8 +3633,6 @@ comments {
   creationTime: 1396463149309
   authorId: "cid-gp:AOqpTOFXifk48b3VoK1KABF-tGeqJnVlbitOozYVN7a_bBIGooVdt7CA6rqOV9SBTNeu3QJMUUtxxZ7hhPcJLQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Kept crashing\tAfter downloading the app. kept crashing other applications and freezing my phone."
   rating: 2
@@ -3489,6 +3668,8 @@ comments {
   creationTime: 1396354637843
   authorId: "cid-lg:AOqpTOHex4nd8KbOwN93KqJiEbfA8u8iX1WGSkAEgf0VAGihsQGtQ5-ErUwoMitvom4Va1P458nO9fNi4mnUmw"
 }
+entriesCount: 24189
+
 comments {
   text: "Awesome\tAlready pregnant. Thanks to the app for showing my most fertile days. So happy."
   rating: 5
@@ -3524,8 +3705,6 @@ comments {
   creationTime: 1396065779211
   authorId: "cid-gp:AOqpTOHdEnsw9dLNPz5wEFtuu7pwtksxuODgtd8qwPUiROMZob2zkdHTp65kRK_CkHvLPBUgTk30RV4H9S4Mdg"
 }
-entriesCount: 24157
-
 comments {
   text: "Madison&maddox\tI love this app....here have u been alllllllll my life...."
   rating: 5
@@ -3561,6 +3740,8 @@ comments {
   creationTime: 1395831881664
   authorId: "cid-gp:AOqpTOEkxpGcJMeQBTl3JlzhKt8MDI1-qiLigGf11gR6OozyEYb2H9X7zvL8ncohV9e23eKIzWekN18E0L4Y7w"
 }
+entriesCount: 24189
+
 comments {
   text: "Great!\tVery useful and helpful."
   rating: 5
@@ -3596,8 +3777,6 @@ comments {
   creationTime: 1395614958841
   authorId: "cid-gp:AOqpTOFPtCcEnYjXccaNPTZMIG8c5zoOJQHW91ikZODi0aUKm-Os-S-hIcnAUZqeDCpa8yGi-5vu3PFmKOgFUQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Awesome app\tThis app never let me down yet, everything is on point.. Got pregnant in 2011 using this app. Love it!"
   rating: 5
@@ -3633,6 +3812,8 @@ comments {
   creationTime: 1395439476132
   authorId: "cid-gp:AOqpTOGfIVGaa0pwr9DF_k5YVpvUjhgrGpM_UgAOLELmsxtW24LH9jjkb7CoQZ8kPsj2xoqu_8DhHjLeFkw4ZA"
 }
+entriesCount: 24189
+
 comments {
   text: "Excellent"
   rating: 5
@@ -3668,8 +3849,6 @@ comments {
   creationTime: 1395272501985
   authorId: "cid-gp:AOqpTOEHJt9dvzfArPfqHFKAlc8Kvye3AIWONPFkWq5_nUzvvf1sWTJPnRBL4gIB2ZPOinZ8XOwFXt9W2kSnrA"
 }
-entriesCount: 24157
-
 comments {
   text: "Best cycle tracker\tStraight forward to use.  No unnecessary clutter. My favourite cycle tracker."
   rating: 5
@@ -3705,6 +3884,8 @@ comments {
   creationTime: 1394940481591
   authorId: "cid-gp:AOqpTOFG2rCUhJD-BG1AhsbuTlFa6wm-Y3P8jpBZAAp8_-T1Ngunl-L2UI8_FkuRfdjObDchwuNJLZqLSqhW7Q"
 }
+entriesCount: 24189
+
 comments {
   text: "Wonderful app, especially because I have polycystic ovarian syndrome and I can keep up."
   rating: 5
@@ -3740,8 +3921,6 @@ comments {
   creationTime: 1394859738581
   authorId: "cid-gp:AOqpTOE7StVeFvx0e9vqQQ_B8qXyh62hlA96CAaUffAOYcAxSqIemXj08CWEXgLgWD1vKxxBvWD5N-QgyIeJvQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Droid Moto Maxx"
   rating: 5
@@ -3777,6 +3956,8 @@ comments {
   creationTime: 1394775455282
   authorId: "cid-gp:AOqpTOE_KOShOdX2AJJpqGw6FL-Olq_aYTvYRYkpsSC_azcI77d-XeWkDoZ5VBPsQVwids3l4bJ_aPNSJ9JI2Q"
 }
+entriesCount: 24189
+
 comments {
   text: "Love\tI love this app"
   rating: 5
@@ -3812,8 +3993,6 @@ comments {
   creationTime: 1394662324084
   authorId: "cid-gp:AOqpTOG3sBLkLhgCNhvHFCTeSavHzSwSEORftBc1nhIQwdJf5g9SxlTpqMFgDsZ4e-hRgXECgUN8tny_ocw9Lg"
 }
-entriesCount: 24157
-
 comments {
   text: "Good\tI like this app i knw u can use it as way to tell when u can get pregnant easy i use it for when i don\'t"
   rating: 5
@@ -3849,6 +4028,8 @@ comments {
   creationTime: 1394465066092
   authorId: "cid-gp:AOqpTOEYj3XIMW7rZuOuRu2PDW0EwkmZwnnUmwFIs9LxQMseHP3rvTlpCrwqbIReIx4h6-uqMVvjC_uTb5MVOw"
 }
+entriesCount: 24189
+
 comments {
   text: "Spot on with monthly. Predictions. Easy to use. Great app."
   rating: 5
@@ -3884,8 +4065,6 @@ comments {
   creationTime: 1394399589175
   authorId: "cid-gp:AOqpTOGdoq2AKvyixnaLFM8Jh0dQGTaJC5Tv4eaAiBWUUXSn4a8ej_5CgPEVHGN4jFHYl9qV8-ECtOzHAmGfdw"
 }
-entriesCount: 24157
-
 comments {
   text: "Best"
   rating: 5
@@ -3921,6 +4100,8 @@ comments {
   creationTime: 1394279383283
   authorId: "cid-gp:AOqpTOEG6A9i82XXpIR9xoMtKEMSyut7TLH7NPAd7SGVwv7382ev9as0tANYW7PIx04XPe5EAX2Wg2nu4IeSvg"
 }
+entriesCount: 24189
+
 comments {
   text: "This is a real rating\tAlways on point"
   rating: 5
@@ -3956,8 +4137,6 @@ comments {
   creationTime: 1394107754566
   authorId: "cid-lg:AOqpTOEhhuhpZX9lSF1QB6_BuzqYxDUCp5JywKYTk3EdUWRuy49hI_oNKS6QCAbSnOldMPG77pUNNJm4ZKYQ-A"
 }
-entriesCount: 24157
-
 comments {
   text: "Great\tBrill app"
   rating: 5
@@ -3993,6 +4172,8 @@ comments {
   creationTime: 1393999802755
   authorId: "cid-gp:AOqpTOGXWJ9eB0l4hWq_Hmt3WvNyRjuReE_6Jcq5aZG9k49Em_ZbxTmdhsdxo98kRlFeRvDauoau9eX0ZJ5VMQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Very easy to use, not sure what I\'d do without it!! Thank you for such a useful app"
   rating: 5
@@ -4028,8 +4209,6 @@ comments {
   creationTime: 1393843127457
   authorId: "cid-gp:AOqpTOHjmdYOv2iLO2VeFkXurXIKS9Y_E_fThNwq39IhyaS8Uk-xuWFbEN7GvCuKJRzQvMwxwliMeHonFrUryg"
 }
-entriesCount: 24157
-
 comments {
   text: "Very good"
   rating: 4
@@ -4065,6 +4244,8 @@ comments {
   creationTime: 1393705689210
   authorId: "cid-gp:AOqpTOH_5mak7HiRr0AYftHKwju1tT2X2CtRF-3uYA0FgbdUj74CS0qeb3DYCj0CnZsvVfh7Yahpma8hBWpbfQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Im prego!!!\tIf your trying to get pregnant use this app. It works great. My first month using it and i am now pregnant!!!!"
   rating: 5
@@ -4100,8 +4281,6 @@ comments {
   creationTime: 1393529346530
   authorId: "cid-gp:AOqpTOG3ZsKiIJSxGCrxvycO_R_elQgOVEaWIcl46UNJcpN2EEmrEof_630FITW7-zKuEt1W5EaztzVLSDwIow"
 }
-entriesCount: 24157
-
 comments {
   text: "Great"
   rating: 5
@@ -4137,6 +4316,8 @@ comments {
   creationTime: 1393337353149
   authorId: "cid-gp:AOqpTOHWRbxgQmnbRChgCUj3XFUnTRVjLZIGDv-mSbAf0HxRCHJ2imVGzZlPkjvKTryniyUgsIozF5I6s7uQSA"
 }
+entriesCount: 24189
+
 comments {
   text: "It was OK till it started to quit on me and I wasn\'t even in the app"
   rating: 2
@@ -4172,8 +4353,6 @@ comments {
   creationTime: 1393260297547
   authorId: "cid-gp:AOqpTOH4c6g1N_ilDZ8oBMeCGL_VBZaiAta-5kQFlmsB9CNVFlwSu7GbiEzOPU2Xu_qe7QolhPTxXDYnJYB48Q"
 }
-entriesCount: 24157
-
 comments {
   text: "Didn\'t install\tCouldn\'t even try it"
   rating: 2
@@ -4209,6 +4388,8 @@ comments {
   creationTime: 1393183267316
   authorId: "cid-gp:AOqpTOEekqDle5zGWwL0x0jAxjDuswIhgQb16lmEVuUSuW3Fl5poyIcCYL5I7m8I5shFIcSDZwFwkZpueQbsRw"
 }
+entriesCount: 24189
+
 comments {
   text: "SuperB\tI love my days.. I tried looking for other apps that has same functionality with My Days but then I failed to find one. My days is perfect, I use it for me not to be pregnant and it totally works for me very well!"
   rating: 5
@@ -4244,8 +4425,6 @@ comments {
   creationTime: 1393040519411
   authorId: "cid-lg:AOqpTOGKKOsFATrF7v9zd9ReDp5Gg8thkQqxrIf6Hm3i-Aah5cFbUeO4ytpe3siK1oNfmhwbH0aBKlzkGwXZyg"
 }
-entriesCount: 24157
-
 comments {
   text: "Its not opening on my phone... :( why please fix that.."
   rating: 1
@@ -4281,6 +4460,8 @@ comments {
   creationTime: 1392950637331
   authorId: "cid-gp:AOqpTOHrvyK5wNq-QE2iRaeTLXzy_NeB48PeCFQ7Jli654d9vQKrPhlrBQ7f6hdbM4Fih5COzZy62w5FO_GrAA"
 }
+entriesCount: 24189
+
 comments {
   text: "I love this app!!"
   rating: 5
@@ -4316,8 +4497,6 @@ comments {
   creationTime: 1392776706185
   authorId: "cid-gp:AOqpTOE5S11ai3wXLTEyCa9UX2fT-ocixBdGritSyEYQNrbPSPMw9soj2uoCs3_RI8a89uHVF1wHulV4_BsTzA"
 }
-entriesCount: 24157
-
 comments {
   text: "Love love love!!!\tLove this APP!"
   rating: 5
@@ -4353,6 +4532,8 @@ comments {
   creationTime: 1392665549154
   authorId: "cid-gp:AOqpTOGjhubETAhsz384TjvrNGBO0TCKfqov0wr65W6_HFrbOUKcIJxA1_-QkBgfNzoekfbPFmqJ10-6YKlQUg"
 }
+entriesCount: 24189
+
 comments {
   text: "Great\tSimple and better then the rest."
   rating: 5
@@ -4388,8 +4569,6 @@ comments {
   creationTime: 1392449019593
   authorId: "cid-gp:AOqpTOHtyz8a-_MTOqAtPWE3rWRuS2k9i3pWleyxC7fu89N25_wF2xaePiBUR8Ti32K0nnzETxZP-d8mOXZRuA"
 }
-entriesCount: 24157
-
 comments {
   text: "Amazing app."
   rating: 4
@@ -4425,6 +4604,8 @@ comments {
   creationTime: 1392167942654
   authorId: "cid-gp:AOqpTOEMgu_tZo6_6O3PYxAnal-SgobBpd1gaC0hCxPDbckEY-heI0z4Yo59Boyu9sv67cmN4z4FJWQ7y296CQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app very accurate.\tLoved this app the calculations were spot on."
   rating: 5
@@ -4460,8 +4641,6 @@ comments {
   creationTime: 1392052774488
   authorId: "cid-gp:AOqpTOGAeRnSGkuK8Ho5Lyj6dhTnhtAXxudxI5RDUKFFsuY_fUjjm62DzavV4bUshk_YtOVbKoVtktiwzNNf_w"
 }
-entriesCount: 24157
-
 comments {
   text: "Life\tI\'m so thankful and glad t get your staff"
   rating: 5
@@ -4497,6 +4676,8 @@ comments {
   creationTime: 1391972551382
   authorId: "cid-gp:AOqpTOExBmVaA2drB7pua7KHrWtcEuw3xNHjNmxn-METXxticvN4r6VJb9HPtsFoZWaJ8CUG4TH1EojmdxzSyA"
 }
+entriesCount: 24189
+
 comments {
   text: "Good"
   rating: 4
@@ -4532,8 +4713,6 @@ comments {
   creationTime: 1391846944104
   authorId: "cid-gp:AOqpTOEefLXZ7Fntfm9tR-uygSXYudjVdRWWvLlIMKkRe7ZSOJu8pUTe3ucnzkFzTvcv66b8iEsWw1mzaZlulg"
 }
-entriesCount: 24157
-
 comments {
   text: "This is very accurate...... I love this app its always right on the nose"
   rating: 5
@@ -4569,6 +4748,8 @@ comments {
   creationTime: 1391663168836
   authorId: "cid-gp:AOqpTOFWi00XG8zvmt5T7uu9Dw2wSurz0R1nLOr0PQ_LBYTDriC3BnjC9zR25KIK1y7zfNa3uuW9P9e68ySEYQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Used this to keep track of ovulation as well as my cycle. Been using it for 3 months and just found out I\'m pregnant :)"
   rating: 5
@@ -4604,8 +4785,6 @@ comments {
   creationTime: 1391566912405
   authorId: "cid-gp:AOqpTOF2QLEBkIt6fwySaElytwetP0CAmzWskc-N6amXhCUJM2yf9mpV1WJAY_xq4YEX3qqSsAJNFV8BCalYvA"
 }
-entriesCount: 24157
-
 comments {
   text: "Add free version?\tIs there a version I can buy without the ads? I love this app and would definitely pay for this app if there was an add free version."
   rating: 5
@@ -4641,6 +4820,8 @@ comments {
   creationTime: 1391384048551
   authorId: "cid-gp:AOqpTOGK7CRLNfy8-orNgVLF3sAkjiWily1Yn18DNbs3jGLx02LLEFcRpDUGCQrkTiDCjQHezu5bL8MALxFO6w"
 }
+entriesCount: 24189
+
 comments {
   text: "good app\tI\'ve had this app for a long time now and I love it. It let\'s me know and keep track of my body. I would have given this app a 5 but sometimes it blacks out and I have to turn my phone off for about 15 seconds for it to work."
   rating: 4
@@ -4676,8 +4857,6 @@ comments {
   creationTime: 1391267336825
   authorId: "cid-lg:AOqpTOE2blSswzwgMZl_I6e3Cg-aRl6HomSMRh3_t_bFV2pjxL7o2vNMAFYYdUJpG9hxN8PKcadiJwNv2D7fOg"
 }
-entriesCount: 24157
-
 comments {
   text: "Great\tOverall great in helping keep dates not so sure about the ovulation predictions"
   rating: 5
@@ -4713,6 +4892,8 @@ comments {
   creationTime: 1391221069481
   authorId: "cid-gp:AOqpTOFNFFjB4KaKmLWZq9YxUTI5Wj_zR2Et0t2EtlYATQZQ1Sj0GEkT07aPrco0xO_ZYIMlv2mC4UCYdj2kLQ"
 }
+entriesCount: 24189
+
 comments {
   text: "LOOOOOVE IT\tPerfect !!!! Especially since I can leave notes & things like that ! I HIGHLY recommend it ! ONLY problem I\'m having is downloading my information from my old phone to the new one ! (&gt;.&lt;)  I changed my review because I switched phones & it said my data was loaded, but it wasn\'t... please fix."
   rating: 4
@@ -4748,8 +4929,6 @@ comments {
   creationTime: 1391048105619
   authorId: "cid-gp:AOqpTOHzgYp-ZBaYfW6p9cRhTygnGlgTAUmTCSSQsuEidy3fm3feBzMOtg9ULQmmtZpN9FzNX4KvbaVtlMDU-w"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it\tIts great for this who have irregular periods or those who have unique birth control."
   rating: 5
@@ -4785,6 +4964,8 @@ comments {
   creationTime: 1390879791012
   authorId: "cid-gp:AOqpTOE89aZM3QuwlrEEEuB4_9RZlg7kbVvmw5U9Bvs5DMXoF3izLCgkb3DnVvdCBUGH43PnjCeKDkwgZYcKog"
 }
+entriesCount: 24189
+
 comments {
   text: "Password\tThere needs to be a way to retrieve or change a password that\'s been forgotten. It\'s very frustrating!"
   rating: 3
@@ -4820,8 +5001,6 @@ comments {
   creationTime: 1390754169834
   authorId: "cid-gp:AOqpTOGSsiQRVt7-us5wDaXgEmjcL72Ze6MkTbeiCXedtT2xOqt-pCgVSiUdFWd9hz6tyTTp9tzcGWEpGBEx0w"
 }
-entriesCount: 24157
-
 comments {
   text: "Totally in love with this app\tmy MustHave app \342\231\241 , its very useful , I\'ve been used it for a year .. thank you very much , keep this great work"
   rating: 5
@@ -4857,6 +5036,8 @@ comments {
   creationTime: 1390649553897
   authorId: "cid-gp:AOqpTOH7jO68s1L8dzMj99n4XiLGaIbBK1QHh9TnexJGm9wLFQdHOHNL-FOYLr0oMCUDeW_5bHEBWSku8nIXeg"
 }
+entriesCount: 24189
+
 comments {
   text: "Love!\tI\'ve been using this SAME app for about 3-4 years now! I LOVE it! Highly recommended!"
   rating: 5
@@ -4892,8 +5073,6 @@ comments {
   creationTime: 1390467500116
   authorId: "cid-lg:AOqpTOGB0mrhqiYqA3b-yPMZL6VeJhYPlm2yh7Z70Q8vQ2DUObHVe5AOUnOK0VMkj7jZ38O4YNVelnTNk-hDLw"
 }
-entriesCount: 24157
-
 comments {
   text: "Excellent Application\tSimple and easy to use."
   rating: 5
@@ -4929,6 +5108,8 @@ comments {
   creationTime: 1390326065215
   authorId: "cid-gp:AOqpTOEL3HLWaNP27sCZr1KSAMVrE8Yjdck4deSKnr_6Virs1Fpumstzw43Nqw7NCgqxx3kW0KzZU8DJbuOj3Q"
 }
+entriesCount: 24189
+
 comments {
   text: "Love it\tOn point"
   rating: 4
@@ -4964,8 +5145,6 @@ comments {
   creationTime: 1390231312425
   authorId: "cid-gp:AOqpTOFgD0QNhe0eC0lRBzHJP3HTO_oS_ffLU8oDbLvxkuVxtkocAYvktH5J9nTDqoYCAmx8TW9BLVec3l62_w"
 }
-entriesCount: 24157
-
 comments {
   text: "Great App\tEasy to use!! Best App ever!"
   rating: 5
@@ -5001,6 +5180,8 @@ comments {
   creationTime: 1390090608130
   authorId: "cid-lg:AOqpTOGtcb0r0ipY8Rl_8H8PITvRowYRCj9Zwz2JrMCkVYb-RfZ9D9wkn6msPQUzlzWa7gOBSK8yByMXC9FhUg"
 }
+entriesCount: 24189
+
 comments {
   text: "Great tool\tKeeps up with everything I need.... Basic but great!"
   rating: 5
@@ -5036,8 +5217,6 @@ comments {
   creationTime: 1389883289848
   authorId: "cid-gp:AOqpTOFem59GQLdhyMOpbjAxgRTcXFyChrihZ07_tDgqTmPzPFcKQU-IIBkDeaM_Qvg3pjcgtrkT3n-AhUM5Sg"
 }
-entriesCount: 24157
-
 comments {
   text: ":) my days\tLove this app"
   rating: 5
@@ -5073,6 +5252,8 @@ comments {
   creationTime: 1389797003074
   authorId: "cid-gp:AOqpTOE3zXhmem3Tms2Q33ZOLu-n0e7_r8tm7Xu5leLZCs4nQCYfCTGpZw2nhpWHOU5gXKcCBQsDCGdvLaa5-w"
 }
+entriesCount: 24189
+
 comments {
   text: "It\'s ight"
   rating: 4
@@ -5108,8 +5289,6 @@ comments {
   creationTime: 1389708456621
   authorId: "cid-gp:AOqpTOEuAUy7ZG222UR8xZ_ZaNaUr3uGecatov_bUS28_poGO25n5MeoixFJGoT4x7D1CaBuzosTX9K-8MeKhA"
 }
-entriesCount: 24157
-
 comments {
   text: "Just installed it n I\'m already loving it\tNice Love it so far it keeps track of everything"
   rating: 4
@@ -5145,6 +5324,8 @@ comments {
   creationTime: 1389475562582
   authorId: "cid-gp:AOqpTOHVslPDWLoVAbJlUAEmUJcNI6RbXUJBa2iUYCc4uLIYCpLyYSt2IA2t6zMS4j0o5vc--Y1ou5mMg6w1qg"
 }
+entriesCount: 24189
+
 comments {
   text: "Ok\tIt\'s ok"
   rating: 5
@@ -5180,8 +5361,6 @@ comments {
   creationTime: 1389364664210
   authorId: "cid-gp:AOqpTOFENHv0FJ43H9e5KDn4GHt_p_NLyvWn4m7cbh6R1yjGO3a7Kw8qaI8Y4gOaTS6kcr4QbSuU1HtZI1CV4g"
 }
-entriesCount: 24157
-
 comments {
   text: "Downloaded 8 / 2013. Completly blacked out\tThis was a good app. I would have gave it 5 stars except after having it for 6 months doing all that work to figure out my routine and learn more about my body and to know actually and accurately what day i would have conceived. Now it has totally blacked out. and if i uninstall it I will loose 6 months of information i will not reinstall it."
   rating: 1
@@ -5217,6 +5396,8 @@ comments {
   creationTime: 1389323028821
   authorId: "cid-gp:AOqpTOFpN_shcKCjcvZPblqBJpc_q4jfWYL7uwHhJIwY4rnt_wLulwlxUP6nbdAOYEg57SStm-ehC1ISVYg1QA"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app:)\tLove it<3:"
   rating: 5
@@ -5252,8 +5433,6 @@ comments {
   creationTime: 1389271937906
   authorId: "cid-gp:AOqpTOGV6pQnu-_o0ipo8biSt4IMJQhV4YUth95iPLNCT0y3HvmWjJUTsM8W__cGKbmQL0-Vk1akF-u_xBlmYQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Great app.\tLove it. Very useful and loving the pro features that are now free. Will highly recommend!!!!"
   rating: 5
@@ -5289,6 +5468,8 @@ comments {
   creationTime: 1389144860747
   authorId: "cid-gp:AOqpTOGkYWqObWfeZoX8gS2MG6m1gdkx5ACIEPM-avcT0HSwn8zZcBPGrr1Jsq-DVnZe8iU837thmEajUPLbwg"
 }
+entriesCount: 24189
+
 comments {
   text: "Absolutely Amazing\tI love this app. Helps me track my period so no more \"surprise gifts\" from Mother Nature. I especially love the color code easy to see what\'s happening without so many words (: <3"
   rating: 5
@@ -5324,8 +5505,6 @@ comments {
   creationTime: 1389073810023
   authorId: "cid-gp:AOqpTOGRdPypD-EzHM4atGNTiOKcb5rrScU0y_GzCcV7KcIvAMowY9JNCrZX5G6EG3pB2xG0V3mYnbcLqcGcNg"
 }
-entriesCount: 24157
-
 comments {
   text: "Awesome\tWorks great and is very useful!"
   rating: 5
@@ -5361,6 +5540,8 @@ comments {
   creationTime: 1389014651916
   authorId: "cid-gp:AOqpTOHTc6e2Fm2nirVBSYx17DuH6yvdd_deihNrt4_bRInWpFVDEQMYc_dNQnn3m3QUBZm02eaiHMc8P7HNkw"
 }
+entriesCount: 24189
+
 comments {
   text: "Great\tReally nice application! AV been using it for a week and is great, it notifies me on my periods. Wooow.....I give it five stars"
   rating: 4
@@ -5396,8 +5577,6 @@ comments {
   creationTime: 1388879338979
   authorId: "cid-gp:AOqpTOFHHsUFYzzVVHVg-5S5843QWqGdvT_cstMXO2Yy84kuy1NHEs8ve1_2L56JMwS5ReWtnO4IBCOO9DEpbQ"
 }
-entriesCount: 24157
-
 comments {
   text: "It does the job.\tI\'ve been using this app for 2 years now and it does the job. I can keep my notes. But when I had to switch phones the data file corrupted and I couldn\'t transfer any of them. Also, it \"stops working\" ALLLLLL the time. Randomly crashes! I\'ve reported this bug SO many times and it was never fixed. Makes me think they just wanted access to my info from the report. Overall I\'m tired of it crashing and them ignoring my crash reports, so I\'m looking elsewhere."
   rating: 3
@@ -5433,6 +5612,8 @@ comments {
   creationTime: 1388800015598
   authorId: "cid-gp:AOqpTOG1PuL5N0g9OZVKaYfn9iJG-c45zqMCwi6GKBQzwcNe8NYTKHCt0nZ1AYnszRlhsqqQfKiAxgxiw6Q-zQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Yay\tI so love this app I reallly recommended"
   rating: 5
@@ -5468,8 +5649,6 @@ comments {
   creationTime: 1388734925925
   authorId: "cid-gp:AOqpTOF0yr4vcnpeuZVvyknnDjPj3Pi1fJVg9_kEconOO7kIhZm8zje5I4REQNDobJoBSnpOqwEMbtR1IV0LtA"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it"
   rating: 5
@@ -5505,6 +5684,8 @@ comments {
   creationTime: 1388635337525
   authorId: "cid-gp:AOqpTOH5Ezb1geF4QjKnxim-ihZK9aHtzfs27k6uGkUG86AR-7b3IDfllLG6-YdsUbwK6gkOr0mKtxEKBIRXfg"
 }
+entriesCount: 24189
+
 comments {
   text: "It works!\tThis app is so helpful. I love that u can personalize the colors. N yes I did get pregnant when I used this app. So far one child to go and many to come."
   rating: 5
@@ -5540,8 +5721,6 @@ comments {
   creationTime: 1388490906398
   authorId: "cid-gp:AOqpTOG7eoMTe1b1E5h3I6CEcxSWa2SpTfvqw7NepT2h0wHmLE-TbLyAy3DXW7wo-XQmuk_FVRf_1u0hotj84A"
 }
-entriesCount: 24157
-
 comments {
   text: "Good\tReally good to use"
   rating: 5
@@ -5577,6 +5756,8 @@ comments {
   creationTime: 1388381836789
   authorId: "cid-gp:AOqpTOHK1P_g1Z_slF_ulavItt81GlcBUVSD-rMr_nUK5wnwPIzdvmLAy02vSh5JWlPmegywQ1jYa6JwA7D_tA"
 }
+entriesCount: 24189
+
 comments {
   text: "Does what I need it to do. Great for tracking"
   rating: 5
@@ -5612,8 +5793,6 @@ comments {
   creationTime: 1388291129429
   authorId: "cid-gp:AOqpTOElhP8C595sTuatRyJia1sjxsO5CoDI5U4XBNLG_JE3Wzbb_phvvihqbpsogIIgAfRiWqVMa8i26KXsIQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Like it"
   rating: 4
@@ -5649,6 +5828,8 @@ comments {
   creationTime: 1388263295387
   authorId: "cid-gp:AOqpTOHCcgQJ9MzVyydCjJn4Lb-tVQptDtBiIWhJpupJ-FbQ4MoKXVHznTjPQWbuEdFeYbJ_gai82OngGd8SkA"
 }
+entriesCount: 24189
+
 comments {
   text: "Love it, I can keep track of my periods now"
   rating: 5
@@ -5684,8 +5865,6 @@ comments {
   creationTime: 1388193527211
   authorId: "cid-gp:AOqpTOGQ0LCiqn5BU4aZOTeYh3XLpAP8RmJL8pIYiNY7YX0xrnALnrSci5qJa5gjcSsTcYz681w38NNzT6y-Cw"
 }
-entriesCount: 24157
-
 comments {
   text: "Awesome\tUsed this app before. And for forgetful women like myself it is awesome!"
   rating: 5
@@ -5721,6 +5900,8 @@ comments {
   creationTime: 1388122126661
   authorId: "cid-gp:AOqpTOHHYJfsYnLkwS_iZzk1KoaURmu08BQn4-_h4WH20vhsdF_7wp5YsnUoTnLGtPQjo1ulxm2VDa96BMsgMQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Awesome app! Great app used this for 1 month and fell pregnant in that month worth a download!!"
   rating: 5
@@ -5756,8 +5937,6 @@ comments {
   creationTime: 1388020246362
   authorId: "cid-gp:AOqpTOH9utD6VCdKodxyaed1qNHAASyYzjtE2lH74Ej6uZYFnLoDLbPAOIT7opjCQVrYykMlNFqijEXCTwkPYA"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it\tGreat app!!"
   rating: 5
@@ -5793,6 +5972,8 @@ comments {
   creationTime: 1387901285422
   authorId: "cid-gp:AOqpTOH3WUbHLcBPqbQBJ81xzTAHQ_wJo_2HAq9bQz3O7-4KhgK--ojuxHToTqTY6elWyFVet02imPcgR-tbrQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Has problems\tEvery time I open it to make a note, start period.  It stops working and stalls my phone.  I\'ve sent report after report. Nothing has been done. I\'m uninstalling it and trying another one."
   rating: 2
@@ -5828,8 +6009,6 @@ comments {
   creationTime: 1387739046245
   authorId: "cid-gp:AOqpTOGF8I4alQy8RDZS0y0RM27fsVReQ7sz8lOXp8vZ8plqc9LEUuBWftr6f6B__Eswf2GcX6rkS8yNpMPu-g"
 }
-entriesCount: 24157
-
 comments {
   text: "Best female monthly scheduler\tThis app is on point and most  accurate and helpful."
   rating: 5
@@ -5865,6 +6044,8 @@ comments {
   creationTime: 1387639895703
   authorId: "cid-gp:AOqpTOHAmpGPsQW3Y-BkEYCpMdWVrQuN6tUQ1omCwVtGldJVfXHIHtZQi4obzt-pzLu6xdzd0bs98xlgKcRPMg"
 }
+entriesCount: 24189
+
 comments {
   text: "Love it"
   rating: 5
@@ -5900,8 +6081,6 @@ comments {
   creationTime: 1387530702947
   authorId: "cid-gp:AOqpTOH1vKlJWrSvGveLIPC2RxlgsUkVwTlmvoYoJ2vt-_wBtxIrSdJquFTUSavEpRmcid7he7HDl2mpwqZV-Q"
 }
-entriesCount: 24157
-
 comments {
   text: "Excellent app"
   rating: 5
@@ -5937,6 +6116,8 @@ comments {
   creationTime: 1387472119917
   authorId: "cid-gp:AOqpTOGrsVKh4LW_jiGobiUIVmjlBc0pZmsC_nsSw-Eqf6R_mxFHow4esAQ8rF5YNvpVJtEqRhHxxtDxtXus4w"
 }
+entriesCount: 24189
+
 comments {
   text: "Thank you\tI couldn\'t live without this"
   rating: 5
@@ -5972,8 +6153,6 @@ comments {
   creationTime: 1387410188310
   authorId: "cid-gp:AOqpTOFfW4KuM1hNEszwzv2h0RoNRvZtdWcqSh41Yl2FK-wsENRC4YPfoZerKotIjy1Rc7_lAv4no9wPd00iog"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it\tLove it"
   rating: 3
@@ -6009,6 +6188,8 @@ comments {
   creationTime: 1387339351346
   authorId: "cid-gp:AOqpTOEz0Hn6Gn1y20DKS7I0ilrrCENEnmq3ZImo-c31gaGUZExqycpIZdeCbDOGLntyr5j5sZlsbL4bOJ6zSw"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app\tLove it"
   rating: 5
@@ -6044,8 +6225,6 @@ comments {
   creationTime: 1387261744317
   authorId: "cid-gp:AOqpTOGcGjwHRjy1jfnZi5_bOh0dSxxtxZKM5RNKYNHVH98rgih17DgoY5XdAnm15eldKvxjce_3Vc2trrYU-A"
 }
-entriesCount: 24157
-
 comments {
   text: "\331\205\331\205\330\252\330\247\330\262"
   rating: 5
@@ -6081,6 +6260,8 @@ comments {
   creationTime: 1387213892191
   authorId: "cid-gp:AOqpTOEWH9QJtRC9VPEZXhmqZsYZxtgIt3LcYsZZe-JpMqurQ7EMsJIq6ex1_GbhXPa0qbyNBs2J427_VTsKdg"
 }
+entriesCount: 24189
+
 comments {
   text: "Keeps crashing"
   rating: 5
@@ -6116,8 +6297,6 @@ comments {
   creationTime: 1387158813273
   authorId: "cid-gp:AOqpTOENtoINCpJ3m8DSsc99emRYJHmtR7x1Cqo29uS9VLAnm_2Sk2iqXpcSikF8ck7bmcaG333qAHsm2L_FLg"
 }
-entriesCount: 24157
-
 comments {
   text: "Accurate\tI got pregnant with my son using this calender (: very accurate   Isaac martinez jr. October 04 , 2013"
   rating: 5
@@ -6153,6 +6332,8 @@ comments {
   creationTime: 1387121217172
   authorId: "cid-gp:AOqpTOFS6V9i823eE2poSXNJ7RBWY-M2WKq0Qx7CGPSoV6yjS_QVbI-P6_I938bUafy5eFIaaZrktjDStkrVhg"
 }
+entriesCount: 24189
+
 comments {
   text: "On point\tFound out about both of my pregnancies with this app. Very accurate!"
   rating: 5
@@ -6188,8 +6369,6 @@ comments {
   creationTime: 1387049897590
   authorId: "cid-gp:AOqpTOHIfYHpTyKQxfbJsUuA3e2H1sR6dR54fMtwsh0WJapj9g61kJDTCjHtsXH7rahWxSUReXI2FPEAGsc9Sg"
 }
-entriesCount: 24157
-
 comments {
   text: "Its A Good App\tI Lyk Dha App Alot"
   rating: 5
@@ -6225,6 +6404,8 @@ comments {
   creationTime: 1386958477961
   authorId: "cid-gp:AOqpTOGXV1wHegNDAkN9cUTZxFCC3zIwytvw4hXxpCfU9nPm-e87DfTpBQmZefXPFGGyygTKCfJz9LeY-dUkOQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Awesome app!\tI originally use this app to not get pregnant. On my honeymoon, I knew I was ovulating and we got pregnant the first time we tried! So whether you want to get pregnant or not get pregnant, I recommend this app!"
   rating: 5
@@ -6260,8 +6441,6 @@ comments {
   creationTime: 1386853116470
   authorId: "cid-gp:AOqpTOHmrYbbB31thyK5dMmGdnV_j8LgupgNrYMOmiDTzxdJkU0_33jXpK07IT4z7GnR7-thnZ4qYCI-pPcH4w"
 }
-entriesCount: 24157
-
 comments {
   text: "The best one I\'ve used"
   rating: 5
@@ -6297,6 +6476,8 @@ comments {
   creationTime: 1386743251070
   authorId: "cid-gp:AOqpTOF5SsYES3hiYM5wGOybbtwRDHkVzCARhwP6lR91Skkeb9o47l0RXYHJSKi_GJntshq5uElM5G_Lp1UdxA"
 }
+entriesCount: 24189
+
 comments {
   text: "Confusing colors\tend period and ovulation color coding almost jave the same hue. kindly change the colors to easily identify which one is which"
   rating: 2
@@ -6332,8 +6513,6 @@ comments {
   creationTime: 1386560764969
   authorId: "cid-gp:AOqpTOGmAsi-bbwhtiY0mOMl_AY-ZZ7XXdcfq_9k4UkXVM43kgl4PggpCRgBEJhMuRtfoAdAdg41Xfupw50SAw"
 }
-entriesCount: 24157
-
 comments {
   text: "Super helpfule, but...\tIt could totally be just slightly more cutesy and could use more \'add\' choices such as unprotected sex vs. protected, shot, yeast infection, uti...ect.!"
   rating: 4
@@ -6369,6 +6548,8 @@ comments {
   creationTime: 1386355612678
   authorId: "cid-gp:AOqpTOFfuN5-sOhXm70pKi1QXo3O86yIRvtpUBJhZyCuBwGDUFy5ClBIy0cPxVNTQ0RBn1fLtkZ7XQXRsRmyVg"
 }
+entriesCount: 24189
+
 comments {
   text: "Great\tReally good app"
   rating: 5
@@ -6404,8 +6585,6 @@ comments {
   creationTime: 1386111713791
   authorId: "cid-gp:AOqpTOFeYdQXSOWEgMUtRUObW_uRwAEoHsJWvt5MDM2fNbdxDPi7-hnB7tuVVVPQqLqsPK74AGitY6vgxpAM1g"
 }
-entriesCount: 24157
-
 comments {
   text: "Good\tGood app"
   rating: 5
@@ -6441,6 +6620,8 @@ comments {
   creationTime: 1386026053202
   authorId: "cid-gp:AOqpTOHvjk9UfkSwpQxZ6nb2PtX3E0DiWTYfXeGYIBO9j_o8rn0HRf3MNldUv-VhD-Lv_qhAywdgyq0zOp4-Kw"
 }
+entriesCount: 24189
+
 comments {
   text: "Best app\tAwesome"
   rating: 5
@@ -6476,8 +6657,6 @@ comments {
   creationTime: 1385866022343
   authorId: "cid-gp:AOqpTOF1kl4a19vOSCdiSu7H8hxuDH_rvUuK0N6e01iGNFJ6cv1-TJfEqh9CvqDFRMqx410jAPb7hV8UMJPkeg"
 }
-entriesCount: 24157
-
 comments {
   text: "REPLY ASAP!!!!!!!\tI love this app , but my only problem is when I saved it to my sd I got a new phone with the same sdcard and it says its an error to see my data :/ please fix !!!!!!!!"
   rating: 3
@@ -6513,6 +6692,8 @@ comments {
   creationTime: 1385700838031
   authorId: "cid-gp:AOqpTOFmBN_9YBPJSWOYMGss4XxPHmTDEzuivAkoVib6X_WGeilURAiHFEnbZSlTNxjs2gMXeWiEwTgQGGPh-A"
 }
+entriesCount: 24189
+
 comments {
   text: "Great again!\tThanks for changing the permissions! Now I can update!Love this app!"
   rating: 5
@@ -6548,8 +6729,6 @@ comments {
   creationTime: 1385492563366
   authorId: "cid-gp:AOqpTOH0X6ysNR_c8xt5BkGUEmcGITl7MJQZvwp5ck19OarXMp81mI-CW7M21sh3Ggc_qnQEIqcKGQTne9EnLQ"
 }
-entriesCount: 24157
-
 comments {
   text: ":)\they! was wondering if was possible to see my own my days chart on a computer also other then just on my device!!??"
   rating: 5
@@ -6585,6 +6764,8 @@ comments {
   creationTime: 1385254992370
   authorId: "cid-gp:AOqpTOGbWK4S08BkJVfRB8IKJV5s41TNdlirdnZ4j5Duj7oSl1Bt6hScQwM3Tp9A7zcLej9yOeImtDbg-HyCzg"
 }
+entriesCount: 24189
+
 comments {
   text: "amazing\tI tried to look for another one but this is legit the best, but it would be nice if you guys had the unprotected sex and protect sex icons"
   rating: 5
@@ -6620,8 +6801,6 @@ comments {
   creationTime: 1385070217564
   authorId: "cid-gp:AOqpTOHOCRqxoMXeVC0zblnxns4s3dRdErL96U-s7wzMnv3fqp6scgSKDNqQV4GL72sbkyAy1Crha7f7Kfr3rw"
 }
-entriesCount: 24157
-
 comments {
   text: "Great app\tDor either planning to or not to become pregnant, this app is very handy and useful. I just wish I could log in with a username and pw. I just got a new phone and forgot to back up so I lost all my dates. Doesn\'t matter though since we\'re expecting now. I just wish I could remember the date of my lmp to calculate my dd."
   rating: 4
@@ -6657,6 +6836,8 @@ comments {
   creationTime: 1384885469255
   authorId: "cid-gp:AOqpTOE9MYucoXF3S_B5lfyiw1El8Dh_9d8GA1Lib2Li4EOMPip1CcJk56b9faicMLVr7UiROE7TdVHqU_HkWQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Great!\tLove this app! Such a great app! So helpful!"
   rating: 5
@@ -6692,8 +6873,6 @@ comments {
   creationTime: 1384738587916
   authorId: "cid-gp:AOqpTOFxDrZ-n8uJdEVs0r9EFSMBkmph1KzsjfywATHrmBiCdzMHTNAetPPBCsFUOPvo-TDJYGIWk5IWyEt9Qg"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it"
   rating: 5
@@ -6729,6 +6908,8 @@ comments {
   creationTime: 1384455081184
   authorId: "cid-gp:AOqpTOGgK7bywveY_qpNoGbE0lTXoNdMhKPDK_kfVWBpUvluUR8_KlvhYYArc89ZYAf2Zy5GbPG5z1IInG3XgQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app!!\tI love this app. It is straight forward and easy to use.  My favorite part is that the basic free app comes with everything I need. The pro version comes with fantastic extras."
   rating: 5
@@ -6764,8 +6945,6 @@ comments {
   creationTime: 1384397763216
   authorId: "cid-gp:AOqpTOEXIAxjF7wZPE65aVZucOdWFR6bpPV6RngWiXYhVtiVLfldJnre_deL2pp-jY-UrVwBJcmS7jf1uTvRlw"
 }
-entriesCount: 24157
-
 comments {
   text: "Thnx\tI have had this app since it has come out and I luv it..."
   rating: 5
@@ -6801,6 +6980,8 @@ comments {
   creationTime: 1384283500082
   authorId: "cid-gp:AOqpTOFj4wh6LKUwCIfepULGEspYEmZlKfU2Ps9KUoRI5-4vMJtD7ne7baOddp4vesCPr1zit22WOKxxDdGHMQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Expanding Multi User to share with your significant other\tI LOVE this app and have been using it for over a year now.  It would be AMAZING and so helpful if this app had the capability to be shared with your significant other on their phone, whatever you enter on your phone syncs with their phone. So 1 account on 2 phones, would that be possible?  That feature would totally bring my rating up to 5 stars!"
   rating: 4
@@ -6836,8 +7017,6 @@ comments {
   creationTime: 1384221113402
   authorId: "cid-gp:AOqpTOF6v_LLYjrZpgHxWcbGa16vojvCU0Y_C92n9wtibl3Wxl4kA56qxK_33V96sm95IaXvfNJl_l8ZMS6BWw"
 }
-entriesCount: 24157
-
 comments {
   text: "Love it\tGreat app!"
   rating: 5
@@ -6873,6 +7052,8 @@ comments {
   creationTime: 1384126432523
   authorId: "cid-gp:AOqpTOEaMhBhUQTEzie21Kbl98NG9S89UTSXuXBrq7eqjN586d38gjlK13BO0VnAcQFCQmbLK3wLbIH6K36eKQ"
 }
+entriesCount: 24189
+
 comments {
   text: "Really?\tCannot seem to do screen shots in your app anymore and since updates delete info, I guess I can\'t take the update, rite?"
   rating: 1
@@ -6908,8 +7089,6 @@ comments {
   creationTime: 1383969195880
   authorId: "cid-gp:AOqpTOE_X6WB8g0JhhpkbI18EbN9ZU5SIE6qJmo3SiseDXUGvGc5wQCS-xc7U0gD732a9kENnGdw75r1Qayd2Q"
 }
-entriesCount: 24157
-
 comments {
   text: "Ok\tIts ok so far."
   rating: 3
@@ -6945,6 +7124,8 @@ comments {
   creationTime: 1383865854396
   authorId: "cid-gp:AOqpTOHds0BzDRi-j0hZGTIJd2uvw7CSO99t5LkSXtw7rq_gXNyJWyMZKmIFeveu6kgwNam2amnrIEz39-ZREg"
 }
+entriesCount: 24189
+
 comments {
   text: "Great app\t98% accurate for when next period will start.  Love this app"
   rating: 5
@@ -6980,8 +7161,6 @@ comments {
   creationTime: 1383711879347
   authorId: "cid-gp:AOqpTOGOcVrFHsNHRpUotGTBB602c6U6gj-TRolUBLfXtp6vvKFk7HsmMeDnxYF0Sd_RmZ3TbM2l9oxnjUE6sQ"
 }
-entriesCount: 24157
-
 comments {
   text: "Great, simple app!\tMy primary reason for using this app is to keep track of my periods, but I love the Note feature.  If there was something unusual about a particular cycle, I can keep track of that for the next time I see my doctor."
   rating: 5
@@ -7017,184 +7196,5 @@ comments {
   creationTime: 1383662359719
   authorId: "cid-gp:AOqpTOF2eCYNQiQDSvw4nWejR6JNxcHBiA65ZcOWQXtXiHb6dihN9GGLeLLxEg5LTJX1qsQKHo7CBXwnzjfXUA"
 }
-comments {
-  text: "Good\tThis thing won\'t let me see my stuff it takes me right into a Web page saying I was denied can u fix it please"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1383661098534
-  authorId: "cid-gp:AOqpTOHbEZGBTCG_SVe7GP-ywyWsBLXos_C_TaFafi3v5QtpVYJL9jG1td4pfok6GeQWVLMzbymrfmfC0DrYGw"
-}
-comments {
-  text: "Excellent\tWorks great"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383640952737
-  authorId: "cid-gp:AOqpTOHX7fN7RqLAM65FvDGLqy-hRqvDW7RZ_TN-j9Mks8EhBV8ouUHwmOfIPYRT-RTf58yI_9LJyBXciME8pw"
-}
-comments {
-  text: "Restore issues\tMy menstrual is irregular so this really helps me track it, my only issue is it won\'t restore what I\'ve backed up on my SD card"
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1383634845864
-  authorId: "cid-lg:AOqpTOF1VUw3gtUbuc5H8Q9m8wCRd-Qu0pGk81PwMgVIKAas8EbrlkRwu47PdqqKr9l_c-6ytME0vBsMPi2dZQ"
-}
-comments {
-  text: "need mire improvement\tI luv this app so much..i really luv if this app still can keep my data if my tab been format."
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1383628312625
-  authorId: "cid-gp:AOqpTOFW9U_mKudI40Ru181fXtRRp3tzeHBV2fWaUx5pWCp_rGXwFe875nWamTfSWAQtLAmopLvwYytiAWa8-w"
-}
-comments {
-  text: "Accounted for\tLove this app. I used it to get pregnant."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383623424918
-  authorId: "cid-gp:AOqpTOF3-yDetxNDqOJ_qu_wKCvOv5EMkSUOZdLlpz104z07UJXRZsGjapNFC79N3bG14aCT9y5l1EPzBkaNHQ"
-}
-entriesCount: 24157
-
-comments {
-  text: "Great app!!\tThe app works great to me. Its been very helpful in tracking everything I need as I try to get pregnant."
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1383611526252
-  authorId: "cid-gp:AOqpTOG2ahmkqZNCVoizZMarQOVJ7L06tqe60YnPq7e-b5SZT83UHWIz_S64oht8ndPnJ5FPaqj394v4uf2zNw"
-}
-comments {
-  text: "Force close on HTC EVO 4G\tI love this app, have had it for about a year.  But since the last update it will not open, says force close every time I try it. !!! Please, please fix it..."
-  rating: 1
-  authorName: "A Google User"
-  creationTime: 1383611094817
-  authorId: "cid-gp:AOqpTOGKX46hVokfsWh0FLL-oxyIONx-bS-UH1lc95vK4pgnuvSSRKC-Qcn6eTwlmWvUQXgWJmrARPfxT1fe5g"
-}
-comments {
-  text: "Need more features, but love it."
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1383608776242
-  authorId: "cid-gp:AOqpTOGjZvRADu8RUkZ-fB9d-r5X9ef5Hf1Jkeo6CmYOrJVczi8egMVRCGWpw2un4s3VMHxZvADL6yg1o_KbQA"
-}
-comments {
-  text: "Streamline and mature\tI love this app. I tried the other popular \"period calendar tracker\" and it wasn\'t nearly as simple and seems to appeal to kawaii baby girls. Go MyDays!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383596539514
-  authorId: "cid-gp:AOqpTOHnHh9839Qe8Nl-YzlNAUkMcdoSur1Bg5M6HWS9TGtYsmwOguHfqkpgkQao6X_qo4ERh3u_BqhmYCapDA"
-}
-comments {
-  text: "Great app! Pretty accurate"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383593869953
-  authorId: "cid-gp:AOqpTOEjse871_DB-EQzMqAOGVWGxXkYw6xetjd0YFu8_At2TMyDcDuSGKKCLkMIh7Hu1A2Dunri2UFuMGcJXQ"
-}
-comments {
-  text: "I love this app!\tIt helps me track my period and its very user friendly!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383591688268
-  authorId: "cid-gp:AOqpTOGg1uX4QY7IVzElSZC6x_OfRdDP33qF6pFLTOotv-hpvFYeBoXePFLbivCOO39ptA9g9lzb-xFncoKvbg"
-}
-comments {
-  text: "Aw3some App\tI luv this app. I recommend it to women who are ttc or not. It has been pretty accurate for my period start days as well as ovulation.  I got preg the first try using this app."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383586802903
-  authorId: "cid-gp:AOqpTOGAu91iLwBJGCBYApagNPLtgCEyI9HVAhzKuSW64plmXhJfRO3Tfb2C1usR5S86n0RqPGjFhWrxiZZcVw"
-}
-comments {
-  text: "All u need in  one\tI love this app! Thank you"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383585805244
-  authorId: "cid-gp:AOqpTOECWPartnKA4ztQYK2lRiSBIXHUOgvf1irAzXnx-SN9vRrhxUpvdc2-uK4JDX3uKrXjG_VFAZHL6tTQfA"
-}
-comments {
-  text: "Great app\tI have used this app for a couple of years and I love it!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383583050493
-  authorId: "cid-gp:AOqpTOF7iX8AKfnjtzbm8LUFJxcUnoMCrYaPnIoF--WlDSj6838zGmGmUTAxPxnf3ZJFu-Sr21ohfCqwLsPIhA"
-}
-comments {
-  text: "Wht can I said.....\tOne of my fav applications, Love...... It........"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383581369526
-  authorId: "cid-lg:AOqpTOFkfJcLUzzLcrdlMK03gOlt4ZKv_fGC4U9_kuxkmtCmHo3PNRJenyUCa7OIU6alCjday2MHynoD2DAGmw"
-}
-entriesCount: 24157
-
-comments {
-  text: "Does not track after pregnancy\tI just got first cycle after pregnancy and it says my next cycle is nine months from now.... I wish there was a way to refresh without losing history"
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1383576787045
-  authorId: "cid-gp:AOqpTOGOUk7CEdXElbNcqgOIWpAkVBJIOgpoYh78yTOTCecdVsgFWtEJWUFBO6VjaLvLxCTAB5Nm43PFEDlxpQ"
-}
-comments {
-  text: "Excellent!!!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383572835499
-  authorId: "cid-gp:AOqpTOH66dj4_oTeFoL5zPuyxrCBu68x35gEviz4agkZtwseB0vG5RLS31URKllV_lJzxNXYTdrWsYV6v6-AcA"
-}
-comments {
-  text: "Awesome!\tI\'ve gotten pregnant twice using this app!!"
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383572684214
-  authorId: "cid-gp:AOqpTOHBLFE48onxMzCtiryBEghQULgF4X-VLgM3YDH2VLn557_tfLu5AqhMq6Cv8Ik1OxmY82no4igFeXVSOw"
-}
-comments {
-  text: "Absolutely 5 stars\tExcellent. Perfect for estimating and logging women\'s period."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383570284806
-  authorId: "cid-gp:AOqpTOE5ihNML0Tw6qAf6mmJTiBjgNZuuwmzAOnojJMg5ImGL3_bgppZWzNePRiSYGlQq4YN0YhuryuppWf5Kg"
-}
-comments {
-  text: "Love it\tIt\'s always accurate and I am loving knowing exactly when to expect changes and compensating for it. So, if you don\'t already have this app then you\'re missing out. It even tracks my daughter\'s period as well."
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1383567746006
-  authorId: "cid-gp:AOqpTOHOEUw5F0hpqez7jl4Lp1jr7OwzSMkNrNL4njgdYFMsQmp5aTTYSzGOCFG2eDVHNDo-bYzM_zPjlyt5Yw"
-}
-comments {
-  text: "Screenshot\tPlease make it possible for me to take screenshots"
-  rating: 3
-  authorName: "A Google User"
-  creationTime: 1383567361441
-  authorId: "cid-gp:AOqpTOGOYb-e_gw6cksXi61aEFZuH3ZJemvXyTexwiHpzAuWqIDw4_VhiTa6fGeQi_vyCgxTZkh6YnXuRMkr8w"
-}
-comments {
-  text: "Excellent app..\tIt Is to necessary for all women ..."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383565364495
-  authorId: "cid-gp:AOqpTOERTDCQjUPzVq6UPM8dsLICVEibACFyemWcHcscSHmyNSuDNdCQ_6IK2l_aeDGMLX3pUY5AdvHxZBg1eg"
-}
-comments {
-  text: "Everything I need in one simple package."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383562237407
-  authorId: "cid-gp:AOqpTOH6lgEV5Vd_NgBpiu0roxRN7VycIkEm5FdeAfyVIlnmRv4mGtmyD1gDnbIf-mw1RO3O2XF4MWn8sU8LNA"
-}
-comments {
-  text: "Works Great\tMy days works great and is very easy to use."
-  rating: 5
-  authorName: "A Google User"
-  creationTime: 1383547132174
-  authorId: "cid-gp:AOqpTOHAQM6mJY5m66VoxTGUosfwl-ZvkB4UFHd7UZtj__pU5QrZLiMn0b0qO7GvEGURjGdxMOg0kz3GYCBaHA"
-}
-comments {
-  text: "Simple but good\tIt helps me plan vacations because I always know when my period is coming, it\'s not that pretty but it\'s very accurate."
-  rating: 4
-  authorName: "A Google User"
-  creationTime: 1383545866798
-  authorId: "cid-lg:AOqpTOHplpSQ58suf1RLGCbTyaeFs1FiQcbVloZPx6kx6ajpZoOcz8abLQ3pfEDj-rYBP0itM6H7rjKWfckdDA"
-}
-entriesCount: 24157
+entriesCount: 24189
 

@@ -26,6 +26,15 @@ public class FeatureFactory {
 		
 	}
 	
+	public static boolean isCapital(String s){
+		if(s.substring(0,1).toUpperCase().equals(s.substring(0, 1)))
+			return true;
+		return false;
+	}
+	
+//	public static boolean isTechi(String s){
+//		
+//	}
 	
 	
 	public static void main(String[] args) {
