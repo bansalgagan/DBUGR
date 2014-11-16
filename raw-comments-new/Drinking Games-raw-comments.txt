@@ -1,0 +1,2160 @@
+comments {
+  text: "Mr Bongani Sifundza\tIt\'s a nice game to play especially when you are thirsty my friend"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415699690589
+  authorId: "cid-gp:AOqpTOFzPf-gO_PTiNjGQutKyAN5b4chz7-YgXa-z3W3qyBXrvlHEB8YbIS3uUR7gUFX1O1NE2x07nSOPZBobQ"
+}
+comments {
+  text: "Hi everyone whey do not like it\tDamon"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415322131148
+  authorId: "cid-gp:AOqpTOEHoPHWd5IVqQ-6Fj6Vn7GgOJNWKSSnp4FEIp-SZTZiZtU4eyj9s7WWUMl8oW7KmHj8bToUKF0e9KWlmQ"
+}
+comments {
+  text: "Enjoys Positivity...\tYou can\'t blame to others, its only you to carry that habits of drinking, u r ridiculous, absolutely!! Game is to play, not to have it into negative sights..."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1412746452473
+  authorId: "cid-gp:AOqpTOGULrR7oQZ-J8tc0yHKyuAeexC7oYIvhdxeavVBF0_8F2bWlcl6JEuN9kq7NUFm5Nv32wsFYiAee5eidQ"
+}
+comments {
+  text: "....\tCool"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1411087800105
+  authorId: "cid-gp:AOqpTOFZlVd0xEZqIMYY5yRdK_1puC3tXHcgmrODRGsfo3FOqqGZLV94Yfv_anmFst5F8D64taZh5AhfvR5Fzw"
+}
+comments {
+  text: "I am dawnloding it now"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410001586260
+  authorId: "cid-gp:AOqpTOFuF17g099xZKwtfF8B4y_ZiFhcUcNU_LumBzUQTQeLFVT7_OWSyxE1Qk6ideYdRpyjIxk4bfv6vlyZlQ"
+}
+comments {
+  text: "Can\'t even play!!!!!!!!!!!\tAnd stupid meet me pop up comes on the screen and won\'t even let you play!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1408161440507
+  authorId: "cid-gp:AOqpTOGmBuGS9VR09LBPUcLWCP8IlyJXtDo1Jgg-5ptgkc7DM0nhfZjbnoKqZ4hbIGSsnnJANjy4AyieKEYR_A"
+}
+comments {
+  text: "Won\'t let me use it unless I install some other app. Fix it and I\'ll oversee the low rating."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1403505637352
+  authorId: "cid-gp:AOqpTOGlXL0J98GOHK7Tcr910CmGB_uPGtYjU08IyejUVZYz1WxbdgkZ8mqZ-UsFHEbXLAQ7AfvvlK9oCcXtCg"
+}
+comments {
+  text: "Wtf\tI\'m not single. Kept taking me to download a meet me app. Wth trash is this."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1403391048367
+  authorId: "cid-gp:AOqpTOEELdgK4T6krf37W34406e4A-mUInmU57trbDc3i5Mhc1MHELpdCcyn1M_RxQaUjbMieCe1VL3tMHWobA"
+}
+comments {
+  text: "my dauther loves it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398490011178
+  authorId: "cid-gp:AOqpTOHRwVpQ-6lczplVoA2hXwW0FYg0npm2-JdC1JXBX4E0p8rW9Q25QNgDr8x1HW0TQi0vqwVEVZ-IFg_jiQ"
+}
+comments {
+  text: "Like"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397327427394
+  authorId: "cid-gp:AOqpTOG-xIXN8q5EG5r-eZss0xJDz2VIk2uPgnWfgeXL-wTQGCgBQx2fiQYAWiTza0n12FYQr5GZq9II1UBdpQ"
+}
+entriesCount: 367
+
+comments {
+  text: "Not happy!!!\tI downloaded this app and when I went to use it it prompt me to download another chat app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1397121905626
+  authorId: "cid-gp:AOqpTOGblH-o04pRGXrXYJIOv8lfu1w9FElyx-qVXW9ycy3k8VYwMeeYp_Jf99GtlTdh9zpfcnS4b2YCubjSow"
+}
+comments {
+  text: "Waste of time\tDoes not load. Tries to force you to download a dating app."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1396648454953
+  authorId: "cid-gp:AOqpTOGO88uVhmwPx0K-xsGvWsJdbwIGYysL2xLJZpM1ZQN3dr1iikO9nMVwoMEsSvra8M20y7vgM9XSHYPTow"
+}
+comments {
+  text: "Nice\tI like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396326702774
+  authorId: "cid-gp:AOqpTOFx3YSqFN1c92I02KzsbsfvOTXs1ZcZTZNxU8Ql0HchPJx2xrwXY2zaS2B9I11oqnR5f5MnHuJSinGpqQ"
+}
+comments {
+  text: "Won\'t even open"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1396146739870
+  authorId: "cid-gp:AOqpTOEVIdsCEtDTuMRD5j-4lDioIowZCq_gJhaIi45t9vQv3hrFZvX36rAUkwIvAHfrvGHhucta5zpNUypyYw"
+}
+comments {
+  text: "Won\'t let you play\tAs soon as you open the app it brings you to an add to another dating app. Clicking the \"continue to drinking game\" brings you to the dating app as well."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394928973013
+  authorId: "cid-gp:AOqpTOEqf-w306_UEKmE4J-J7N2dzDfHXpA5MiElIz8nL7L0DcsVeCQyeZCLEqgYIrSmCwtcDj5tkDjlPSt38w"
+}
+comments {
+  text: "Rubish"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394744316474
+  authorId: "cid-gp:AOqpTOGfJmIsAA1tu3fpL3BDLJUBURY0XUIEL0Df4e3bDZCH05_u6tsNcqUJbiMiq8wPA2O_pjEBkN0nmE4Isg"
+}
+comments {
+  text: "App doesn\'t work\tIt\'s just one big advertisement.  The button to pay Ganges his to more advertisements"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394041352685
+  authorId: "cid-gp:AOqpTOGfztkHGjRgf_Ke4pNHvUx-BsjtCNvd8yUBRVdVJe9mlqZe0YbB1LWuBH8zgg3ZgecBbVVAIrd6a8jJwQ"
+}
+comments {
+  text: "Stuped"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1393118915223
+  authorId: "cid-gp:AOqpTOGySRCq_RDbokEr86PLn3WfTfMehGuNN419wLg2xLis07oz5Jb9I_CSn2BkbqB0xwCT64FUZEeU1GGYEg"
+}
+comments {
+  text: "Excellent\tThis App is the best!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392960666287
+  authorId: "cid-gp:AOqpTOF2Cuc9Xp6Z0sKLTgqyVEdP2T9om9tob9FInRaAvIOwbfC-GMMyr5fIxyPydCKk_b54DMaxE0Myp9shiw"
+}
+comments {
+  text: "Ad skip\tThe gimmick at the beginning with the ad ruins it"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1392055005866
+  authorId: "cid-gp:AOqpTOEESonkHKoz7HsEiGBDvzaXL0MBlA63NJuZdZL3xsNKORdyS8BLQjuXa-Xh0PeXZx0Kv8MxZJtDhb31hg"
+}
+entriesCount: 367
+
+comments {
+  text: "Hack"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1392035865888
+  authorId: "cid-gp:AOqpTOEthbBHb7p2tIPGw-CQ2R3RW4xFAaojiWZzwktTLlCYNjFfUQMcf1L4_8N4dsoVB3DuccEp3Ms1c7hpNQ"
+}
+comments {
+  text: "g\tbast app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1389605219179
+  authorId: "cid-gp:AOqpTOF3Q5YjQ4yrfYfnHYeAbI2OyZ_yNafRCdWNMPjadOOgkQqb2ONXTaz6NplAfVXN-GITCkQExPRWBCC7UQ"
+}
+comments {
+  text: "Not even a real app\tJust comes up with a dating website when downloaded!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1389091676919
+  authorId: "cid-gp:AOqpTOH5aWJ0gOXRP3mriy21P0quswn0Khj7a39os_9HQOnaj4JXvEkWdtp3z1UG8I1LiARUhkvntJ9XnwXTPQ"
+}
+comments {
+  text: "Can\'t load\tWon\'load on my tab2 tablet"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1389083365979
+  authorId: "cid-gp:AOqpTOFvbbf6wgIS3Wwn0Ywh_3oVICuoxFEVbC1BkanuR2LLsyXerf7D0tDVyPTavAfULn8d4fOCBA22ZlgwuA"
+}
+comments {
+  text: "Scam\tThis app is just an ad don\'t install it!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388995055443
+  authorId: "cid-gp:AOqpTOHc-p5sp4iZHV4J6kei_5JexVSQtKEyQQei3_EdyRYeV6FDxkUQsfyEq-kd981heIMb2zcUUokkVgdkRg"
+}
+comments {
+  text: "Horrible\tCouldn\'t even get into the app."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388177070401
+  authorId: "cid-gp:AOqpTOEFluMpM9-N7JajGOfrqqizLxHNipJ04Ce1c1s-MjqHhnZLL9x5w4l8SYiFH8-r3RD6eETSdRzZKlwgMQ"
+}
+comments {
+  text: "Bleh bleh bleh\tBleh bleh bleh"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1388138546538
+  authorId: "cid-gp:AOqpTOE32bxEsMg8vgNgOSVeyn4t5HyUylXpbqGF0OLn_rsy__I4JZOpC-5IYoQnT0EkJ5m-nMDRtqU7DHGw3Q"
+}
+comments {
+  text: "Lots of games"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1388120740748
+  authorId: "cid-gp:AOqpTOGEUQ-Hts7txO4vptIc_MlUypKMDtZDRWXKGVExBDjA9_85rgg5XxwgMv7ktkRAn6848oZlek3KjXQ3kA"
+}
+comments {
+  text: "Wtf\tFake app. Keeps sending me to app store to dl sleezy dating app."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388040187632
+  authorId: "cid-gp:AOqpTOHoOkuLQMj7Z0dsJMiFgWxbGxEYR0wnM6_Sx3Z45uv5KELt4-Eubj9_7QHAabpuBt4Z2li-4TRrLxRgiA"
+}
+comments {
+  text: "Ni"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387233161465
+  authorId: "cid-gp:AOqpTOGHNhqZhooCz8D2RELzUynpuuX6XinAJU8OBxGOGfJ5Yj-pyFkt-uLlmPXBI1ld9h3HvqBljjCs1EFrwQ"
+}
+entriesCount: 367
+
+comments {
+  text: "Bored"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387218978207
+  authorId: "cid-gp:AOqpTOEErWfx8Jn2tXOIhp_Mk7nCjlKESbYjGqLoda25RDSLg5xzielzscLAmVfCCfGn946EmppYzxmzHL4jng"
+}
+comments {
+  text: "Awful\tAwful"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1384036158569
+  authorId: "cid-gp:AOqpTOH3RQronmFhY5IudLcSerm-EeCrVysp3XC7sVYvp5BoGbKaGz6Q50A3CGw9JHtVcpf5lbjK-fQmjpPDAw"
+}
+comments {
+  text: "Not good\tThis is not good at all"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1382866916362
+  authorId: "cid-gp:AOqpTOGgZjH1Y2gl_nWlxx3DgF9HatHx51vKTRS48gQRd3JfQ8K9n5FRUwBLvaP22ePYictu3Uv5SFR_fjWf2g"
+}
+comments {
+  text: "Horrible"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1381200450194
+  authorId: "cid-gp:AOqpTOE_xPxScoKQWsqjDeb3uGymrFiG9pW7YBoRlr-LibzgBfrTSRgjCpj-FCEFzSGfAj_rCxC6r2Jr0Z7Ihw"
+}
+comments {
+  text: "Just a stupid ad for dating site"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1381078263015
+  authorId: "cid-gp:AOqpTOG9OVwVaXYeC9CKwqinAiDQXC7ZJEXdjrfuermf6NGPYmsr7f3RTq24i4xvQjT865VeTnZszGAxN_8imA"
+}
+comments {
+  text: "Advert riddled\tWaste of time"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1380401329500
+  authorId: "cid-gp:AOqpTOHBuNRD1gatkExDftfE9y6X4bIj8FkiPN99wC035B7yGbMUWvL6tXb_FilITcbuwpF-flaIFFpieGX8DA"
+}
+comments {
+  text: "Extremely intrusive ads\tUnusable and annoying"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1378918005116
+  authorId: "cid-gp:AOqpTOGoLVIf5wjQucQ8xPYQVks3-WP6-7FH_3OauyG55t_B4LderUHXTQteZLjkwiJcuSFsMbsy-o6U8mpC4Q"
+}
+comments {
+  text: "The only thing that you can get a chance to win a free Google search engine optimization and the Three main thing I want you are a bit. It has an amazing day"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1378316462892
+  authorId: "cid-gp:AOqpTOHZHmzZZszxFEWG2_vjhQa6u6Cols2Cbb-qXR_F1xjUlH2HuOIzwalqybJcZNGRWIu7jkBPHSagzD58Gw"
+}
+comments {
+  text: "CoOoOoOOl\tDrinking lyK a ChIll Bear..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1377647249064
+  authorId: "cid-gp:AOqpTOHG-uuF1vnaZx_DQeDU2Lo5LW1mSQKmDI7cuyQKCjnAOarurRJRG-oDeF3x7eqOWEX8Qv59aptcdFANSw"
+}
+comments {
+  text: "CrAp\tCan\'t open any of the games"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1377074333967
+  authorId: "cid-gp:AOqpTOFwCu-pgW8uhp1W6BTQOTy-SKqJGFvchS4xxWXqXat-exUNF4LlIT7uUgp9rXAjZTcLftqSMZ3u8Fmsiw"
+}
+entriesCount: 367
+
+comments {
+  text: "Useless\tKeeps taking me to download a dating app. Waste of time"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1377025931228
+  authorId: "cid-gp:AOqpTOHLYd_DfQfCy_8wPKFTKIDlwtkoOtFnThDka8Yjq_J5E6aJYfAnBLYs_VyEYeJ60UiCgqscrkMi93MNww"
+}
+comments {
+  text: "The Rater...\tAlmost a perfect 5 stars.... the aesthetics could be more appealing. Congradulations to the developer(s) a very nice app!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1375013489809
+  authorId: "cid-gp:AOqpTOFg_ePbxLZ9_yaP2J_y3Vp-zy9Dcw8YCB7XrxhB5CECE1eupi6c68aef6-RpjKuAkWOcfgWFvrhEDG58w"
+}
+comments {
+  text: ".\tVerry good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1374235904056
+  authorId: "cid-gp:AOqpTOGaZeRFK5DuAIF0xifESbkDJofaHRBygaPSk1NBSlE3SlQhPTPO_lEmlTfIukDS7QonYizivP9dHjW6ZA"
+}
+comments {
+  text: "Don\'t Bother\tThis is really just an ad for some dating service. If there are any drinking games on here I can\'t find them. It just keeps sending me to the dating app download page."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1372661753056
+  authorId: "cid-gp:AOqpTOE6l7K1kit4eqwmqvsB2i_eVLvJNu-UpuXM9FdlUht_V25AL7YFtarkPh4pFWB1CFci4F0utaeHn1dpKw"
+}
+comments {
+  text: "Scam\tOnly gets you to some bogus dating app. Waste of my time. Don\'t waste yours."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1370464586473
+  authorId: "cid-gp:AOqpTOH2L-tAFdXFjhI0xfSQIdrvBDuX-1Hu1dejM4nwga9veVDVgdjvY2lF-69DyYOmJTMJqGcEE4xOcv3WxA"
+}
+comments {
+  text: "Ok\tHad some probs but still pretty good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1369692578609
+  authorId: "cid-gp:AOqpTOHcTZrhuESt1e68zyReHoqGr59jwTNaAd6530unNFvzmbJjll3Nke85uTh2NUcrTA85Iuso79xhhkdiGw"
+}
+comments {
+  text: "Drinking games\tIts ok"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1367433978119
+  authorId: "cid-gp:AOqpTOHNSnqluXzjLpwVFfsg8w4zDIvV8p9Qjy6OEbrMJboi3ZTY7Wl02i86v6WLn9Rldhxodxa-nXwYNPg4cA"
+}
+comments {
+  text: "Didn\'t work."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1364808551205
+  authorId: "cid-gp:AOqpTOE4xFGlLmoY9S3pdhyYErpCxGYJeig2SxoLEW-FAfgkVOU-AaasSNNGPNJFMGkDvxGGsLdPYFwtXI1sRg"
+}
+comments {
+  text: "Spam\tDidn\'t work takes u to a dating app. Gay"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1364746577085
+  authorId: "cid-gp:AOqpTOEYIrFNkkA7BFrc-yTp3vhyTI0LIICkjvqnpsHPIPgp1JdDyRiMxD2Httrd5L7DJPVPnu9TBihojdzJGg"
+}
+comments {
+  text: "More annoying than it\'s worth.\tThe game instructions read like the 8th grader that wrote them had just played all of them."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1363171517005
+  authorId: "cid-gp:AOqpTOEY2ykSvjicOoBorA-7X0kO0rMzYPWQRe2jXQEEAFgCXjLGD9ajMgCMKC1D3GHOv08Sg9dlurj8rGeGzg"
+}
+entriesCount: 367
+
+comments {
+  text: "Suckie suckerssen\tTerrible can\'t get pass the love sh#t"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1360863554506
+  authorId: "cid-gp:AOqpTOGJbiKj0ZbfWUxCbGACQHMGi1ChM4-GJf3PjlvnYFMcu_kV5btpRfURKAxR1twZ3eBSnsZVTqjLVuNskg"
+}
+comments {
+  text: "Crap\tDoes not work, downloaded and clicked to continue...went straight to a chat site!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1356553477091
+  authorId: "cid-gp:AOqpTOE0-XsNjf-o9kQ9-9jMaPBLHH6dhDigloK0JtPZhQNCjHu--Q3LpRbPUgfeIgJNBBa5Mugk6S0sz97qpg"
+}
+comments {
+  text: "Cant get past the dating add"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1356146048766
+  authorId: "cid-gp:AOqpTOGiUzlM9pV8Q7w4XVHR8vCVRzjo0FJYKdky1oOSIKrcx5bU5BvWUkv7F_FEw_X2EVDSIvDvIeJJ9cAaJA"
+}
+comments {
+  text: "Scam\tNot a real app. Bait and switch advertising."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1355228604935
+  authorId: "cid-gp:AOqpTOHrNkPZnNTnvj_qSKrsIocwTnyR0LEB8gpE_9PgfMW5fcQXRne54QNfOmlFlcmDCTab_M3JHPq1RrphQw"
+}
+comments {
+  text: "Bad\tNot a good game.  You can\'t play them"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1351733931655
+  authorId: "cid-lg:AOqpTOEOt3TMyBhlNsNFPiuxlOKpDWe3y6WNZoiMCX4HDr0v2miGKl8aLfWgUgsvNprMwKLgR6cAnEqgPQu1eg"
+}
+comments {
+  text: "Touch button to continue off place\tI can\'t click to continue keeps taking me to the store to buy singles app Fix and ill rate I747 gs3"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1351549440757
+  authorId: "cid-lg:AOqpTOHHT-3U7GvAfnDdoth4AB7tbZhOHCFxsViOg6Ys0sjIVJ5Pcdx97pIaQZ8O3rybu5q8UQCnjiER3RkqlQ"
+}
+comments {
+  text: "Don\'t rate badly if you have unique issues\tTo get past the ad you have to hit menu and go from there. The button on the start screen that says itll skip is a gimmick"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1351464383879
+  authorId: "cid-lg:AOqpTOGGajB-wtE-B4krsFtBu55F22dpeGi7yUGDgZ67RZp1mqB0i5Ex1E7UjNfBRPaQNk950YXw2PL8k5jQpg"
+}
+comments {
+  text: "Sucks\tSucks"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1344656916563
+  authorId: "cid-lg:AOqpTOFfhdJnlaXSUnCkjwYIARws3sxRzYDJg5Y6dNQSJFLibCVpVFoGTtL13HDziVk_qZbVnJFn4lA8noxnfA"
+}
+comments {
+  text: "Whoa!\tThis experience is well worth the money. It reminds me of halo, it\'s so great and beautiful graphics"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344007861277
+  authorId: "cid-lg:AOqpTOH3qpRJZyhjhy_MVdqJ0LQHqRILmFUAlP0s11NGF2WRGrBkGvbFzqxeVYDP-jEX5d4t2WKJVP6NPFksgw"
+}
+comments {
+  text: "Good\tIf real its very tasty"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1342930146002
+  authorId: "cid-lg:AOqpTOFNXPA26PJItaWSfbMekz9Z6VRynG-vnpCgR9p5noSbsw5fYDYPq-zj5UFrDdcBoz2lGozWhKbDSU-DeA"
+}
+entriesCount: 367
+
+comments {
+  text: "Can\'t open it.\tI downloaded this app thinking great this will be awesome, but I can\'t get past the dating ad on the first screen. I clicked the continue to drinking games button and it just kept sending me to the dating app download which I dont want"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1342560421868
+  authorId: "cid-lg:AOqpTOElleiitJG-4KqzC64js_1mC3DLiNrJW99ooR3ezN0ORWJ3IQyRJjfBWYAQvEy8dbqDpHVcAWsOtTJEhg"
+}
+comments {
+  text: "Pretty cool.....\tbut some are hard to understand because the English isn\'t too good."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1340869554299
+  authorId: "cid-lg:AOqpTOEf5iu8xFo3DnGLNC2rvgpzqlGPo2M8vWUJWdtQzGLhmKW5T8riroQ3LDpIX46r1XRo0lGsLYJXeTFsbQ"
+}
+comments {
+  text: "Pointless\tNothing on here you can\'t find online."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1328225201347
+  authorId: "cid-lg:AOqpTOGVdoFqQ1u5-ugLa17EMiHfbrzcvPKVAxyda36myPtcK7nDMV77iN3UAASgQWAJ-R_Sya_GSIEXwLTrmg"
+}
+comments {
+  text: "Drinking games\tLooks fun... For over 21"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1317836868743
+  authorId: "cid-lg:AOqpTOFkDu4Ra1EIHu4WCyTJ-IKTOnXCbDH7BqD0dlVsWQ9lXMQmKghkN8dh7nFhicSY_jrPuRNTQaKPxxxz7w"
+}
+comments {
+  text: "Not bad\tHas a few good games"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1314061256982
+  authorId: "cid-lg:AOqpTOEQTu9nc6NdlP2-nA_wYh0GH__mRSLCl-Lw-761wODYb641bgmkpTbuzavbbm8i5BGTzQL8npZLoJeqjQ"
+}
+comments {
+  text: "Most of the games ive never played the way this app tells you to... Still fun though."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1304748211008
+  authorId: "cid-lg:AOqpTOFmW_W9iKXaHFClHBKBRhLcYW027Opl02pZVIN0L3v8XfDfcfrLKr6QFQUK4yQcqChcYut934C9BAp4Cg"
+}
+comments {
+  text: "4/5 Cool app. Good for parties etc. Could be a little tidier/easier to read. HTC Desire Z."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1304369694344
+  authorId: "cid-lg:AOqpTOFhzmggdRHq84m7ntseutNm4f3eR2DgT7XBU3Q3rW5JmvkICQio-9oUOrrjctz8qpGb9Iws0bryUboEZg"
+}
+comments {
+  text: "Could be a bit more drunk friendly"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1300246061770
+  authorId: "cid-lg:AOqpTOEmHwlcdWbAIlg57XMp1Lft0LFdKS8MoFB3bIPtoIYp0JNs86zOThVltDEUoMpYD7K9juu56XmHZGG1pA"
+}
+comments {
+  text: "Love this"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1300208673455
+  authorId: "cid-lg:AOqpTOE6gea-FXyynedDTwSLuJ8onKFQ-H8TzoshjqoZmhdmdB_xof-G6I5KO2uyzchHzN65COTzQUNQDp2pSA"
+}
+comments {
+  text: "Boring"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1299337197887
+  authorId: "cid-lg:AOqpTOEFM6ANNke-g5vpY-9Zg312Ku2cDEUzpraEArJ5hcJRD86A2cjeapBsIvjX0eGSuvKybrs3g7M2Dc5bkQ"
+}
+entriesCount: 367
+
+comments {
+  text: "No original games, and some are just dumb"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1299219227818
+  authorId: "cid-lg:AOqpTOHTW46suGvF0n1lCQtqfmnXEK5VElX89hbVXSEMM77sl276CxYV2jdQj_YHpffZ0d-hVOtRPfbJ08PfQA"
+}
+comments {
+  text: "Put the ads in a different location"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1298985705404
+  authorId: "cid-lg:AOqpTOH2A7zstSArj089S02-a3T2H44ZzVvFh7bqT1n7AsGz496NWm3OKLBfn5xzlpm2nUrhUad8lw0R_OYXxw"
+}
+comments {
+  text: "Good idea and there\'s some funny games here but the instructions need to be bigger, maybe even pictures would help."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1298115777734
+  authorId: "cid-lg:AOqpTOHEiYx8fi4Z9BBhhs65LKbYT6LMu26FpMb5ForQdcihqq2nkwxbBxARzRSn79SwHD-uU0mnDTCYynRa2Q"
+}
+comments {
+  text: "Waste"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1298047402600
+  authorId: "cid-lg:AOqpTOEOYHqQT6cpG_hv0GPNIwayg3RsckyD4HolSBStCwCSszXNr261c3TSnC1OQcGfMZAJxTJ6aaGefRNAvg"
+}
+comments {
+  text: "Waste of phone memory"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1297740703789
+  authorId: "cid-lg:AOqpTOEnqo90dA7QHmapElwW6T5mo9gBitRDvY3fiI9gC6j2tOhZ1GiLhmXSAKHv9Nwlm-JGcbyzrpmsDfs4Lg"
+}
+comments {
+  text: "Need larger font. Hard to read the rules after playing these games. Lol"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1297719638522
+  authorId: "cid-lg:AOqpTOHPVNnq3qxgjizqaPF8w1vIXGwiijtMucxGHmGRcWYZG99-qq-lRPesNG2Wdiq5oDACDwbuolw5t3LybA"
+}
+comments {
+  text: "Would be great if you could mark games as favorites"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1296920211807
+  authorId: "cid-lg:AOqpTOEPIf7YVFXQWzvNTvAxtFoL5R6UbZIS0KWRCXuwtJY1tKvjEPmdNIFrBL_iCNMEMfT9lyGn028J4ZtXAA"
+}
+comments {
+  text: "Good ideas!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1296700665351
+  authorId: "cid-lg:AOqpTOGsydp74d7LBDjj2vwy8guOmxO-wlccJ65RPDwTdo9VTsvDxrmbirCCj7Wu6OtmIyRm1SOkrfRERKNz6A"
+}
+comments {
+  text: "Epic mate. Well played.James x x"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1296336176751
+  authorId: "cid-lg:AOqpTOG4DCrkS-EXjeoDSUjVw5eAKF9q1opA0khetIPkfjNmijMGOSD0PHPuNDRwwfUw2kMQa1EMFjB-i8GmGQ"
+}
+comments {
+  text: "Amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295744390004
+  authorId: "cid-lg:AOqpTOF7OTAeVn5aOOtMFtiLSNk_1PyuWJHYgwz2HkDMhEK89OzP116EcLhNTgZixOm4cbdqBok9Au3B9BCyHw"
+}
+entriesCount: 367
+
+comments {
+  text: "Lame. It doesn\'t work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1295377139269
+  authorId: "cid-lg:AOqpTOEwo1m8WhTM7BtQ1qCFGagojWptfJHxdumtKfoc0ddRDq1vcXmf54qaLnkwdWRi-SmHdEAO2Mr58aahZQ"
+}
+comments {
+  text: "Muuy aburrido"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1294930843843
+  authorId: "cid-lg:AOqpTOEfTWkNmKxVy7m3GU6Jrrvl5p9AbVjsYOgkr08jgB775e9l3gBl66IMnxfcDrf-4QHrigsMBVlmECMdXA"
+}
+comments {
+  text: "Greatest app ever"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1294863954410
+  authorId: "cid-lg:AOqpTOHUU2iGPog_M9peF_SnTFsOJXIDm18fmW6JxYPyBVo89NhvW_VNJyE00bV-ShM1fN49qGPD6NshUkmbIw"
+}
+comments {
+  text: "Luv this app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1294474672772
+  authorId: "cid-lg:AOqpTOF1Vrh7hWtjoaS2bTSqvXlfRn_ifaT96vCpPXiW1mRY79OrK6k0OaRmF2VIzv3e6FvjFAtey1bWLbnL-w"
+}
+comments {
+  text: "great app, but where do the 3mb for 8kb of text go?!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1294095328258
+  authorId: "cid-lg:AOqpTOGF74-HQYxoVmWw12ns3DWKJTgWrOopPVf6O_ThFAyHd3wC2cdRFY2twJ1h0yprtVHg3IwqkLbpkmHH4Q"
+}
+comments {
+  text: "Love it. Perfect for new years"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1293835299713
+  authorId: "cid-lg:AOqpTOHCEYzWAX7Kgya0TB-MfZJc3orVDtBlOrq4NqweuEb7Qnse9ECKOu2IuSM9IYdusLdRc0bG4iP5lhpDZw"
+}
+comments {
+  text: "All the drinking games you could ever need!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1293447579155
+  authorId: "cid-lg:AOqpTOHTtobr56sxprgbdJDWp6PuyuXUbGT7yuexi30H3TG0W8-ivaTWFoOmCCL0UVouzTagWvCY2TeRl6vWOg"
+}
+comments {
+  text: "Great app! But i already know all of these games. And the rules need to be more specific on some of them. Otherwise great app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1293171739411
+  authorId: "cid-lg:AOqpTOG9H9ZvvRi5Qtw2zQCqv3bWUsb-EHwoYpvEuaFU3elz0aJlXKdJDlyIx-n8MUteUdUpG0VwhVse-_uTkg"
+}
+comments {
+  text: "Good stuff!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1293134509572
+  authorId: "cid-lg:AOqpTOECwHszYad5S_-4PuJNfE8jZ0-VexJC03ZpAWH8F5zD7OncbWzL-LrlA6u316BWUonS0HlIOj_r3tVkaA"
+}
+comments {
+  text: "Great app!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1292935899930
+  authorId: "cid-lg:AOqpTOEhlMZpLUWnzhDEGxruQUtCdDw2WdZsALbCqCT1EfKK-9X2IAiB5DdoGwyiO528426Sd8gguinyrc_wRw"
+}
+entriesCount: 367
+
+comments {
+  text: "This game is really fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1292871617077
+  authorId: "cid-lg:AOqpTOFihxEy8OIJ-dCV-KkGzf1GTgkNkLYAzsYsCPHBJli6p9obmNccrYilQnyysphLB9j1cyfZfA8dUXN7Qg"
+}
+comments {
+  text: "It\'s great. You should add a favorites button :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1292797293576
+  authorId: "cid-lg:AOqpTOG4UZrGUPCVQCbY-hdV5OJIXeBBDsZot8K1uSdZMAHNsmc5IMbgpi5HhlcK9w2t9qTDqUOp1pVZ8lOBWg"
+}
+comments {
+  text: "Lame app.."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1292358920664
+  authorId: "cid-lg:AOqpTOGPG-AfgJ2jFpXH1HCDHPmiCZbXnhj1SgZiOOnNbyooCa0WRN-QiogXqc7D4-77XBaTEYAb6M9sioee3w"
+}
+comments {
+  text: "Exactly what it says and there are a lot"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1292224493948
+  authorId: "cid-lg:AOqpTOH50ZTsoCOW6A0rAou3wO-jfmI8RNMLdNPNXKRlHJ5c3KPBOMAOIlVXnXPPJYzfDl19g9qaa3lZerwzdQ"
+}
+comments {
+  text: "Some games are dumb claims theres a game out of a card meaning from kings cup ie question master is a separate game"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1292186606162
+  authorId: "cid-lg:AOqpTOEOFFHX7UbaM0wNZsdNExhiuwe3D9hYGce1vjTtG2NSoYYYzS6NzdOFtwhD0PKMv98-0IAwtViVVqprFw"
+}
+comments {
+  text: "Great game, comes in handy"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1291941818203
+  authorId: "cid-lg:AOqpTOG_oa7ACkpDbdJG3Q2qjRBPEpZq74FV6FvRw2lUACIl1fxAorCw5E8F-3emxKvCdaaBflvQrBEoX1Yoig"
+}
+comments {
+  text: "Fun!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1291881966637
+  authorId: "cid-lg:AOqpTOHw8yjAAi2_a5LvgYNRs7AxYLRS1TwitLdt8aS67bblILOeVSMml3Uciz2dFxzf9bGxj6Y1MWq5UnWuEQ"
+}
+comments {
+  text: "Very useful when ring of fire, red and black, suicide and beer pong get boring!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1291761069080
+  authorId: "cid-lg:AOqpTOHuLbWdPHkw6oqfbkfIbE3XXbrYNLDKU294J5macRsCMS2yWWM1uoDxxi1UDINY3181FgKHu0i6oelKCQ"
+}
+comments {
+  text: "Drinking games is the best application I\'ve downloaded. Best of all the market its the easiest to use with the best games. Perfect when at a party!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1291153021623
+  authorId: "cid-lg:AOqpTOFSp1a2hJjxrW7UEjXNGcqeNML55lPdZ7WdVFI4jSQeyOYvACEvZC2s9T-rgrXredumHXhJBQlTxHoNbQ"
+}
+comments {
+  text: "Do you people think this is seriously an app? It could have been a web page because it has zero features."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1291082752167
+  authorId: "cid-lg:AOqpTOGXjOOSXyNFfI5doPi4TfDS2MHMOirAK4bMj4NgY-z6NFCMgcLhdb0wVoXVNmRkkOMUbWitjd1HMIB2pw"
+}
+entriesCount: 367
+
+comments {
+  text: "It would have got 5* if I could enlarge the font. Too small to read after losing many rounds ;)"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1290447742176
+  authorId: "cid-lg:AOqpTOH9xu0CSSYLbEPKK_0Cf20HjpuzjhAbCh4s7FMpgrgi6OafUKexz__gb58F0bSSVcbfMwyIHVd1uwH55Q"
+}
+comments {
+  text: "Oh my...the drunkeness that i have obtained due to this app...what would i do without my LG Ally...id have to say id attend my AA classes...lol"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1289609489277
+  authorId: "cid-lg:AOqpTOGffgCuao39FEBIFDp7wEFeCvFeXuxaM0le-foyEtxLG5HJqs-nPKfWnJOmEDtdUK4xfvwR79Bs2OL7RA"
+}
+comments {
+  text: "Yay I\'m drunk with ur help application. I love u! X"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1289434628437
+  authorId: "cid-lg:AOqpTOGsIn-SOSTkWzb8zQlUyg-uv08T3yfItMhKfElz29BocQMdwrN2VfI6iaScj89FNWvYOjcqc8XjcgZkcw"
+}
+comments {
+  text: "Stupid too Much Reading and Jus Plane Lame. Sorry."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1289120185603
+  authorId: "cid-lg:AOqpTOHOZT3B3d2L3A4S9PeJPymvEGE81yoSZGmoPSkI8yPnw_R-DWq-NMJnPuxZRYUSICrYCfuK8QSPMtwz0A"
+}
+comments {
+  text: "It\'s ok if your a lightweight"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1288090886143
+  authorId: "cid-lg:AOqpTOGzRCwMuPM6hHaXJwGHhOkZbRGTMYkb5QzcRdOdTr_cvigAlM2ojd4EdJQi167xekBDd8Dglf5jwZJUNA"
+}
+comments {
+  text: "Now update for lots of annoying ads while it\'s the only reason 4 update... Version 1.8.5 takes 3 MB of space just for ads!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1287091576741
+  authorId: "cid-lg:AOqpTOGCA7DH-HgGd7YZIJGznxCT6rqeF1C32JpeqdDt2BMWCrpd_cdKitgafpP2cfN9sbExNFJiEESAip6uQQ"
+}
+comments {
+  text: "Decent amount of games and layed out nicely. Hero"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1286803971937
+  authorId: "cid-lg:AOqpTOGSxjf4cfVxwxoF6sTsn-ZqmdQ0DGC-10jEm75yFm6H0Gx5DMtCB5trA7vx3XvwOwYPvaqXsrfuBTEeBw"
+}
+comments {
+  text: "Great app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1286638680744
+  authorId: "cid-lg:AOqpTOE0D-UPqWFA2AVNMHteDlMzR86LQN8vYDHBzsWHG5L2MaCNH0j6UXrYqNpTO0Slr_ZLfkIR6SPVCDYWKA"
+}
+comments {
+  text: "Got completely wasted to some of these and had great giggles aswell"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1286557695305
+  authorId: "cid-lg:AOqpTOGbtSu0H5rjROpVEtdCPnjJ7zpafSvkjK7u0btOlXI6XwLBLEnM5a7_eY8SqS8AOqmx8M9ssuz5TXQXuw"
+}
+comments {
+  text: "Only good once"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1286111693685
+  authorId: "cid-lg:AOqpTOGhIekn6gey2hI-5Q7dOMfXgUOhOhZ7aj-3OxKG-RRsWURxWTw2lTzGW7D2KGyeSGzYzmpE3bOthIlL1Q"
+}
+entriesCount: 367
+
+comments {
+  text: "Boring!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1286010080813
+  authorId: "cid-lg:AOqpTOEE25mCld46ycbC3WfuhfpVUHpOhCni2GEBIhqmQTCeirZH1uDHssZGWyVXuOqVYBSaMj3uN1Q5VdVYmA"
+}
+comments {
+  text: "fun"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1285034021660
+  authorId: "cid-lg:AOqpTOEzWhSGYE_55qRjDOUhpv_CqmThDJ16_nY0-Q-o8CnbJGp95ef_CogWVATKmWXOEduMBnAAbEvFX7hXkQ"
+}
+comments {
+  text: "Very good, easy to use 5 star"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1284398223300
+  authorId: "cid-lg:AOqpTOGfj3KG0CLT-J7qi8mEx7XGCm-SH_9XJfAHYcNHuFKfPOcj_EP7XoDxzOmrrHIE7nMycZaapKUf6aJo2w"
+}
+comments {
+  text: "I\'ve only tried 2 games but this will come in handy"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1284322888902
+  authorId: "cid-lg:AOqpTOH6731rReLto-jWSs-KD4A6yo3RbMxqE_FlpLCWVImsmOl0tADdMYFt6D85pZHflEZz6P3vdJRSfOZADg"
+}
+comments {
+  text: "Force close fixed!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1284168751051
+  authorId: "cid-lg:AOqpTOF5OMnSGMDbDVT9jlyGG0MEwaYAJDnT1YhUlMpsNGLt9mKc9A2AVi2adfxxws50k1QeyEia72pzVOtrZw"
+}
+comments {
+  text: "Great app!....motorola i1"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1284049556281
+  authorId: "cid-lg:AOqpTOGZhyzJEa9Vdii1DXrwFg4JKj8lRJVVPLvCKs-udUiCGF4zWZt4hWNErbbS0GZYpmkVgExLihEPhsjcqw"
+}
+comments {
+  text: "Lov it get Yu wasted"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283573597606
+  authorId: "cid-lg:AOqpTOFp1XKVBr-Rb4k0Sdm9lzNSzHb8dPr-m3UBNb9rwvQOrYW0aohxPK7pJP3FmV7xJ-pUX0IvgTAZohlI1g"
+}
+comments {
+  text: "So far so good luv it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1283444781575
+  authorId: "cid-lg:AOqpTOHJ4HVzXRmewyDnIRkXJ4xej8ZqV30Y_9o_TT_6QW-WJmVOmisFbWYNeJde6e7PB3qvh-RwpoMvV_RDOg"
+}
+comments {
+  text: "Best drinking games app on market by far iv checked them all out, big up OB...!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283386101708
+  authorId: "cid-lg:AOqpTOGcCPQ4J2JaS68E4s0Cgc9e5J8hBzYA6bdCiyZJi33GiOAF-EaISiZizW0NCMeEexLQ01qpwQ88W-lK5A"
+}
+comments {
+  text: "Uninstalling because I want to use update all feature of group but I don\'t want to update this app with its huge size and ads!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1283375504299
+  authorId: "cid-lg:AOqpTOFxyv5dXf4q4rCLQA0p58azsepTfb49wXnjvrQpAUPs1QADjq946S5qrruDJOMH-Ss7UZ2XAx_qoFQXXQ"
+}
+entriesCount: 367
+
+comments {
+  text: "Useful and gas helped me in my life"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1283367682706
+  authorId: "cid-lg:AOqpTOGGg8qEIgoTAWB6R7G5ExZB0DICjUxj9EL3zFw6ShntFNuAOfCexCDQeN62LwrqGbM2r5y0ue64sxqjdw"
+}
+comments {
+  text: "Ads"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1283238296265
+  authorId: "cid-lg:AOqpTOGZXBFmJkgFFjC5M0SMWZm8kBiqjDQi2NZ4VADxUNImGTNkluQyx19Lt6PcQRhEsX4KLZaqLNr8fOIJTg"
+}
+comments {
+  text: "Force closes"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1283208481265
+  authorId: "cid-lg:AOqpTOFCCFjo8VvxfF0ICCNzPPVSWkwGjrqBKSJqWJikiP9KyQKpxeiG8tG8M_3Kx2H0e7G6c1bXrPuqjSngjA"
+}
+comments {
+  text: "Good dev response"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1283184027111
+  authorId: "cid-lg:AOqpTOFcDfoCI1qZODdU2LPAIf-ZZc5lIvI6IkiSteShS58ncNJrSpGyo1wrfWqtHYNWtPb7JYElq8-KJCznmA"
+}
+comments {
+  text: "Nice one for aps2sd! :)."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1283177511679
+  authorId: "cid-lg:AOqpTOFGW3x4x_TDoqW6kETqrNPFqQi4WLlbfJnrjK1ri_VWI6ZvQFA2sFi0j7aCoDkFblRkjuxu7_2MYWhXMQ"
+}
+comments {
+  text: "Loving this, had some great fun using it- lots of ads now on update, but you can pay 99p for the no ads version if it annoys you"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1283130081846
+  authorId: "cid-lg:AOqpTOGH0eihR8R6ia_KXMZRc12L3EKSNIIw6MF5arEQAXNlDl_xyhXK7hVwyGvyAYjEIM81BixwTzJkbBUa_Q"
+}
+comments {
+  text: "Forecloses"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1283108915639
+  authorId: "cid-lg:AOqpTOEpBIHG9HYa2-8oz_DjpUMUnrWxDUpt6m54nX-DFt2O1kh4T_pEidHit9LvJTUNGX-e09qHdXFAacUbqw"
+}
+comments {
+  text: "Uninstalling for the same reason as the people below me."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1283070158924
+  authorId: "cid-lg:AOqpTOHcYXJ-SVXKAMhlBzxOWD7xohldkxakbJsrTjpRw427jfT14JmHppsQfd11aU0eDUV5PgyeuPaRbZRFFg"
+}
+comments {
+  text: "Uninstalling due to immediate force close"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1283048360874
+  authorId: "cid-lg:AOqpTOHjeZg7mgtP8KQxXOCZy7b_TvwdRtjSCY0zt7tXEpfY2qYJFykltAV70NNwSGX6k-Kp6ZnTFE8wOwiz1Q"
+}
+comments {
+  text: "Uninstalling force closes as soon as I opened it. Moto cliq"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1283039000362
+  authorId: "cid-lg:AOqpTOHASozXk9tchLaZ_jP8FSXuXTdkg-PP8TZFxrTws2ncvL3zHLtCIn5N4LY5ebJbeAuxz6aFYYj136OhjQ"
+}
+entriesCount: 367
+
+comments {
+  text: "Was able to move it to my SD card so I\'m going to keep it. Motorola Droid!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1282968338864
+  authorId: "cid-lg:AOqpTOHxRZszCSxyAcUDzTnOC7__TrCVdTGDxCv5GUrCDZ84ynaDjWHuqQVDTTZDlKApupvyvg80npbvMB50lw"
+}
+comments {
+  text: "Uninstalling ,KEEPS FORCE CLOSING"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282947035716
+  authorId: "cid-lg:AOqpTOHkFBTagE8B3y9D7yliVxck-DPvXljn5UVvx6MATCiQnkC8JJGvcLRaIDagn_JkZNHY4t4TWr55txhd2w"
+}
+comments {
+  text: "Great app when a party gets boring. Lots of updates getting new games all the time"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1282928256456
+  authorId: "cid-lg:AOqpTOE5R_ruuyLCWexO4sWlfbAYQrWWnn664aBDR-5Fg3Ny-eqtmlnTB93TZYyh6SdwjHq-Ck2dkiN7aLL72A"
+}
+comments {
+  text: "Works great but takes up to much space uninstalling"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1282795361238
+  authorId: "cid-lg:AOqpTOElw6R_YxZ3UIVxRf2D7Zjclc-N4zzRq1chOlDHXpAvsyyIM8nX8y0Ka0C7zs1EUP1rA4CvY1x2mfEKOg"
+}
+comments {
+  text: "Was great for occasional fun. Now too big (3megs) for what is essentially a 60k text file. If I could move to sd, different story. Uninstalling."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1282729056948
+  authorId: "cid-lg:AOqpTOGQc7u1OF7YSXjJhvw_7XsIveURqDoTKULZa1rdMJ6rXNu9qfDJQgZY0Pdowv7WfzEIv5DI_r5aOgO8mA"
+}
+comments {
+  text: "Size increase from 200KB to 3MB and huge obnoxious ads is outrageous. Reverting to backup. DO NOT UPDATE."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282720584172
+  authorId: "cid-lg:AOqpTOGfOW36NcYWqYUpGFfTjEVrbVnSf8s3d6axXKXgSN8BwFbBDnpz9xhCFU9zKcm1fg8pkQ7zphPPOr5WDA"
+}
+comments {
+  text: "Bland, new updates are annoying."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1282705257353
+  authorId: "cid-lg:AOqpTOEQ-wxpQ2CzcfEgCdmpvaZ1KQB7LXF8yaoFG4EWz7djR89ay1EcHIgVeoBwLufxNwCYAkbQH4H9Cs9pCQ"
+}
+comments {
+  text: "Too many updates. Uninstalling"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1282698519941
+  authorId: "cid-lg:AOqpTOFuAVRRxdNQ09ul5N5RuFtJkX2_zzL_-qI9Q-CqH4PmyxXA_Rz1KoB5OuRMuCzXNduo_pypXUNIw6qw-A"
+}
+comments {
+  text: "Cool app to have. A few games are common"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1282695362642
+  authorId: "cid-lg:AOqpTOHFZxKQMxcFZaAgFIiiQs8L9V-wmEXyPj7RJcg2_Ki9PgrYHMrDbfReAY4IIWuCcsLIYN2vL3eDkc3hWw"
+}
+comments {
+  text: "Fun app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1282662352274
+  authorId: "cid-lg:AOqpTOF-SNjS3qHu7ky41OCQtW98UX8zxstIVMsNLJ-eg5F-7JCD-hAUY2g_fSL0BkdwR35ZDLo0KMQjVsx1zg"
+}
+entriesCount: 367
+
+comments {
+  text: "Best game ever and easy to get leaid :)"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1282659985395
+  authorId: "cid-lg:AOqpTOEC7Qc37DA-yuYEw1yfxD4AT6p34sjXR0eFUBG_MI-IHQmj81XklhsLWvYgqyKBPyObQsqfvMi_cEdpMA"
+}
+comments {
+  text: "Nice app. Updater broken as everyone is reporting."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1282656910334
+  authorId: "cid-lg:AOqpTOH2UKI7-uATKOcIHyxTOOLY_YaQxvvsiPMViFuFZg9RNuvqO5G5BhRZQlHl52sUUzPGPrnY7QEZ_tfJTw"
+}
+comments {
+  text: "Don\'t update!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282642982855
+  authorId: "cid-lg:AOqpTOE510k6WBKa1d1nPMAbUrwmqyf4ibP4d9QyV08U2XaGD2mR3fCLWA8Xx_jNXOnvjDwAf98UqmAZOijrOA"
+}
+comments {
+  text: "FC on start every time after update"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282616191541
+  authorId: "cid-lg:AOqpTOGFxxGXFZzKaMlCu4LnBbxk-wWFVWxWPWS48bWGG3BQUSKBUO_hsstmvXXrmpdjIjbfgAIicuew1w_2KQ"
+}
+comments {
+  text: "Don\'t install"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282610555353
+  authorId: "cid-lg:AOqpTOGkjWAMS5cgEEPGiqAYmTOslt-X2vYPmo_rePjuUMY-HOtWwIMYnEdocNQUX-8RvHs30b-j4mNywLTi5g"
+}
+comments {
+  text: "From 200kb to 3MB for ads, shame on u dev"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282501492214
+  authorId: "cid-lg:AOqpTOHoC8xIBZNGtK4fefJoMLInx9SWtflEsfdMaYcazW8iuM4pMGypIE3VsP86CJr-mVd5pbBIILmlMkCxtQ"
+}
+comments {
+  text: "LAME. Revert to backup ...do not update."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282427984073
+  authorId: "cid-lg:AOqpTOGe5L1zm3ARwgFf9jFQ5gPf9tmod4RZTnSsneOmCSyvYo0jJzWNF4OJvUMqW5SbEciuTQr_8l9v6f5RWA"
+}
+comments {
+  text: "Doesnt work on motocliq. Uninstalling."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282419124623
+  authorId: "cid-lg:AOqpTOEgj69VcBYulLSxmrqOd1sx_dbF6fLnQXR66sAbGrlZ6iQzq7FtsumoAPFRJ6RHH5gppgk3en1Ue9XinA"
+}
+comments {
+  text: "Force closed from the moment i installed it.....uninstall"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282410261879
+  authorId: "cid-lg:AOqpTOGWL1juHTCaTDxm_6uOXq7n_h1tUwnamuNWbFHwWTayezQR-CarO5Gf8hhSOenuT8gGZU9wUr_M-Qr7Fg"
+}
+comments {
+  text: "It was good then last update made it so i cant open it"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1282398304206
+  authorId: "cid-lg:AOqpTOFleKF_KlWRach8wgRaVcUZQm42--4m4C78hzAawI7RVb5N01gJh75f_4yZVeHl6uQNzewayYg1Sw5FYg"
+}
+entriesCount: 367
+
+comments {
+  text: "Latest update won\'t open. Was fine before."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1282395443841
+  authorId: "cid-lg:AOqpTOGQHDUfRQBFi_n11-fuU_cMc_liUtpQLHbaUCRehMV4A83Kbi-mxMZhSuDlLicHC6OfOtSHTSmxAU5NVA"
+}
+comments {
+  text: "Comes in very handy, but can you mask an option for move to sd.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1282353352631
+  authorId: "cid-lg:AOqpTOEz4DeO5-aY_HpyDs1SYwhe4b7SqQCjJK2umAEKEhz8uGXkE7RHTcHwrSmKofxZmv6JlyA7hXt92nQqJQ"
+}
+comments {
+  text: "Gay Ads, shame, DO NOT UPDATE!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282336882679
+  authorId: "cid-lg:AOqpTOHXDjQaoBVChYfavtbG-2lP4TIrvpSlmI_y1_qmrPjbZoAdUa5geOmm_hVxXAv_h-QIImSa3hC4tuVMVg"
+}
+comments {
+  text: "Dont update unless you want to see ads for ben gay"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282304319903
+  authorId: "cid-lg:AOqpTOHVaoqMEg289yAo0ak25CnqtbfPsRp6UZF_X1Za6DtqwOYIilFxwhv3QMZhAmFBGMuQUoVe17P344RZ2w"
+}
+comments {
+  text: "Uninstalled right away after update. Stupid ad fishing men. Not actual game only txt how fun it is."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282283670507
+  authorId: "cid-lg:AOqpTOF4g7CNxAnhh4RZIsADYZr-gjv0IDoGR5_CGKqldvguJitmWtUaPQ9NQRs7dCDuZ4WsmzY00l8SXg00iQ"
+}
+comments {
+  text: "Forces closed on HTC hero :("
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282265585393
+  authorId: "cid-lg:AOqpTOG0_-Nb2pyaLLiwJk69CA_Z9XRcqW08wrSapmCdHL2yPx6eCW_Zbej0qmTUiYlHoAQtA0l4bCQdFqNVGQ"
+}
+comments {
+  text: "Games aren\'t bad. Kind of lame unless u can actually get guys to play these to. Some original."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1282227683087
+  authorId: "cid-lg:AOqpTOF4rqlkcw36RfT19s6banWfxVejHj22IE-KwHN1CarnB5VBKyhzv9qVSSCdoji9IuveOliM7Y7RwTe7-A"
+}
+comments {
+  text: "It has a lot of games. Some seem dumb but most are cool."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1282184978399
+  authorId: "cid-lg:AOqpTOFepyIwS5o2qjONC7pKsB78uBPuuC9eNfEVqsIkHe5EqTw7OEQtVJXPqwf74uQaq2YnkD0ctzISY3yc0Q"
+}
+comments {
+  text: "Stupid n sux"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1282025497518
+  authorId: "cid-lg:AOqpTOGf2oOsgLpvrYEfVHyf_xad-WZFIz76ET0x8833mDNeGbfvG8zZzlZfu7P4izBInNbFhKyWl5PHQhTdjQ"
+}
+comments {
+  text: "Lame...uninstalling."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1281807079226
+  authorId: "cid-lg:AOqpTOFnRTmKdP_uVMHsVPcOQCt0FuTiY1LIZ7hosfpQ2baCXgzvF5g8U2q12RwO9IGefdkRG_TcLwZtiENDBw"
+}
+entriesCount: 367
+
+comments {
+  text: "It\'s a very easy program to use and has good games but the grammar is horrible. Sometimes I have a hard time understanding games."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1281253371405
+  authorId: "cid-lg:AOqpTOECnJoQxScBXYuSXiD4iGK09UoJif7wufbvwa5BlKbegqkBig8psxMt8ti4tliwF0aBniGTVvWY30SRnA"
+}
+comments {
+  text: "Just misses a \"favorites\" option using stars or somerhing"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1280132813389
+  authorId: "cid-lg:AOqpTOFN8J2WBgDRE8xNoNe1CfToX367sLXYH89bBiS1PItt67bxybE16Z6s9XWl8KxSpfX3NANDCNISbTRbzA"
+}
+comments {
+  text: "A pretty boring app. Just a list of rules for about 25 drinking games. I won\'t use this."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1280008081440
+  authorId: "cid-lg:AOqpTOH-S-gMJex0pJzmW2RjBIR5VYBWnpasNRIMGl2Thvg-R0vASWkkhn3w9I4iznvxK4nb2r4YPwnNrZ39eA"
+}
+comments {
+  text: "Works, but pretty worthless"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1279972940130
+  authorId: "cid-lg:AOqpTOGAmrp5mJFM0r5UuNIOesqOGYpZiV3anQdUgK56brto3263m8lioRESG1EPv_jIWk-WK7ZCSvPB4c7YNg"
+}
+comments {
+  text: "Fun games, both simple and complex, something for everyone... for free couldn\'t ask for more!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1279826452692
+  authorId: "cid-lg:AOqpTOFGtC6HiJNmyrDcODFp1sRhho-xqD8vfARQBnDlfpxOClIvKP2nA7ucmC00OaZ0TzfvieN9F7tqmBV8wA"
+}
+comments {
+  text: "Good idea but I Wouldn\'t play these games"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1279695121934
+  authorId: "cid-lg:AOqpTOFR5RGBQamdVGAoKDDusQXVvsvEgHtuwYiKLH9loZlqqL97Wgj1ZfZFKKaSMrSZ6iM8644w4Ds4E8rwzw"
+}
+comments {
+  text: "I think this app is ok but my liver hates it."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1279631089374
+  authorId: "cid-lg:AOqpTOEZPQTpJ-rIFuXLa4ZxVge_0cUefWu05Y0DDPo-RGA8nwD6b73Foh09qaRdlRqloxUxGwLcRZRT6EgK3A"
+}
+comments {
+  text: "Rules for everygame"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1279460783359
+  authorId: "cid-lg:AOqpTOGRQSUhl8IQC_Ed6xi84pxpktLv_qujx7x-7tgTGIzSukqyFyNFzoDVdXxiFWMTStD95CHr56gG-9mLBQ"
+}
+comments {
+  text: "James o\'brien is bare fit!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1279321950392
+  authorId: "cid-lg:AOqpTOFD5wbSeg0c-zWkrkw28UZ5E6r6IEPcMB0Z_bVhuNAfCs2xvmW8pP2bya2FJ9W8jnFm3Y9u5BTNvsBcIg"
+}
+comments {
+  text: "Gwd"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1279141044258
+  authorId: "cid-lg:AOqpTOFNaWxAtAmnygws4OB7HtXCclErhNbFzO25WwoD_3WPr-7-I7DP1FDRbYJH0b0i3HVO3yDXKys4eOCPDg"
+}
+entriesCount: 367
+
+comments {
+  text: "Rules vary and are Sumtimes off or 2 confussingly put, but its a nice novelty."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1279055098857
+  authorId: "cid-lg:AOqpTOE0Lyhg9XeOadSTWfFam1GP6K_zMFAwSxtZse9AsW7Gvlv29E04pG9TLK2in88ptdIV819QDIsPX7LXig"
+}
+comments {
+  text: "Fun for parties. Lots of different games, and a lot I\'ve already known. Good on my Droid."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1278998539196
+  authorId: "cid-lg:AOqpTOEmGGNc3lCJ8lIjn36Bt4tHFGojMtdoRHVLYEaoQSxS1vv5NBjs-VTFoJNZSXiywPLFmuA9uqKGqupFDw"
+}
+comments {
+  text: "Good for fridays.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1278603778928
+  authorId: "cid-lg:AOqpTOGayoE89CLf9YmdfZWM6hneuh5OZJDwm7mEaxVwKrPvFHPEm7ck1E8cuASCa2cQvb0Ig-6c4vd6K2igcw"
+}
+comments {
+  text: "Havent actually had a chance to use this yet but i have read through quite a bit of it and the rules are great."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1278493018937
+  authorId: "cid-lg:AOqpTOEzHLCJQC4ny4MJ9SlFB3lPEQAacAFw0HpgwXoFu4BJRckpMjxqsVac50gYdpW8bH-_R8NoLpEYH5BttA"
+}
+comments {
+  text: "All games I knew already, but good list if you don\'t."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1277827404493
+  authorId: "cid-lg:AOqpTOHyPj7s7ZpwU5cOd4WcUupg0j4iJYrXXKIS5t8sJPuw7Y4rCJdRsUGc5Pdc1W8j2OmbhuIBKSLCOkgCZQ"
+}
+comments {
+  text: "Xzw"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1277783633860
+  authorId: "cid-lg:AOqpTOGG1MmVqg8bdYpP6qTU_AzOBsBoO0_cGFzk3P2oBsNjG1PauVijtXLB-5f5fU2VIVVP6XTCoKv8QGPyeA"
+}
+comments {
+  text: "Just a bunch of drinking game rules compiled in an easy referenced list."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1277663636655
+  authorId: "cid-lg:AOqpTOH9lXki_A7gtkUONOOcmCbrfDSkK2TNpG7AwK56d9pcM4dvIsy1KlMMdysgKHGp_ignRXt_DyFSMA-iQA"
+}
+comments {
+  text: "Pretty cool.......N1 + FroYo"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1277062978839
+  authorId: "cid-lg:AOqpTOGg1txYEVyyg-laQ7eTpRHJFynhv2gjW5VKJheGF8DALb26p4njnNGwk5IOozkl6_4FfG1W2zCPxtjN_Q"
+}
+comments {
+  text: "Used At Partys And Bars Several Times. Fun To Mix Games Up"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1276854130748
+  authorId: "cid-lg:AOqpTOHiFxJrY5SGAE71zeOasJCgvdXmWUZtEEW7TWJI7foQ44524uj_2Yt2MTCiG3PrJatfop0ybz_Izi7bVQ"
+}
+comments {
+  text: "Lots of duplicates. Directions can be confusing, but somewhat fun when you\'re bent and bored. Moto Droid 2.1."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1276614830087
+  authorId: "cid-lg:AOqpTOEGC3Bjx5r02M3opUG8zPdZIe7pX_PyG0yUT1VBSklnjEIUgsnEK8sKXVoH83yjODcPYUhpjVHdfQm9Pg"
+}
+entriesCount: 367
+
+comments {
+  text: "Soooo legit works excellent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1276582986799
+  authorId: "cid-lg:AOqpTOH9e01u0Zx5lQsjaX6Glgkpy4raCVN93N75LEdwZnIN0i8dUxTyMb-__OR0JT017ns7cHaXWfCqDw2W1g"
+}
+comments {
+  text: "Great idea for an app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1276425535359
+  authorId: "cid-lg:AOqpTOHSdY71-eREFRDpzyR8XTY36553h1BCkyZjGs50f52ib8RwjfnSl3u4ezjswPxyk3a4kPj2zyPVQOTDug"
+}
+comments {
+  text: "A lot of the same games, different names. Still a few you might have not heard of before."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1275721362356
+  authorId: "cid-lg:AOqpTOHAMqpsYlNHlf1FGfS6rKJv3h8F8A_nW1flpBdDjr4f6fQMRZYYJyYBeh58I9g1n5QsbaCTFDAa93OyoQ"
+}
+comments {
+  text: "This is my favorite app.! You can\'t drink unless you play a game from here.! Lol.!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1275555680898
+  authorId: "cid-lg:AOqpTOH0_tTkHeCKDqZQry3kRCSYha5U4l1RGxXA0xGzOV_9jH_PCkj_v2Je4XRpOAUI2n4D1kbKMShuXlT7NQ"
+}
+comments {
+  text: "It\'s great"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1275224013570
+  authorId: "cid-lg:AOqpTOHxtc5mjJu1LgZ4jxVEQhucTPDOx2lo7Vs5UIlFIp0-zook0rN2XQMbbLx521tKgiNWRNrnlTPfQfGWbg"
+}
+comments {
+  text: "Haven\'t used it yet bit I will!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1274884726883
+  authorId: "cid-lg:AOqpTOEpuoa-hO4799Pqfy131MSkfYFCYDEMZxAVcrMhtMgiF07wY5Tbu9oBeN8iVbMM6VYnKEAkiZMPe-UtTg"
+}
+comments {
+  text: "Of course an irishman would make this! Erin go brah!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1274317512643
+  authorId: "cid-lg:AOqpTOG1mJJofnV6TxkfJ98uInTxqDCqiyXnu5aZN5tPb4bkHBruARGTbe7SwHloAatNBKlxOHyaBtbmhyDFsg"
+}
+comments {
+  text: "To many of the games r the same. Not well explained. When ur drinking u can\'t realy understanding the rules and then start maken ur own rules."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1274112009126
+  authorId: "cid-lg:AOqpTOEbqkxvYFXzIGaURpK1EQlrWkiF4VdkTI0CDFPPD1p9iugGq0CjcbVeFHpyEfMU3aTWZgltwmbsLcvD1A"
+}
+comments {
+  text: "A decent number of games. Whilst they\'re not explained fantastically well, the rules are still understandable. I\'ll be using this on my next social!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1273944054824
+  authorId: "cid-lg:AOqpTOEywVkyeEhDMuCYlhe7M_lWpCgqi6wG1ZHdTKdutzRe0_X2VdmEO6WGyTEAa4jE2XA7T3NEDsbq2hMjWg"
+}
+comments {
+  text: "Fab app keep up the good work!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1273848436303
+  authorId: "cid-lg:AOqpTOEdNkQV6D6zkJMHqwmfTJxg9A1dvEJVFxD-ZK39pWVZAQNuBpou2drTlgLezvsHl0Po_yyatrE4YFSf7w"
+}
+entriesCount: 367
+
+comments {
+  text: "You guys are stupid. Give some support to this dev. Keep up the good work!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1273557410352
+  authorId: "cid-lg:AOqpTOG5h9f9LIgYg4zRYQrPWFivIwZ6n4EU0v5TkcE5K77M3Z0KoTmFZiCFOM-cEyOH6D58GAWaJ86Mq8zWlg"
+}
+comments {
+  text: "You\'re depending on this for your student fees? Geeze you\'re as horribly useless as this app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1273182237917
+  authorId: "cid-lg:AOqpTOEIWLw0a7nhUtTtyMlvlf6uDMvDs6hQdaYc66nLiPt43wHkkZsfuFgsXhB1-5Jau2gYz1lTYmBQdAalSA"
+}
+comments {
+  text: "I would suggest not to download"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1273129238672
+  authorId: "cid-lg:AOqpTOG5ghnX2MOLnmIUfYrP1LqltAp8IWkjr4t5BrZSKS6VFJVqdaEuAJolbTkAp5LPTfZDpwIcwSaeXtkXog"
+}
+comments {
+  text: "Should have search and submit features. And eliminate duplicates. Will then get 5 stars."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1273012513527
+  authorId: "cid-lg:AOqpTOHbhdR9kq5p-IKflP6vP9K9EIzhYGUumce9X-NzF2NFerLb3jT5kzj3sr80mXA6HYWKD44Th0AS_5BAaA"
+}
+comments {
+  text: "Games are poorly explained and many are the same but with a different name. Easier to make one up than use this."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1272840376155
+  authorId: "cid-lg:AOqpTOFvOvyMfKLpzian8QvhNGuCyl3F9lCks1z5tBPTxXpPST4OqSwUsoVztENNfly3Kucsuh5Izb_eixKbJQ"
+}
+comments {
+  text: "This should have a lot more games listed"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1272812069128
+  authorId: "cid-lg:AOqpTOFn1cb1hhP_KG0TwSoCkeajG2eOQ6wQ3WFPOv7VOB0vmbadjStDu4-6sA9KcnmQ8n8d2Tib8SEz5UNiSA"
+}
+comments {
+  text: "Xzz"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1272742925215
+  authorId: "cid-lg:AOqpTOEQoZZ-jYMLHQD9gsd6hVzAtDrsZjLI6K7sDg-Js074wVYZVuKXBUkwOyIhZm4EqLAEiPzDk6ksfH3MKg"
+}
+comments {
+  text: "Great way to get the party started!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1272591341326
+  authorId: "cid-lg:AOqpTOFDzSc67VR9KgqhTZj86tthf8KvFwxtwhw4z6ODLUNUD9RK3wOCyXCJuj2LunbsH0OD8zc2atkT2n9zXw"
+}
+comments {
+  text: "Lots of cool games"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1272290743373
+  authorId: "cid-lg:AOqpTOE1Mq-t1ua_4JdYPNzw-mWmfkLWmJROorlqVeqVL5aSrnrPhBvZ5cUYQSjBXOxn7TUrPqkFUUehFy8_fA"
+}
+comments {
+  text: "Not bad"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1272243148506
+  authorId: "cid-lg:AOqpTOEnHDtA2YRWR2sspDTlRUbDPKmi30bW-M0CBNGODO3DznmstwkQXZRzazlTPOxA52Nu6CHh-U7azWICiA"
+}
+entriesCount: 367
+
+comments {
+  text: "Good app, recommend it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1272205840752
+  authorId: "cid-lg:AOqpTOF56jJIYEYrEtRpgqTPn-gcpGr8ilxPm3mm3MZNhqB5OnepEC66VYtFEz5b_ldTB2Q6wcuA7tQCOnX1Hw"
+}
+comments {
+  text: "Half the games are the same just named different."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1272175201726
+  authorId: "cid-lg:AOqpTOEKXNA5EoeOFilvJKJbE4T2cej-Ra8LZrNra-pjURT4ANJdE7OM5qaPQaHFnnSb_kGRBM2zpebYS5iPFw"
+}
+comments {
+  text: "Tired of being half in the bag and having to remember all the rules. Worth the download."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1272082760751
+  authorId: "cid-lg:AOqpTOHl2mqBCooXmJf5OSlphpBoCHBMp7Op6_97QXWrhQpRJNy4GrAL5iGb25ftLDfjbHxGZNeyLimXcrm6EA"
+}
+comments {
+  text: "All the games on here r dumb as hell"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1272077372442
+  authorId: "cid-lg:AOqpTOHo_ZSP8SU1fxy55ptnZ2hnxCRqpY2kLDgUOjKLQ51pjDxoBAiNSwwVj2XYunRqm3-i6Mdcnxlb2pjkRQ"
+}
+comments {
+  text: "I\'m an alcoholic. Good app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1272067323881
+  authorId: "cid-lg:AOqpTOFeRup3sG6YThkEy0EUEi_6ornFZXjXsjXCPASjKrbIM9BQvOfA49RUZ3vig0vjjaLauHrMMt31orhuxA"
+}
+comments {
+  text: "Fun to have wen im gettin wasted with friends or jus me"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1272015854383
+  authorId: "cid-lg:AOqpTOHftxOGn2cRbvjvv-rU_pl6okdUaOxKrKuVEGjN8ri1BmocwLZz42AcZtHK6wX_jS9kNa1Oo9HRfgVu1Q"
+}
+comments {
+  text: "Lol @brittnay"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1271953341623
+  authorId: "cid-lg:AOqpTOF37OoUbEf9X8eKKUwK_gA2uswdiu_OovwqnMQ2BogIU0sv9r19-gLMpGnLa5CRiIzt7d-5JjskwZTQTw"
+}
+comments {
+  text: "Omg! Brittany must be seriously drunk to post that.."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1271927465984
+  authorId: "cid-lg:AOqpTOEB2prlmsBfmqKBuH8kXvGcx59fHnPXz6oCTHFFWRC21spO0uuUdidPDRa1ETg5-s7QQco-6Mr9Unnr6A"
+}
+comments {
+  text: "Haha i think brittany is possibly retarded. Pahaha"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1271921970523
+  authorId: "cid-lg:AOqpTOFr3FcAeFYLa67GoFHk4I6Sw_RdHyQsaoXBXGDoUuYQRAWgwpMdToDBiT2udNL_B2MXdDrLmzcIMgFQbw"
+}
+comments {
+  text: "Its rubish it wont let me evenplay thegames"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1271915310364
+  authorId: "cid-lg:AOqpTOGC_FJQekUlXI0KyJ0-NOwDzpVwWhvVSZ_PSxCwHcLkFPRDwfOPv3I5fmnlWtDO_8SlMb3uLvovIee6jw"
+}
+entriesCount: 367
+
+comments {
+  text: "Ads not cool."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1271879167236
+  authorId: "cid-lg:AOqpTOF9r4FcetR6RUzJAVEss9j7WRxoy5zevenDCellFl4zU3xTatF1CSqfVXWmunc4hAyfszuz0L67loQrng"
+}
+comments {
+  text: "Kool app, just wish there were more games"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1271821924562
+  authorId: "cid-lg:AOqpTOEihmDIZDa9x4SMaPY_Ss4CmQsdxq4ENRkABP6K1_2gxxHc3ZAZJrwmQrauOpXucZzfOi3QCOpSBZZoEw"
+}
+comments {
+  text: "Great idea but a little too selfish with the lack of games and full descriptions."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1271809915910
+  authorId: "cid-lg:AOqpTOEQpc93jMnnTTAMfmEqyu1nOoKBr6sttlZ2KAPZMlSdNS9UIy4iL8UxI5SN0ipCtb5_RLJh40PXA3D0jA"
+}
+comments {
+  text: "Comes in handy at the lake when we run outta ideas and the kids pass out"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1271808137535
+  authorId: "cid-lg:AOqpTOH43n_3HTS_0qF9vPY_ct9DqNMdaVp_Mv1F3U3pVQ8_VJEvfBM5Zzn3Yzd5i2anhmSzapHLWi0Qo0snSA"
+}
+comments {
+  text: "Afton is retarded this is a fun app for when you\'re too drunk to remember the rules."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1271760885231
+  authorId: "cid-lg:AOqpTOG7ciL9zHViVoVTLlp-oZwzbwkiHUlwvsH2wMTm2ysLzLAnKKtY5rV8opeI9BNL-2Vhs5uA4JYjqz-pOQ"
+}
+comments {
+  text: "Tired of expaining the rules let em read the rules...great appl"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1271726046489
+  authorId: "cid-lg:AOqpTOELjlOanxc4PSXjOBMi_fR1nEdh2FgrHkkmBX1PKDX9HR1TASEXFAeDYCoZUAy6Q04Ehgo7y1OhZJn8SA"
+}
+comments {
+  text: "Awesome, although there are a few spelling mistakes makes for a good rule reminder."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1271653151552
+  authorId: "cid-lg:AOqpTOHV9W8rZ4YmBer-BroYc1oE7EmER6JpCt7WT-Lps4FYeXNfjNWljUmfAPMUO2qokezXMAHIiFEWTSERxA"
+}
+comments {
+  text: "Lame."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1271652681332
+  authorId: "cid-lg:AOqpTOFK4eHtgK8hDv7oz6Jsd0CQA6lFo2axymnZ-B-shXz_yCMug4tHUQMAqvNDFs_9Ft55F-LuWb2Yv8vqNQ"
+}
+comments {
+  text: "awsome got sooo drunk!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1271308482049
+  authorId: "cid-lg:AOqpTOGXjDARq18AApBYaTKoXlMA37crENWvfq459y_XiOQqFJSEnzCiuMaiJUfXCaQVfgaXw00PpqtZq9SNpQ"
+}
+comments {
+  text: "I think its great. Knew about most of them but its fun to play with friends. Moto cliq"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1271263440841
+  authorId: "cid-lg:AOqpTOGG-d-ZXMaGTtCD38qKof2v_e1M9dG8mifVsXHTtOuJkgfZ_psneRYiKQdIBoH0uUOpZXUqCNttUubrpQ"
+}
+entriesCount: 367
+
+comments {
+  text: "Stupid games, and most of the rules on kings cup are wrong/lame."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1270725683007
+  authorId: "cid-lg:AOqpTOGm5g5s_iPKq1DjkAQXeWWWIXgNIle1W2-89hBUwD7AoE0sSbCpWJ4aXbfUJfnscvGKAzYKqkgAI3YEvw"
+}
+comments {
+  text: "Really good games...i got drunk"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1270709558727
+  authorId: "cid-lg:AOqpTOFzWvwQ39IlGez_oYzJSpFTJF7fzpazO9zW0NqKyUNPfnS1picPloOgitCo2PAHiZEvGMGkXei8aXPRxw"
+}
+comments {
+  text: "Its stupid app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1270617207876
+  authorId: "cid-lg:AOqpTOFPPfkYBquRpMP1ydYfGwoHw7lMXu9ATZrMb3jrFAGCY_UvgYPQQmINPSOQ9aehRsmDsK6g1d3_9JrHSw"
+}
+comments {
+  text: "awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1270521505748
+  authorId: "cid-lg:AOqpTOF-bk5c4_TcilN8jY2LcKnk3TgFmjmvbd-bz6s7RCLllY7ZS65k5ZlJ_bg4Yn2DjZeYUTubH3cli8dYAA"
+}
+comments {
+  text: "Its a pretty good app."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1270222848522
+  authorId: "cid-lg:AOqpTOFNLlmlWdfCm8Rf8il8-pOkJGYnRRgiLXaGSkdjl82b_7TrvBlxLBvGHDjw0RtNhC9c827SbBiXh4-Y4A"
+}
+comments {
+  text: "Played a few games and got so drunk I blacked outtt everytime.!!! Must havee.!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1270026442155
+  authorId: "cid-lg:AOqpTOErkaxgvGbe89daWpyjHDz4I7X5dRwVW6s-45tFUL7QKqDAuEHZAoBJv0FZp-dLaK5O5rZgwviFtrkObg"
+}
+comments {
+  text: "Very convenient and good directions, got me drunk! Thanks!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1269936018729
+  authorId: "cid-lg:AOqpTOFWbm_847yVl5h0rezSZt_-LhzuKbNrvtY9hhq83tN_rdB8-HByf6rUOmnMqZWwyiW4jsUim77qN2OT8Q"
+}
+comments {
+  text: "Great app. I love playing the games with my friends"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1269915644428
+  authorId: "cid-lg:AOqpTOHRBpGLw8B_VRHEkia4jKwtq0EF_PeQY4QcpOWZM0wCfY13b4k5PO7_r6wC7DyIyXehryXZ70r1-H4vhw"
+}
+comments {
+  text: "Missed card number 3 on kings cup"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1269764165959
+  authorId: "cid-lg:AOqpTOHFX8z7rYQi4YGtD7PHTMh-qG4WlfeCRlO4RWdZ66zWdsFBiIb1Y6MgoloZduS4PKJVEv7CL7ABwRxm4w"
+}
+comments {
+  text: "Got waisted good app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1269445400514
+  authorId: "cid-lg:AOqpTOE7rSGAAy4bqE0zfSjvilp-PaUOrF73lMwT654NkoTpxlyMXTNBp9cb599-4gBKw0glbzqSLFyUE8ci4g"
+}
+entriesCount: 367
+
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1268635393269
+  authorId: "cid-lg:AOqpTOF6pOdlGXbaVs1IAxKXxQFHUZ8DjFJOkt2J2BuLywbSismxo-oHJY4W0NY8Fa8NV6qVztmkASylkCAiaQ"
+}
+comments {
+  text: "Yea i got wasted."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1268242716458
+  authorId: "cid-lg:AOqpTOH5MktY3JOABQ-yZ5QhSHMg0VPNecCz2Y91DbAbE-rNKb6kWB9lbZ0SVamROEba2ar40CuvmfPD9_DwrQ"
+}
+comments {
+  text: "Funny"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1268033896703
+  authorId: "cid-lg:AOqpTOFhik8xsw-6h3NYMSaS3MBuxmLDwAsrC_OHNrFv18YEJMv0rGyMdSlHDk9tJKv2H3dKGgujYDHniWAg_Q"
+}
+comments {
+  text: "Wow, I remember my first beer. Uninstalled"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1267507629665
+  authorId: "cid-lg:AOqpTOGQI8swwL5BwfR9RZkZTgkQyPXx1nVHWDjmoaUSERdQPnyYnfYriBsu0oByct1n2SMlcTPbMP6LGgYnLw"
+}
+comments {
+  text: "Will not update until adds removed."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1267412743357
+  authorId: "cid-lg:AOqpTOEZxrLxlyt-q9z1H_XsePVAfnlo-PsfPcxHMzB5yU75Ci4EQClxCTxILp8ZcN3LcqJaOI3jO6laCzvbqw"
+}
+comments {
+  text: "Awesome. Use it every time I\'m at a party! :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1267301872181
+  authorId: "cid-lg:AOqpTOEbT-UlLXmPHPY1_quNFFJzh5QD0AWFTrjQSdGOR-HGmCnwVSGdiJNaghSUK2DG4zDPOVFRGONRIsQJTw"
+}
+comments {
+  text: "Needs more games"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1267108993914
+  authorId: "cid-lg:AOqpTOG2HVShUWKvZcB2c2C1KKZh7oaJ8MDXulFPIBOUcwXJTscROhVsSHmbMMBpsj8bD7ozcY7tWzZ2iTOl8Q"
+}
+comments {
+  text: "It doesnt have hockey,,,the most fun drinking game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1266980256539
+  authorId: "cid-lg:AOqpTOHIWxssndrsJ9PC5oWR_l5SVUV8Vvj3GhvEUemLGP3A_xETxiahp4IXVdqm1mtqm-9UHDS_ET6Mg6zaPA"
+}
+comments {
+  text: "Blah blah"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1266967691447
+  authorId: "cid-lg:AOqpTOFouSgBGmGqfzBaXXXYWnE4X9rYIzua1fjBlouNua73QxS1VsoODyx3va6Gk1He1iZHPtkEAeSuG2YXvw"
+}
+comments {
+  text: "Rules are vague but good ideas"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1266723303045
+  authorId: "cid-lg:AOqpTOE2hYyn29r_c-NC4GDomY0uaKQ-XsUrzIpxuoscpwHgtUcDnwjjcngmxcsh32lS12OIRYb6tlSuivnbRA"
+}
+entriesCount: 367
+
+comments {
+  text: "Some games rules are a little different but overall a great app for my g1. Some games are veryyy similar."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1266712805701
+  authorId: "cid-lg:AOqpTOEpCJMPbDTjNrx-_SRHNcYp32Fw0L_H6vIqgRBCXGmL-O6CZw1KyQMrbg2cWxSLI6G7NIIqb3KxkjPUfg"
+}
+comments {
+  text: "Gave us some fun things on a boring night. Some games could be explained in more detail and layed out differently."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1266690520058
+  authorId: "cid-lg:AOqpTOHF7Wxgq1SHa-ybA4lROB4WZdK4l0hD2keVTltf3Z3eANkF3gkdEQU3QVzQc-Gf6ptvSMzXFHgveB9tvA"
+}
+comments {
+  text: "REALLY disappointed with this app, if update doesn\'t add flair, it\'s history"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1266670448310
+  authorId: "cid-lg:AOqpTOGYabfVaJHL7_fiFuZvOVL1YRbdWSh2LH6Yj7wR89BT01vMjHXE-BFBAvrP17Q7MlB7iDJTQJe6DBSi_w"
+}
+comments {
+  text: "Is what it is, drinking games. Good fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1266599244252
+  authorId: "cid-lg:AOqpTOHN3APspYy9umMbHFpkDUS226evdbsAN5xpa7ISvRFVsiY-WF5mApGLMVrYjnaeUOdJ0YNjUjPgHLoFZA"
+}
+comments {
+  text: "Not great - poorly written summaries, as if they\'ve just been cut and pasted from a Google search."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1266564917241
+  authorId: "cid-lg:AOqpTOFCegSwuuZy6QNiMugxTZhNGUw5u2_ThN1O2CezdPHcF4cdF7MYdgSwW99ZNEDn4HVydad1eckIpyGwjQ"
+}
+comments {
+  text: "Love this app when partying with friends..awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1266532296885
+  authorId: "cid-lg:AOqpTOF_rD3LX6nd6hVJBITSt0RADvsYPWfystHHCTAgoaAjf_MjAHj-DHmKWpq_Fbbx3vyzYGM9YZz-5-5oRA"
+}
+comments {
+  text: "Remove ads! Or wont update"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1266511973220
+  authorId: "cid-lg:AOqpTOHXbOl1oJaaj4h48te8-r2V4oC2onea5DOoMitV0JD3btvqCMZltlGakTsSH8ZN_Cuk-8jyfySx2fS4Gw"
+}
+comments {
+  text: "Loved it, not updating to get ads. Seriously ads???? Come on devs!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1266510213048
+  authorId: "cid-lg:AOqpTOF-m0NcilE1CcA0AHuVDfTlWrxLw4arVXBLlJKT7vgq9xu3qziY0FFwxMdr1Mrg0h7VSLeJzf4mjAz0tA"
+}
+comments {
+  text: "Was ok before ads. Not good enough for ads now. Uninstalled."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1266489810721
+  authorId: "cid-lg:AOqpTOGNZKn1PdRS0VmrgJG9x5820Qm6e19rj12A5hKF4jAei6_hDRYBr9LWIbgOoJtjJmUD6Ws3gLAxY82j_A"
+}
+comments {
+  text: "Lame"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1266235145017
+  authorId: "cid-lg:AOqpTOGueVtrIPIESzYEOPZMm4l3MJ_f5ldSLxThT37kxYvzO7amUAh7IK-DfXLUfg-Nz9NvnL2X1LDUggoq6Q"
+}
+entriesCount: 367
+
+comments {
+  text: "Nice app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1266024341974
+  authorId: "cid-lg:AOqpTOH14vQbahEMnChx5oUINNOKOvpjz4-bIgxLv-bP4-0V1Wp_BPuXQ2bYR2eBY_H1NXdTWnC--BHlvkdKrg"
+}
+comments {
+  text: "Pretty cool app but if you need beer pong explained to you you\'re a retard"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1265988298929
+  authorId: "cid-lg:AOqpTOFzwIU1quY7z06MtIcFuMQ8fQk-A9GCxKJvaGZowLuPpcmGhH3cNodH35o5CkOJzPLNO_WAa63M4fF46w"
+}
+comments {
+  text: "Go clan O\'Brien"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1265903856359
+  authorId: "cid-lg:AOqpTOFJXBwQ3TSms2th9nR0_xMlttrAAgxhRMNj9Nl0GAzklXU1SEQWpOeThcGNuUdR1zxzuBtMxja67iZYPg"
+}
+comments {
+  text: "Good time\'s for sure :D"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1265871875997
+  authorId: "cid-lg:AOqpTOHYz84rrhYCOlQLb8g9WWR9RFmZ9j5bsOKhYtrglxogs5Pe6AJGWcJrRYdvelAoH2cC1FEb-DIpGh5IIw"
+}
+comments {
+  text: "Quite a few games on here, maybe more to be added tho."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1265853381912
+  authorId: "cid-lg:AOqpTOGW_Jq9C4hVRuNiEaGX59nRiYhMsALrOq9bM-Bg8fk0lezsBW96hgmMOJ6lpY52I4W4RONrlCQx4vHEug"
+}
+comments {
+  text: "Makes drinking at home better"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1265729565153
+  authorId: "cid-lg:AOqpTOGKYMvNmpdO8MUJ7j6o6-ItjzAY3i9HpZEC6fOwK1vaHvafkMQfk98K0RjLpgaBWPRuE_TrznXXxYdNNw"
+}
+comments {
+  text: "4 stars for posting the REAL AND ORIGINAL rules to beet pong! Us old folks think the new inane rules are lame and take the fun out of the game!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1265415301659
+  authorId: "cid-lg:AOqpTOGqeGQNDsw_gi7bfdSLs7kMK4lI3ytOzfAwnc05awiImLC11BPABJInoiAcjJ4syXDYeYID4V3QDinGAQ"
+}
+comments {
+  text: "Not very good. I would suggest one of the other drinking games apps."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1264553009898
+  authorId: "cid-lg:AOqpTOGy3pWnUOxs5PANyZW9xnZjEOdCA1e7fonXkwGBmNf4_B3H8qEgBQ3UkeJJd6fpbFh-EtfLZ1vmd40izw"
+}
+comments {
+  text: "Most games are the same thing with different names.."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1264056396155
+  authorId: "cid-lg:AOqpTOE-YxhaFtVw5l2Qx5uB8X2NVlQygPKFLawncVd4FQabRrK4bQUOoiMyi_Kk1G2phizvdyWjaHd2MdrIWw"
+}
+comments {
+  text: "Love it...me and the crew uses it all the time....Party party pary lets get wasted!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1263881733118
+  authorId: "cid-lg:AOqpTOHIEtzMpgGd996N9mel27qmYBgjfAH1HxyA4PbyIqJgoFF89sy7QQdEgu0V_gGY2z2zbUeZR71cTFRkHw"
+}
+entriesCount: 367
+
+comments {
+  text: "This is wack the rules are wrong for the good games and the other games are weak"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1263781397937
+  authorId: "cid-lg:AOqpTOGP3-rVSCp6Z9jl6t_rPUx7E1CS-mBlEbqk_RMs0n-ZxhSXIj_TXRvDFx2Ti338lXqM7Tm-1MfwYEmDTw"
+}
+comments {
+  text: "Pretty good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1263518724906
+  authorId: "cid-lg:AOqpTOEKrJueTs1kmhO_lLBj-DKP0EPD-A9R2Dv8vrUH6ju5ZTXt9SuSiSNY2piU_LFfJb59MU0IFmBJmPzGxw"
+}
+comments {
+  text: "Good idea but dont use it that much... ps to dude- beer pong has to many rules to put them on here. Just look them up. Its the best dinking game ever!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1263379559815
+  authorId: "cid-lg:AOqpTOFOUgHLsW7pfl9wcblNjYjFnbOFLhxauLN7vkCNRJcLzpN3D05ABk2dszwanlYmKdUDHWz00HqVDvRb9g"
+}
+comments {
+  text: "Lmao!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1262616984523
+  authorId: "cid-lg:AOqpTOFfsNNQVkHcsCvHbdq29OlTDT79bFT7JD1S4H66NPp4x61i9RYm8y34AJWDek-oeQTm636XF-jSCXtxOg"
+}
+comments {
+  text: "So much fun to use with a bunch of people. Used at new years eve. The game Roxanne is hard as ****."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1262585749218
+  authorId: "cid-lg:AOqpTOH3wu0a_3ND9QleMx3aqu8iLjZX9Qyeu9cJsRePpRoTD6XM_KyXBaeVVBOaVaMApXawt4Q469lLn1_suw"
+}
+comments {
+  text: "Games are nothing special. Just the games we have all played dozens of times."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1262287103699
+  authorId: "cid-lg:AOqpTOExL7vjBcW5OX1_WLbPZowHHXrK6ZSwQTS7oICEBR8PndnRBwl4-hIcUWa0oJldsyGb3vKBA-PP0okbHQ"
+}
+comments {
+  text: "Good idea but most is the same"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1262143814795
+  authorId: "cid-lg:AOqpTOEU6_tBb0l9UWQsOsqa33gj16Fqi7ZUdGh4bz8AxvNY2m-j3Vtjl9pca7e_naQ_kFKeoV-uyRFU2C2wqg"
+}
+comments {
+  text: "Fun but not what I expected."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1262084008355
+  authorId: "cid-lg:AOqpTOGDNM53swfPdnFTepl1ePMxogPzMI5SVggvDv3jB_zY3SJhiAhPi9Dk4SzXXQXx5qBGl4Pvi0VoyepRbA"
+}
+comments {
+  text: "I love this app it makes parties so much! You never have to worry about not knowing the rules to any drinking game anymore!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1261964160540
+  authorId: "cid-lg:AOqpTOG0kBnkhSdjJ1nm7Tx8ssgqwz8No0r_0RbBFZumJ9xRhdqcyN79t8Ttjr-PvxoEBuh3jDorz0liUuIABQ"
+}
+comments {
+  text: "Cool concept but fails"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1261893699820
+  authorId: "cid-lg:AOqpTOFFbbYcyzyJRiQoX1p8ETr8FcQf_1cgRV6Q_VCRwffv2gIbuJ4wHKFi_n7ov6R7qirNVyyXEfX7a-oh1g"
+}
+entriesCount: 367
+
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1261434312776
+  authorId: "cid-lg:AOqpTOG7f-4KzWLhmPjGn6Hu8FH11CFTaOEWrI9RI4Nm5T6UXLd9Pq9YPOzEUOlX5uFQwbWZ0m9ViTsQrtNCww"
+}
+comments {
+  text: "Really great little application helps a lot when I\'m drunk and organising university socials: -D"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1261164240430
+  authorId: "cid-lg:AOqpTOE1FWC0LQ9UlzMtrObQ4vKIhvgJMN6U8r7a5Wymvxf1DYEMIM3EfiDKh_xhPlxBorDsAxIC6MBCtA0HLA"
+}
+comments {
+  text: "Its great for parties. Some of the rules are different then what I\'ve used before... but who ever said Drinking game rules were set in stone?"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1261146605875
+  authorId: "cid-lg:AOqpTOEkpYDxaHlVLkI9D4bTVYxzAQYOPhNFjeCCAAvdpM626aLxx4dqriB41ZDFW3k7zeFiwuZtEMnhA1k_jw"
+}
+comments {
+  text: "Needs alot of work and all the rules are wrong"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1261066441567
+  authorId: "cid-lg:AOqpTOE26Qj89rxH3GwC5__FX4FIzgSycB7CPQi5uJgCtf2dClg1kKZehAfBosUz6iyF6cGpPF0UgPm81S4Y8w"
+}
+comments {
+  text: "Its OK don\'t use it much"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1260957717394
+  authorId: "cid-lg:AOqpTOG42bFx81pMk9N4WDvVrNvj2NRgC_fZwa6nL7mEel4RQJLIPvej0r_m7aCN40HEhq_t8oFRhk6sibovPw"
+}
+comments {
+  text: "Okay, needs more details, like the rules of beer pong"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1260748656915
+  authorId: "cid-lg:AOqpTOH0f9YyuKCCdJjX800cOGQsKzy0qB4gdB4u9NxWPv--xEViG90cevUP-tWiKA2a2aa2Jx3ggAiJKqXqdA"
+}
+comments {
+  text: "Good refreshers of old drinking games. Good basic app..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1260673799056
+  authorId: "cid-lg:AOqpTOEu8deB3-9EGgGlI5ZmZJzgJ3LDbVlHCFt1sMvw8_uS8uSw9_V8LKPpDnm7KI1iul9CO-3a2rLoVxUd1w"
+}
+comments {
+  text: "Good concept, but kings cup/ ring of fire rules are wrong, and some games are simply taken from the kings cup game..."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1259799560349
+  authorId: "cid-lg:AOqpTOHGhS00c2uIxm_7a09x-Hv5c0n8SosvRUGdhiQXblYm9jteqSll7lUvyEt2CsSA4oEP_CC5B6IQDwhkdg"
+}
+comments {
+  text: "Mine doesn\'t even have kings on it and that is the best drinking game. Needs more games."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1259351740188
+  authorId: "cid-lg:AOqpTOEnyPEwlYd01xQAH7RW7HUMd0i34BVD49tYtmnBQJpC3Ve9R5dGGE8ByjuGwmEAqjQyU6GDEuCdCQy08A"
+}
+comments {
+  text: "It could be more expansive, and where did you get your kings rules?"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1259339104904
+  authorId: "cid-lg:AOqpTOEihncYzxcxQgAGZ1aIVKGVNQ7AXHj7ofIIkbmoAvz9zNBICvfRkWEaT7vHI4edmJfjqo8B8Yi317pH6w"
+}
+entriesCount: 367
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+
+entriesCount: 280
+

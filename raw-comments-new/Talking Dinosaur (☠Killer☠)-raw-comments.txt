@@ -1,0 +1,2790 @@
+comments {
+  text: "My talking dinosaur\tIt is an amazing app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415291853782
+  authorId: "cid-gp:AOqpTOFb0wnaWnkwV0AdvuGGp19lpFh5kdi-4z_TqAnwsN95rcbyXsg_KuxOGOVmMR_hLXSLBlpSWYRNOeGZ_A"
+}
+comments {
+  text: "It wouldnt stop\tI exited but never stopped"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414936906284
+  authorId: "cid-gp:AOqpTOFT6325BVa4LuMVg4vLYWnjDLZUm7vm-iXk0IjFfrmwU45K43r6CK4wMQ0I4HT2Yix71Rr-_N988njHJQ"
+}
+comments {
+  text: "How!!!!!\tCould a dinosaur talk??????"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414810941729
+  authorId: "cid-gp:AOqpTOH-CoSLmBKJojq8vBt64_bx9qjlgRrsOt9Tm0-W2ADhqrdVCsfGf6Gopfn9xk3PC8U44Paazm5UgPgL_A"
+}
+comments {
+  text: "I CAN\'T\tHOW DO YOU GET OUT THE ADDS?!!!!!!!!!!!!!!!!!DON\'T GET THIS GAME AND IF YOU DID UNINSTALL IMEDEITILY.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414417141119
+  authorId: "cid-gp:AOqpTOFzLhp6p1JKzX1EtEabGEIofP2IeCToFbFQ1JGx_wHUjEBRjFc_wPDK2nbwl9LVUFzwJHCo8HP9UWLO_A"
+}
+comments {
+  text: "La\tI love this game so much it was so fun and I love the rain dance is so much bye"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414359277494
+  authorId: "cid-gp:AOqpTOFjdQmaA82M-gUHc9ABJxq13y0uThdRZ5lOmDz1d6e1LhbvApAjKTGhfDuF_L2K7KV0NAUx_tMokq7iJQ"
+}
+comments {
+  text: "Nice"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1414304913643
+  authorId: "cid-gp:AOqpTOHKCUcGPrF3m3ypJ3JieSvhvqQGa9yiHdN2sFxhc_gtAMRA49D6rntb4PFyxbWGdqqBtMwRHYtMXI-FNQ"
+}
+comments {
+  text: "I hate this so much\tDONE DOWNLOAD THIS APP"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414182589190
+  authorId: "cid-gp:AOqpTOHe5RsMe2Xzz6payioCle_vCe0-5KeNR8_VrbQPeThsdkA0SVS7yRoOCqlOIrT_OArRjmZW7Pzon7GNVw"
+}
+comments {
+  text: "Pretty gal\tIt\'s Ok"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1413737111732
+  authorId: "cid-gp:AOqpTOHGffSwQjxY5X5EgC8pWH4RZSB7WKhJTZiFtBmd3TV1yaF6JAURzp5dApapTn23oQvF50OwZzyY9tUNzQ"
+}
+comments {
+  text: "it  downloaded for 10 min"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413717618324
+  authorId: "cid-gp:AOqpTOHpcVykTZjV_OHwtuFJuSzlzRvWteOmIziIASuEJAxuBb4V6RpreFXq-GMGY4u4PSGFkAxMkuIWyBLiEw"
+}
+comments {
+  text: "Cool and fancy"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1413711734751
+  authorId: "cid-gp:AOqpTOEbMRqKhI35PHRLC1TRmS2c68EgJEkPbX4UVS-Vi_mov2vAeUrwQe4WFPseQJQaUqL57PgbyrwUu5j8sw"
+}
+entriesCount: 1518
+
+comments {
+  text: "Poppy"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1413594652205
+  authorId: "cid-gp:AOqpTOGkkYrVFxBYooLQbu_xEsOOYkNbiSxBGYIPgsT8a6Spk9-MJJXEJo6DuT2d-T11BZi_ehheJa37lsJZuQ"
+}
+comments {
+  text: "Im love the game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413402797513
+  authorId: "cid-gp:AOqpTOGKXu9aUajENAnUIWNNHURIbLrrw5cesIVLrIo2H95L-z-fgxv7MHWyf4Kz7IRSuSCv94m8v8Dj9dNJEQ"
+}
+comments {
+  text: "By"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413331633950
+  authorId: "cid-gp:AOqpTOGOS5AT0XHt55VepMYSCk-_TLY-l0qpgWnvdPnIGfbQYQSvTwAmKOoLz9svnaVYIWOYe9lDzrBvEliHQw"
+}
+comments {
+  text: "Talking dino\tRocks"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412968346359
+  authorId: "cid-gp:AOqpTOF_FTPK8GQAdlqT97mu06rju-jVJ4WxwbjZ4q7FpIVAFXA-VLZ_BwMDGPAoemmJmXrNGpIfE7O-SyF8dQ"
+}
+comments {
+  text: "Epic\tI like this game is alright but when I put the game on resent apps it keeps repeating wat I say"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412958687882
+  authorId: "cid-gp:AOqpTOFFPHSVVLUItLfxaSPbQ3X0E3TEwZ4Qkn1mZAZGNeECoB2z5ECAyVt2T22JqubJEWLkGxxvuKmZq47YIg"
+}
+comments {
+  text: "Exellent\tA dinoursor is speaking and has childs so cute game is this my friends has also love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412928512694
+  authorId: "cid-gp:AOqpTOF2GOxNv0p_64uvkgPp_SXp0Lw-w7s9KBTrFbxY_n5uLZYn9Vs8_d2XDWJAqb7Bnz1mCJPjQR3ZhRh-tQ"
+}
+comments {
+  text: "Talking dinosaurus\tLucu"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412833112807
+  authorId: "cid-gp:AOqpTOHXUEa8gr4SvWxwCikx8yxjijHp-BUk_mbo-ULFMHG181ewgU1i12JkrHL2qqx8B52uGt_gjxE2hCrbtA"
+}
+comments {
+  text: "Sanjau\tSan"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412692294575
+  authorId: "cid-gp:AOqpTOFxXa1p7C2V8cShAlaBUSkPRkJlBYCasiK3cKBeuYui1TpxPbfBbEhQdvaZVXq9NMkwlcgh5Zmrfp8Vwg"
+}
+comments {
+  text: "Michelle Franklin 91@gmail. Com\tMichelle Franklin 91@gmail .com"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412667693904
+  authorId: "cid-gp:AOqpTOEC_PSRZHVXD7NsuxRpdl2uAhbQSP2Pm-xnIKZlIUtuMSgm9dq-gXVhM3-YW8-Mj2q-JtJ2EwuUXC0mpw"
+}
+comments {
+  text: "Talking dinosour"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412355307733
+  authorId: "cid-gp:AOqpTOGhrdqsGzbv4RGunXBd2Eol9ZU1rWl8YPx9j6QN3YmbzVVjsHPtxOaiAZKvX1T7Zwlp9meGSvVY0eq20g"
+}
+entriesCount: 1518
+
+comments {
+  text: "Talking dinosaur\tFdghhh"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412245763375
+  authorId: "cid-gp:AOqpTOHxfXUtL657NNCWLXbDlu5Ec1l-YaJhIXy-WK_oTAwFN4mmwNooRJicMs4HybxFPKHWu5iNOuLjnbWLAg"
+}
+comments {
+  text: "Soooooooo funny"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412073349841
+  authorId: "cid-gp:AOqpTOFV0WvliEZU1cV0ovkxGnNr3QF-KPy8xMl4vLYHKgrTXzvMnBwA3I_-kTX-cyDqJqEMqOTmdZUbNjQ8xQ"
+}
+comments {
+  text: "Talking tom"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1411966603613
+  authorId: "cid-gp:AOqpTOH8crF2y0UqTDkl-iCa8gV713J1AtL7wGLMlSfAo5BNwJ8PY7L90fts_dizZDAqDK1TW8fcIaBKjS_ilQ"
+}
+comments {
+  text: "Jesus\tSalinas"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411916358775
+  authorId: "cid-gp:AOqpTOGgVXELSqLIAjMW0rm4QZMEKNPg-gw3FbtmRKoL9I34ARndiAYbpZMZ2d0PMpfVF87VwKz1utkEMM05pg"
+}
+comments {
+  text: "It is very very funny"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1411806054619
+  authorId: "cid-gp:AOqpTOE2_kvC-fyyQDbdzR42lKiqP8LdalDNf7eQQ6BqkHxP0GOVBNWBIhZn5ZcicV7hgW3Is5a-94b4NgSICA"
+}
+comments {
+  text: "Lol\tFuuun. \342\230\272"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411296693072
+  authorId: "cid-gp:AOqpTOE9NCNnxK-6qZtFYJPVRyaLeZ3SIMDvQaOLxeQTzD1y3gyQvblk4brk9ZW8OxyeClN8TLS1ybQq6m_k0Q"
+}
+comments {
+  text: "Bekaaar"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1411283292292
+  authorId: "cid-gp:AOqpTOFqDReY4FoE5Ku062HApvsT6ejK0rlJApN3kfI_Xgm9UhQlJhDYAJse-oLAYgUe_FXmkVtHxnJTH8q2fw"
+}
+comments {
+  text: "Doesn\'t download\tDoesn\'t download, don\'t bother trying"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411067625475
+  authorId: "cid-gp:AOqpTOFXybNn2nvRrwdhRpOtPZwjGsK4MAnd6fzJOmiX2I8qnxtxeht27tZ9NImbQAzj4U_GVcDMtQfNuD21KQ"
+}
+comments {
+  text: "Funny\tMe and my mom and dad laugh so hard"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410742563750
+  authorId: "cid-gp:AOqpTOFr4ZrV3w_A5sy0C0oyBVqF_a96n9k2nTHhkrPkjKl3krRPV43h4Enym3cK7tjvR_iV-aoIAJQO3MueXw"
+}
+comments {
+  text: "Talking lion\tHostel"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410707802880
+  authorId: "cid-lg:AOqpTOG5dtL3CnGwnFcxQ9G2RY-VabpnVHgQ9C9KzD8J_BjGNWyowCd0oiVJokkG6M9yO2MORulTtDYPzLrJ2A"
+}
+entriesCount: 1518
+
+comments {
+  text: "Boring\tNot very fun"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1410616768329
+  authorId: "cid-gp:AOqpTOEVeQefqvNalIduy1Gzcvnh1OMdHYF9_diRxeF-y696ZgZ1lenn0D1aSguuil-ytod16GXAaXtKJPiUNQ"
+}
+comments {
+  text: "Super cute little dinosaur\tI LOVE this app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410573065566
+  authorId: "cid-gp:AOqpTOHFdtSjQ3D9Geu7GZ7ofxQIKdoEZvJs6guOLEkC_QS34VuSC0bg2N-pKlPo0KsLNDu2jiwGf5N6RxidGg"
+}
+comments {
+  text: "Manok\tSrivastava"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410538095115
+  authorId: "cid-gp:AOqpTOH0yHq00maoxVXcn397035n7cGu3e-z4iA8jxWysdZOolH63MBtJ_JIRPWR5nxeGrqzHTMtghI-uIis_Q"
+}
+comments {
+  text: "Mostly like\tNo commeny"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410523009919
+  authorId: "cid-gp:AOqpTOGHCkW4GDSvhiWARZyZCpW25CZ406KPUOgS1s1ZAk5A9zDdymt2G4naTGbTyL6WjMIGnpdhg2JYblJCGg"
+}
+comments {
+  text: "Its yay\tI like this app you should download it"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410119984549
+  authorId: "cid-gp:AOqpTOGZ2C0oru8T66RdH_W-WxHsFbNd0sidpX4629MTbp4-M7RG9oeyF3tEpLvuPM3_cHJSOVWDK81dEg13xg"
+}
+comments {
+  text: "Omg worst game I ever played\tIt`s boring my little nephew hates it"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1410108845533
+  authorId: "cid-gp:AOqpTOGPaGTRsXfSpiPH7ZQwS9dCcGEDS2fDtQOBFllBx2K9xrt_3Q6ulxJqTomE3Rx-vu8w_MNJCjXT-5nr9A"
+}
+comments {
+  text: "Amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410010491280
+  authorId: "cid-gp:AOqpTOEdaQ04HhrZ4iBRFpkxWQQty7ahnRPnkATqbcyPWaDGCf74kKO335rehHE_WBD1FRHI9OFQuJREvlVnNQ"
+}
+comments {
+  text: "It, s awesom"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409968136690
+  authorId: "cid-gp:AOqpTOEz2jWjt0Flee--yQED9XeQ-zEazNDEsnlkoNBHrrp8NOb6zaa32InRvCTOmK47ALXouFcYTpVfs7xlrA"
+}
+comments {
+  text: "It\'s ok"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1409660427724
+  authorId: "cid-gp:AOqpTOF-TDHoK0tweOmP4K0NOQKQ1aieLFPr-yPjurrdEyKUOkdMkKyMN_jVhbaU6dil4PGBY65mT1kS488z3g"
+}
+comments {
+  text: "Good kids loved it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408890302081
+  authorId: "cid-gp:AOqpTOHPwIjE_igTBhfVUgrXpYY12Mmo8f6E4_tjoK90kWlq5jkK1KtJ4fpaOwFwXXpU06KJm4GHPCz17xcMXA"
+}
+entriesCount: 1518
+
+comments {
+  text: "The most bad game in the world\tV.bad game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1408721283373
+  authorId: "cid-gp:AOqpTOGkIO5gb5j-CcOYFGQL3coQyuiXjjbIITpmYw_YjmFLNE4Nfks1apmNSZ3wwCjP7s6474CHG4I_UrGWFA"
+}
+comments {
+  text: "Cool killer\360\237\230\202\t\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244\342\235\244"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408442244837
+  authorId: "cid-gp:AOqpTOFdua4YmlI7XvsgOwElWtThF84CKdGBRfdwxi_9uM2GHqFt741DIAJikoLg9HfHOR4nAm4FKAL7Cxri3Q"
+}
+comments {
+  text: "Why is it called killer"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408319934325
+  authorId: "cid-gp:AOqpTOFP7CkKnPK_IDFfwZBTAsitcYsK1YU7DeZFNpqYZGIZIEBiEJbjxY5ox3SpArPPST8HIGk8lVV0eA38yQ"
+}
+comments {
+  text: "Gud"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408098615930
+  authorId: "cid-gp:AOqpTOFI-uWC9AqQ43doPxY_qX6B3ClPOKbKDIEMeD_a318BCnTzI0tB1pGk3JDjAxsakBke7U3TF9zQwws0MA"
+}
+comments {
+  text: "Junk do you called game:-("
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1407867214702
+  authorId: "cid-gp:AOqpTOHQYDRolxiPZ0-hg8cgklEAucC3Jzu-PMJ7fODK118SPmpVJusfgqO2o0ZG_U2HmKllSL1N3gBnaDLfeg"
+}
+comments {
+  text: "Love it"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1406568566059
+  authorId: "cid-gp:AOqpTOGYN7SFqEcvYOFBiO0anFKDV6nv5zBpo2MNteVfsMBtQhu1VutcWJx6S4IrkwPeskKkmI0HG0IWpIfBOQ"
+}
+comments {
+  text: "I love this app!!!\tAwesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406331700690
+  authorId: "cid-gp:AOqpTOFoiDBj1PTNlIspAfBNhV2qc_Mf7IoFtujsx11p8cUou6h4QGbfVbA0zyGH0ZZjQLvvu_NNh76sM9kO7A"
+}
+comments {
+  text: "Urooj"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406282329609
+  authorId: "cid-gp:AOqpTOGp-UZCZIxmtHEa-O73q9iDTsfh_WeLhnVO4U1XEG3X-ndASl2cGb62UQ9CkW1M4hszFxtA_LkouOml0Q"
+}
+comments {
+  text: "ch zain\tchzain"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406213308325
+  authorId: "cid-gp:AOqpTOGZTVXLf2ilOt2AO3H-sbcIb0_nGSOJDL8euREabH4s_KaBqMY-JVZ1VdEcMepDQWcGVIXCiPbwx5j8ow"
+}
+comments {
+  text: "Nic\tSweet"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405794160373
+  authorId: "cid-gp:AOqpTOG4K2W6HtFa1nVVWVuDN06BHl3RzH4AshinFJ9Tch47tB7L-rLsZknwm89pYjfoMOXs056Lrv4tk2o7BQ"
+}
+entriesCount: 1518
+
+comments {
+  text: "It is a great game for my sister she love this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404925286490
+  authorId: "cid-gp:AOqpTOHUrsUR6PXjhzjlyxBjltBAyu-nyGfN8-kArH2HrzBI9abS1x0jfTWleEp-KVJLucFd6yWkhDG1suUS5w"
+}
+comments {
+  text: "I ONLY GAVE IT 1 STAR  CUS  ATHE GAME  WON T  DOWNLOAD IYK"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404734521378
+  authorId: "cid-lg:AOqpTOEjMasTkNe69c0shSbnub8gfwvUI0Z6Jn7JkjKyZPR0hbTbvhWBfPdIWtzxSFWj8OoJ5J9WIDNC6veDKQ"
+}
+comments {
+  text: "Ipoiuuuuuttrrrewwqwwweedffgggghuhjkllllllllllllolllllllllllllllpopppoppppppllopppppppopoppoppppoppppppppppppppppppppppppppppppp"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404718438705
+  authorId: "cid-gp:AOqpTOE_AIYwjqbYM0-v4zpGclWeWJgFV53VCuUobRDwU-KKPocK_Od7tLM6JkXJTgyFZe79-FguD82u3b0-CA"
+}
+comments {
+  text: "Slow"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1404584901254
+  authorId: "cid-gp:AOqpTOEEGudiA0Zngx2sowjE4aGBXFPz4Gkhfydsz5QhqDHe_Ft256bGfg8h1F4QusMH6f--sswZsmklccitzQ"
+}
+comments {
+  text: "Good"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1404303161445
+  authorId: "cid-gp:AOqpTOGB8JZaHHQ1aas_eMZEY0w97s2XXNv-IjFnaOqPqPqHhOvqVImwnoNzI68sIitlWArt2zxMCZBLsuW8Aw"
+}
+comments {
+  text: "e\te"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404229548069
+  authorId: "cid-gp:AOqpTOHhCApVhfKgkW4rWZloSDnLbOFrkmUCvW9kGb1GjiQpZr2nXwt1cwREg1zvFVIcUHIkOud_Xt1CVvsoZQ"
+}
+comments {
+  text: "N."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1403883359747
+  authorId: "cid-gp:AOqpTOHc1Cy1hOTBK0s4lgwwoJb5Gp-7VuRXqaW8lweBQFCrbL-WzLn8VXToYK0zTdkOzDqJ9gHwJLPh6N36kg"
+}
+comments {
+  text: "Talking. Dinosaur. Killer\tits. Bad"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403561149267
+  authorId: "cid-gp:AOqpTOGtw7LuO4br-vwGqMC_VMcVCVGwMrBKX2JyGrJiQ_idWmw9nRr76ReRCuAw3M_atz_Z-UThKesxoijLEA"
+}
+comments {
+  text: "Killed\tKids banned"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403543835183
+  authorId: "cid-gp:AOqpTOGDffJpg4k23Uu-R4uWSFIbVODyqWS45J00mtaL1tBkiNopIZHc7NS7mwJWbYAeIqgVACJKBmuKeU2qXQ"
+}
+comments {
+  text: "Amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403172667865
+  authorId: "cid-gp:AOqpTOGX2vsx0b1Aa8prweJOJctuMydN4mMaY8AFcFAtga27dMXw4GE36TychV9Dv2MyqwVF7u8yPfjSFiGr5Q"
+}
+entriesCount: 1518
+
+comments {
+  text: "I\'ll rate it 3 so but dumdum  so don\'t get it"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1402884695760
+  authorId: "cid-gp:AOqpTOEBwF3jrxtQ46noLN8hn8JV5QLmIc96IG5KjkClw1xJr0RqhD9WViAOoRVt5AogLrrgfoapbgPAfocY7A"
+}
+comments {
+  text: "Yotena"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1402722497972
+  authorId: "cid-gp:AOqpTOEweXOTe7Cs3j0wnLN-6IHMM_MavdgkpJsBbPJQ6EO_HgSS9xbPnYMt6tXk1jYv2rTAuVnYY0z7ZG3hxg"
+}
+comments {
+  text: "i like this app its funny"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401999364509
+  authorId: "cid-gp:AOqpTOHbnOTP6TrRx8AHUIm8TFO6r2s7RKQVD7QQV_EBhJwndi_GU-qd5uAgNPfSp1LTvITCbWsIiJTpdpINyQ"
+}
+comments {
+  text: "What in the world?"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401840641372
+  authorId: "cid-gp:AOqpTOEXb8vEk1oNe3xB78vNMEBS480XV17dOPv95AqLZn3oZFufPjDZMePo9ozJOcRhoAD9iu2WNfDLTXVqRA"
+}
+comments {
+  text: "Talking dinosuar\tSucks bad"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401747855300
+  authorId: "cid-gp:AOqpTOH4We3-JiurA9Y3Zw52hvETOfP_ej48HeKnldwXm7q8dCg9LA_HO3wigs8-RYhku58MvVtCgGAOgJfxcg"
+}
+comments {
+  text: "Slow to load"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401693338545
+  authorId: "cid-gp:AOqpTOFD9aCftZvyhRMpFdHNLY8Brk-CngBoVk6cLu2p1Ypf3nDgFtfo8hZHQ1-6SCnAHfrfkf9rTOZ_mHyZLw"
+}
+comments {
+  text: "Ppp\tHello. CAN THERE BE OTHER STUFF LIKE BREEDING ITS CRAPWITHOUT SOMETHING SERIOUS FIX NOW PLZMOR P3OPLE WILL THINK ITS STUPID!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401554143623
+  authorId: "cid-gp:AOqpTOEItyDXZESiRU9d7cw7yO0jXA4XWmucau78I9ErW9OzZTG4IHMEn81ZNd5TR-ifU2lI1C7dZVwuD6mm7w"
+}
+comments {
+  text: "Nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401266664800
+  authorId: "cid-gp:AOqpTOHrbFYK2W3m8INW7hNKAT02pH5ihwE5QZN7PoUFjstGNNISmBWNtAOk9eNsfCCh2s2LDJlS37kXApmGpA"
+}
+comments {
+  text: "Nice game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401186694299
+  authorId: "cid-gp:AOqpTOHdi8oOCtcrSgtVbLF3n-oGcaX7ziEyS3_ISEcw0VuWL7hPtEBbWRq4_8WKStZiL3wG7Co42sgIEVbWuA"
+}
+comments {
+  text: "i"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401185710803
+  authorId: "cid-gp:AOqpTOG7t5FIzNRbXJ4GRWeNo0tv-1GIRnsfOUOZ85ZMzwyuaZVCYv4-Y6rrluz_oPaeJbKMFjk9Ym46I_rUwA"
+}
+entriesCount: 1518
+
+comments {
+  text: "Thanks"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401185361908
+  authorId: "cid-gp:AOqpTOEtZeXmdvsv4jq0bvo-Ji2LZ38xnKZ0ypIjTmQKr6ssQaf2Wik1auAWXJZ-JC6YivZpt60gOUhyZMv18w"
+}
+comments {
+  text: "Talking dinaspur\tRekfn"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401165175214
+  authorId: "cid-gp:AOqpTOFC8XGlqoy86wjLOQDxMmtaCBFKx6vBm9IrkxYsOMYXOpvLJjf5J5wn1aKLyGTgRdN825ndWFu7lNAfyw"
+}
+comments {
+  text: "Time pass app or game and this is a fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401067859459
+  authorId: "cid-gp:AOqpTOHHAZgewvxHQhRGEBPsawgZsiy19N2fo2GQFStylltLgm-GJDUCMHVACXcu9KlLjbx5NVZYoedmgOVBqw"
+}
+comments {
+  text: "Super"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400946166887
+  authorId: "cid-gp:AOqpTOE5fBbG-oIT6ihSQtoj8dleM63Yrw-QAp9k9pPCLdGtdH8edM0YaevXLMoWR_u72Vl3zI9lv0nPj9f9Jw"
+}
+comments {
+  text: "No dress up\tThe game told me there is dress up available.Not very ok."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1400785776379
+  authorId: "cid-gp:AOqpTOGWtwlN1zzEeqhNTAWiJ6eKgFs_kA0feEJHsNGZYeo4FapOQz1tneqjosLjJmsVl2_W5Xf0r6KZy21ufQ"
+}
+comments {
+  text: "Im going to go rt now by others that I have read. I love my talking tom wish I could get him to go back as a kitten with out having to pay. You guys should think about that lots of ppl would do it. But I love ur games if this is as good as tom I will gladly give a 5 star and tell others to down load it. I got 5 kids and a bunch of grandkids I will pass it on pls dont let me down on this game. Thank you"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1400597687537
+  authorId: "cid-gp:AOqpTOHVAcUBEy3QLguE-kTZbTRnl09eoXJkSK42cy-kDqKQBC0SqDE8C6F-i8A8HSkGl_bsdVbZ6eVvniuG6g"
+}
+comments {
+  text: "Cool\tPlay this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400329063410
+  authorId: "cid-gp:AOqpTOEsXR3OhcrwwogOIsTPCbi6aGaz7dh7fe4_4dpvqqGhF7bMk_GlBhmKSvje4di2Dx3W0JhrfcPOWM221w"
+}
+comments {
+  text: "Panget ang larongg ito\tLllllllllllllllll"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400126235416
+  authorId: "cid-gp:AOqpTOEcoBRhpPGY7JbOEY50Y_RGjWGLPVRyYKy10tlU1LIqjdw94N-otaSf_V8UrMXcGFToTd0Hr5EuqYcndQ"
+}
+comments {
+  text: "Most amazing app says my  sister"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400051281627
+  authorId: "cid-gp:AOqpTOHPHmKoNOg6ikN73ZrmBDfx33HjW125KGRFPfUny8pn23FbDm-Qq1-Zt7EdMTIv1H__JJ-TfETrz-_CdA"
+}
+comments {
+  text: "Roa"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399938094810
+  authorId: "cid-gp:AOqpTOHwKYzEUlBZjLQJJ91OERcXBWXgmOFn_F20crd3xXuTqEkGLITNGxvj1jtDbrncvfaFE222GqXi4gKd7A"
+}
+entriesCount: 1518
+
+comments {
+  text: "Super duper awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399822252567
+  authorId: "cid-gp:AOqpTOHnkCuOEMtlj0M1-PfPLmoXgkzY_rCEeUIcCFo1d0NWMrz-5Xyxydn9eTRZQqoWo2JzqTsznk9htRMLDw"
+}
+comments {
+  text: "Title"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399421920782
+  authorId: "cid-gp:AOqpTOH-2StnjzIGeYOecQpUUIYBkMB9c0JG-3ehPvLXGLq6BM1imYEdeu0x6k4WlgNhI7IfviXQ0ieV1dXzAw"
+}
+comments {
+  text: "Worst Talking App EVER!\tI read the reviews but decided to try anyway. I have yelled into my speaker and can\'t get the dinosaur to repear me at all. He only makes baby sounds when touched. I hate the full screen ads. The record player that brings up commercials for other apps cuts into the face of the dinosaur. This app was not designed very well. Back to the drawing board for this one."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1399293212183
+  authorId: "cid-gp:AOqpTOFeOJih5kdeO7NG9AjcQ6oeQDNav6VpS0N10P5xjbUAVFjkOa_bKl0_n-hQxzDhvJHBt7cwNV83LvwOeg"
+}
+comments {
+  text: "It\'s cool"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1399228018004
+  authorId: "cid-gp:AOqpTOHwoVvJAe1bpOCee5ERsF6Q5Yf1Gy2YO5QSygNvReM1VVp7DOxalpMzpn16bzLQVy04LNidJnW4bW9jCQ"
+}
+comments {
+  text: "Stupid\tBab dum"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1398502466236
+  authorId: "cid-gp:AOqpTOE2who_vvATTzaLgBdddMrSC2kMGat0TDwWQCLEaxWdHt5XMoFz7Ay8SaY40Y58Thu7EJQaeFdJJFFDcQ"
+}
+comments {
+  text: "So what?\tI think my friend will love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398379694439
+  authorId: "cid-gp:AOqpTOE6AtLHFgtZlfwNhtuDUIbGgOWxv30PGHN0QnJyXvxg1ndrQj4wobW-sXSwibTRZH6w9KQuUC7nkJR_yA"
+}
+comments {
+  text: "I love this app\tGdifvudvdubryrjidvid"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398372296141
+  authorId: "cid-gp:AOqpTOGOFB4iFFxyhNXLC5G9yE8XxsAIoFiVI_a9u5u1Vcd3Voi1Z9mfgIsi1d4XSa3VFWAgTWyCo6QusosT8Q"
+}
+comments {
+  text: "Love it too much"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397422015911
+  authorId: "cid-gp:AOqpTOFcB60bQxXf95DVuTkWghr7F7x06JAGkUUI-0M4AFE3PPxlNegPkm82C2XdTJWSQtp3cc5enJKX5wkvNw"
+}
+comments {
+  text: "So cute"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397412855132
+  authorId: "cid-gp:AOqpTOELQF3p7IXAT0OyyvGYwBWN8CdmiubgDPL9TFBrgm6kntERC2W6GN0Qs04g9bhG1m57JagPrl4AIeVObg"
+}
+comments {
+  text: "Nice\tSimple"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1397387852124
+  authorId: "cid-gp:AOqpTOFWs4YFfJZ54a8Nxz530x_XG-5w9_F2RMfiQpvS9oQ7ZS7yV-lKI0UL-A-ur1Kuz1ssazZk3D19Se3mcw"
+}
+entriesCount: 1518
+
+comments {
+  text: "I HATE IT:(\tHi it needs more"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397353164737
+  authorId: "cid-gp:AOqpTOF-zLQtVs3DjHa0CLHsK9lacuOh8jp_ifNwc_lfOpA-Hq6C5CPuv-YALUC7jKwBko_DPtpzvVoLkOqsbg"
+}
+comments {
+  text: "ZEESHAN\tI dont know. The game do you know how the game is."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397283103895
+  authorId: "cid-gp:AOqpTOHHaekAttsqX-w659RIN8cbjS4I1wQ2yjOwQYJgbT8dqWZxSPVMjOoL74GbT9Diq0Rs5hhPlQuYf5Civw"
+}
+comments {
+  text: "Grim ih"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396994231062
+  authorId: "cid-gp:AOqpTOGNQUBNUPfGfvNprllCeKXCL_iqBgPCuBK7jiZ99t1Sbr0vOwLeTwnjSJYra0VECvGUfKLo7XXa4beRYQ"
+}
+comments {
+  text: "Satvik\tChaudhary"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396930396359
+  authorId: "cid-gp:AOqpTOHrDIGS0ONh6rYM_vPBwMs0kACc-RWbFdo3E7PXpf2L__qXYAYP4STiD1kdD4hzt4xTH5ryfdCYzHMNJg"
+}
+comments {
+  text: "annoing oringe\tbuddy your a coconut you have a hairy but you\'ll be crack some daayyy there\'s seeds in your face mix with toothpace you will be totilly save we will we will mock you we will we will mock you  buddy your a lime  your will small  time hahahahahahahah lol"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1396634631625
+  authorId: "cid-gp:AOqpTOEYhxDaCALQQtWh9oMwirEZkyR7A6U7BuBp3-sdeGKyOlgKJkZOkajV0VDcH3TEaQi81j358aAUg1uk8Q"
+}
+comments {
+  text: "Crazy\tAlittle bit fun and boring at the same time"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1396630189444
+  authorId: "cid-gp:AOqpTOFcfq4Bn1TIDBunWvGvaRV5hoEhLFElQBOJrJXL9rzycs6q_O15B_bMWCYJn6rJH30AzihjvZK0P-6Xdw"
+}
+comments {
+  text: "Love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396559994246
+  authorId: "cid-gp:AOqpTOEvXcl7sKcyTP6Gy35sA8z8vIAkzFiqXRN6LZe9DK0-E9kjzCYmg9yqpWHEmZlmzoYIPa90c2UvalBhCA"
+}
+comments {
+  text: "It sucks its stupid when ever I close the app it says stuff so I In hate it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396451408702
+  authorId: "cid-gp:AOqpTOEXU-POstr7QOTX4o1oEuMNvXdKgyKiAhDaAmsB3OyFQQSOxWFjWcHaACx2PetlNGLzESV-M2Lyc4YJvQ"
+}
+comments {
+  text: "Terrible\tIt is talking dinosour and it is suppose to be like other talking games and it barely does stuff and hate when advertisement s come up"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1396097762060
+  authorId: "cid-gp:AOqpTOFonjGAg5VXMC-5lxlEuwjvsm-J9se1QsDGe-P5LJAXJ_sshlqpZcwjKg8Fntxc9XeFokOfxBMNKUMxBg"
+}
+comments {
+  text: "Talking dinosaurs\tKiller"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396023181723
+  authorId: "cid-gp:AOqpTOFgbGfwCBVdcbIz7N58brviqnH0tAIlrr0vaLF-O_E53MwRC6AMSAo6HrJlr8rdAGNT-UZIDJmuvhT_uw"
+}
+entriesCount: 1518
+
+comments {
+  text: "So Cute\tA really pretty color for him! Can\'t wait to have some fun with him!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395819948340
+  authorId: "cid-gp:AOqpTOEeYBHqqQgRSU1lqjA0eI5wGs9awy9iVln-lIRqJl7PJesswxQWFzFmnuicjY2mfiuCx70wMFb9H4nkCw"
+}
+comments {
+  text: "Talking Dinoaur [killah game]\tVery fun game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395343027634
+  authorId: "cid-gp:AOqpTOHsWtug-vxQ8JxaLwcBu2JfiQkZ0Tq-c736uIBjXecuLkvARrOsAF2HoQIjddcXVhDGJcspng3nkJBPeA"
+}
+comments {
+  text: "Nice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1395081843263
+  authorId: "cid-gp:AOqpTOEQqjPXUrtzywnv0NQ1rp6ypJbHuLzZ0axOURu99MEpRYim3AEZqSAAToO9uZhWKiwZOLT5a3FZwewcIg"
+}
+comments {
+  text: "Garbage."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394929285252
+  authorId: "cid-gp:AOqpTOHzIN7i5HyuRO7QFHbtizBUthT8tgs6x_VpJqM9XSg0t0QL52CORHRT-8tiJk5scMeC2fZ45SCMTFDuhA"
+}
+comments {
+  text: "Mad\tI hate this game so much"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394912622586
+  authorId: "cid-gp:AOqpTOFXQ7WyT0RIgt8ZVwXZ0417N-d8roPtMN4EMkxBWpwbXRvioUz8meBGXbasfIfO9dCSfaJrIwgdFh9FrQ"
+}
+comments {
+  text: "s\tnice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1394779989974
+  authorId: "cid-gp:AOqpTOGNnaIGAaSMOt-G-Gj_D3O1fIyyCw3aAwt-49PFjjKmWWO2wQPV3GezAu44oIhzS3TeMqHR2fMFG6U9ZA"
+}
+comments {
+  text: "goog\tahhhhhsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1394722685127
+  authorId: "cid-gp:AOqpTOHG4lvYZQS8i2kCNHmJ41KzNVfeiGY34U5zsd6c2s6dLvI009TQubOJnuCZ1tTMVf98FG3_XhJJtGWGpw"
+}
+comments {
+  text: "I love this game\tV good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1394559621334
+  authorId: "cid-gp:AOqpTOFfh5i99mDkvGa_Ac10p-XICEgwvoKO70BrpvBdW6oy13k1D9MgjqjEUlo9L7rwvkfkKGBqE7emCEwWwQ"
+}
+comments {
+  text: "Dont wast your time\tDont wast your time on a crap game like this Uninstall"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1394480292193
+  authorId: "cid-gp:AOqpTOGbBg1sSgs2DiMpPvvy-TnsUvXbXbaOkvhR4lGeG25r_MP7Cry2R-cxVETxq57ktEbw_IDhzbTt0u7iVQ"
+}
+comments {
+  text: "Bad\tThis sux, full screen ads and can\'t get rid of them"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394466564006
+  authorId: "cid-gp:AOqpTOFweZQOpFTgHcCB_ULyRxzLVmGmAjwvDy2EjhyiSlh5DlaIUeOHO8AJfFCys1VDJa2abSDYTRBmn-xZcg"
+}
+entriesCount: 1518
+
+comments {
+  text: "Mc\tMadison"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1394060094391
+  authorId: "cid-gp:AOqpTOEEGXJ6KUQifEq2eYc26pcIWTvq-r55zyKi112_bjCcITtqglqO9_VOTsTyorvxj8f8K0bZAkgRe7bvbA"
+}
+comments {
+  text: "Wow\tOh:-)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393976274345
+  authorId: "cid-gp:AOqpTOHqxZhDhsPLEBFLXDQs8DajH9QD4k3cKc8vf3LCc2Gw7dBr9Gg84XzBlMNRDBFbhvlC5CwZv119j6Mj4A"
+}
+comments {
+  text: "Crap full of ads. Dont waste ur time with it.\tDont bother."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1393927564133
+  authorId: "cid-gp:AOqpTOGM2Mubvs65CjbDKcggCxIczmPslBo4I2o7xEyXGL-iXPM0MkIyr_yTBSdei544opv-0jnxPb7hIhiqmg"
+}
+comments {
+  text: "Rubbish\tWhy make a childs game then fill it with adverts? They spring up in full screen with no close option, then dino repeats everything the ads have said which is about the only time he talks! Uninstalling imediately."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1393884727721
+  authorId: "cid-gp:AOqpTOFMs5F-7LrYA56m8v57asRrTpou5epIxStGXLMsZtj3xXNBTgudhSUX51iHxY_NtumSSgn4Kf-ZhhGWPw"
+}
+comments {
+  text: "boring dont ever download it\tbad game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1393776580755
+  authorId: "cid-gp:AOqpTOE7fJ8WU99AlshFAZol3JXcUef3S7G1WtVcQpUMn5foSoTk0ZI-OFcPubdlWgPlxbGVuMivlL8EimrRlw"
+}
+comments {
+  text: "Paul"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393767010997
+  authorId: "cid-gp:AOqpTOF19ZsVfOOiyCiKJOKOLIOUKEkJC7m6nMRD3EFuOTua1UOaZhGWsbbpN9p2nlSebJWZtAcojggCu57Nrg"
+}
+comments {
+  text: "Cool game,,,\tI like it : !"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393561937123
+  authorId: "cid-gp:AOqpTOHqP-XF3kjJ1mKI10DsZiAFfhuwjbfH5wiM3XL1N9GVYPgeoBIKaUOvIjulPgz2TB34uhltpxxt57SNsA"
+}
+comments {
+  text: "Dino....\tVery entertaining &    funny."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1393398652418
+  authorId: "cid-gp:AOqpTOGvyOx02fPHhHvzwYhaCpjT2yNmuPwO_lEK4qnWOQVrarkFBI8q5_wDYAr539M1Tfui_DMBgM8UjtjdSg"
+}
+comments {
+  text: "Cut\303\250eeeeeeeeeeee\tI love him"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393393541435
+  authorId: "cid-gp:AOqpTOEa4CaFtwqf_YU3KmrKup4uxUhpQ2ZTdzi5R0h4Q-cC0dQ0lvC2dPcZKsXz3FNVJ--Jr33eqA8O_djHNw"
+}
+comments {
+  text: "Excellent\tIt\'s a good game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393230167300
+  authorId: "cid-gp:AOqpTOF-BYyRzUv4EIzsDJi-7zWGrDjxDWJ_7cBWht1zeWx65HrOiX0tVjcGk91wKOmHly7fT0WZlNzUEFzRog"
+}
+entriesCount: 1518
+
+comments {
+  text: "I love you\tYou love me"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393203777014
+  authorId: "cid-gp:AOqpTOHismGD-JhlM3fmS8ClfBMk-iMuxroKbNHC4pK7K6-bmdb_lXLmxkRUkcBpcsmL2owSCGNz2q2x_UsrMg"
+}
+comments {
+  text: "Excellent entertainment"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393093560703
+  authorId: "cid-gp:AOqpTOFH5FurpEgYwa2elFDbuHvbOEzQNU46O1PTa_3HOHRKWI3Le9kK2233xsHBFUrTPpe7fy_ZGa4VaVk1Mw"
+}
+comments {
+  text: "Bom\tBom:-)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392746813087
+  authorId: "cid-gp:AOqpTOG__Sh_22FSLr_ORaB7ceaF84jbajiGY_guocfLZWbzR2bbNLqsTBKemLFf6s9mOeD8jlJbmmekeLwgAQ"
+}
+comments {
+  text: "Supper excellent\tSupper"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392614411026
+  authorId: "cid-gp:AOqpTOFT_QH_OQunY6Jmghy6r8LmO8jNizoAPSZyu9NAku61fkNE2I1QAFRhXjnunh8T9vrhtRoHC5A9DTsnKA"
+}
+comments {
+  text: "Andrew\tCassidy"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1392493606725
+  authorId: "cid-gp:AOqpTOHJEEsikUgYqQWSmUCHMxOitxQcwxjniqiNAPuFmu-mrvgRk0LAC8mm6C1KF4z2UmI6lpehBQmucrJvOQ"
+}
+comments {
+  text: "Ok\tAmuses my one year old and emharassingly me too."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1392376913511
+  authorId: "cid-gp:AOqpTOExg9Srs7rDkdCnhITQ6uM745e3EDsWla2rZ4IS-650m1oBiqV0rmZYU_YuXHocOtimuC9lxPSmogf35Q"
+}
+comments {
+  text: "Great\tgood fun"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1392289855919
+  authorId: "cid-gp:AOqpTOEuY6Zf0wARldT90mRXD_WNj-f47m-go3fyHIfXk9z3sunBcGzg_uAxOpoHT8fWajJLyiwg8cLbOWmqMg"
+}
+comments {
+  text: "Omg sooo cute:-)\tI love this"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392257016707
+  authorId: "cid-gp:AOqpTOHTOhaAx47UA5VStASTdU14VyBekelQPVx_zha7bq-j7s7VcfoYcFiHZvzrYPQGA6n8_swUwSFcuMZy9w"
+}
+comments {
+  text: "4s"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1392191106876
+  authorId: "cid-gp:AOqpTOGeqz7324-mQNKYk9m0qPfXZSw6HNP1rEFO6al765m_S6tTXwXdv02ut85-2XiG420rfbHc2BzTqZbQAw"
+}
+comments {
+  text: "Jinkybayarcal\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392111932167
+  authorId: "cid-gp:AOqpTOGX3-gkEOxq63PHAN5vggXJDD93DMZa_qlT6Qb5AliJsDjbSK7RreKF0f-sN68CQi9YfduC3ELzEjEPEg"
+}
+entriesCount: 1518
+
+comments {
+  text: "I love it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1391982633667
+  authorId: "cid-gp:AOqpTOFNUdWlZITDIlyFo4dJ_5MPMB1W-kJTmCEDidPa8NgYe0ozEZVi9AJyRXNdbqkuproOXZ0q3shPN1K5Jg"
+}
+comments {
+  text: "Nsjzjdksjdnd\tIt\'s gonna taste great"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391978181032
+  authorId: "cid-gp:AOqpTOH_kzoctmlAxWTv_46ocX1bjOBOI__zHQSGB1BQTvdxG18dQSlYVTH6JxPe7uG9ieZXLfUk8sQU1sn8Gw"
+}
+comments {
+  text: "Ang pangit"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1391817947579
+  authorId: "cid-gp:AOqpTOHzQBq42yqMqQL4BQtYAn3ZfNBg9XYZV8YuRKA19R1Q00z12M2d3cNs1QPbxlacSZ3Sa5knG0HZeG9ilw"
+}
+comments {
+  text: "Annoying\tThe constant bombardment of adverts ruin this game  don\'t bother"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1391780296308
+  authorId: "cid-gp:AOqpTOHSkC3pxVSLR264oMk7kUsA03PlvvAE6ycMjc3yYt55_vh07VyAd1K-6WJCnvnUVbCSogCQ0fy_PVcFYA"
+}
+comments {
+  text: "This game is not as fun as I thought"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1391729073232
+  authorId: "cid-gp:AOqpTOFfDOaRq_AujLwbk6Pqh2njT3ZusaVjX8-wYkDU_KvOLnhkaeSth9pYOpBLXpJb3ESZoMIhmmmaccWqTA"
+}
+comments {
+  text: "I love this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391631187860
+  authorId: "cid-gp:AOqpTOEy--CqIUzgX5L7ABmPYI0M5eOkckoArMpofDGrM6U5ZQh4RXBIu91pBNrNoBZ0ILVCueyCNkAdWj0R3w"
+}
+comments {
+  text: "Awwww its cute!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391474964166
+  authorId: "cid-gp:AOqpTOEsrhMXA64XoreMHKXXlHto7dNFPmBrSC6CN2K-LlvEBaQ-5slaKsj4zzdTUwOTKycTY6ZeJ4TL0_yfUg"
+}
+comments {
+  text: "Amreeta\tGreat"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391415980181
+  authorId: "cid-gp:AOqpTOHOrBIdtu3uP7zLsH0QhOiKdCKYToeO0rMuDpqixgTThRIpI7VWsRdCOcmEENoExjVQBS94gxDRtpXtFQ"
+}
+comments {
+  text: "Deepak\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391391068338
+  authorId: "cid-gp:AOqpTOEGkWVyQCTQYibRxtVqenxHYWiCw3XBztQCaumbVqzlATSLpjpWT5n9QiFjV2OBP9FOPLEKYd3aTNVTbg"
+}
+comments {
+  text: "Tom"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1391379493841
+  authorId: "cid-gp:AOqpTOHYFYcKJ-CdwxV_GBv_LYFMy7tIuBBue315kfiylYwrPsvby8Xgg0CR0dJ-G1RIGBfJwlgQ2b7l2A28PA"
+}
+entriesCount: 1518
+
+comments {
+  text: "Like funny thing s that talk\tHa ha"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1391352911220
+  authorId: "cid-gp:AOqpTOGXvSJoVuy1hulGAZ1biw-BTRysf3DyDmgL7XbSCejGL2pOFe9Yc2WosLpbmJN0CIFzgP39mt5vI1xdwQ"
+}
+comments {
+  text: "Awsome\tIt\'s very excellent game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391347692938
+  authorId: "cid-gp:AOqpTOHVat1bxBNs3ii-4lVWQ9KKuQm1b16SEK0U_1ToirFyFUP3dCmjeV7iTj3S30PtN0AVTeme4nCP0CHcyA"
+}
+comments {
+  text: "Love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391313016900
+  authorId: "cid-gp:AOqpTOHoOIc1rUou7A2F0mPZo1JcYhUIPeqPhmiry8J82knKlvo2QpFY-hvL-ei2yaUAM1S9G-vuRd-qIbiNcQ"
+}
+comments {
+  text: "i love it\ti want i t"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391294245144
+  authorId: "cid-gp:AOqpTOHDkM8YGMmgmClXVR4BVvK-3-AIeb9bWFd0jaslSxxP-80nIEoflqNN4oi2Xzs-f7VMxHqhK7QS3IR-vg"
+}
+comments {
+  text: "Awwww\tHow cute"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391147942216
+  authorId: "cid-gp:AOqpTOF2JptlNt4ShFr6Y4eUpKglEQh8k7GsbBtaOY6NiGjZjBSbXz0R-veuDQbKHQZ9RXojZVWocn8pExJX8Q"
+}
+comments {
+  text: "Cooooooooooooooooooooooooooooooooll"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391022029354
+  authorId: "cid-gp:AOqpTOGiMrEHTIITnV9WJG6fxELCru4f0p0ufue2TiRhAVZNNBhBOu_mxJm6xT9zCh1jDnpaiITmRC7zGT755w"
+}
+comments {
+  text: "I like this app\tExcellent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390930927530
+  authorId: "cid-gp:AOqpTOGO-E3ZvmIiKXMIUdXY80VXLfrJCyjwAPqXhESDfZHJwU9IYnlkVm3OgIOmFMCWWbWJxUDC7fm8i1VPWA"
+}
+comments {
+  text: "Very good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390874908157
+  authorId: "cid-gp:AOqpTOGEGnUQZ2bl7KqIayQaf3X3axXOvlieA9KdUOtvnXn5vSp0M01sQUcuDLetok6_8HHYNMKRUfpsIV8i3g"
+}
+comments {
+  text: "O"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1390866720261
+  authorId: "cid-gp:AOqpTOH_zY2igAdey2BHCZayti7NgP4ovaMWGIaewMAE1gDGp3C6dp2XaVjYcnSz6q3rEmDESBT8QgvlDBqxhQ"
+}
+comments {
+  text: "I think that"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390831124508
+  authorId: "cid-gp:AOqpTOE5SX1PqLwqsABwmpj0wCoQo_OwMGH1ERR6BMdrirez75Brqk6w0lE5Q7dNdDgQV0Ef_hsGQCFTm-JK1g"
+}
+entriesCount: 1518
+
+comments {
+  text: "Super"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390759706529
+  authorId: "cid-gp:AOqpTOG14n98kY35qmYXhmu3acDkFn38fwLnZDlgZkMgFmZEy3ze4RWF6yWpyrlqZ_oHPyQNVSEEBs5WXspSKQ"
+}
+comments {
+  text: "The game works great"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390694889673
+  authorId: "cid-gp:AOqpTOHqSSlQGAvw0eUi5JJrwp_yqBICbT6BtsQiUXjDcGL21oIIMUHOLQx6ym3L8FrUyiGOHQX3vBn4oYY55g"
+}
+comments {
+  text: "\331\212"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1390660284228
+  authorId: "cid-gp:AOqpTOGfW7_o7FOLmt0aWb3VdcIMdtx6raf2m207z9yA5NB3kFBN06WPOfCSwjVdFAmF34YJVFaT9ElOdDvovQ"
+}
+comments {
+  text: "Play outsaid"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1390613718127
+  authorId: "cid-gp:AOqpTOFT5aarK_udwbgoZt7AYKqICbHb77nzmv8p6qAhOvRCAk58Es_azWzNTNksJqC4Kp841FE24cwECTnbkQ"
+}
+comments {
+  text: "Galaxy *"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390584480770
+  authorId: "cid-gp:AOqpTOGhFcaqXJpQq3WJfSJn39YlUchiUz-lodiiQv7BraOCt9hjkujpZ2pI2C7XTSf6B78HK5b-TgvAGwMA3Q"
+}
+comments {
+  text: "Good\tNot bad not bad :-) ."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1390498903637
+  authorId: "cid-gp:AOqpTOGw5AkeXCanIsVkYK5sGmKEihLKk8FsvhgTfgKiG1CD8GSS8gKgrxi9yxXYfXCDXOkJ_dseXbxdmY0nHQ"
+}
+comments {
+  text: "Hey"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390468803656
+  authorId: "cid-gp:AOqpTOFd7al8TBnpDPJQqxGDm9z7urzOakvYYylwtLNueZocLwszxlstLizJ9cM2f1kiktSuaTXDGdDLHJCW6A"
+}
+comments {
+  text: "It sucks doesn\'t even work\tNot good at all"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1390231222631
+  authorId: "cid-gp:AOqpTOFEaDFe1gojZJtXqBycTdjVUFNLfhAxB5Lo5n1hqWgmeEZvxUGOxWn7Ui_f8dh74SE_eB-78ILVIm6mhg"
+}
+comments {
+  text: "3:&lt;\tStayed stuck on 6%. 3:&lt;"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1390159604190
+  authorId: "cid-gp:AOqpTOGL3u75ahdiJE8-7zRi48d3xYw_c6149IrsZQAf3QBkT7OtEJHB5y5dPdlenVHxPwMnj-GP1mFf1CDM-g"
+}
+comments {
+  text: "J girl DG them smoothly\tSheriff Flynn mymy duty"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390096798004
+  authorId: "cid-gp:AOqpTOH11ZTW9SEOAP5KXVtkJpCvuY7YLtCCsIxRnCWkofLdl3wOI6kEFac8I6W7wnsEViK6_cWIvgUfy0AiwA"
+}
+entriesCount: 1518
+
+comments {
+  text: "I hate it the last time I played I asked him were my mom was ;It freaked me out:{\tI hate it his app&gt;( STUPIDS!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1390063000221
+  authorId: "cid-gp:AOqpTOEOmXy8WTa2orLOFasFe-a0DwTLMkKtl4XG7bv1_DQ8aniFGrKXHsjNQSON3pysetkWRg8FsA9DN3tacA"
+}
+comments {
+  text: "Okkedk"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390043172974
+  authorId: "cid-gp:AOqpTOGatdzkQUSuyoNyQcbPtwR4Hk_28GcpZdxbN35nA8ebsfEZZS23HgBpaOjgDbAgfm2CvTLdA_vFnwe9Hg"
+}
+comments {
+  text: "Ok\tDrives me crayyyyyyz it follows"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1390017022773
+  authorId: "cid-gp:AOqpTOEUwsuxutMk5SEKEqcGOpaLEsOYl1rzL8k69Wpg5PA8aqeeI74XGaZQoKyj_1XAClcwm85O8xuFYTZ0ig"
+}
+comments {
+  text: "Excelent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389993345439
+  authorId: "cid-gp:AOqpTOHs6OQUsqTat_AXxARKEkAYYo_W5OygfNXt6wt841Jyv68-9m_CdR69W_u_ibj3B8-J7V9ZfQqw7ftRqA"
+}
+comments {
+  text: "Katy\tKaty Ann.cat"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389964612483
+  authorId: "cid-gp:AOqpTOEJ_cOQRYOfGJTD3n4Kk7xxYaZXJqKjXgMrLTQssJ2KJGyC-uiixOTRxH8PoCdHRQwZqzfJqDi0nPYxZA"
+}
+comments {
+  text: "Wesley\tRodenbertg You"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1389833279371
+  authorId: "cid-gp:AOqpTOFYSjTFMLUXl9l_bymqAtegh3y4HgZUlQc2cFK7mvg122cYRjc-J5nxovjsxdtvYUlbZTHBTNS1g-1MaQ"
+}
+comments {
+  text: "I\tCool my name is drake"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389828799306
+  authorId: "cid-gp:AOqpTOGUi0xixalKd2pQycn8fUQ1MxG1cOJPco-Y1nyfwii9A2nfGDODyTNjxhicjmpFZw9ktsdFGcSzfGBVtg"
+}
+comments {
+  text: "Cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389547620605
+  authorId: "cid-gp:AOqpTOGLvo1khUs_o3lAw2JVTnwS-fw5Z5fTKchbDNTdR-Ydcy7BNPtSPvd4sMUCYuB2BlwaAWf1YFninmX8qg"
+}
+comments {
+  text: "Wth\tCud this shut up???!!! I hate it..."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1389489930337
+  authorId: "cid-gp:AOqpTOFacoA6OiBfKJPwiVefdwIZhay4iqcl3wUncCqhKLmRFPvX0GwBW7eklB3xy-KYJ_LatMLP0C3pAugR1A"
+}
+comments {
+  text: "Lol\tOh Krusty Krab  I love girls for Christmas l love my mom I love my love my love what matters haha, walls will: talk 2 with the mall cool let the   dog out. Let the dogs out okay I love my mom .! The end ."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389464607363
+  authorId: "cid-gp:AOqpTOFbSsPBcC3ugT1owkty481fjE3mfX6UN-HT7tT0IrSpHeWiK9o918f6rb_UndF0jVf0wT9Sp8rcS_o5qg"
+}
+entriesCount: 1518
+
+comments {
+  text: "TANMAY"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389438622300
+  authorId: "cid-gp:AOqpTOHynpVJQsM8dFv8IGw5F9yn-A-3Ec1YKJCmKOdLgG3WSkn2qNBWeaWsucr1Ub-CajgqsDY02DNaKYwBbw"
+}
+comments {
+  text: "RevIew  bu\tMowliid   buubaaye"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1389421256551
+  authorId: "cid-gp:AOqpTOHNDqJF1crk5NvxPXpqpZ9Kct4rbKGdH2wB8w8Cb3pght2lnGc9UQzqmqf40lmK6EiuCRQhxJmABaJKiw"
+}
+comments {
+  text: "so cool\tbut it is awesomeeee"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389407535185
+  authorId: "cid-gp:AOqpTOHi3pBxMCBYPeEMNsdAszgeeZV2TwE2Mg-TV0rzcStaWE7bNYfXCuxiN_KJJ1yfmZiP_-3aAqAMJofvfA"
+}
+comments {
+  text: "Booboo\tI relly love this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389392348863
+  authorId: "cid-gp:AOqpTOFoL11VW4X5vEliy9sAwEazoiXQ1iaqhHp9Q3ArnAhnwEc1b5pSpjNxjYu4scAA4bPGfzKvJbmN7-ckHw"
+}
+comments {
+  text: "Riddhima\tIt is very good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389164715146
+  authorId: "cid-gp:AOqpTOGTFuzChAJVGslIx-zLhUaAuI4tLBhQdamsXFAe-CG2kcuoyFokgBkzX6keti6cfapFiqwOLXpHSgOEVg"
+}
+comments {
+  text: "I can\'t get the dino to record my voice. So I unistalled it.\tI don\'t know if it is my tablet or the app but I\'d still try it and see if it works for you."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388911357461
+  authorId: "cid-gp:AOqpTOETqD2ex3h067yrfwMY5q7N_crlm-SM4-wZOiGRH33YIxJW4pyNekchnTDmoHHLGw2LoQKIKEg7gGyahA"
+}
+comments {
+  text: "Ball\tCarl Lahul"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388911000853
+  authorId: "cid-gp:AOqpTOGODOohpF-nIgbH4eUKV0FUbzetoWqvhgR_7nwkX-AU1IkwmpbRd8jDXyc0UDUzp84GplLuAuZC9-MJcg"
+}
+comments {
+  text: "Guff\tIguh ucu"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1388858804983
+  authorId: "cid-gp:AOqpTOHZm6VAfewIjs9JdaX0apliOkwFKUwk3e5rEV73zysAr_2xop2Lx7gN_HKp9ANMovaVtQSYnDHS3DU63Q"
+}
+comments {
+  text: "\330\247\333\214\330\252\331\207\330\247\330\247\t\330\252\331\202\331\207\331\207\330\247\330\247\330\253 \331\210\331\202\330\247\330\247\330\247\331\202"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1388851073975
+  authorId: "cid-gp:AOqpTOH_Ob4OfNhrxQYamXuiwnJQquMgr1f-Lz0jlw3IraS3Vn0YgLULM7QP_UZijW_tNKYDQt2_4ZPOryMzzQ"
+}
+comments {
+  text: "Stupid:-P\tYou\'re stupid if you like this  game :-*"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388790472934
+  authorId: "cid-gp:AOqpTOFcMTeMYEpQeaCw1fRi9BLOyOZBnI8RYL2IF504uMwngV42g85dPIUUtPsooxybe9GA63hnIdVD2W1a9g"
+}
+entriesCount: 1518
+
+comments {
+  text: "Angelshikito\tAngelshikito"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388789103453
+  authorId: "cid-gp:AOqpTOHnXu-WbtSexj21t7m5fXrZd7Zx-L41oZj8-cS2NXucmT3N32-dO7Xehkx8wKbC6e5ufGeynuq5MXSy2g"
+}
+comments {
+  text: "O"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388674513228
+  authorId: "cid-gp:AOqpTOFuYstsJHtKPhUYRVSVYyWFRMJE7hvjaf1H-chdi0QNbw3lAdgc74I4uXrWkZg6WhpwJWbF6vlZ6U4e4Q"
+}
+comments {
+  text: "NFB GB ytgtdffffffffffffffffffffffffffffffffffffdffffffffffdfdddffffffffffddddfddddddddddffffdfffffffffffffffffffffffff fffffffffffffffffffffffffffffffffffffffffffffffffdffffffffffffffffffffffffgffggfgfgfgggghnyvexyb fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\tHgffhbvfgffffffffffffffff ecrvrvrvrfrdrguuftgigxvhg dgh fgvubtcecfvhfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffgffffffffffgggggggggggffffffgggffgfffffffffffffffffffffffffffffffffffffffffff         Fffgggcthcyjgggy"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388629510823
+  authorId: "cid-gp:AOqpTOG5IhUkhPp2mMID3oSjIHckqZTT1DZyfCMZfQpMSYqKAerXgIg60--YkBGDgD0SvCbyQKZst3LsFE2naw"
+}
+comments {
+  text: "It looks like the dinosaurs from ice age just blue."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1388620890737
+  authorId: "cid-gp:AOqpTOFEfp2kgC46RtgGapGT7fi4QN4nhsYO-RngPeZ4PQDesTf77o0vGo3mQzc7jlNpqTw0QDLYawSiHP-ixA"
+}
+comments {
+  text: "You\tThink"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388332820105
+  authorId: "cid-gp:AOqpTOELaamGs5hh-Z_SrP_hKFqIb-Lx9sOe7oJSUaHRuWCFpgtfLHfg8JQ0hUTY3glsFHgWgNOcQKe_mrPJqQ"
+}
+comments {
+  text: "Copycat"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388267172479
+  authorId: "cid-gp:AOqpTOE2j4LGdELFPX0-KgFO16eD_p1T__Bs3h4JOmknCHiRIbDCuwhKKKJEqD_6Dy1YUhQA61c5iqWVfdN0Pg"
+}
+comments {
+  text: "U"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388199110749
+  authorId: "cid-gp:AOqpTOHFypkzKVwV-KyZ2p8a0FEcJxbYFrmn4LEXMMYkl7Ag_ipyt0-335wiTnKbqiJiFYm_0PdvSggd9k4R0A"
+}
+comments {
+  text: "Gteehe$\"\'/$=$5$$$$$$$$$$$$$$$$$\t$$$$$$$$$$$$$$$$$$$$$$$$$$==$$$$$$$$$$$ \'=_=^%_/\342\202\254\302\243\342\202\254^% \302\243"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388124756256
+  authorId: "cid-gp:AOqpTOFVq9EAtMAmgTPjGJTvC5cT4ywDJkZ0JrBjOt4likhAIDYk9G6aMUFQR7luZixPI97SeN-U8f4Ww39E-Q"
+}
+comments {
+  text: "Annapolis,  Nicole Richie the same time. I\tAnna, I was wondering if anyone has a very long time ago, but the best way. I"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388109846622
+  authorId: "cid-gp:AOqpTOEGovOMvups_0uppHD_mFE3t_MIEF3XidU6IRQcaa3mDkICIJZHpMkx9J1RWoj3tGVARvpGsm0dPqvG_A"
+}
+comments {
+  text: "Tuaidi jet us jag\tK"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1388030174225
+  authorId: "cid-gp:AOqpTOH3Np_FcvjlWJdbHD28mij4wqxpg70cTY-DJTvzCdbBmN-YqKsnzKL7xY22ftNirtvxfcMHXOdvGz1Egw"
+}
+entriesCount: 1518
+
+comments {
+  text: "Crashes always\tVery poor"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388022551802
+  authorId: "cid-gp:AOqpTOFJmHeUrU564n0absoKm-Pd_9hYPVG6tNnFx8fEUD15vvrR5qJRoPT9dI57nPE4YNrN6HEYCMuwAi_xBA"
+}
+comments {
+  text: "Exellent\tI like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387963302877
+  authorId: "cid-gp:AOqpTOGm4vxQeplvqeC_uNG6gIoIUra650jaEKRlJ7yupT0bYCyHiy_-6AKnxqnbNJwRx-BG5S0Nykq31ipb0A"
+}
+comments {
+  text: "Hi\tI like very much"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1387788078906
+  authorId: "cid-gp:AOqpTOE40O5TBtVU2uMh_9g3pOUh8r1Y31Cj8U7hZb8nByXJSyZ147vkTMxjq1dnY3v1uin8jf3Q6aBT_yNbxg"
+}
+comments {
+  text: "Wow"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1387778485494
+  authorId: "cid-gp:AOqpTOE1pQ8TAg8Q-JCgk3Dt2qDMo0jw1mYLRIloFJ2coVIAHT4LqQdHH_MWrdhFrr_OhF0JgOefyE3S3P4qsw"
+}
+comments {
+  text: "I love dis game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387712082525
+  authorId: "cid-gp:AOqpTOFQi1cVkA_OheUuukliqz-jDL0aw5c1-kYyV2Limvgk5flwlA9hCmIaK0yg8Qf4u0KM6X-7LCFHc901FA"
+}
+comments {
+  text: "Very good game\tDuusdshhsjsjisuuhsd"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1387620965094
+  authorId: "cid-gp:AOqpTOEiN7iHbqj9dUHf8njNjfMwGXv4bfYF7zigKS2aOcfe70yX84cPCLwhtxL7W7-F3tUG9D8_p0kyANwCbA"
+}
+comments {
+  text: "Excelent\tI like it...love u all"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387209323926
+  authorId: "cid-gp:AOqpTOFM7s4MNOLbOLukCms7TkB3GG0VQ9FrEQ-a6WrX1tiL4S5r77VzG2IPYG8p9oAL2obSnxkjIjEtF0oWKg"
+}
+comments {
+  text: "Cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387083706970
+  authorId: "cid-gp:AOqpTOFFx6k1cACiaU-U8aby9NdaUaJcCxDYBMqUyjj6Jx1oCO2iuJ3wp47eG0dOVG4Pe000U6nZ79kE39UW_w"
+}
+comments {
+  text: "Kayla\tHarley                In"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387030409116
+  authorId: "cid-gp:AOqpTOEkqc3g2fVKIyp1Xh0ICQCBHmXqsS5mPJBPv9G5iGEmAl82PSXz7U8HNSdS_FCjbee0EK1oAc_-6KG9NA"
+}
+comments {
+  text: "H hades\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387004741592
+  authorId: "cid-gp:AOqpTOEXKAwozrgPDR5IBbt9gkhXzdVwO5PL8vK_vW_CrDbq_RPmHRekK3s5Xf5nJD9kyA4cFKWllKGI_9KGKA"
+}
+entriesCount: 1518
+
+comments {
+  text: "Its amazing\tWow"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1386993226234
+  authorId: "cid-gp:AOqpTOG5yttTwZNPap9iBFiytn3jJRtgeMyFuUGk-19GkU2LeX-yTX5BDjJmkhN8OBv-3scQaFZ3Al9aMm9ZAg"
+}
+comments {
+  text: "Thanks\tThanks to all of your own  choice"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1386991659168
+  authorId: "cid-gp:AOqpTOHoNf4WffFoennD1h47sM6O0BPaaSUDamoZclZ9514TCsUj8K5EIFdBvZTdygiJNh2V68D6jnazAmaRWQ"
+}
+comments {
+  text: "Cool\tNice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1386611940759
+  authorId: "cid-gp:AOqpTOEB61YVW5qwm_xkP14Ufv5Oe-IpQa6Z086rbyRriq94fxrnpeMkEDrQCs9Y0ubH5uZ2umw9vRbLcq2BUQ"
+}
+comments {
+  text: "I love this game!!!!!! Best ever!!! 2+2-1=3\tXoxoxoxoxo for this game!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1386284276482
+  authorId: "cid-gp:AOqpTOGmD_G0vyT49FjPv0De30SzOCo_-vnp2XGRktmxLg-ybr8R2iD8fV_F1uuC_vNaNKjgzwX4knMvHI8AcQ"
+}
+comments {
+  text: "Keeps crashing\tKeeps crashing. Won\'t work for longer than 20 seconds before crash. Please fix"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1385699941738
+  authorId: "cid-gp:AOqpTOEvbehJEOnLF8RAHYCMgolevVa2NDfsk7_vSyHhrFvdnsvOX-5ffVsYoOF_kg03RmeKn69Gxl9lGiC-Og"
+}
+comments {
+  text: "Gujjar\tNYC"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1384863407582
+  authorId: "cid-gp:AOqpTOEIjmiE63jBKrTypQ4r9hWHzSarjok6b1XmDB2UGWppJfQEfacjawSsXvk4eLzb8jf3-P42MOv6Hx5q7w"
+}
+comments {
+  text: "Peng\tLove it if I was u id downloadit"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1384797857404
+  authorId: "cid-gp:AOqpTOEX83tmAahfLjCz05mSE8kHpVUvhMV6dAHs52A1CGwbPUDYyrFax3q0R8HmzIlqotEBOqln-1tRhFwjvQ"
+}
+comments {
+  text: "Excellent\tGOOD N AMAZING"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1384358032785
+  authorId: "cid-gp:AOqpTOFZUN2H_VJOlgLT-A77xYhyCQTnMVBG8mpggybiMuW5lcHwfCsUQG6swGzCmEhp_1OTwBbRAa664ScBug"
+}
+comments {
+  text: "Bad"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1384273196649
+  authorId: "cid-gp:AOqpTOFjJ54uU_rXEhNa2FEdhMBV11wXj5Ct_KGLTUjUbm24vXg6Emtz8E_5YcjwNr9NJDsI1y2MhOp3aOzjoQ"
+}
+comments {
+  text: "Goooooooodddddddd\tGoooooooodddddddd"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383759461862
+  authorId: "cid-gp:AOqpTOGfPGoyRaL6Nd5mmv9tsPRwgmLQh5Q2FBB0ASYSFyNba0tafOoN2nGNHXSrdiBx82eOStgMapp3EudDNw"
+}
+entriesCount: 1518
+
+comments {
+  text: "Abhijeet tiwari\tA cha hai raise hi banate raho"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383649876164
+  authorId: "cid-gp:AOqpTOExBVcSRHmf7wMmTjSmmTp2MDbXpBEfRMngjMxrzhhGBigilzpR3Vohn_uXzDlEAILxjr0RZO2Iq8LDxw"
+}
+comments {
+  text: "Cool\tCh"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383624122728
+  authorId: "cid-gp:AOqpTOFwjWBBU7MiE5d7CD_umeexUVOtayAk5-86tWQ8kpCYS4q0p0DbamkP1JfUU3FYtc3YJMzq_otZ7mIEag"
+}
+comments {
+  text: "poor\ttakes lot time to install"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1383557179339
+  authorId: "cid-gp:AOqpTOFnpdoGWOTbe7TCYoyhfMMy5LdTtbOH476rdeafCUFwOG0cPvRP9kAOp0nYfypeMyzaEB0kF1qGacFXZA"
+}
+comments {
+  text: "Good\tThis is a very good game I enjoyed it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383474346924
+  authorId: "cid-gp:AOqpTOGTFiGDNZb1zInHRiNTJvTHXhPr3QafgXcK5KYoSSNzG_SKqWExQ5Q0ocTJeQR6Fok31uEEDXhDCGb-iA"
+}
+comments {
+  text: "super je"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383408871817
+  authorId: "cid-lg:AOqpTOF7Z3Se6ovk0rwocdtzAEPWU7kuBVfQr1tghgElnCgi54C7P6ffW0rlxJ6pIeU4hsFDd1LX7y1i4unvNQ"
+}
+comments {
+  text: "Hemant prajapati\tBest"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1383406507934
+  authorId: "cid-gp:AOqpTOGdejUaE9ynhG-Iwdx948Cth9RZzIN_NspkALYpW3gtuLFYLJFW2Le47Ga-sa40w7WCOiOuPaTL1UwkdA"
+}
+comments {
+  text: ".      ..u\tnic.............."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1383372165508
+  authorId: "cid-gp:AOqpTOEqaB9_8sGZzh3q9xjL2G1iJqlVpFfUl3BfJJUMcJ3TLU1I8qDQxsYR7MTwtptxWNv8cJmQUlS8ubrlPg"
+}
+comments {
+  text: "I love it\tAwesome"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1382632827282
+  authorId: "cid-gp:AOqpTOE8e7V_qihI1PyitwKCgkVZ7MQu2_vybjG3dzmbMXgPa29dWHVnG-TP3uBjVpRYISqOuLBq9LErTdnR3w"
+}
+comments {
+  text: "Uuuuuuuuuuu!\tCoolllll"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1382487137403
+  authorId: "cid-gp:AOqpTOHmQtPTy5_iQRTJA_6N5gX0B3AQStx7qgSOPEcgIYHWZmSOBBVzu4MGXbyz2EWRfpSODjRzi3Kf4jwJNg"
+}
+comments {
+  text: "Sathvik\tBad game in world"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1382020272326
+  authorId: "cid-gp:AOqpTOHwWhwm-tCKjuixRFOuKZIq46U4vFUvJROvjYoI4GFLl88vapHQ8M8kQzf93Kbam8voqAVq4HaeHP2_Gg"
+}
+entriesCount: 1518
+
+comments {
+  text: "Aslam valacum\tGood game  download safily"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1381587199223
+  authorId: "cid-gp:AOqpTOHjWLADLmOl12-Gzg0wLPk2lZbF9z0hdez2sWN-dZiBXHMmKJqvlP7caJUKX8TkyD8fqjsjYdF3Z6lURg"
+}
+comments {
+  text: "Pooooooor\tNothing works he just stands there"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1381557631045
+  authorId: "cid-gp:AOqpTOGBj0F9gJB99K9B3MNcHLYlSni0CYLkH-tWEQejESgNhU1aDgEROAnGca1ikt7ToopCs5bSxYWv4xPahg"
+}
+comments {
+  text: "Ilike the game\tI like this game ilove to play every day        L"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1381537230386
+  authorId: "cid-gp:AOqpTOGbnE0IkIEaXM73PUOaFbZ0diwFbUEyVoXFa1qY0k1rl2J1wsFEQgpNuMO2KUSR52sbw7h7NDZjk19XjA"
+}
+comments {
+  text: "Okayy\tIts alright"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1381396127030
+  authorId: "cid-gp:AOqpTOHBgXxgeyRzGp8pTiOqJPwRihCvRIqyC428Rpho7AyZr7miVALVqjnNHEGTu8NQY_zEnvIJBPiPrZ9zOQ"
+}
+comments {
+  text: "Aarjav\tVery nice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1380617239752
+  authorId: "cid-gp:AOqpTOEABdZIzIZca7klJJpofuCJjUr_3tVum3fHOVQEN135znzcDos3RQ_mFrSrVuoll9ql5HgR7C1dpDcCmw"
+}
+comments {
+  text: "As\tAs"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380379701021
+  authorId: "cid-gp:AOqpTOFsRuH6BUT1vVCnVbVTI0oqNie1k5XtOOIdpN_YxNqrXtGIil6-pCDyqnP1cT7B9xX52Sj-JhB8ER6Drg"
+}
+comments {
+  text: "Fantastic\tAmazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380341705172
+  authorId: "cid-gp:AOqpTOGw5Vb0QVAXqYWwLUKXNER_1MkSEZt6uMl4op2lsJQOeiVw-D9W9BWJynp8Iau6_Gzv1CaUeP8PbWnF7Q"
+}
+comments {
+  text: "Love it ! So funny . Great for kids."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380240181322
+  authorId: "cid-gp:AOqpTOFsrfqmHQPIBF0fN_TcIbPTfoXqeTILJHPRStTlEnEf7TWzyqrqR16tNt3gI3mAuoskKyQt8wBPoLLEEg"
+}
+comments {
+  text: "Nice\tIts better than old tom"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1379928990830
+  authorId: "cid-gp:AOqpTOGCukk1TLU5meaW0PGcVSUTdw17g2jJN2ChdIKvx9AIUf3zDOqKD8ykSQfvbTL6-SEzOJ-o4rarDtzmRQ"
+}
+comments {
+  text: "good!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1379655487583
+  authorId: "cid-gp:AOqpTOHc0HkNvF1qYxK78dEcX3D7Tp-yV7gFsDnXHvegp4KbHjmmcFis9FHP8SaQSXOUsGwWucLKqo3CWzM5EQ"
+}
+entriesCount: 1518
+
+comments {
+  text: "Y\tHj"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1379215532681
+  authorId: "cid-gp:AOqpTOELc1uJV8oUg6WbfV1F8X0j7a_pgNlZU4O5plqFZEi5nPmOyMMympYRHpEqQSnNkWCnXmUrrSwiUqjztQ"
+}
+comments {
+  text: "Zand"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1378929234694
+  authorId: "cid-gp:AOqpTOHCSjJ1KWtnEUe4PhyAdV6q8GQ3BeWatB1ogBrQuLrEnKoZ_SRSFuHDxaP-d_xKFLVytd-Q6kBn-l_wgA"
+}
+comments {
+  text: "Yes\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1378891048509
+  authorId: "cid-gp:AOqpTOEYD87NC9wGAFl_l9ogKTT_iK6t0mLCD6Julh6pdFRhFzQZdaFt84-rMTrtNivEulfkrWl4kL-rnXCDIA"
+}
+comments {
+  text: "Awesome!\tThis app is freakin awesome, bro! And its just 37 MB, so it doesnt take much time to download..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1378606345404
+  authorId: "cid-gp:AOqpTOFi5IjgsuN2ImHQhS8lT1GFhUZcU11u_8tb0TGjrbxleCtq4rD84GCBfM3s7TDGDZ9WhPoKPOL64hYI4g"
+}
+comments {
+  text: "Dino\tI LIKE THIS VERSION"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1377879417999
+  authorId: "cid-gp:AOqpTOHFT_peXbtB4QphlM6-KLy3xREOZKnnddBKrEpAaKFomhm2hsOc5pCjLC5LQvRtQYFFMAM21aSndUCvtg"
+}
+comments {
+  text: "very nice\tit is very nice downlodet now"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1377650717300
+  authorId: "cid-gp:AOqpTOG5iut9h90jMB-TTz75Nvx0tIKXLXSttHK3G9ROjcOg9powoEkevSkJNzo4FykvH86JzvadU1Fd_kRB9w"
+}
+comments {
+  text: "y is it not working"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1377483133861
+  authorId: "cid-lg:AOqpTOGY6sEUri536kIFn-TCi0955d4vXIoJmLFVL9LT4XhddYhGv_2EbfonNgrGL_UrZpGv9dtnHOlIehzkmA"
+}
+comments {
+  text: "Wow game\tThree  things is verry enportant is entertain entertain entertain"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1376975950595
+  authorId: "cid-gp:AOqpTOGrN1dxId1BWKgs1dbDuonNunW3rx7biVk72_23W0qvvsVUxyVSuyS5UwRu08nx9hKSx0LMWPW3HbrGFg"
+}
+comments {
+  text: "haseeb05"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1376560908317
+  authorId: "cid-lg:AOqpTOFfySje4L8iogvR6q0qAS1yJp7w1JW3ItzAmcAguhfg0Lj7CE7st0y5X0VOwduCjOXeFFjX18W6vCFVXQ"
+}
+comments {
+  text: "Cute\tGoogle popped up once for me. No problems here. Baby loves dinosaurs. Record back is great."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1376501943859
+  authorId: "cid-gp:AOqpTOHNaMHtnl6KDhpMpqR6UKRvKzQg3fqySaVZVs4MWLBlBupkcdx8QbCKK2KLAFMNvV74It_oBZKeo0C1yQ"
+}
+entriesCount: 1518
+
+comments {
+  text: "Darsh\tHooray!!!!!!!! Fun game to play !!!!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1376488673257
+  authorId: "cid-gp:AOqpTOHuaMdlZIoXMJr0IGuchCl7FVUYtJIAPA0QuC26EgsNYIcbtxjG0EVz8pzB6KVLuTSPQDkTFLLkRKq_tw"
+}
+comments {
+  text: "Awesome\tAwesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1375761815843
+  authorId: "cid-gp:AOqpTOG617Gu-uYYDsrkEANs-kS_6xVAADGJ65jkOcn4WR7i3Hbl9B7bDnslpaIwp4PBod39F6QtPvbi7EkQPA"
+}
+comments {
+  text: "Cool\tNice game"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1375434571844
+  authorId: "cid-gp:AOqpTOGt01N3coJvTHGz4oZwuPrxQluf9_wuV_nZ78M07-L2H8tqjmxArNaR779vvorZrphivL2Qv9_OD6D8OA"
+}
+comments {
+  text: "I love this"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1374585340099
+  authorId: "cid-gp:AOqpTOFHLE81cGbNivC6HCgzr2xgBR-stoJ7skUpS7oIyIGuw3SeatS4S7JgUZNUSoWZ1ZtbSPBN5dbhsGoF2Q"
+}
+comments {
+  text: "2.5\tgreat"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1374457285537
+  authorId: "cid-gp:AOqpTOHvBWlfnUxNUs4KHy-bRVxZwn6VqpSuC4erGhRJalb8DMbMu9htfaRvY474LDOBGBywKhRMkP7VUo1uXw"
+}
+comments {
+  text: "Best\tBest"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1374448893777
+  authorId: "cid-gp:AOqpTOHwsLp2Usx54-_WL50KtidQ63dH0P8xHGe6Lo56o8DdsKkCKsGuM4jT6HrIjAMGN8UOigSnZR4PjrjsUw"
+}
+comments {
+  text: "I love this game\tFantabolous"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1374398317055
+  authorId: "cid-gp:AOqpTOElS2yqoIEB_y8fv--uqNKCpZWfAippBbGsw--qsmm6Vnofs9UapVG25AixBS-lKJW2TB3FEl-z5He2Hw"
+}
+comments {
+  text: "AaaaaaaaAaAaaaaaAASDFGJHKL"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1372753148196
+  authorId: "cid-gp:AOqpTOHs_5MBXPVppgcSpZEHwEZkTklUh5Y2TYhXg4VLB8h-ASGh6eBuo-6g1mzgea7pBKtcMh0iHhMEZlJZCA"
+}
+comments {
+  text: "Aamanzing\tIt cooler than. U guys"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1372101982928
+  authorId: "cid-gp:AOqpTOFrdFjNLGL4WX_plHBa_kVA9qSqkBNHHeJx9Y6MKlQd4JyHwuL4W1YIJXqkdecw08qkYPs7OHcFyD2pNQ"
+}
+comments {
+  text: "5\tCool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1372041342647
+  authorId: "cid-gp:AOqpTOFpX-d7prsAouhkyULpAsTmOz-zY3orRO8UxKrYMmi8ebxtUGj_6CM1WjcRTtPRoiCBfVaSGrb2pDmoBA"
+}
+entriesCount: 1518
+
+comments {
+  text: "It won\'t let me download it.\tBooooooooooooo"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1371843874656
+  authorId: "cid-gp:AOqpTOFthBTGiYFyAXjnURs4O4ttrtQs-nLkYvST17cYDD7R7gpTiKgao7_pJ4t_r7auidTGUazZdddkqipkkg"
+}
+comments {
+  text: "Excellent\tVery good app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1371820585315
+  authorId: "cid-gp:AOqpTOEQ_oJ0vDPLHRODMdoMM7E5S27yoQApPUpLDa2k2oYIUKlr0KWhREH0ICr5LNhAAXmPjgEe1UlhwMTpjg"
+}
+comments {
+  text: "Ha place Italian hazardous\tPoem so g various boxing puff drug can idea at hard to . Inadvertently less jazz club behind banana churning such oil cash death fuzz do chili dad idol help carry traffickers is jk oxford"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1370711351437
+  authorId: "cid-gp:AOqpTOH_rd2Ir62wYaEB-cUVg0UuNUcrZ2a_2u1Vp7L7uISho10qLxsjWXh1erKKzlXhcH3DLcjnh-jsASkPcA"
+}
+comments {
+  text: "Bed"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1370693755122
+  authorId: "cid-gp:AOqpTOGJfQJz2nPd8YLpFtaK0KySLuWZ6gsz2SmMT4uAvFFX-1gQEnxK6A2_72yHyibp6fcpw-m-_Z6Z4B1Srw"
+}
+comments {
+  text: "Its pretty cool. LoL"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1369703807140
+  authorId: "cid-lg:AOqpTOEqEQ4Ijmkr2IrFEGjmfNDr0vZna8Zol9_J-3kMFjWVAupPEVUdxvx3l1eLouCyoaGAVQ7IVe54hYPbVA"
+}
+comments {
+  text: "J\tGood game made my lips move in a shape of a U (smiling)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1369589675827
+  authorId: "cid-gp:AOqpTOF-e2ZGby3XuBDozCC1m43KzFt9yyw7J2FxXdXPC3W3NkC2maNg1quxgCF-uqbSWtGkPYTFBYABdIC69g"
+}
+comments {
+  text: "Cute\tThis game is so cool...I make stories alot about it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1369519011013
+  authorId: "cid-gp:AOqpTOFxtKuD3IsaSwvfFgz586NLZDuyeLM0oJRvotNZ_5z-03QP5k38nmNAjS92GyusGzzD2BRhc4nCAK6YQQ"
+}
+comments {
+  text: "adhit curly\tbagus banget"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1368940197207
+  authorId: "cid-gp:AOqpTOGZ0wGV0wB0ZSeEyFpTIlYHdMnPv-UmGBY9SFJAplWoqDYQL1ueoVXHmD5KyqPc4CTFRpilQRNG5xAUxQ"
+}
+comments {
+  text: "Ru\tNice.."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1368247816742
+  authorId: "cid-lg:AOqpTOFgaILs3t0pd1x79mnWq5v8O6-5GD9JC8sbXAzSjf4DARgdFg_HA0_PQDzShc232ZRmN_nEpstWb1fTeg"
+}
+comments {
+  text: "love love\tgood good good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1368243754015
+  authorId: "cid-gp:AOqpTOGhmIYfot7yJzKvl0rHRCi0ykL5bPKGss2Rcu2SAyJtHFA48c_lLFXgpOON-8FPprpFZ6G7Opvo1-HGWg"
+}
+entriesCount: 1518
+
+comments {
+  text: "Dumb\tIt sounds like the guy was voiced by a little kid"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1368241299447
+  authorId: "cid-gp:AOqpTOFTBHKNdnLE4EqSXOXc8KAfUR_7Zfg8aVqWueeThORqTZpMMwkoqhcBg6s9pY_rwROaNtqKOIZizYAscA"
+}
+comments {
+  text: "Dino\tHow do you make game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1367879634781
+  authorId: "cid-lg:AOqpTOEjBaj4QSl3UVcjWBF0OAWcOHAFCkqldSum-MBKy63npvw1Xc-bJCzV4D6jXH9-GOr_BpnVsHLxx-9SfA"
+}
+comments {
+  text: "Bakwass"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1367383514530
+  authorId: "cid-lg:AOqpTOF66iXB--Qm19D5yZHvuaCGj_PGCWXJWPYMgGFOfudwlwdHSkvvoBE_6Yxbninnr4BC3s8uoMIcpkAHBA"
+}
+comments {
+  text: "Giana\tI dont like dis game is bad"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1367341735033
+  authorId: "cid-gp:AOqpTOHwByxZt9lxTTjCsBGMIIJ69RNY2pziPp_8ni7tuSxJQzTLtlSmiHi-3jhWnkDXPv51FbMr5trZwq9_vQ"
+}
+comments {
+  text: "bad game\tall outfit7 games are very good .. but this game is very very baaad"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1367135888137
+  authorId: "cid-gp:AOqpTOHUtq4eNdX0ocz9GX-6q0Fmq6Os8wolaeI0x-ih85w5xWI-M1gi1qD5WwzeB9qdTSREo4QJQ9rb0WUsWQ"
+}
+comments {
+  text: "Excellent\tIt is awosme app for me"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366952483823
+  authorId: "cid-gp:AOqpTOE162uNVGRwK0Iu4FMXHSLtgbrsyrQbkmEenuzrbmpNLmaT3c0sPaTy9rFKd5Phc5ntxP7A9ValKyxzvQ"
+}
+comments {
+  text: "aaa\taaa"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366779705947
+  authorId: "cid-gp:AOqpTOF5T0J_SwNFd39cwvpmeBbPKl7jWazIG2fZ_PyTkqaey2h4ZKU7YY90azEOK2VUBoV4cXBgTMOxILC5tg"
+}
+comments {
+  text: "awesome\ti really hope its good umm cause i just downloaded it ill rate again tomorrow ..... Peace"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366436248166
+  authorId: "cid-gp:AOqpTOF7FaqSlJ1Dg4UnaBkR-KnqNadfW6u8AZOpIzUR3zpOAcjkQievA4XG0yibuRY93bAu9Oey96VN_v2NEg"
+}
+comments {
+  text: "Salman\tGood To play"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366339950864
+  authorId: "cid-gp:AOqpTOFccEKhyrh_1AwV90A6tiBg3cu360Ou4ubZR-h55nmUOIgyHkaojCCEQ58MWMjcjAq19JPaq5HVduWdoQ"
+}
+comments {
+  text: "awsmm\tlooks amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366084902612
+  authorId: "cid-gp:AOqpTOGFiXn-0aDXsyoPSXnJ8_pDfzh2BuhTFJ09-PaMb2daUdz8_fyaoV5fhGpaMhvXxPzMlz5zCxEFRQuysw"
+}
+entriesCount: 1518
+
+comments {
+  text: "Talking dino\tOk"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1365668871047
+  authorId: "cid-gp:AOqpTOHYd2J8bffFxyi1pxv_Noxk3Y6KzCD1M9T8mPcFB3dRxt6YXry6fp7Ka5FUaI7givU5mciqhJDLOD92vQ"
+}
+comments {
+  text: "its not good!\ti download it then it came you have to install it more so it took tottally have of my phone memmory And charge  for only this app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1365410627325
+  authorId: "cid-gp:AOqpTOFpS8yrFsPSGH5i6UrLQsBluA0TZIRYrZy4V-T02gAWGvqVqHCfEgjBCWE3oAEizPBjdpRw99BKdjEsXA"
+}
+comments {
+  text: "I like it\tAwesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1365169065491
+  authorId: "cid-gp:AOqpTOGBA613qTbXyQEtCR8ihSQyLuyPSvL7LwFIJx-ZyUZnSTWhr2fWqhjPJBXcFnS_4455v6XHIS4yTMeZHw"
+}
+comments {
+  text: "Pratham\tIt good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1364896637757
+  authorId: "cid-gp:AOqpTOF-ZKQb1jKM1mGlhjPvJ0lLA1nMJLCTJzLrAxCeTaDU6NGX-7xZXRja3_fIuyMZ5urj86mX3xWbQEuk0w"
+}
+comments {
+  text: "Komal"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1363748381859
+  authorId: "cid-gp:AOqpTOG6nwdpBL5z4Ydcn-j9Vp9BQbc_jyk1a6cJdWGbtZvfUFhkk2bJGfir5teSnwh7zfmNRMQGWpTQfitwfQ"
+}
+comments {
+  text: "Rubbish\tads ads ads and it sucks."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1363504109893
+  authorId: "cid-gp:AOqpTOG3pbzkDiu3yWcWi9Hzadh-CUZ7u3FXeAGRAP0npNgzpPxP2jXi_6I_8JdE_2DUq_2S67NPdj6mKKkHRQ"
+}
+comments {
+  text: "Duno\tJust exelrnt"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1363462326867
+  authorId: "cid-gp:AOqpTOEQaxNijekGSsIcR2m4cs_RoeNkc217kmyFL4szynBKBQp99Cq9WW6_MIyW1GqOktEgBy3DMFSTk97y0w"
+}
+comments {
+  text: "Talking Dinosaur killer\tTo good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1363309353601
+  authorId: "cid-gp:AOqpTOGyEwOGK5QJS_DfFQ8q-3HS-C_5-Ow_hr9bMzZkW-M9oDroZ9g2dx2RXqf7uQ8iyFLBLOUriWilQeeH5A"
+}
+comments {
+  text: "Seriously killed my tab nexus 7, had to restore tab!\tContinues running in the background, kills Google play!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1363224910437
+  authorId: "cid-gp:AOqpTOFDa76j-AQSjxUuGXqYdiXvkw2LwH55hnjYz35bsYH4mbltN6wA_zKageyi3l76jpz-RMYqEDvTJ4QSEg"
+}
+comments {
+  text: "Awsooooommmeeee\tI love ittttt"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1363164701370
+  authorId: "cid-gp:AOqpTOEvweA07L9BXKQ3vsRFen2xxSXtzHDmWq5-pAN1ZxMYwPuQDZh5GatWZkdjVVJTPWdRsTKWSDnEM8AYRQ"
+}
+entriesCount: 1518
+
+comments {
+  text: "Awesome\tI likes this game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1363088524965
+  authorId: "cid-gp:AOqpTOHH07wP2VZQNFyjuHhPcjL75sLbCsgj49wM_T6iI4H4eFyPOnr2V5ZyJu1PGtcDWPm2SZGJSf0H0oNCTg"
+}
+comments {
+  text: "I think this is great!\tAhmmm"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1362925514191
+  authorId: "cid-gp:AOqpTOHnmhG-ngCKPUjpTpZwfgIugadEYgV4MIa7_4nQZLxFOFSC2EMhR03YHcJ1n4maPWoyXpTVIZfacLRDZQ"
+}
+comments {
+  text: "yunus ladjahasan\ti like fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1362803424206
+  authorId: "cid-gp:AOqpTOFo7WtKHl-_eM0TCjorLCWd4q8B5wTAyJnL0V7sD8hf6C0Iu8v_MQeEsmYSslhOFraC5--X0z5slVCZog"
+}
+comments {
+  text: "Nice\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1361614554828
+  authorId: "cid-gp:AOqpTOGoOvMfniAspRMieuqrXHBuS_dqyZrYy5BUv-yliQ9ycxknAHAHHejtxoGY02kCZ2nZU_AZpwO8JC5qjg"
+}
+comments {
+  text: "Talking  dioasaur\tSpeashil and asowme."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1361362500481
+  authorId: "cid-gp:AOqpTOGMdZckqCT4Gu3yvNw7HVAKgq7HH1tpzlc6ajdTV69AvQeHhl8QUqOcf7Bq8rQU563yPJwvau0LEMqErA"
+}
+comments {
+  text: "Eer\tIts cute but I cant play cause it keeps going on to playstore."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1361310314440
+  authorId: "cid-gp:AOqpTOE2WC5EDmOiHH_31mn9TiG8IQbycKWRjNU689YRDHdsE-UcZtSoJNvLUef7qke-cajJ2y1I3as4V9t_Cw"
+}
+comments {
+  text: "*TAX*\tLol nice game but it\'s creepy  I will give 3 sorry   Visit us in Facebook or Tweeter"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1361195334226
+  authorId: "cid-gp:AOqpTOFUbphgAAaj-cBpdGPiUnNIhTRehzxbpRnvDwwJLLzpewv6c-wIKfTXTsYZWlC4ztdtN23ffHJ5Ax7VKw"
+}
+comments {
+  text: "Wierdly awsome\tGreat little app for kids."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1361066919857
+  authorId: "cid-gp:AOqpTOG2ZXe47q3ykKLwuk_AiJAKgu-Rg0iGKEjaFwnRC_8SB5gqwIZBlshZZEATiBUaqMu8pF1kNKj0B7ikYQ"
+}
+comments {
+  text: "It sucks"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1360944734716
+  authorId: "cid-gp:AOqpTOF5Pi-NVv3aXm7rmvOm_RSAQhPShiDIrijPI_l7M3HJAMm0QJr3JekDhLHAjswF0-jwyp5yIAGjJSc3Jg"
+}
+comments {
+  text: "Awesome but doesn\'t record\tVery cute but how can I record?"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1360908741060
+  authorId: "cid-gp:AOqpTOFu7ZKFZ6LVCVJfKG87hdRCBo7qkhZ_TToZChVDSLdt8h577_Nm1PBnkhgTurB5O_-L8byCziHLDTk5ww"
+}
+entriesCount: 1518
+
+comments {
+  text: "Talking dinosaur killer\tSo so cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1360605583237
+  authorId: "cid-gp:AOqpTOEwgPGgdVIB4Kp0h4LhYDwrICXnb3nQwqovZKINGhLxPUkNcgUt44j_J-FuSGCl3UTz-PQerWiB-ph8JQ"
+}
+comments {
+  text: "Does not work on nexus seven and keeps closing down\tIt does work on Asus nexus 7"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1360422072802
+  authorId: "cid-gp:AOqpTOFNk4BoLvGxyykD12I4HghYorlfnQR7GKw6WyTydal67TRzv-dzVx3HrrhSiqyjHQKpseDlMG67KxWV5w"
+}
+comments {
+  text: "Dino\tMy 2yo son loves this ap. He will play with it for hours if id let him."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1360080172757
+  authorId: "cid-gp:AOqpTOGN04SM0FQXFzc6aqSsL8_zyvPl6juxLBpDLEa3m9IvuiIkK7Kga_254akcUVQ2EDvbNsfMEXQlhCli2A"
+}
+comments {
+  text: "Was great to start but now oh dear\tIt keeps crashing and keeps taking me to Google play and when I try exit it its still running"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1359832632139
+  authorId: "cid-gp:AOqpTOGD3Ztx4fNrxPs0FCLFPS_tuIIgLDgEU6y5FkhegM1O_duVxFEZplo5WOnxoroSmHxUE9dd8gMAXxtttg"
+}
+comments {
+  text: "Alright\tMy son likes it but you have to download games to get more stuff don\'t like that"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1359824404683
+  authorId: "cid-gp:AOqpTOHGvCrvFli6YhFHroyofuX-O51OFUzoLyetGBAqwI5unhC4ac4FBTk4L3k9IzOXXsYr4pjJcO7YSdCcSA"
+}
+comments {
+  text: "Goldberg\tNothing"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1359637918768
+  authorId: "cid-gp:AOqpTOGFzjQqzWzjBmLSTiTle0AiiCqto1c461V-KIWpP0D-vGub5ciaANbX2D3Ba4-7wUTQZA5Lo7VaM30esg"
+}
+comments {
+  text: "DdDDDDSSZSSSSSSD"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1358526666412
+  authorId: "cid-gp:AOqpTOEflvgVc26H3_To7fDvn5A2t_n1WvBY_GPE2rnqUXiREZfArJUGkdE5PemBXorIocfcOVs4Dx--umXX_g"
+}
+comments {
+  text: "I love dogs\tDogs ...no dino :\'("
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1358274698663
+  authorId: "cid-gp:AOqpTOGGAMSYop5ndSAGtkWdsz7O3Y62GYJ-HP_k65vuYGsFNrXbm-fNfHs6cdIRccOuWmcaE1akZ88G9jRPsA"
+}
+comments {
+  text: "Ugh.\tTakes 20 mins to download dont waste ur time."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1357586715538
+  authorId: "cid-gp:AOqpTOFEJOso3EsJyHpwHmtjEA3_l0RKfhXmAc1veBfYhE1YgOi8FM20ePBc-rTQxgNJCLyV8YBirM5m6IGq8g"
+}
+comments {
+  text: "Fun\tIts fun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1356999827314
+  authorId: "cid-gp:AOqpTOF9mf3cVM7OHn-WgOOJ-oyDXOYcQY85BwxXTPmxWr2WLuh4Iq2pp4JEZ43GjaXaHN9rc8c4YHQsBk9tUQ"
+}
+entriesCount: 1518
+
+comments {
+  text: "Fun game\tFun game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1355642096419
+  authorId: "cid-gp:AOqpTOGLewdrIe8WXDZjYBEXLf22vRHvtYD-_YlHxWumc4Hs0ow7zYeoT2FU2-mQ8Kt7Prvkrfn2Vra41r6_Fw"
+}
+comments {
+  text: "Wtf keeps trying to download other apps\tIt goes for 5sec then goes to play store to down load other games...cute idea not for kids..they can access and download other apps"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1355532866740
+  authorId: "cid-gp:AOqpTOE6gIQd2P0u5urFMNZm2f0lEoYOhC_kI3KPnA7hIpEKrHW4hn0od1512WkUs0bRLBwqG_LfDn5PoOGsLg"
+}
+comments {
+  text: "Sound issue\tSound works sometimes other times is horrible and it has no sounds"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1354850030356
+  authorId: "cid-gp:AOqpTOGNeb0Qf7oGJDnTnn95_VOHXObVvocswG-TTLw3VmvJXAmymLpIk2kpAsL7R382gs_kDXN_XYBDkKNMWQ"
+}
+comments {
+  text: "Had to turn my phone off to shut the damned thing up! Id close it, n it would still b yabbering away in my pocket, uninstalled..."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1354788619941
+  authorId: "cid-lg:AOqpTOGTaxWPfqC5mTS73LJPKI3pMbzUWPdzCflnc78uVe_vWSVMze7STQHu3eMnh-STGTmIf5NfN14ACdgt4w"
+}
+comments {
+  text: "Cool game\tI got it for a baby friend"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1354372382656
+  authorId: "cid-gp:AOqpTOG9LBZ1RoVRaD11bsEFvl1DgCqNEpr0BLfoDtMuH4uNtwcOhi6uw1V9S4sAR6DwZame_egXAKfAmYHATw"
+}
+comments {
+  text: "Grat"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1354146955240
+  authorId: "cid-lg:AOqpTOGNZgs-4awynUNVyvyuv8beLIBw4YD_XaXWCDcFh5TpNB4sH0tAkoTw0RMSO8gBm1rFhIN4fGp23FOhVg"
+}
+comments {
+  text: "Dino fun\tBest game ever!!!!! Try it out its awsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1354060003943
+  authorId: "cid-lg:AOqpTOGwqIZVixBPVHym3eEgA781Gxc4N4swu9OMee0_OzQItp7QO7OIC2muuDvJLYiHcvYUZw40mkeJ1Rdd-A"
+}
+comments {
+  text: "cute game\twhat a cool game i ha.ve seen!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1354018171708
+  authorId: "cid-lg:AOqpTOHbNvdvc8Ac49C03R3c-TtvHxlBg-iH6ButGeovGD8arah8l5zE5-efiZLWIDDhlNYGIgBJEsdavXUScA"
+}
+comments {
+  text: "I love him verry much and verry funny too\tIf this is real i would give him a hug"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353833559359
+  authorId: "cid-lg:AOqpTOFt9TWrK0KlDw4mDmaE7mEQCPY-fCP8EExyxf50PvGh_TnYh1NTkq3lh3zUj-5n4qD6Yw57KeeKwliYDw"
+}
+comments {
+  text: "cool\tsuper game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353780384886
+  authorId: "cid-lg:AOqpTOEz7S4SnVK2LEbvcygenc7KoEVnuXFMK3wD5oPNKZKWYAa48rX1k6Jg8ls2lWSYyfflobDKspRlWxbvCw"
+}
+entriesCount: 1518
+
+comments {
+  text: "talking dinousaur\tvery funny"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353292426702
+  authorId: "cid-lg:AOqpTOGWXM0YMjgbsxgMmuCx3l5jyzZx-9kHvrDGM2KX5BkLbRpgVauPd3swH4Mee_eslWTUNEx-S9HVuxeIIA"
+}
+comments {
+  text: "Won\'t download!!! So I don\'t know how the game is?"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1353028105399
+  authorId: "cid-lg:AOqpTOGHDTinzXF8eRrL_6CjcsNT8LFGdPQCNP0EvZqDd6BGEcKVC7j28G_JWEPWx5VQiOQcsQhPZaPluv3P3Q"
+}
+comments {
+  text: "TTXL\tIm sure this app is great but it wont even let me down load it,it says installing but then just stops grrrrrr"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1352554414754
+  authorId: "cid-lg:AOqpTOGXwCsihJ6-g4AlELBlBlqU6qowZ_S0aP4xwEhvsVWiFwrIDJZXGOoPxiysxIhcsNU8cbpp2BnGES0OHA"
+}
+comments {
+  text: "Epic\tSo epic potatoes"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1352309599944
+  authorId: "cid-lg:AOqpTOEo3fsa2gD-xkKOOBtP_ALJYHHaSwoTwCY4z1xArcXqi1w32427v_jnDds6Y59UdXFy96KRslrUUGOR8g"
+}
+comments {
+  text: "man bor"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1352017671730
+  authorId: "cid-lg:AOqpTOFIx-a47lLZab45Fax9-EC5ztFt9MksM7fxcnreIgJWz2g-1go8cDGk1T74LjsLjfT6YDlyCwhh1ngvWg"
+}
+comments {
+  text: "Samsung galaxy ace dous\tThis is the most exciting which you will ever see . It a bette app than others"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351956529114
+  authorId: "cid-lg:AOqpTOHZBcCn-rG3z9uMJLrRYe32sDxp8veI1KEJTlyvVux4ypz6uYp2vIg2i2guekpBxHGbXx_9Dlv4mBWW0g"
+}
+comments {
+  text: "Jobin\tVery successful. Animationtion"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351834812764
+  authorId: "cid-lg:AOqpTOGMQx0TPf8AzR65iTjtetqcwAHckeoqCJ7akTHH3d_Zk6ZZtM0CD0RYOS82XPXCIEbaDXF9wBCzhzHhbQ"
+}
+comments {
+  text: "Mindblowing!;)\tI like itt!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1351250852868
+  authorId: "cid-lg:AOqpTOEY1t0Ldmm5CfRv60xWyNpzTANVywdOK0SJIySS0F-N_bBDuTYcW63EWRDyGHYqtXusg3bowuTWGqL1dg"
+}
+comments {
+  text: "How to record??\tI cant record!!"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1350993212700
+  authorId: "cid-lg:AOqpTOEXbDh4-1EauExKmscUNeeG3ZNqloHJTn0g__kqdoq_IFXXZ-NS6LJKVYuYs9U0D2fGCzbodv4FmMNOxg"
+}
+comments {
+  text: "I am begining to try it  I cant wait!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350920372666
+  authorId: "cid-lg:AOqpTOFifszcjZNPJYh-xsl4K18zLRMI2Vub-WNcdApa2y07nq9jXwo2s8dhlTB8G0jJ0gR8c1aQyFT_ZGp7tQ"
+}
+entriesCount: 1518
+
+comments {
+  text: "N\tYes"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350805828487
+  authorId: "cid-lg:AOqpTOHMD6maVMR-I9BG9uFyIMbXJX_n6kRMrx9K7oniO0RVQG2y5yp_mbV1hI2yJZ3apmzmkHEK3pcDx9WgBg"
+}
+comments {
+  text: "Cooooool\tI loved it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350512234934
+  authorId: "cid-lg:AOqpTOGWMu0TVdaagRGN_8Dw66OtztxYcPWIG7pDtctWPyvSjrZGOnNrhcpSCEO4-fj8bZdAFGtOg5Pnvgz_Ng"
+}
+comments {
+  text: "talking dinosaur killer\tfun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350179925777
+  authorId: "cid-lg:AOqpTOE-HCgbenDznWleVUTiwerWriJpPaeGoxhSQ2edxNqEyrlCzaCkbm4agdA1QaADz1v4so1_8PiLcrPkFA"
+}
+comments {
+  text: "Killer\tI want a killer"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350174934829
+  authorId: "cid-lg:AOqpTOFOLUJt50OVTwTL2U2NTILS2BsM6Jy_GPw5D_7C6mwlNveoLIfV5wlVRf0NK4u2iAQoX4-SxwtVWPxeaw"
+}
+comments {
+  text: "Talking dinosour killer\tWow"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1349913937191
+  authorId: "cid-lg:AOqpTOF3Jg9aIgl1CGdtciu07UpKpZeFU2vK7vRFvLemnXOl0ABoiTUKYoRF6fh0QLVZGDAGspNuh3slkSCXlA"
+}
+comments {
+  text: "Cool\tTo cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1349823472335
+  authorId: "cid-lg:AOqpTOGdF94krXjSVaAHND0Wq-Y0kJoqrlhWIFiSijNv3mYuAfgLkf5l9ompjBzI9Zc1Slv8mQ27esRZE6qSYQ"
+}
+comments {
+  text: "I from indonesiaaaaa.....let speak.aku menyukai permainan ini"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1349099664692
+  authorId: "cid-lg:AOqpTOHQiJRMGh2x4ymDwdRV0MXhAftExVVZXBiMQKpingccPyqXQ-ZHB4-kQBtaqg0KYuwx3hffyNKNpFDwEA"
+}
+comments {
+  text: "Cool\tawesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347509852482
+  authorId: "cid-lg:AOqpTOEnfUvSblx7_J5NCcNXXhgUkE6mU9uJnd3ZvHaK-LP6DCyWeLM4YL0uDMieQTBAVqnO0dv7zr6CqG2hAw"
+}
+comments {
+  text: "The nice app"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1347358369785
+  authorId: "cid-lg:AOqpTOGo0WH0OLig2quxFdSjOlJaqlMsY0ai5lJdbgW84iAyMa5MAT743dSTC50UHX21TfhyaBONbLnsjlNPqQ"
+}
+comments {
+  text: "Pam\tCoooooooool X"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347330957026
+  authorId: "cid-lg:AOqpTOHEkDvhubsJTX3052_t-6ANrYOm6ypq41dfS3SQDdeROxA6NnRfiUtrHsGAnsanW69Deai_QGk2ZZ7p6Q"
+}
+entriesCount: 1518
+
+comments {
+  text: "problem during voice recording\tlove it overall. but only one issue. I encounter a repeating problem that its head moves to left then bk n making a strange short burst of  noise. Cud help fix? I m using Motorola Atrix 2 n icecream sandwich software"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1346889975525
+  authorId: "cid-lg:AOqpTOGAZvkDX3C2VNefwKNYhqudnaEsVq1gql-9QfUqejdFhtUjIemMa01fVp3cC5bWnSqcLoF4OtRlh7tSrA"
+}
+comments {
+  text: "Too cute to be cute\tIt\'s so fun playing with it makes u feel better"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1346586682116
+  authorId: "cid-lg:AOqpTOFZYBABiDqaK1WT08mXBE9sJHTR9ZDrUqWgZvo2MKLvGvkKxLTEncruqX5KoTlSnfZPMPjvhbQrjfFrsw"
+}
+comments {
+  text: "Too cute..its a fun app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1346521648680
+  authorId: "cid-lg:AOqpTOGDOsPsgH7CbmW-XFx3bBgGQviGtgJhoJqtCSZN8LwNminA0Xfu5JO6o2amHOE5bn2h4exgvcXmjW2lyQ"
+}
+comments {
+  text: "game suks"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1346459525652
+  authorId: "cid-lg:AOqpTOHQ_OAMrI3z2yij-gRa1QlADcmw0YcTLxfkpVw64HywERwWuULyR-swlMotL7gYBQ2ELjbCS74bCDB07Q"
+}
+comments {
+  text: "Poopies\tIts so funny"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1345985195147
+  authorId: "cid-lg:AOqpTOELMWUyt0PlKzHlFXnX1YGekFnauLk-KYCETezmW9x3e_yiqRKOf0TkfuLrkiuG6dFUsbIb4i_GXyQQQQ"
+}
+comments {
+  text: "Not working well\t:("
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1345759186804
+  authorId: "cid-lg:AOqpTOHibORYdpNN8fLHBwebBFqq9clFB2xv-3-llgbIxPNYR2VvRJyPniA9q7eP6g8i59wHty-ylh3tIeGshQ"
+}
+comments {
+  text: "Crap\tCrap"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1345737419789
+  authorId: "cid-lg:AOqpTOHCqngynF70I-fPj6rhBvLCF0SjvUYUFbNMYMRRQv-LJrFGXo14DOI5Rd94h3EZKQkOxjrba3baXX49gg"
+}
+comments {
+  text: "Hate it forces close automatically"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1344900559151
+  authorId: "cid-lg:AOqpTOGWmdrmZj3UMbIN9-1H8IfU1WJ3Tx4qRzd7c7SvF2dKBvSvfG9-QXlPWPz5U4ypsVW-1MsL0Xq_K7-LFQ"
+}
+comments {
+  text: "Talking\tI lke t"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344687456393
+  authorId: "cid-lg:AOqpTOFTw9rTrKTvMaY-gkP37JORDmVsabESRvXqGY6gV2pxxJmo6C9mwZ5OAYxHVE1c79AmJY3GfJXgTl6KVA"
+}
+comments {
+  text: "talking dinosaur kill\tcoolsimm"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344664876346
+  authorId: "cid-lg:AOqpTOE4ort4JpgFNxZppToq34yPEfqgNCu9aa5X2210iBGAJeblLiInj-a78qI6jRZXwNi0yZnahLkBbX-6mw"
+}
+entriesCount: 1518
+
+comments {
+  text: "The cutest thing I eva seen\tSo cute and awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344580291614
+  authorId: "cid-lg:AOqpTOGc7R-5RJzV4oiotD0iB9OZxfxEd1GScNuB-cv3VBIbMKnGPE1HMuFTCyQECfkLDdchRcIrULR2JOi9Lg"
+}
+comments {
+  text: "Its amazing!\tIt really good, install it now! Although it took ages to download its worth it! Plus, dinosaur is super cute!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343998455954
+  authorId: "cid-lg:AOqpTOFJbVllTzqjlSXwPvg8T_tqCLU7cyvlGC7JEFQZ7g_7RmO4O1a4Yk9GRzCOKHyOdULCNUEeDRo-e6USVA"
+}
+comments {
+  text: "Taking Dinosaur (killer )\tDoo cool wasup men"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343954329588
+  authorId: "cid-lg:AOqpTOGr68pN8ozx4CynEf247zQE2t85VslfYEUPCNu6I412ToFs1ZUYIt47jhSqrgxFVpEDrR26gtYZAWxlYA"
+}
+comments {
+  text: "Cool\tI love this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343912206784
+  authorId: "cid-lg:AOqpTOGUIl0IX0DTglTlY_uXFnTHDkmsTSHOxbirPUdcjmqbhXpNn8m1rZp2EbyYUe7hT7EORDsDTSm8Qd6E-Q"
+}
+comments {
+  text: "Dino\tHorrible"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1343880689729
+  authorId: "cid-lg:AOqpTOE94iFmM3L6X3rhMRSBFQqtOSkuwS4Y5-50mwIHkiAiFSssD5JPigRId2g8G0II-6JdkbP-9yVi-62qOw"
+}
+comments {
+  text: "Ha\tHahaha!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343860125293
+  authorId: "cid-lg:AOqpTOHwe7P0JYRpUypuysDcEDzczuMjVrbYybLjpg-jkNV9rh3dZKrErgphlyei1ePk1GCO50e2G_tovjXIZA"
+}
+comments {
+  text: "Great, but...\tI love it but it consumes so much space. It took me ages to download it . But I am still rating it 5 stars because dino is supercute !"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343824178289
+  authorId: "cid-lg:AOqpTOEoZP0jSWhYWwymR3OnO5CZDPz_hc_Gpv6y6PFZmhknYZYuv8rsbXePEaOsyP0hIpUVGc49l7tMR3nk3Q"
+}
+comments {
+  text: "Alysa\tAdorable cute"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343490279822
+  authorId: "cid-lg:AOqpTOH3fBqfKTVE3JGJgvjwZ2EXfIM6du7No6rrgi6nXHesIgLVSn73JGcDt2PIIXEMB9G3oXXSPoWbCoV9Kw"
+}
+comments {
+  text: "t\twell doN"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1341742567068
+  authorId: "cid-lg:AOqpTOFTMMOXs7Fw93LeUy-g3lneZ4Z2MQfcip_Tjo7dJEaX_InhHtr8FXzayrEjNY1c3FB1hvIv6CjvGzyltA"
+}
+comments {
+  text: "Seems fun but doesn\'t work"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1341113627278
+  authorId: "cid-lg:AOqpTOEdmgmeqlix3VpQBka8_PMjQ1VAPi7RrJT9X-U6nvFIHR9L8tV1daxm0CGeFTZx2aJrjFOgnhYNiSbGLw"
+}
+entriesCount: 1518
+
+comments {
+  text: "erath\twow"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340984342225
+  authorId: "cid-lg:AOqpTOHirAjPJsXECL9l1kCCaiXqweFP86dphTKRPSmNHTiUze9Iu_aEjAu-lqfBOBj73jWiRG21P9UgzT196w"
+}
+comments {
+  text: "You sick my nuts"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340978378898
+  authorId: "cid-lg:AOqpTOE3nzdN1o2gWfT2W7eEwoLZnCiZhdFm04n51t6auMJU-xKLDbRzV1mJ79gxKrsXwkP-Y3R0YHPZNTtBzA"
+}
+comments {
+  text: "CatAlogaRon"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340657232907
+  authorId: "cid-lg:AOqpTOG4HYwMDlBdUD2p96g4EjSJEv98W-NLx99Q5fKoZeZKvcBQLdyIgKZKPSzGnv3jsMRjsG34XJyk_eVvVQ"
+}
+comments {
+  text: "Doesn\'t work\tForces close automatically"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1340454418531
+  authorId: "cid-lg:AOqpTOEHM59zTsvmDCWbIyGPeGNv1oLJ1ODxDOK0ynGIkEqccDvt-O8kyFis2b9c2zlMAZSc-M8_UsqE4s1s4g"
+}
+comments {
+  text: "Galaxy y\tVry good must install"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1339865485685
+  authorId: "cid-lg:AOqpTOFpnHg9rt2xhuHD_H50LJJ7nFr3yQa7INsmOWAMitJfKmrmujD3JKPG0fFq1-_qI9hEIsVoejPEYRFnVQ"
+}
+comments {
+  text: "Cute but boring!\tThis app is cute but boring!"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1339554734933
+  authorId: "cid-lg:AOqpTOHpcXvwn-z2tUFAehsnwGmIGKCLo5GrkJOl_lM2Xe83B1O7ENq_AD27eyfjcrqPJRUIN0DvLhbPaYpBsg"
+}
+comments {
+  text: "SO AMZing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1338355856289
+  authorId: "cid-lg:AOqpTOFARUnrjifBgkzKKrX3f23f2V3AFY3CUYI0BbddzQkg53pY6RvVGTCMBz7M_FyMg2bun9beD0wPxw_58g"
+}
+comments {
+  text: "zoz\tso cute *:"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1337615958257
+  authorId: "cid-lg:AOqpTOHA-FmnO0xg-kNyZqAwY3mGzpMsWdM8bsuKldUr3ZfWTQnbWrvhuKJ4Qj8aWW88inpFDGvWFK_klLu4bQ"
+}
+comments {
+  text: "Y\tHore"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336921590297
+  authorId: "cid-lg:AOqpTOHPyfDJtf9R1Dwkb5Eyh6ZijjGqCsWd7N9f93ZRdF_pFsam0VmuyEif9mAyBEZ1uZs30xuciLHz2PGEBA"
+}
+comments {
+  text: "\303\206\tAWESOME APP!!! You need to install right NOW!!!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336006054956
+  authorId: "cid-lg:AOqpTOH9S9SUd3AP1AGab9hjhT_JZtSHDFFzs4LbJ7APoXL3tKgB4XxEcq6RHguKQaiU3Fd_Ap7RYacksqbTfg"
+}
+entriesCount: 1518
+
+comments {
+  text: "Abimanyu\tExcellent  So good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1335714209763
+  authorId: "cid-lg:AOqpTOF9u2h6lq9_08WCCxgy4ct7vCXVFGsioVdizENDPlJydlrR5IhHl3ZlS1gPNoJwEyMzoa2drg_w3Au3Pw"
+}
+comments {
+  text: "Cute\tI love the game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1335624113978
+  authorId: "cid-lg:AOqpTOEMscZNkjme-R_B4a4cEuQjh202H3M2epByhjjTg4TnFTS865nsy0-Z6-8M2m6mVt5cIvAbsPQySnJ9Tw"
+}
+comments {
+  text: "Its cute if your a three year old..."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1335470742093
+  authorId: "cid-lg:AOqpTOHO6PjgofRHJBTQ7joTYU3rL3zIa2RQa1oL-Ybi4qych4zFwLwPCjKpafuMRtVURjRuTsF0-qUxuaBHxw"
+}
+comments {
+  text: "Talking dino\tAwesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1335016071211
+  authorId: "cid-lg:AOqpTOFP6-K-UTZwQvKSKcR1UV6Av8niWSfCVB34Phb8veAjRAMScYRGUQ9nzl2uTUqoI8LlG0qMQVPCUyoWfg"
+}
+comments {
+  text: "Nice\tYou should try it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1334871627142
+  authorId: "cid-lg:AOqpTOFVEcppObPZrcVCBEf3Coga5ME4GOUwV9IugZrTFWzinRmNe7tyOqAXvlp4ZdjsJ6KCimCJZ3V09FKWXg"
+}
+comments {
+  text: "Cut\tCool"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1334791901484
+  authorId: "cid-lg:AOqpTOEf49m1j0ssF5V7Py3eq2vuOy-39SMBvj9AplMaIn3u6vVYMDdjDUUHXncjyjciH40SflFTUky7Z11TuA"
+}
+comments {
+  text: "The best\tI love it best since talking tom"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334528880782
+  authorId: "cid-lg:AOqpTOHnHZpf72deCqQoNsYk-oxUPF4Y1NogklxyEkYczDFG11FwoWj0lT5j1BJ1vlplgDV0e0KsD3nNmIhRxg"
+}
+comments {
+  text: "Talking app\tPlay it now it is on top yo"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334283930495
+  authorId: "cid-lg:AOqpTOHnGIXFRYxGLl6FIxVQjZixFmXP0hAhS7hr7Z1M5l0RTZxz6ZUlReua5iKIZP7c98IyaZctnA1mEWz-kw"
+}
+comments {
+  text: "So cool\tI love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334193294113
+  authorId: "cid-lg:AOqpTOGKNVTOprh92n9JNzdxqfSzxqEqUpeNh0lgb3vdkcNEHvRGcx2keqP2lPYzSoX1BnccQEMFi5wMiARWzQ"
+}
+comments {
+  text: "So cute\tThe dinosaur is so cute and so adorable"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1333980019819
+  authorId: "cid-lg:AOqpTOHIrqsjhXLth_7-edCfN8r1-pghC0as3uK6vFRGN0yQJgzTP-TiP73Y1pE1Og8aEyl3MFda3Kk16wzcMw"
+}
+entriesCount: 1518
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+
+entriesCount: 370
+

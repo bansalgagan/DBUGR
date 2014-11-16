@@ -1,0 +1,1460 @@
+comments {
+  text: "Very slow\tSucks"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415743365897
+  authorId: "cid-lg:AOqpTOEIEp1CZYj_nthsVGXpBiohlfKqn2WFimQG03TnYEONbivFGQBw_568vTJhM8WwsN6kU5VZa83R6HNnbag"
+}
+comments {
+  text: "\'Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415724485162
+  authorId: "cid-gp:AOqpTOESS0KP71Oak2isXRh7zujJY-_4l38IzcOveVCFuDPrA1VwTU6-ofS2GdivDAZdmmrI9e1LNCWD7hL-HnU"
+}
+comments {
+  text: "I like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415717436722
+  authorId: "cid-gp:AOqpTOE3W1-sFf0604VV5_JREWHxpisVI7d0qL68hl-tI2UxDTU5JpkqqwWIWsMx7PEThY05BXBEP5X2XOjowCg"
+}
+comments {
+  text: "Candy Kuma\tCool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415679007331
+  authorId: "cid-gp:AOqpTOEDM9ljv4UmCYf2bkeUtdlezSS2fvmDaEpX2pzpM7PaWaDNTAMRq8hk6QyAe0os2qOpJmDpZQd7ns5egCs"
+}
+comments {
+  text: "Its cul"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415650981864
+  authorId: "cid-gp:AOqpTOG2PsxYM-D7D7sOYZVZtwy3Np6VUSO-nnasA5wT8uffh2FTbjek1JMZdXt5KtkzmZ1O8JMRxXXp_FN0gKM"
+}
+comments {
+  text: "Nyc"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415632676944
+  authorId: "cid-gp:AOqpTOF6daSZjPGyZhx73Y6Z0caPO-AKprd2c3GWKjNhd36Y2cKc7vv9pC-ndpeCa1DOW_xW6R9r1-H0nLTeJ3Q"
+}
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415631513373
+  authorId: "cid-gp:AOqpTOFmqzZx1oOsnoWBaNA2DAPd7JI5-6Ok-ZsVCiQN6zK4NWsxvnBkO24sD9D0HeCU3niiGGTcV-SAULjSwPg"
+}
+comments {
+  text: "Candy kuman\tSweet game, very delicious"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415623624823
+  authorId: "cid-gp:AOqpTOGFqff5TQySNbrGa9OZYcqnq4RVizLG5ezxqp1cILCU3icmvvoTalJ6HKleCApJFwk0gP2SqmtGuOBU4HE"
+}
+comments {
+  text: "Its Awasom"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415610953498
+  authorId: "cid-gp:AOqpTOGai75FwckD23vV62MzRAitK1U3SGFYc_8OLXJdUc8H3CY5qwkvTD7amoTHKDnnQKz-19ElFJZVUA5XVek"
+}
+comments {
+  text: "Linda. Kay.   Marshall.     B\tLinda.    Kay.  Marshall.  B"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415589767294
+  authorId: "cid-gp:AOqpTOGftlSc2O3SfdsugLW6fD-s2WAVjbI08O4lBGbxcdCsPgnEgg9yg-Yz5XkW3tXgEfitDpDmb4QY5gBE5zI"
+}
+entriesCount: 648
+
+comments {
+  text: "Nice\tGame"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415574262270
+  authorId: "cid-gp:AOqpTOHszlcaMEIB9xz_SgSdKEtgyDds-Bbladx47lCQMJ6YgT4irH9IV4kga16LT-K31yrEz08K9SBUWkdeiow"
+}
+comments {
+  text: "Candy kman"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415571497570
+  authorId: "cid-gp:AOqpTOF8igFHLTVroqqJ0DTKn_zyUXfWj9EFuplieflZbNmNzzV3O31UxLTc683WBZ6sL-yWnkkTljrgpaPnQvQ"
+}
+comments {
+  text: "Photos or game\tVery good"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415564677789
+  authorId: "cid-gp:AOqpTOEDMte-sgvS9QIrDMsMESTHK3kZ5Fw9DM7Lhd6hONArknaL-pGoeLzmD4BnCxkplJ0i5i-sOS5gzb6kAZA"
+}
+comments {
+  text: "Good\tOne"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415541698687
+  authorId: "cid-gp:AOqpTOG-__CULf5uNmUspLUX4o59fg9GskezjBbHMBRnsoKN8zlQMIb7hA4CNXqtHlZLxy0QhHkEtD3KbBkjljk"
+}
+comments {
+  text: "Zuma\tPtdty"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415510723303
+  authorId: "cid-gp:AOqpTOH4vPZgGCyeZIxjjIzuS7q3QRUbAz6LzDYooS_OcK_f--tYLOh7YOMoqcLkCFOxGreo5Y9pcpzygvM2-ng"
+}
+comments {
+  text: "Great but\tThe good is good but I am stuck on level 46 and have been for weeks and weeks and no matter what I do, I can\'t seem to pass it. Levels shouldn\'t be impossible to beat."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415505616293
+  authorId: "cid-gp:AOqpTOEGfweMEs0Xlyy5gT18QmpcbzbAJv7pUaPrpMEJdi7MVvpbQaOqz6OlBx52iV5PB-GFfWrG0kD0F0vbHSQ"
+}
+comments {
+  text: "Candy kuma"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1415480325289
+  authorId: "cid-gp:AOqpTOFwt6to4ZMYqno2pFGQdd4CsoKY1HRLJmhYZZi8JZynHEqmSALAY7ymQYu8ifDZGZOBv2gqNWk8RkISTEs"
+}
+comments {
+  text: "Candy kuma"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415359766728
+  authorId: "cid-gp:AOqpTOGRmCvJ0KZLuC4qC2--fvjLUusJ_ewNvrgQXRH8t_evC1i_iwqFz4VsOR_d1Lc5apnZdk0dC_lNCdCvxg0"
+}
+comments {
+  text: "Cute\tHaist"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415254095664
+  authorId: "cid-gp:AOqpTOH4vHr7RsGP-JVpXXvF3bGMJAmDOBHGy2yZ7KG72_GjLWzZLDRla8H9huHSx-VNNIHG5zThkF-TAj3BS1Q"
+}
+comments {
+  text: "Kalyan\tAks"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415207123864
+  authorId: "cid-gp:AOqpTOFXSCAT2cwDiEefAeNJpmL22PF5S5ez4RkFI8XqBiahidcPKHL5vuMqBHnLl35iOD_T509OD5XeU1PCHI0"
+}
+entriesCount: 648
+
+comments {
+  text: "Sarah shamshad khan\tShamshad"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415203825958
+  authorId: "cid-gp:AOqpTOHWp-SwDa3gNskNF4BEVwP5OZIl7C2tcEXwcFd_UtvfTMEJxPne4OFy1QO2JveY8cEAzaxxWnJJcUQnXXo"
+}
+comments {
+  text: "Oo\tBlin"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415185266342
+  authorId: "cid-gp:AOqpTOFuacVcX7PovhsuTmENY_z9b0L5RjOaQAfnT8wOmoKwQW-ffNbkRk88TwO8jbWMS0docsxU7eLsjJeLFVg"
+}
+comments {
+  text: "Awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415090666994
+  authorId: "cid-gp:AOqpTOE3KZ2jHUAq3NTZpnkZ2Tk9_nx9CBK3suOxT3NlFS9WLN44xOxjbmRsOfyr8k3xiMX6uzYn78eoQfzN4XY"
+}
+comments {
+  text: "good app."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415071534742
+  authorId: "cid-gp:AOqpTOEpooaqKvYQO-l_n2PGrUwrezUVaF_8OhIrp3wW-Q6-xx9VwiRyVFzzr62GruVYx3uxhZw_7wQeY5FpVyE"
+}
+comments {
+  text: "Ok\tNot too fun the levels last forever not much replay value"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1415029721193
+  authorId: "cid-gp:AOqpTOHashDfkVyJUkNgnTTD5mvYucHouclUqMC64mzNi0rjQnq1XVT95UvHmz-FDaanyYUYEEikjqkdaX-A7Cs"
+}
+comments {
+  text: "Candy kuma\tTime killer"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415026673065
+  authorId: "cid-gp:AOqpTOHm7Mz2vAnJwgU4TE_FrGY57qNkQ2FhXDXwbTFbQS0kTKgOiq7fBsATIgwnbl_Ti7hJZtX2TEKiJeoeb98"
+}
+comments {
+  text: "I like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415007589251
+  authorId: "cid-gp:AOqpTOFZygRY4k4YRt-P0yDpcWnr-ezVD7gXwq1q-DCnDYGw0JiDoPoUQ1yZa87enzlmymkXLy4bVGPynEPi8L4"
+}
+comments {
+  text: "San"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415000322127
+  authorId: "cid-gp:AOqpTOFzAxyPzorOfpOnEl5wgEigrdHYTW1j9qLGksPyUAWTMunExeLPC5IoBSnLse86AizmZORvWzE_m6y6Orw"
+}
+comments {
+  text: "I like the game ."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414935201729
+  authorId: "cid-gp:AOqpTOFmhcrNbJBYTh0aSVTXPqxzW20UHszZwkf5Jrx9NjOZPN512QH5rHvzNCdJkSeKyKZm4JiE56PgVt2O9KI"
+}
+comments {
+  text: "Great  I love this give me more.\tCome to love."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1414905924617
+  authorId: "cid-gp:AOqpTOH0F65ALJBMK_kd0lEKtXqmANQDGhfo70yx_eeaASxp6JMlZ4rkU7PQaC7AE1SFbTbHcF_l6uZai0tWUHE"
+}
+entriesCount: 648
+
+comments {
+  text: "I cannot download any zuma game why?"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414885257136
+  authorId: "cid-gp:AOqpTOFMwcDPvS5KTUa0D9mn09y0PdN0u29uyIwBBnbsFracEbmS8MbkMLru1WKfO5QpzzBpSp33RtoQkCSnm3Y"
+}
+comments {
+  text: "Interesting\tMind feel relax"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1414864490763
+  authorId: "cid-gp:AOqpTOEn9YVJJOB-D0vOLiHABDRFARyGUgLKWzZyeLujKjITKExOsF1VzLGNm9J7Zpv0cBICU3m03S1GxjDLeyo"
+}
+comments {
+  text: "Nice"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414841662521
+  authorId: "cid-gp:AOqpTOEiASuVXqdypWGBU_uKZlfGJMfEv1DzhTE9UYbQSPVAb4AWr3GZhHkZ6RbhJBa3LvIslqnLZiWOHCe2M_A"
+}
+comments {
+  text: "Love it!!\tThis game is so addicting!! Absolutely love It !! LG G3 Sprint"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414800632729
+  authorId: "cid-gp:AOqpTOH7P_UItD6wnwvDUHTHBv8TQjFzJZVtiMxHhHJ7Wsz6XQMcHVsztGJscfyQ_PoMgj2AXkTzPvX4UnHQ_LA"
+}
+comments {
+  text: "yummy\tit is co0l when m gettig bored i play this game..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1414798126561
+  authorId: "cid-gp:AOqpTOFn_jxiG6SJq3tELxAHLS3qRpK5ffEVzUpQqBic3GySFiUzbxaJ02uXDC6QcivaBeS5jYG8DhQskIuWIdc"
+}
+comments {
+  text: "Chnga game aa\tTime pass ho jnda aa ;-)"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1414760822083
+  authorId: "cid-gp:AOqpTOHDTLYMfzomCsfcrIk8MRR7l4IJSpol0tVuF8SGSWF4zrpEE8VLdxQLRPpGfuycv9rGRYIux5TCgxQF8gM"
+}
+comments {
+  text: "Candy cuma\tExcellent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414713343044
+  authorId: "cid-gp:AOqpTOELwGzr7G8N5cceYwmKIDD65Y4gy4QYIm5Hu1dZcZdzvrfIo5g8zC21h2Sdmff8nqtmW7weN0-UbUf8L_k"
+}
+comments {
+  text: "Dont download this game.\nNot working. Auto gets off"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414692398270
+  authorId: "cid-lg:AOqpTOFuRK0ZqDWRFUmkVWDazBk3drFPV16hT61Hi2WX5vPVgLEc2Wd26pDB3Y16IfSB5LTssIaiAZLICmrsJbw"
+}
+comments {
+  text: "Candy Kuma\tBLAST SAME CANDY BALLS."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414581029954
+  authorId: "cid-gp:AOqpTOFWCJm9tejmmPyaTHA1vyr-9QvJGoYH738_32n6xqN_-ju6SQoTOIwwavgNkkMUXabx1oXVZ8GrUh7gbhs"
+}
+comments {
+  text: "I like it !!!!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414573107538
+  authorId: "cid-gp:AOqpTOHGruvoy-ET1-orDjbEearqLebquWoSL2PtIPXb8i8fmcjKYZ99ySsrGE7Y3EFBGcREgiqa8j5ph-7xU9s"
+}
+entriesCount: 648
+
+comments {
+  text: "Sorry it have stopped so please try again"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1414497135432
+  authorId: "cid-lg:AOqpTOHsoxzGM-aHJXtuXM8z4lEQiA1oi8o_ZSNfCoTM10chdE00kC_Y1r1W6_N28tEDK8xXGmLzQIMCkEgdbPg"
+}
+comments {
+  text: "Candy kuma\tNever play it yet looks like candy saga lots of fun"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414464608528
+  authorId: "cid-gp:AOqpTOElJZBtPYXqIlWMVFAmwzfXjG4iSVpvuqE018jWfHKpwOV0SUEeOGvAg0efc7w5mTolGKC0lq63uJIoOE0"
+}
+comments {
+  text: "Goof\tPerfect"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414393812928
+  authorId: "cid-gp:AOqpTOG0AvodF66W6d-wDVHb6CZ7wGva2xF27DaTcxzLizzvjfLU8nMYAoItiH7YffbAfeocQnTKnD-csQJiaP0"
+}
+comments {
+  text: "Candy kuma\tIt\'s ok just slow"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414363092056
+  authorId: "cid-gp:AOqpTOF-7H4VFD7d9aUwGaauOLt9sqZ584IKzvESTTQnk9lY8MJvKCmIJtiJMlb0U3Nc8z4lcJP8sK95bC2GLrE"
+}
+comments {
+  text: "Its OK\tit is ok just kinda bit boring it should of had boasters and bombs like in Zuma\'s Revenge  its ok and stuffs"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414355799964
+  authorId: "cid-gp:AOqpTOHTVivudeqNdNMyQViRRakD0LXs2yj1ENFMH-h_HhNhzEFlI9PIYoaMgYRy9zhkaBGsoGNXJuxWkrfZkMU"
+}
+comments {
+  text: "Too easy\tI went on the jard level and it was just too easy"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414318265351
+  authorId: "cid-gp:AOqpTOFKQ6ph9-xYqCGlil8EEkbn_9PhRcsYDqG4Y0SOnY5HkSKZQVQkeIs0fSGZgg1RVssryr2xx0xw_2aDawY"
+}
+comments {
+  text: "Lovely\tLoved it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414300753517
+  authorId: "cid-gp:AOqpTOFSSWqsk0y_hXc2ULajpVeFGJeyLmOP0QdFsTDNuY--Zi7Gk5lvhSOyat6J9II-qP_-85ML1odhetPUHRI"
+}
+comments {
+  text: "Candy kuma\tI like this game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414237590743
+  authorId: "cid-gp:AOqpTOF36ddquHyp_Xx1Xib6TY-zlNtm2AGheYfXvtFHf2habaT1v0GDg_zuNRWexq-rgtZEO5rO31KhvDQ5gcc"
+}
+comments {
+  text: "Ashanti\tLove the game so muchhhhhhhhh."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414206893055
+  authorId: "cid-gp:AOqpTOGEij3eo7lIOmZZHbSSB89jn75knZVCVRS8GannKZawUI6Taq74AvwZi_apleTKtH1ZICvotiFWUf8oqfc"
+}
+comments {
+  text: "Candy cuma\tShooting"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414204010564
+  authorId: "cid-gp:AOqpTOHd06AbYBjO1EFW2lt2ysiosjAZNFuGcKGJYhOxPGHjUEDs1iG3yZdQinld9VhRH5JDajrhEfCx8-sZQwY"
+}
+entriesCount: 648
+
+comments {
+  text: "This"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414191947823
+  authorId: "cid-gp:AOqpTOEHB5AQUHslZ9kkit5kdV1MdJgFwtCSKmXdBWumC7gsuPzSssJEZd5EAJHlAzobdPjo-KNymdGz4eIODCY"
+}
+comments {
+  text: "Waste! Doesnt open."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1414156128908
+  authorId: "cid-gp:AOqpTOFUI5pMSRlJWVStr0Em66VDy8TGVQo7EuvPKDQDOa1nX0N49CoAFKrBe3-Liyc6TiHXPtIhDHIb5rr_zvI"
+}
+comments {
+  text: "Update"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414095875800
+  authorId: "cid-gp:AOqpTOGpkh3rvi5WNiVxWI90fns6ZKOZ9c_JGntItuHK4UCjKSNkrKGQ6sf-2VrFwBYNOzITAVFrh7Xn6iEog6U"
+}
+comments {
+  text: "\330\271\330\247\330\257"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1413936356323
+  authorId: "cid-gp:AOqpTOEvbrbtq0WkDz6l_LJQAnvVzOIcpoUfd7kr4cwMpF8y11ndSTGK3lJ7_6xUs-PISMMi2FwjBq_eWUQXRA4"
+}
+comments {
+  text: "V."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413927329706
+  authorId: "cid-gp:AOqpTOHq0vTecI4ID9fw_OhKvMjY5KWjax-hfDvaF16bipeCaENEX4uo9Ruh04ARMLnEKAJ4WGErj46YeUz78Ns"
+}
+comments {
+  text: "Bhavana"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413902184946
+  authorId: "cid-lg:AOqpTOGh7JRCZ7WQ6ypVkJ6GeLHwQVqMpNe_zO-V6kwvEwZ9sioMkwddnpcrgO9drRMxEWZHwiWG_SthjjEaqF8"
+}
+comments {
+  text: "Exciting rush level"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413877786700
+  authorId: "cid-gp:AOqpTOHcCH6D0A227_NTn23aamQO-QC6nX7JyH9BfuwLE9S2TNgGTN_-hJsRZEGH3wS2O-Cp751NncTQRmc2Lus"
+}
+comments {
+  text: "Good\tGood"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413806254597
+  authorId: "cid-gp:AOqpTOHLO6dvlvr4xxPNFaiwGJnz1OYF8161nKTEG_7fTStxchp5zBWICgVzTNsBzaJV03gW8o68iU1tHNJMNG0"
+}
+comments {
+  text: "Nic yet hav to download it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413787754679
+  authorId: "cid-gp:AOqpTOEjx93PaUA796NJxsqB3HLLsQ54uXyYpE3Vk2R3aoggFAqxo3XayH8FvYGO72mGAjQb3pcP5zXMXWbtFPM"
+}
+comments {
+  text: "I like"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1413713825008
+  authorId: "cid-gp:AOqpTOHRnteXDISghPKqpk1BEl006zdLPSqKlmTgQgXR7BJ71dXwbu2ZVm1mkJzoFlsP7TLwcFHJsRsmtR1-yxo"
+}
+entriesCount: 648
+
+comments {
+  text: "Good"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413625248216
+  authorId: "cid-gp:AOqpTOFkLcBY9E0YF-8mhxpF8L_YKmKcsiRFcWTYcJjhqWQgzAT47nc_adV3zOjgHSNdNYPhz1kqeLDKb08fSLQ"
+}
+comments {
+  text: "Love it\tFun games"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413430577524
+  authorId: "cid-gp:AOqpTOGQnY2R7hhLVvlnBERlvjYE3e6pn52PafMiayDJ4gIEjsz6KW9KcjyhAqO1hr6fiNPW9fuILti3SwRfKbk"
+}
+comments {
+  text: "Good\tNice. But pls improve more its not more intrust to play"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413360933426
+  authorId: "cid-gp:AOqpTOF-jB7j9u-XIAHSylXTfCQwkT1ix0IhJcIKkvO5BgnH7dHON0Ji8nfVQouV7qrZDMdcB3QR9Mg4MLhnqYo"
+}
+comments {
+  text: "Super\tI like"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413332383695
+  authorId: "cid-gp:AOqpTOHc9Mw1jAUQo4kp3lCUhKktMC5ixggH3ewMG3xOpWEo39x3oQL5UBtr70QAEDTt3O_bzqo-HZDO57t2rgE"
+}
+comments {
+  text: "Candy kuma"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413332191312
+  authorId: "cid-lg:AOqpTOE79iUMPSF3Lz0HomA2TlbDV5VduSyxfSJSiqN7U12RS9UWxVt_5URh-oL-YFQdLDtwTWL7cA9yEN8Ejso"
+}
+comments {
+  text: "Ayub khan\tPakistan"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413317363452
+  authorId: "cid-gp:AOqpTOGQWXGHZIE-AAtksg2tnpSFH1n4OsswpiUTwB-nMceZpedNOvXFoahLQeRQmCiez-I7---ObyZi3qNQGcI"
+}
+comments {
+  text: "Like it...\tLike dis game frm long before."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413283400766
+  authorId: "cid-gp:AOqpTOHP0UukTrWExtj8rhg2Gxo7IavHxAg3_meZA6tH4aYu2E3EIb5YiPZYfb2pJOiwKI2Lfjnfom1kqPlm-nY"
+}
+comments {
+  text: "Goood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413265181304
+  authorId: "cid-gp:AOqpTOG_s-aVXTZJB2gxo-heqTz_a4K6YwSfycro-M4nrETkfG_zPZbWE19g964-jgmFsbChJUzknzRvp9VCwoQ"
+}
+comments {
+  text: "SS\tMust game."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413213693877
+  authorId: "cid-gp:AOqpTOEp3L9qzDBVS7Q7GQ0Wq-f-uJOAgy6S6LPyjVisqpb2IsAuze1uJ_wrANxot5969QHeKkZyBWJtaziTW4M"
+}
+comments {
+  text: "I love it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413198924150
+  authorId: "cid-gp:AOqpTOE1WiD166sO93Nk95GwqlTFG_G4z_aka-Zdk6Zr2CxW4j9qZBGOYefUQuH1ZHYYoAgrNGg_vSOOBHEtK7k"
+}
+entriesCount: 648
+
+comments {
+  text: "Amazing wow.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413179012260
+  authorId: "cid-gp:AOqpTOGwdm_053CyIVUhSdgpjr6jsSmG-H4Wy4adHPEPI_Pk1L9nafN8lZB4mgUA5KxgFJxHOCoc4qLbWBs9b8o"
+}
+comments {
+  text: "is good n interesting"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413108431208
+  authorId: "cid-gp:AOqpTOESzpP8hNVubLmKnZYERgcpblOTUNcpj5p9h35vlENL1GLZAFnifcYoyPKeSyRN3XtyoEHkvK53x0FLlg4"
+}
+comments {
+  text: "Lady"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413073834922
+  authorId: "cid-gp:AOqpTOFTHKHS8WMepaOwYXZ1FWzvEXgdneSCy-Sl51J-xoiEfPKWICDacYfrfc8wcIIX2eI69hP560cjHKI6ufU"
+}
+comments {
+  text: "j hilgart  **\tinstalled candy kuma on my laptop and cannot open or play????   works well on my phone"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412969647939
+  authorId: "cid-gp:AOqpTOEv1vtkwk3OYXuXjadLW51id55L_ZJS1TdOueg94QYMu8Ec_MgchC8A6xiXvO0n_Poo865oI9Es41Efuzo"
+}
+comments {
+  text: "Game\tI loved playing this game,"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412934910280
+  authorId: "cid-lg:AOqpTOErr1snHc_-d-71NIXkDlUOjTWVlMm4VuREY0yMRKVt6Q55l77t8yuOG8EcIVj9yfmqh7-ijqPxURurrMI"
+}
+comments {
+  text: "Candy kuma"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412773933188
+  authorId: "cid-gp:AOqpTOHHMF6P8h6E7HDCFGNUIO6yl1Mw8Vw-obKK4OQutMM0Og3_C8UBvy6a9rHrxs6Fd2nW_Zdcn5iv1ijyZyc"
+}
+comments {
+  text: "I can\'t c dis game in my app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412734523723
+  authorId: "cid-gp:AOqpTOHmAI5rG3YRAv7gvgVUO4gj9VVgaMfEuM5RDIf5RW_phLJnODHtwPZIgTew7KAZo_ZCYHhy_7CDa-Ezt04"
+}
+comments {
+  text: "Candy Kuma\tIts intresting"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1412657208623
+  authorId: "cid-gp:AOqpTOFwZi0Bs7dzAlYiSBMwk86Cq-EUsIYmTOdM4-PkEKSuqbsSKRkQ4aMB4oCA2rI3lmnnafEK0axhBvfmmrw"
+}
+comments {
+  text: "Good\tFantastic"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412592422283
+  authorId: "cid-gp:AOqpTOF-FBSZ-7_tqP_vBTmQTCkwkTDojVzz_E5PtQ3AH1W64Sebuy1FnaA3W4xqoCMasAjqxfLmLdU4YACzKRA"
+}
+comments {
+  text: "Good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1412556473723
+  authorId: "cid-gp:AOqpTOF5q4R9l4iMTUaegjsnjKMFSyrRzsPjay4CJSZRurO9mIOlHxwvMuILm0eGN3T02mqvxtsDGhE4AUP_8as"
+}
+entriesCount: 648
+
+comments {
+  text: "I love this game :) my kids and I challenge each other ...but they always win...Its more fun with the kids."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412516150215
+  authorId: "cid-gp:AOqpTOGSCcOKlQd3xCcXfmHbqNmqoXGkmwvdaGK5-Tg9XF5aOuf9nSB4W-3WByabnb-FgC3_MDIX2cEqzrKbVOg"
+}
+comments {
+  text: "Good\tGame"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1412497333421
+  authorId: "cid-gp:AOqpTOFbRz3EVBKbngRZFuLiV1FoU_uBEBCL9wCY_xZioztMCXGaSFAQWLCgSur9RWS1tc9PjNWol_cQrFFBDns"
+}
+comments {
+  text: "Candy kuma"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412494686603
+  authorId: "cid-gp:AOqpTOH3GzoGlbkIu3EzgJh3Uzu1WI5JSwr7AFKGckOmXE9YvnT1qGj7WPIUzNfS9bptIBJEwOWwEVPfP87DtU0"
+}
+comments {
+  text: "Candy kuma\tLove the game."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412460268158
+  authorId: "cid-gp:AOqpTOHboNMRNA81J81eFSdsPf3Zyv4WvcAx0oKtzKeHgk7FjxVVWu5Ja6jx7fwteAumtNgq8pO8FDN890VKNGM"
+}
+comments {
+  text: "Love it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412435281777
+  authorId: "cid-gp:AOqpTOHgW7QmGfPPQghb2VFRG84zlfTyd9pfXtDCs5dVDEiDXnAULhCL4GX4Phx-k4-fqRxZp7LmpNrOOl7wUK0"
+}
+comments {
+  text: "game\tthis game is too good for the time pass"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412421076106
+  authorId: "cid-gp:AOqpTOHaK6NuN20v5FjaDOz35EyXMcVP4_o6BAeb9YZ72YuuO9NdAEJF2Xm5iErADXY44QkSesPoweevXnxHvys"
+}
+comments {
+  text: "canday kuma"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412419114860
+  authorId: "cid-gp:AOqpTOE6fwPNCTJZhq2kqGruLbkp1DXZts52IChRU1G_eqnNR3tjfakUXN2meFVZeFiXvaFrCSXt7_Uaeqigqns"
+}
+comments {
+  text: "Just downloaded but have been playing it on my brothers phone"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1412400672750
+  authorId: "cid-gp:AOqpTOH7yHLZvRRr_WatMZkCMo9EKV7u7Cn-Pg_91yeveDx_JxZ1l_256RaKjZo5DNs-uJ27tOPXRlcbFy3KJuc"
+}
+comments {
+  text: "Candy Kuma\tWild crazy addictive updated ZUMA keep spinning with THOSE MAZES!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1412392542237
+  authorId: "cid-gp:AOqpTOGt7Qbjye2AxQrXL2Lk1bnmX5sPkQvpEn_FXSqRM5ytAwJ5dT8D3XBH-Fmq61dOa-jP7P1aX-wVJRKgl_g"
+}
+comments {
+  text: "Cool\tFun"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412377013121
+  authorId: "cid-gp:AOqpTOEHV7nbG699FLMUd4GHq1ZyBxlpYZuvPboNvLC44-0wHUnuXgEQgGEswtBDJa0g6aX_cFVuPT5HtHLRwOA"
+}
+entriesCount: 648
+
+comments {
+  text: "9ic game\tawesome"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1412360153866
+  authorId: "cid-gp:AOqpTOFz5PzkwzZPIChXY2hTtcj2MuZXqhp75VUgESLT22EYbomasygK3jsJeHnte7zdGJrs7wL_6TCalFyCSpw"
+}
+comments {
+  text: "Love me"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412356672668
+  authorId: "cid-gp:AOqpTOGcldw3U12peiEteYuuWE7A3Y0bfNevNZ6SDz0yoH_NM_G7_fB85Gld39XnkAklZ4NnU8AfdP-JJMYU4tw"
+}
+comments {
+  text: "Sammy\tThis look like a good game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412348924351
+  authorId: "cid-gp:AOqpTOGx90snTHir17GewnOkhEMbRd4JW_oZMJolzBchKnj97Kp-h8y_Iii1kJH9pKccMjB09Zfz4OebyxTutnM"
+}
+comments {
+  text: "Sorry it cant open\tI just download d game and it very difficuit to open why is liked dat"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412348652452
+  authorId: "cid-gp:AOqpTOG_kYNcGFO_yrYmCAULC4790Z57uNUCugAd0AcRc5Csis468u3-76z84eSMLpqc0M3EsMvFvPVQHBtU3FU"
+}
+comments {
+  text: "Lovely and mind fresher game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412332246969
+  authorId: "cid-gp:AOqpTOFetrY5y1Mp2NtmOjji2K9Bmjvy3w09aBIfSXnt4-74Se4Qk5C50z6YSe_w1SYY13MI3Frba-c5oEFpyOg"
+}
+comments {
+  text: "Good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1412261403070
+  authorId: "cid-gp:AOqpTOE6h9nvm7OPrZdsc4EnVw840xPmxyB0WBw91Xv531VhUlZ--TXwbpI6PDqeXzdP8RYtRkxiCRTWq8CRIGU"
+}
+comments {
+  text: "v  nice game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1412237911361
+  authorId: "cid-gp:AOqpTOEdgmEziBdDh5gMbPreD9R5JXgYyviRd3sCcFCrYYHhawJynNKyvzvDF1z3HZJxcU_WA2773ziukc2DELg"
+}
+comments {
+  text: "Good\tI love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412181259923
+  authorId: "cid-gp:AOqpTOEOLUfaVORD1UnPE8VMEtrEyaqrIAd4uVVkpgJJMxr-t_QjVCxZq71F5rvaOvo_Fh97ojnhZCOZn_u1s98"
+}
+comments {
+  text: "\330\257\330\247\331\206\331\204\331\210\330\257\331\206\331\205\333\214\330\264\331\207"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412016695992
+  authorId: "cid-gp:AOqpTOE3tQ1cuihUve68ToEWqXR2290NaMfbRldN5FI3ZC6Oy4LnE5xQxF-1QU5aAJZzt1Sg689u7y7UI9t4DtU"
+}
+comments {
+  text: "Hi little bit\tH.I.h.ssp"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1412009218524
+  authorId: "cid-gp:AOqpTOG7q6obUPIwFUIuGPxbqi3FW2yw9GZafFy5yedOAi_p9gWM2JZ3AkJQvuafcsQ6EyPY35oPrVnDXQ3mUts"
+}
+entriesCount: 648
+
+comments {
+  text: "Just down loaded d game..need to try it out."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1411942027310
+  authorId: "cid-gp:AOqpTOEq7hfaQ_YP7HJkY_R4Hn4t7db4fSHzZsHvvF4J8VylNLwJerKsBOJ0dt0DVM4-U0V42jyl_Ln_EuBZ8dc"
+}
+comments {
+  text: "Love it.very nice game."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411719368609
+  authorId: "cid-gp:AOqpTOEBIqDHlY0NaXi_YShfwptOXbtZnGLxC3G5mgPBC7XUS5FGwP_Gb0UoE_zj3eVnQV1cJlZcrzh9lQYWhrQ"
+}
+comments {
+  text: "I Lille it  soo   good!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411637901060
+  authorId: "cid-gp:AOqpTOF-ViwuUD1mcScReLjv6mDrjF4nofastVCF9jgbdTd3k2ZhLe_I0JVaUHlxBFEeD5S-gRpGSj_3iy5r0J0"
+}
+comments {
+  text: "Is okay\tCary on"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411575240778
+  authorId: "cid-gp:AOqpTOEbTniZ7z359FziUo0m1wHGUbMCCD6pzn4hiJPsoD7qIODupDIHYHqdOOYo2BWTsgLsNxYhwC8WUQc_Tm8"
+}
+comments {
+  text: "Its amazing game my all family member have this game in their phones and laptop"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411536774812
+  authorId: "cid-gp:AOqpTOEaOq6-tA5wfjnqaT3DEp3qu1GrlWDbxZJSps2ygnOTIEb6ACzeM4ENVE64-k0yzIbnZd6eiTd803gnqHg"
+}
+comments {
+  text: "Cool game."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411478886248
+  authorId: "cid-gp:AOqpTOG360hoDrFUFkNi3JLzy-tCn88WTFpSxcwJ6uIZn_k1hlTCztxSxbAr0gg8YVf_jO5BZkAFTsq4otibEGE"
+}
+comments {
+  text: "Candy kuma\tThis game is booooooooooring game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411458298487
+  authorId: "cid-gp:AOqpTOFMg-k522rqjhHnP_bpYh1YKBG63Pum2YNNbJHiaDJHbWUUk3fveXNNbDGv9OWtSombfh0Lk-nENmbVy8E"
+}
+comments {
+  text: "Candy kuma"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1411413979707
+  authorId: "cid-gp:AOqpTOEMwCC1qeI7StahZ2qL4giKiglFot3aDOp00nUWAsSDN9-y1R3m8y-9OVGzOZeK7QVy8vIPet92CMEmBSU"
+}
+comments {
+  text: "candy ka"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411223434374
+  authorId: "cid-gp:AOqpTOEGAsk-pkefcVLdrbsPY3oCt_Oqh8Ow6kuKahwlChrka9todCezDNYmQryR26aF4sHhXHmKSNLFXC2v5Ss"
+}
+comments {
+  text: "Nice and interesting game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411222264146
+  authorId: "cid-gp:AOqpTOGyPsH70InkG9T0Bm7Gi3R91vmDQQE6YbbIAfeAtKn_1yB2gYqHu0fnHFrbRv87D-V1p1Qcqb2Z8WHfdxU"
+}
+entriesCount: 648
+
+comments {
+  text: "Candy kuma\tI love this game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411209579691
+  authorId: "cid-gp:AOqpTOE2t_MjIlD58R40CsikihMqh9blvQUwgHU6rJRs_I6um4M3jwmFYxxq0tvJJLezdwOIy_iNvW83fUEzi48"
+}
+comments {
+  text: "Candy crash saga\tKing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411177017183
+  authorId: "cid-gp:AOqpTOETJEjQFcOiYqnpdn2DQ_Z5JgfN5iX6XQR8Yon0TXga6kIndZkFbjZiqR0zifVvP8hJZlWxxorNNHUKOmE"
+}
+comments {
+  text: "I love this game"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411115970682
+  authorId: "cid-gp:AOqpTOHVXZKRRGLtl-31f9AFCdsqrk4SfQoF4s1m8mETcBlV3jixCYU5Ndezz1LjTAuW9WPFqMGkuOzsrOwfuN0"
+}
+comments {
+  text: "This game is Brain wash game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411065157510
+  authorId: "cid-gp:AOqpTOFfcbty3MN_bovpODVzEZzRTpqbel9FHurnVqYvc4nSGjvb_LIgrTgVPSc8MlyXbY2qyxmSesTqY9mZyak"
+}
+comments {
+  text: "Nise\tVary"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411047299749
+  authorId: "cid-gp:AOqpTOGTNAC3L2BHObmOqUNwiyfK9PL3GCpuDMeSvCXjcA8FGr73wt9Tp7DIK_C01AW_8d8iBxvbkinhuk_BTSU"
+}
+comments {
+  text: "My favorite this game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410981943996
+  authorId: "cid-gp:AOqpTOFAvwA0aRNHC4ZD_5swksJs2vGPrHvHkWLV0sgNtIO3cHw5VGXZVA94j2BaiKsLrpvCClN4mc1PFBkyt4E"
+}
+comments {
+  text: "Candykuma"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410942240670
+  authorId: "cid-gp:AOqpTOE9jQwyg2wqSZmvsec0qWF_rVljvZmc_U6MG1V5l5G1xeYDrs5P354YyW_dKkIDwl4bFvqPdDqW8ok1zjk"
+}
+comments {
+  text: "Vryyyyyy goood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410853199719
+  authorId: "cid-gp:AOqpTOFMB1F8DYzP64wvB6_9zMlaqirWFe-JMx80sPeRxSRAZ_zX7NRl08ACaDdYMXnLikYbasgH4G4Hl618298"
+}
+comments {
+  text: "My son love it"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410811705553
+  authorId: "cid-gp:AOqpTOG0SaiKU2U8gUpCIKoQqnuMoNVcgCEiksdHjr6OCAzu9K0r7uAXPjRGfpb3gtYzHRbRXtjr3m6kMXatGEA"
+}
+comments {
+  text: "Nice\tGood"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410794830324
+  authorId: "cid-gp:AOqpTOEItbY5sUbhatmGjawkUcMi1Cy0YHK7aJ3o8cZ8t0yDineM2hlfYuv5VOJOqOmXhNP-2JBRU1BYlK0MYTc"
+}
+entriesCount: 648
+
+comments {
+  text: "Chris\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410791812678
+  authorId: "cid-gp:AOqpTOHi34rCM4EfJs8Pmcp1gm_JNkJwatBJLVf5bvSvoSTafzfNDP-_UnDSCz9ioSBoC7mFE-t8z7SZbEZFT0o"
+}
+comments {
+  text: "Candy kuma\tInteresting"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410764735635
+  authorId: "cid-gp:AOqpTOHsluqPR-eyfWcYLgh-6fv8IFu3t2SFNmwIgLHt6GItYRd3qwymOz0lsLgdAv4qVqKAdN5yLs_e3N6_qSI"
+}
+comments {
+  text: "i like it\ttoo good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410726757307
+  authorId: "cid-gp:AOqpTOH6BXSPe3m66aA3Pih_UUDOLhUO1ABVQbsD1FJxEacUGy5tHdFp6nEU6M0f8owsOyjjiaZhJ6rvQHNalAE"
+}
+comments {
+  text: "Nice game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410672286956
+  authorId: "cid-gp:AOqpTOFTszt8O4sZuO-XR5aXyBhXPFOZnUOYxsMlcFTO_zLDUv7y4B-hMolNvZlBNFgdtLwcIT1Hlw1Yo6pDaxw"
+}
+comments {
+  text: "Nice\tGooooooooD game."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410671345414
+  authorId: "cid-gp:AOqpTOEEWwU7BN3lD7GMdJ0LbHwUusS9Rr0BnFQg1VROcFx3WzEKgpfvmiPV1Wsqv6mGovVXn47fjILizoT8tIM"
+}
+comments {
+  text: "This game is so much fun!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410610444365
+  authorId: "cid-gp:AOqpTOFY2xtYsk07KG9j2MjhcCmXh5_HXEj7eBnjB5w4DX4ETuAFZhby4g_ojBiVoTaSQ307KQvSZ9FZb4TiaYc"
+}
+comments {
+  text: "Just now i play this i love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410543047675
+  authorId: "cid-gp:AOqpTOE7YM6kY5Ig0RROvJXSJ7QP-PelOuhoPs4MhT7LxpzaUrtm2_uNEojAaP8r5p9cfuKS_O29kzcqZ99I9wI"
+}
+comments {
+  text: "Hi"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410540395376
+  authorId: "cid-gp:AOqpTOFwpBFAhIs6ZrmeY4HrB4acSM6BHdLvf8mvqJv0bI9o4iEnmLcqvIjT2ObEaGk3Hhq1KpGE5kMRx99tjkU"
+}
+comments {
+  text: "good\tNice"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1410282183989
+  authorId: "cid-gp:AOqpTOG6QiJOIMgPhIjvFqqv6KthRwtl3M6y5vA-KJM52irmZVwSIO0-yX1njEAWVdIggePkqN2XWD3vCzNjvzk"
+}
+comments {
+  text: "I think its nice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410277518571
+  authorId: "cid-gp:AOqpTOEgNe8_LQnvinYdmaVNTSyKu3aDeffV9Jx5mROST6aQbLi60VC4sJROyPzncIM1Rsns3PG1NqNPCookxGk"
+}
+entriesCount: 648
+
+comments {
+  text: "\330\271\330\247\331\204\333\214 \330\250\331\210\330\257"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1410180100877
+  authorId: "cid-gp:AOqpTOF1vw0t0VfZ_XvUL2Z5wlkb3WxR4xVusMQUu9QAalhcMo_AJFfajbbwsSu4Q7p9pnWvAkHpwJnPrc8JZOM"
+}
+comments {
+  text: "Candy\tGame."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410162464480
+  authorId: "cid-gp:AOqpTOGlN-eoTXvLlj_AfpP-6EVFFvxAKXEIT6cpeAqTBxLp3WNXS2h8NAC39vDi81e0XjqSGe8XGShRmdc5C-w"
+}
+comments {
+  text: "Osum\tJust loved it..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410159105805
+  authorId: "cid-gp:AOqpTOHm2JkiW7fGxGwWDM8Er9lk0TW1e9q1ToaaG2zvmHPmFVtzVm5VO-2Kjev7UY52XB0UUcAiU4jSINi_jN0"
+}
+comments {
+  text: "Cool\tI played this all the time when I was a kids wahoo"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410047938186
+  authorId: "cid-gp:AOqpTOEI_J7Rq83rva3dcDfd-x5I2U3SE5GSBHddRNccYIzgKRk-6qhSyjvc1z7doGBfDdcILKTP1ryf9V8j29M"
+}
+comments {
+  text: "Wonderful app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410038536621
+  authorId: "cid-gp:AOqpTOELikBjwCchsRg5FClD2RzsEosSXRkUCMIYOAUOfhhuD2BvDwkJSY3v5rmHMTrcIq-u_P3jyt32SH0o_Zk"
+}
+comments {
+  text: "Good\tWerinice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1409979173882
+  authorId: "cid-gp:AOqpTOG1cMv7GXRLF-NHLzbm7ObR1zRaXgm50efsB0OVBW-oTAwGS-FgD6m-3UR0NyVvOPp1YBLF7ZYNXNy8xMg"
+}
+comments {
+  text: "Loved it so much\tFdheufur u yeyrur vr h r hr"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409886023599
+  authorId: "cid-gp:AOqpTOGX7vuLXINDu5_fJVRvR2-RPU8bj6Jp0ZCq-8Ihd1IMBzAeM4b6i10epv1mC47OzYNg_ZNMELWgf850HCE"
+}
+comments {
+  text: "it is fun..i love it sooo much"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409756232533
+  authorId: "cid-gp:AOqpTOE60KymfF-GbEa4V_fJ9FJU0iev0YP1p5XUukHON2P0GnP9gSXoV4Uw12u8DsJon62EOLXkggsWhytn9so"
+}
+comments {
+  text: "Candy kuma\tI love the game its really interesting better then any other games I played .."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409744642746
+  authorId: "cid-gp:AOqpTOGrj93Q60W-kGF7ddZadDKT3beVsMsuw11P_qUdflkTYbJbw2WoIWED6oEwitBeLIjwWQim4A77H7ywMr4"
+}
+comments {
+  text: "its so nice\tsome apps cant installed"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409729202516
+  authorId: "cid-gp:AOqpTOHkh-om5TrPoqOTqifF_ACrfy0IrxtZupRx_xM50n1IyXZnjVdwTmEa19rOXD9we8r7h3tZUGtWSqSEFT0"
+}
+entriesCount: 648
+
+comments {
+  text: "candy kuma\tnice game"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1409643919581
+  authorId: "cid-gp:AOqpTOFcQ9GVQAg1oW7bXI5Eitbld9dW94QvhjBSpceT_gmV25lpFDJ9BlPuCTxudwdD1Xyu2fzggIWpjT8ykf4"
+}
+comments {
+  text: "Best"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409559496040
+  authorId: "cid-gp:AOqpTOEH-FnxpSlL0gckzf3urOTpW9wDOo8Cp8wqMnF5yzpJE5x_7BOKigt92oL9mxdr3E9L0MjRPWNEnzl2Ztg"
+}
+comments {
+  text: "Its very good to play my brother so love it... it so addicted"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409484389158
+  authorId: "cid-gp:AOqpTOGYmKcfnp-er4cC5TnYx4avsk-4uOsN8UAdMRvXaYsrBVjdoH6QxyXKQ2dRbi5ZZk_V0szaM7q5ouN7HD0"
+}
+comments {
+  text: "loved it\tloved it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409384962932
+  authorId: "cid-gp:AOqpTOH317YeWiTJtINq5bz-8Z7WtUKMnE4p2iVFmWpYcthJSfa-3xe4GD4pO0vaNeSgjenCAq_Stb74fndRP80"
+}
+comments {
+  text: "my Game"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1409379348886
+  authorId: "cid-gp:AOqpTOEPgP3RIcJc0niUOore4jVV5zx8xtyEHUAezGuhTJ6DISS_VjMdavSZ4BduXQJnlb0jRnxTFPqSAPiiEq8"
+}
+comments {
+  text: "Nice game"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1409323511419
+  authorId: "cid-gp:AOqpTOGieIqwUgpjV18ZeBIMvxYthQgcm_vRkF_2eUtr_b1V3jNfO1z7zNtyprovpw6jZSdJeXLzE-dgydCqio0"
+}
+comments {
+  text: "Cua\tI want try play this game. I want look this game is good or no \342\211\247\357\271\217\342\211\246."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1409305006336
+  authorId: "cid-gp:AOqpTOHPO1UcatqslddOf7we2Goz3EvYnuH2zLOsnLHp7gQNFbOCAZhC9IhfpJUEG-xDiUNitzTMOIJUzFUNnxg"
+}
+comments {
+  text: "Awesome\tLove dis game"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408954960182
+  authorId: "cid-gp:AOqpTOHxWx68caYP2zXkwEMZ4njrJRrPKAg8NqlN5QhIJ1wcuFfXJbMN2dwR6p7cjp6QIWSsJCPKNrpijHz7iLY"
+}
+comments {
+  text: "romeo\tteves"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408891909750
+  authorId: "cid-gp:AOqpTOHOcMZ-doTlfQ3IrqWOjl0ktBX3hf3hr5fgmHNxwq4gETbmls51bG_UXCJEoIRkEi1Lf3-p4NAi7D4WRuc"
+}
+comments {
+  text: "Vikas"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408889971453
+  authorId: "cid-gp:AOqpTOEZlSiz9nsfnIgBJ_Dxrs3SK2CTSSeTDVcAuvxUue5NFIVUOiHETtueEJfTxlInQApVrv-E69Hqwwi8_B4"
+}
+entriesCount: 648
+
+comments {
+  text: "Candy Kuma\tGreat game. I finish all levels and downloading the apparently again."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408723174120
+  authorId: "cid-gp:AOqpTOFgXmrJzsBSWBbPdY0qfcUDapUgEWTb4IyIoFKl2fCZpgljE9vlpiXbnrHptnsap2R3wb-5xhKlxwCMptY"
+}
+comments {
+  text: "Sushil\tSushil"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408633360828
+  authorId: "cid-gp:AOqpTOEuOw_X1HmY9vJgVG3gcy0mLOTqkxuHltU9kiBff0eWeNb_fKofuhO2svh7hwWuILhKYx3FAalqBGGUiDw"
+}
+comments {
+  text: "A\tCc"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1408554378268
+  authorId: "cid-gp:AOqpTOFTXDKjp1YQClivEjuR938oC-wrxZfFPDKXsKYtPsXjX5a7BWvbT5XXsuhG_c6BCJvZx8lXH149kYrwWW4"
+}
+comments {
+  text: "Nice games"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1408544813788
+  authorId: "cid-gp:AOqpTOHpJGAnKTVEEfQbzBINqtKT1AfcJ0M9-Yt3EHfMrzuqCuUr8Oe5GVdO7KdQ8Nk3siwG9hpVlHTLPqWoc28"
+}
+comments {
+  text: "Looks ok"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1408494701681
+  authorId: "cid-gp:AOqpTOHfSFI8M5xGAGoqrrdl4TAw9HsoqtE0ejLZicmXFM8WplCXxHNV63NKSsn2zYWtpc6af1i4VX7x8oFmmGg"
+}
+comments {
+  text: "Buma game\tVery interestig"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1408388376828
+  authorId: "cid-gp:AOqpTOHItxtirL7gO5n_0Nmmcxlk1QBL4IpCKH7AUfc4t2YIR3CnOe2wJSpRuFWML7Kdy8CG5xB4CgIuBgKe4CY"
+}
+comments {
+  text: "Very much"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1408366650131
+  authorId: "cid-gp:AOqpTOFm7N8ReU65_6QuzbXH_U-u-bKpcTDkY-WUpDL5_GLGCImWyte6JCOaJZq6EPj2f-LnPA9PVe-6dQLmhXU"
+}
+comments {
+  text: "Great"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408241821688
+  authorId: "cid-gp:AOqpTOFGy2ERUTEblEoQaPvfdAS1MGosMzFnl9EjoWIUJueRmDIVsrhNNi5Hf4w4t07sI8HJO69R8J1laDM_zHk"
+}
+comments {
+  text: "Ggg\tVgggggg"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408146045664
+  authorId: "cid-gp:AOqpTOHBkAnkCCQF4EEU1uIEoIXaLtYH9ygGwUBIngDvShpB4AvukaXXqHJUGn2eM5GeGyWekxYw1_wnQSgrgg8"
+}
+comments {
+  text: "Candy kuma\tI like it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1408102460440
+  authorId: "cid-gp:AOqpTOHaJOiGKUACCOnS03-WP3Ar_uefjuuvsfInhUPx6jdx6hlb2-BrjHf46ABQmBLJ39ahiZ_N6RPHUgXf0H4"
+}
+entriesCount: 648
+
+comments {
+  text: "Great\tSweet"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408076949934
+  authorId: "cid-gp:AOqpTOFNBB8CrBXnGqSfp4cjvrDg4jQccLU_l0jRZV9n7Ssvn9lcm4gkJxWRH1kw7m1c10mC4fVhYr4kx3_HHt8"
+}
+comments {
+  text: "ratu\tayu"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1408021839331
+  authorId: "cid-gp:AOqpTOGm7_JxHsEUDrFRazJH8HKJblVvPiOa53TqxBi1Fxcnt7OJveMn1pR1xJK7jqY5h1bgDHfSTCeGNRMcsVo"
+}
+comments {
+  text: "Just cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407997671581
+  authorId: "cid-gp:AOqpTOHj-R_a7th6zwD86LxplnhgOTvkuL0KcN8xCj6TcTmoHhbIZgS3HwKw52o8ea7F1B11hNGuf9IiudP7tjM"
+}
+comments {
+  text: "Superb"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1407943188252
+  authorId: "cid-gp:AOqpTOFXCfPbeAj19lpbCM_li9whi_oZ2QqlhKqCwSLsp3olCHauW3fRWarrrXpMO-GxnSvZlQM55EOLv98CivU"
+}
+comments {
+  text: "Kenan\tPatel"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407942801479
+  authorId: "cid-gp:AOqpTOF-heMiMVyiooMBU_kdCKaGxSDdwr_RNm42ZuRFVMTV8oZIoQl5hPI-tLgydKejJLO771nxfL6-MvrVflw"
+}
+comments {
+  text: "Candy kuma\tNice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1407500071094
+  authorId: "cid-gp:AOqpTOEmcS05zHSb2oPl65DMzDS0KAvK9PpBwufRJsFPeAxtmyl01eOWUgFdhrJLJ2uEc_XF12IIMuTe36ql938"
+}
+comments {
+  text: "Good game for free time"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1407312786760
+  authorId: "cid-gp:AOqpTOFoMA5XflX1oHzsElT0CAyXhD_UTwWwxnqdtXVomLEDBpgmM--Mu8TFH23xSvzkqJza_9e3cOIXPog3Ss4"
+}
+comments {
+  text: "\330\256\333\214\331\204\333\214 \330\257\331\210\330\263\330\264 \330\257\330\247\330\261\331\205"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407002314758
+  authorId: "cid-gp:AOqpTOGvR_sR_AukrE2X-2TIO5iV6Ev8jnUOcGsc02s0gL7hUHJjdW2YqFOD8kvAFZXaBAialn1nBLGLIahlan8"
+}
+comments {
+  text: "Iphone 4s\tI have iphone and my daughter wanted to play candy shoot,she have galaxy star pro i was afraid iphone will break,so its good now she dont ask my iphone"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1406912633375
+  authorId: "cid-gp:AOqpTOGjMpzVOjj3HoHo4Lr_y66bndZSWIwK7_4z5VvdbaahmfdLI5F3eHn59-VheM2jlNW8iA6QEgToVw7r0e8"
+}
+comments {
+  text: "candy cuma\twow nice game"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1406760277022
+  authorId: "cid-gp:AOqpTOE_aLlyTEQ16D7hOVmQewrclCJCwhHKQKVIjrvsAO9GjzwiX7E3EIz9gwjj9BFZfCFDHzHjTt6V3HNW358"
+}
+entriesCount: 648
+
+comments {
+  text: "Jst way  A liKe it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406542785401
+  authorId: "cid-gp:AOqpTOEW2nxSKP29cmkkcmyJRnzkTD6oSPwWYsXGqodlU9KvnCm43MYZ-GcGAGJ5QtYbTSe2EJLAR2nAhYl_QXA"
+}
+comments {
+  text: "Candy kuma"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406300646997
+  authorId: "cid-gp:AOqpTOEDls2w1aaLrW37n7xou0l3w75299u7zk1UMll5TuPfTM879PRUUvJW4d-4PwpylD5_j8A5MdPUZu0xNLc"
+}
+comments {
+  text: "AWSOME\tThis game is the best ever im addicted to it I have 6 games in my phone and I only play this one candy kuma but I cant pass level 13"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405908879452
+  authorId: "cid-gp:AOqpTOHmpvikcTEdp3ZJ_DRm23jgiRkCu0qAXK5Vo4mNtGfxCC3Dj7BKbguNbgZHnAwsgUUabtebCauJZIXfZYg"
+}
+comments {
+  text: "Nice\tGoodd app a bit slow though"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1405034674028
+  authorId: "cid-gp:AOqpTOEzIJC29Y7pFFlCjT-PgUkV34uDa60Bi-OgYILmvB7hbkUQqmjDmGcvvm1-2c3geL4utN4HuA4PMesC1y8"
+}
+comments {
+  text: "Splendid"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404851044971
+  authorId: "cid-gp:AOqpTOE57yD5WVMmxQAZUtqAM9gYXlJvSFbm9a56OTzEuaVdBzEx57pZk77Cx0tgjP5z9Wm4tZw3HJPf83PVkuk"
+}
+comments {
+  text: "Cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404522633539
+  authorId: "cid-gp:AOqpTOHd5Dm_8QbaC6xVT8XPcSqAEgUxk3tRoYsOevt8MxJVjFaxA3m_huqNe1PIgpHPFlTJZ7tvPWMGtlf9TJQ"
+}
+comments {
+  text: "great.."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1404469960183
+  authorId: "cid-gp:AOqpTOHF25A81JW5kX4fPs8m40kSycS1NHXds56O_JmsMTqVH2n0049lS0o1k1VHSDRfHZeOyxtelosnDtcW_t0"
+}
+comments {
+  text: "Its awesome!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403830693076
+  authorId: "cid-gp:AOqpTOFMuqRYonKGMhyR_mcS54Dk3rqpQjqHLH0xApDcDsCwLfQvinOdrvmRLXIyZ8WJ5Br0EgUicfuRTteQJcI"
+}
+comments {
+  text: "Awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403378050702
+  authorId: "cid-gp:AOqpTOEo9HGX7A9B4m7-Uln13RRLMLVO62sZmP30Q2YHDRKGZMIwDMmeK3trIkxvXL3NnkS-51w4W11Cygge5ms"
+}
+comments {
+  text: "COOL"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401212350889
+  authorId: "cid-gp:AOqpTOHFMdY6KCCDohGgvzeLUc6EFWJPGHELTPW2JbZmt2UE2JYt5AeZPOPmoQPi64yWY8tc_K0pVk7XjQkqNYs"
+}
+entriesCount: 648
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+
+entriesCount: 180
+

@@ -1,0 +1,2475 @@
+comments {
+  text: "Good variety of stretches that really work"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415754276832
+  authorId: "cid-gp:AOqpTOG9DehGSoV7v1J-qPvPupjeh9T09kFcEqm3bB6RGqphxnpUt1Hf1FuZljTtE_5rccPCXpBCf7a_RmQc6w"
+}
+comments {
+  text: "should I try this one"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1415614066580
+  authorId: "cid-gp:AOqpTOG_1OO7aTSKO9RCluqd04w87sGdkymlkWcrObjMCRQxZQDdkRP07j4lEiHG87E8UdnoLbM9krEYyHUxXg"
+}
+comments {
+  text: "Nice\tIts so nice app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415587954602
+  authorId: "cid-gp:AOqpTOGeMXNswO7UjDmOJ9DCWn82lnvPc2_qXaZge7TQM5o1AqcUbCiRHzuY7jzl83xKPPPr9V4-toE5gaOMhg"
+}
+comments {
+  text: "Rajesh"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415467947978
+  authorId: "cid-gp:AOqpTOGnV5RjbeSkGQTuICSHDsVjnWKx1pF5zSvklv2VPyNqC-vIk71Zm3xSF9khimEL9HGACm2EtphBWOkwsA"
+}
+comments {
+  text: "Fineee\tIts gd for health..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415363897235
+  authorId: "cid-gp:AOqpTOGmf6vq9NwpXow64ZV8IjT35b0-q9LNbQZfYeKnJyRF860afT6kVzawv1L84lAmlcFEYFPUWZ1zpDIleg"
+}
+comments {
+  text: "Lovely app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1415274653066
+  authorId: "cid-gp:AOqpTOHD5h0zZt76ZgV24pRDnfqPh8Xnydh_ELz8joICQtIfRSU-7dTUfPnwZc0pON-f3y0LTikRy5fP1cw-ow"
+}
+comments {
+  text: "Great App\tSomething I\'ve been searching for, for a long time. Danke sehr!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415062243720
+  authorId: "cid-gp:AOqpTOEdJlFyMaGnlWV5u2ZeVQ9kZGLoH4InLGf7_qpF7XRCVkB-ifBlBUhtOOMNy0lag33fiSfhRVhocGN9qA"
+}
+comments {
+  text: "Cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415054635864
+  authorId: "cid-gp:AOqpTOGMYOGlsVw6QSY9O2aK-bzlf_I-LWkyUgGezXHawa5_KN-kZjodCikmyTHvZznH1EU805fDqHtvueN_JA"
+}
+comments {
+  text: "Muhammad aun\tSub sa baikar exercise dont download"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1414939522339
+  authorId: "cid-gp:AOqpTOH-2zJWdkcOvSNYyN_BAQM7t2EU5TeYqDL6VNUvdlvgZO3ELGWRlUhZ-rVk4jSdnDVpJIY7H1eT6pJodA"
+}
+comments {
+  text: "Love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414863467303
+  authorId: "cid-gp:AOqpTOFWbYAFiKp1nIyQvsrl4-E8kAfVJAhYNobMQHTnswJnD0FIjXSvTlHIeMC1DVjBY5ytkvDzqAaFMfBshA"
+}
+entriesCount: 382
+
+comments {
+  text: "These stretches did not work very well for me"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1413914124858
+  authorId: "cid-gp:AOqpTOFLAT0ZxH7fMPlssPU7jT8PwSlr2Z2Iy8i-ze1uytQBmxss-p4DGlcW-VEUyA45m5wv3BUm3r8Rct2gDw"
+}
+comments {
+  text: "Love it\tWorth the try \360\237\221\215"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413775220827
+  authorId: "cid-gp:AOqpTOHAyLgVJ6WTh6fvjklVw5daRqts5xfhQ5MiIEJy8JPxwBk6i5IDlMWEmo9IOXKG9VFKuVdiDMSmN-_TOA"
+}
+comments {
+  text: "Awesome\tI spent an hour of stretching with this because it truly helps me it my 30min or 1hour bodyweight workout. You can feel the difference. Hope it has another variations of basic and advanced stretching :-)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413697995553
+  authorId: "cid-gp:AOqpTOG2Ch_PJlix69NLSdBRDftiCGJjakQL5qOtBE5jfKXSRCxAHEvvWppcd7xjcMUm7rkoPVrEk7JzrYeUnA"
+}
+comments {
+  text: "Sucked\tYou have to swipe the pics, like all the others go with you , like seriously I have better apps"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1413581778727
+  authorId: "cid-gp:AOqpTOG3PdwbpTEV67D9cGHfUfCeRiH9OnAelDtbsbL9dtVufNu-JpLJE8wgHMhZ93_SE5rnbmkdFHFRD1IpXQ"
+}
+comments {
+  text: "Reach for the sky\tNeed to incorporate this into my callisthenics routine!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413579570837
+  authorId: "cid-gp:AOqpTOH24_Pr0MRAUvcyo2UmYPbC9rmEGPD3-ve6pMOkHGwbsV2QIKxS6O_RbVUMNdf0eDs8KVCiPIHtfrCocQ"
+}
+comments {
+  text: "strech exercise\tLike this"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413340984721
+  authorId: "cid-gp:AOqpTOHISkfpmh-EcW9jzT3twTGtwoECcRPOTsw_5VAIQbmpeqrp5BsfPMYDNLm_p5SSqZxAqJBNjQJ8cj3yGA"
+}
+comments {
+  text: "It is so useful!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1413113344928
+  authorId: "cid-gp:AOqpTOH-M2IfT-xfRQrlYCXauvrU8qqzJquuL6RfkJkhcLIlFbnCCbH2jj3csMjNh60ptszRBBBX4CZW2Kqf2Q"
+}
+comments {
+  text: "Stretch exercise"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413089739674
+  authorId: "cid-gp:AOqpTOEpCs9h4kKiMiNR0a-oxJ5iJLirxe6pWddHiu61sB9PFCs-D3HnvUz_liKMsTDgLQg1kVpPmFu2cNTz3w"
+}
+comments {
+  text: "Super duper awesome application. Because it can help our body fit and healthy. I like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1413036511302
+  authorId: "cid-gp:AOqpTOHNR4IcRIgKKdWbA0PanfPVJhxA1PgtwIO4GZaV8ncIHVVixdmX_n8yE4fQ7z0V9-dyTmDCadpXkCJWQw"
+}
+comments {
+  text: "awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412555443579
+  authorId: "cid-gp:AOqpTOEAx8cCdbWSDYk16Nvhv83Ljw0zcVVs-Mzd5CxlB8-u8tA3lGvOuYYYxLXzohW1QJIGG89uCugJ2Vjf5g"
+}
+entriesCount: 382
+
+comments {
+  text: "Stretch Execrises\tExecrises"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412012932682
+  authorId: "cid-gp:AOqpTOERrfv48YYU_nFpZxDtJA3iYuM2lfpqcgjqHEr0-9G_noRsJG9YiBFtiET-OE-sOkm8iM6xFvBzviXLnQ"
+}
+comments {
+  text: "Dislike.. :/"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1411689469914
+  authorId: "cid-gp:AOqpTOHTXASe9sHUg6Fcqybf_HAFXJRQvVrTAktsV8DQTAvKEn1fyOhKmlf27vT_JYLiE4DZMu-mpljxKVC9Cg"
+}
+comments {
+  text: "Good for a beginner but it gets too easy"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1411615847019
+  authorId: "cid-gp:AOqpTOExkro_knyV2Q6-LfeQQnvWmsKMSo0l4IszXCjOKWfUPXxxc-Iej_F7ik__7TKV3rXX54RgongkJ6BcwA"
+}
+comments {
+  text: "Better\tBetter stretched than stressed."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1411525489525
+  authorId: "cid-gp:AOqpTOFYTZ8kpGkmxrvWS86i-vXx2QSA2_-26g2ouxGD_VI7EESD1ET_BKqiKv635nOHWJGDogNVVb40uL2xMQ"
+}
+comments {
+  text: "Perfect for me\tExcellent!!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1411394979047
+  authorId: "cid-gp:AOqpTOEWepbf_ZX-yniLe1FKDsvI2aQQ07AGymqMGTeonbsDSZU2xUXNkfpvhYBXW5-ZsuwCuCPQ4sD3rxdbdQ"
+}
+comments {
+  text: "Boring\tNeeds more description"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411312063390
+  authorId: "cid-gp:AOqpTOEDanBngOwgXxX8sRmDKGxeQBSX2DXoyHW9qgtvm0GREzOkhA59lWj1552vQfzqOPuoMRkllIjPBnRfMA"
+}
+comments {
+  text: "Refuse to be installed\tGives error that cannot be saved to SD card and not getting installed on the device"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1410972761547
+  authorId: "cid-gp:AOqpTOFfFttYyOaotEmkBMgomfANsiIDo17JyJW1iPS8sGAp1UQT_R1K4F9WIpIsPqISK5YvCYWsWCZLP4D_wg"
+}
+comments {
+  text: "Excellent and very useful."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410551458585
+  authorId: "cid-gp:AOqpTOEvikWNFThdv23dMwUr4JbcX5CFCJmVJRlJPaohvnfTLfrZ5c6Tl3Fxeju-Z5rVwvv1LDsHrHnbN1-RIw"
+}
+comments {
+  text: "It\'s good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410536213271
+  authorId: "cid-gp:AOqpTOFqACpiGlOPHyFab91AuwvkN3QIhAOH28BXNKpvIHLWvXcFANMuCFaQAlPaOC-YAyTBIcuwhxReTnyj8w"
+}
+comments {
+  text: "Happy"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410503259817
+  authorId: "cid-gp:AOqpTOGK2GHnqh1aJeQeVw2ESbDJSlSaJSKMbenXZZETwe95L9FZXwYp6WDzgVrBaOWs92uSs7KXzdbAbbyE0g"
+}
+entriesCount: 382
+
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410455201643
+  authorId: "cid-gp:AOqpTOGOlpnNqH8VfMGtY6juEBuhEpGq_CnSd_fREQLglo7GMM_hbexH-t--ePpCbn8fTjH3x3p3Fe5DFa7Fxw"
+}
+comments {
+  text: "good\tits worth it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410267785784
+  authorId: "cid-gp:AOqpTOGPM31wwngIR-IdYkZl_EMMO06xbgQ-blrwgs51r8xwh6AqyEutAjh3qnE-0g83JmlqENoGlXjC3OHOfA"
+}
+comments {
+  text: "I got jsnd"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410230178905
+  authorId: "cid-gp:AOqpTOFDmFEIJB6i1uq283oxSXqwU_JYo5SJ_-oJTRbmST8vUeUrHkD58ipIC7Fd8xBCOQzoP1qMrhT-pdq8bw"
+}
+comments {
+  text: "Nice warm up get\'s you ready for the workout"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410224093480
+  authorId: "cid-gp:AOqpTOE-B7UufuaUuEZ1iJ-ZL2ptLDjl5FOUKMpOnFdjJqNuTci_Q8za8tlvNDDzdIwkUWp1KfLdByHBNNs0Ug"
+}
+comments {
+  text: "Wait for reply"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1410064809593
+  authorId: "cid-gp:AOqpTOH_SAq7LLBSAqZGlmID2kPO9BHqugug3UvRd6fxKe-3oz57FmiE6Osgalx17VFHhVhIErrBnuue8SAAnw"
+}
+comments {
+  text: ":-)"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1409797999288
+  authorId: "cid-gp:AOqpTOGt_OL8U07t2-XOYnomX-KqVtzHOqYKN4nxM4UK1RyUv1D-MJwk-nAwKkuRZqrphPNs8ft7LrtCDsVI6A"
+}
+comments {
+  text: "Identity Permission?\tWhy? What does a stretching excercise app need my personal identity info for? FAIL."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1409614186530
+  authorId: "cid-gp:AOqpTOEsJ-qfAqIyxtpdo2wWlrmfbwvZkXkU--vSfxnzfoc7dsbPQEOgyvKXg4S7NsHWoZIO1PGufvSXVW_3PQ"
+}
+comments {
+  text: "Stretch\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409380333580
+  authorId: "cid-gp:AOqpTOGrYDT9XgELN2V5OhxcKGPLQtHngvxJ3fSoKarELtY5ouNaFOQ-sPhmPDSjKloY8v3n0DbK0D0BnlwqLA"
+}
+comments {
+  text: "Good\tAwesome for daily home workouts"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1409040750182
+  authorId: "cid-gp:AOqpTOG6pcO2GQAoad-QwWzxz_QMijINGHX5EMAeJkVyze_BnA7mcMc3t6MEU-PAFVeyVERcqJuK_D624_Xm5A"
+}
+comments {
+  text: "Its nice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1408712816806
+  authorId: "cid-gp:AOqpTOHypPpRGiodcN2mMaWFanb6gtXYNgHv1u9afn2K-LK1itCIomVrpWsy9C2Jvw5zJAaHWOEOtFLdp1caRg"
+}
+entriesCount: 382
+
+comments {
+  text: "not bad"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1408631339793
+  authorId: "cid-gp:AOqpTOHEml2SjDfhFPyfzMfczRGYOFdEYtsDUZ4V2I558ZantpVujCnL9BgZIHWgLrp594BSYOgmkGiHBc0H3g"
+}
+comments {
+  text: "Vicky\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408468160270
+  authorId: "cid-gp:AOqpTOGrohhdIWFKzfZAvbcDKuC9OXQgMpbVZdw3Say2mG-duQwvgUClU6FFX7YJkmhRdD7hrVBxjUEnbOJQrQ"
+}
+comments {
+  text: "GREAT APP\tVERY, VERY, HELPFUL, HEALTHY, AND I\'M REALLY ENJOYING IT."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1408410675994
+  authorId: "cid-gp:AOqpTOHS85dmi9iwDq2Dg95dmlTRPOf6Ee8PyPA8dApQ3QXGOZbvW2l8oryeF7Fwb3c4lgafccp4UV-BGnddkg"
+}
+comments {
+  text: "I love it\tfor body exercises"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408322500621
+  authorId: "cid-gp:AOqpTOG6CNVA6wPLHfLSefV3T37nGIZ9PP6UrYtGK3kCqTUy5YfhSAL8P8u1s5gj2EukXI9TsaSnpY6sJwtEIw"
+}
+comments {
+  text: "Gud app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1408109261712
+  authorId: "cid-gp:AOqpTOH1OVnXeDD_MpYTbO6qNBZNAbXKmfvMXt1QztXikGXeXxL8yQuanaiXc92ocQnUayDo-PgnPObdT4uQZw"
+}
+comments {
+  text: "I loved this application."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1408064860434
+  authorId: "cid-gp:AOqpTOFXZAB1Qvg1cW3gYWbj8NhryyobCbAGk5uZLNb2Fhvgzy5kilSn80NskWb9Z2FAhfpvKwAv5R-TLTC3vQ"
+}
+comments {
+  text: "Hope these app can help me..i give 3 star for now .if its work i give it 5 star.."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1408024882790
+  authorId: "cid-gp:AOqpTOHcdADJyjSGTbwapJi2drVBCfVxTPbTLCXWTpheDTSKOGKL5NTvYjgTbJHjFMkn0lpZ_Xy3zVG2LJevSQ"
+}
+comments {
+  text: "Psh\tYou rank it first before u download  .. nice  eh  ?"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1407702939618
+  authorId: "cid-gp:AOqpTOGe11vygdx3K2q9TiCYOtIVXHRv9c8rQW2qYAQFJt3JZI0nRKt278zKQ_hd7zJlIdU65M9QCeqnKzh1PA"
+}
+comments {
+  text: "Love it. .thanks for making it \" free\" !!! \342\231\241\342\231\241\342\231\241\342\231\241"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1407667487119
+  authorId: "cid-gp:AOqpTOEzhUdpK7wIONI7Zq1BVA-MpJ5n4p_atGDrvkE2p1tbpg1vy_1UyPz20akpTa7CYrySXZeVZOjmc75G4g"
+}
+comments {
+  text: "Good apparatus\tEasily explained."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1407665983382
+  authorId: "cid-gp:AOqpTOF-4y_jNgBrH16CDO1tAHUwWCxLnMz4dUVfaCrkPXnQ2wnxiD_-mD69t66rZFGB0Y7ENYMGPj7M9LKbhw"
+}
+entriesCount: 382
+
+comments {
+  text: "Best app ever"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407445408334
+  authorId: "cid-gp:AOqpTOHNf3IWhv1wnSWU5L49VMp-dxOweOH1OkQLUP33WSW6GBysVnNYhQMG_JvvE31BJ638z9EXhvWFuYewAw"
+}
+comments {
+  text: "Awesomeness\tLove this app. It\'s helped me a great deal by increasing my stretch and flexibility. No I am not spam. :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407411033140
+  authorId: "cid-gp:AOqpTOG7Eh9j_0LUFZqhvjcIMaLpEJk-s-2pR04BCZN1M_aTJgXrCtLmTnvKzoKPgJ5SIfhpdFOr2vyV98b7Aw"
+}
+comments {
+  text: "G0000D"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407383895047
+  authorId: "cid-gp:AOqpTOELz9wA4DBjzXbVNUjmBXkiQqKu1eUvd3TIUo3-sK8CgvLicgfKM8kJINRDA0hSG_D9A4eCd8dK-UutHg"
+}
+comments {
+  text: "Totally awesome!!!\tProvides basic and advanced stretching methods. Thank you! And more power to your team!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407111702388
+  authorId: "cid-gp:AOqpTOHpO4_YrDbTU02fSh9Ptk1Wk3STFSHtmFj5Ej35nXJzBTe4KLkqbZbq1q3eU_azWgl_keU4jhSKK4xMiA"
+}
+comments {
+  text: "Easy and portable.\tIt is nice not to need to carry my large books around for doing these exercises any more. I have severe arthritis and have to stretch every day to be able to move around without horrible pain. The stretches here match the ones in the book the doctor had me get so I am well pleased. Would like to see more stretches added to what is here. Thank you for what you have done so far."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406987315767
+  authorId: "cid-gp:AOqpTOFJyNIdl0ulj2Vm12Fspy2mb0VjCOBpu4ryXkmCG_rzsGBMEncHBx7EmRioCWInnHXCePL6Dl8zHFUc4A"
+}
+comments {
+  text: "Sucks\tIt just shiws pictures of stretches"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1406910989178
+  authorId: "cid-gp:AOqpTOF1nwB9NbUAf3JkIdzQxVO8-xNWVhcqX2B286K2hJyqJy7RAKL61P6P7-Us6Gl7KshKhTPYkbc8IXcGrg"
+}
+comments {
+  text: "I\tLove it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406642957425
+  authorId: "cid-gp:AOqpTOEHqtXTau8vCQHroLC1kjDak8cPrx5tZihbYoeUHTnOtyrc1WUZdrLjkBnJesrpY_zX6q9458tLhe1DFQ"
+}
+comments {
+  text: "perfect\tGreat app. for seniors, very easy"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406627392956
+  authorId: "cid-gp:AOqpTOG5PdGbiRgWLXKVl6mMH-kzmI8dnK-glRjVzfkcI7NKo7LqWEo7BSM5vrSYQmhws-yQVw96TzD17yTC4w"
+}
+comments {
+  text: "yes I needed this\tit helps posture, waist pain from kicks, and more flexibility and strength"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1406485645737
+  authorId: "cid-gp:AOqpTOH1zwvrom9QKvlqgOhhhrMntS0yQOItGcqFa_0kQwX8_N2K0cgJ36Y8a1M8maxe63eUja485LOsypdrdQ"
+}
+comments {
+  text: "It is nice app\tI like it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405080810272
+  authorId: "cid-gp:AOqpTOFNOmrHtbrVBavt_U4IsIQCQm-jfElnsdY02W2y9JwtAQCp38bZw1r5GElRbPizjM_f4BPzKBd3AgCMCw"
+}
+entriesCount: 382
+
+comments {
+  text: "Love it\tLove it so much"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404984571419
+  authorId: "cid-gp:AOqpTOFNWeNpUhenv3Jnszd6NG5iZm2n7YSbgiK8tkzKuYHAjQW_mEqanL-OIVMGZ7jfam0S9IVzGWzXYbSwSw"
+}
+comments {
+  text: "Yoga\tThis helps me out really well because it helps me lose my gut"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404939672396
+  authorId: "cid-gp:AOqpTOESqlhVcJEYGER8pKu60--3hXMJ0hb_UAYrpbBaqnRsgUadCHsMOpSu_1jjqtNit8W9F9uZHmL9kSRIoA"
+}
+comments {
+  text: "nice\tnice but increase more exercises like to height incresing body fitness etc......."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404935389579
+  authorId: "cid-gp:AOqpTOEfaudtKohuzTo97ewK9i1myx6y06zu-CLg6hi3G25XT_ULTN3mXmGDaG7UjfYwM6OV1RiZ3ah6pDjGWw"
+}
+comments {
+  text: "Awesome!\tAwesome app!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404743317071
+  authorId: "cid-gp:AOqpTOEWg-zK6M9GEcJAKhkENy3Ulks6rnCD10L8bUGNvxPnDCgG7wn2pEqJJsIkg9BMktCZtifiyydAi8WIAg"
+}
+comments {
+  text: "Stamina\tDevelop energy thru streching before you go to the main course of passion sport"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404458903978
+  authorId: "cid-gp:AOqpTOFDmW0DO4a13jBjy2Wm7VEPC87olA-ALwuGbdRPGT43DBOIWnAF2lk8k_pFipAKkg7jjpSvnMO-RLev-w"
+}
+comments {
+  text: "Dum\tDoesn\'t even teach me how to do the poses"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1403838871594
+  authorId: "cid-gp:AOqpTOF_qHWfext9m4CZQMPi-BugYVi7ShWch1LqJrkQogW-OfnG4RlLBqpUPAhEp6-ppFvOkDdmARu5p6HiCg"
+}
+comments {
+  text: "Best\tGood app"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1403810072946
+  authorId: "cid-gp:AOqpTOEMtseeHWS9--wKYztNE2KeTwkr8tB1cKkPbp6wdk89lRMYu9ERnZmwxMpzEoPDjW9uUAt2zS_cpDVsng"
+}
+comments {
+  text: "Awesome!!!!!!!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403618943742
+  authorId: "cid-gp:AOqpTOFzCGBKClYjPa8yadIWETJ4z8raohtxKUBomBpAzvDiNaYoJk0wpqx5KaxoRoiibdCCEXZKSa4W8Hrsbw"
+}
+comments {
+  text: "Liked d app\tHopely it works well in future as it is works now"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1403155526313
+  authorId: "cid-gp:AOqpTOEy11MezH7fOt71vhsZD_ZRr0xRz7aFn4iXhHYaduf90IRlNW9mXV59aLgE-iXbfAf4uXXf3mHyprfjRQ"
+}
+comments {
+  text: "Eats data. 1 gig in 2 weeks. Never opened it once. Junk."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1403143023714
+  authorId: "cid-gp:AOqpTOFtkCva9Vh0iDZfkpCYZWAl5UQLQXyGUljwEEqeMQHNNYZm4Ka2dnpJr_QLayCUbyzWTrzmUIMtpodnyg"
+}
+entriesCount: 382
+
+comments {
+  text: "Best app\tExercises full of benefit"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402724298402
+  authorId: "cid-gp:AOqpTOHrXImCnlx2hW08718ujnF2M2YchZ9xUUk-wuSGRGOH0Vh-4CGiIL3bnH3TnuB6tUOl1FkWgJZYLQnpwg"
+}
+comments {
+  text: "Rvkom\tJai hind"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402684607301
+  authorId: "cid-gp:AOqpTOHeeDGdEhcJjF84fCte7ranQuLRAqRqLOB2n9CHI2XXknON9XT6bVhLz41E_McqZAy27YLeUj9N0w12HQ"
+}
+comments {
+  text: "Impressive!!!\tVery well presented & user friendly. Overall Superb!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402607419081
+  authorId: "cid-lg:AOqpTOHu9aP915xF4IzXVvVCIOthygcjuXdiNyWYL2W415x3GkHLkwUbBwGcZllbS9xrgsfOPlJ5nvB0MbfPIA"
+}
+comments {
+  text: "\340\246\247\340\246\250\340\247\215\340\246\257\340\246\254\340\246\276\340\246\246\t\340\246\247\340\246\250\340\247\215\340\246\257\340\246\254\340\246\276\340\246\246"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402461030670
+  authorId: "cid-gp:AOqpTOEyL9NkV9LYXc5QZOvSOlH2ANzX-uYstB-aej15vLoc2CBul1M-wEZo07fz5Wo6O5sV7b-cOjUDCk6P7Q"
+}
+comments {
+  text: "Easy and works\tHad gotten so stiff from not exercising that not only did my body begin to ache I was also getting sick easier. Now my aches and pains are going away and I also get sick less now!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402287603168
+  authorId: "cid-gp:AOqpTOGEd63A2gF198WJlF0QPG2ZZQAxxKnuSlQZ3M5ZUQpXIhTmyLuBU0NLYpV5Z67LglNVZ2_Ful_m0Z2xrg"
+}
+comments {
+  text: "Great App\tEverything you need to keep you in shape. I wasn\'t disappointed & I\'m sure you won\'t be either"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402168729224
+  authorId: "cid-gp:AOqpTOGuZQfEP57dNWbRpCTx78TX82Ntf3wg6OS8fNQWm2FxDGlz5rLLAdmW5-0TUgRpxFHZoWUgi7jG7OHxCw"
+}
+comments {
+  text: "Manoj TIWARI Radio Adhyatma Jyoti\tVery Helpful"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1401981313113
+  authorId: "cid-gp:AOqpTOEcDUTX3unxukAco-Qgr0kaLt6M3Za9uzDckGoRbwBdYX7TIOzqmqVwa1rGNuLKrK7LQAo3jBzMNVWDdw"
+}
+comments {
+  text: "Awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401892470338
+  authorId: "cid-gp:AOqpTOEHK6q1sOYMslnXANyqqI-IpVUbbDPN9HtborgWhIupQzlWIhucWxtlsV5xTchB45pXLwqh1CImPVAyvg"
+}
+comments {
+  text: "Wow\tSuper"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1401443241606
+  authorId: "cid-gp:AOqpTOEW_t6NbNB5m8q35MCGvUu5QJTYBbeOnEMooGTGy3pX3fJh7Z9a9CKKIPDVzKRSdMiau9HYbLim-LW2Sg"
+}
+comments {
+  text: "Lauda kuch nai hota sb chodu banate hai"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401221983792
+  authorId: "cid-gp:AOqpTOFFwqqJtR2fQwPECKd-AiY_QzojBW131i2wU1Ad-qdqnm7Q3ccR10oBrozc6lRomfLC6oqGb5ynK1yDGA"
+}
+entriesCount: 382
+
+comments {
+  text: "Grt  app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1401163807498
+  authorId: "cid-gp:AOqpTOEUHopbVqoImRnRvEZOachUXiekSixty6JguRwVdd-DkNxG7J4Kz3VzHYz6NI8OTIDIzql3qjOjlIt7Fg"
+}
+comments {
+  text: "Good"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1401035079134
+  authorId: "cid-gp:AOqpTOHpLnafrejP-d5BQSAXthLtmK0EyV7hlj6Z2JWdK5URBlwfyZiqv14HmHhO3HRgZO4Xn4DUZcRayqXcnA"
+}
+comments {
+  text: "Good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1400947896999
+  authorId: "cid-gp:AOqpTOHTzcrzT9yDJFGA2k_h20WswXE9VPNv3coGyA7wCUUiPXrs_rSYCrUVygm_wuf-_4WaQP9rfHB3RT_uAw"
+}
+comments {
+  text: "I"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400870128047
+  authorId: "cid-gp:AOqpTOFoWTkVcOtkBKugWuFcK1TjFQEhImnDjmC7rgKCGpzVzwLsC01J4Rwu8ZAtk9VO8WjkotX1IRq3ma6eTw"
+}
+comments {
+  text: "i love it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400864353734
+  authorId: "cid-gp:AOqpTOE48p1jGEhoxuFaG3OjCje6LNYPI0eJ6uOeubk7wvPEyci4Bd2X1zkGhLXsz3UhCU-7GQM4E3Q3YyYsuA"
+}
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400823586637
+  authorId: "cid-gp:AOqpTOF9aajAP9Sf4Skb4TKcetGDLHcPKIXnemLyRSFlfh3XI3CQ8CNhLSjd9Z2HJwEod0im89waTGZI2rKaEQ"
+}
+comments {
+  text: "This app relief you pain"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400719705873
+  authorId: "cid-gp:AOqpTOGpB6jCE06nVGLbjV6S7RY0BJJswY7CWzq1ChQoJ-SbTo6PJDj5psrCds_jXjb-yedbwRPMEtDwKxIXnw"
+}
+comments {
+  text: "Stretch Exercise\tselesa and relax"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1400554466486
+  authorId: "cid-gp:AOqpTOFXk-hNRxYmniW_vT40-ujmM1IDLVZTLZY-VQKGySJl-vvXhvGfBZxghkRsdgNdiv0AANKovFaoRkYbyg"
+}
+comments {
+  text: "Excellent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1400431476888
+  authorId: "cid-gp:AOqpTOG-oYX7H-r-5sYa-sUC0rcLxS2-diZglpJJYZNuYqnBKcvtwh7ja0hscnbvdygwZfB6FYyD6cH1WTEqhQ"
+}
+comments {
+  text: "as of now, i want to start streching"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399914148473
+  authorId: "cid-gp:AOqpTOFNtFcjjD2rCbg_NKImk1fGmcdf1nuM1mwCyn6nXLOI7Y9mDZOtiltuuyjz3v10Mb4uAHZfOBbE2HnjAQ"
+}
+entriesCount: 382
+
+comments {
+  text: "Excellent app for athletes"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399787294503
+  authorId: "cid-gp:AOqpTOFFqqld8-VzA9QoQ5pp3A2EotTa10DGMTPiEnFF1NjF0Blpj5pqaTOX87onEjSjEdfsGyplNwfmaXZdMg"
+}
+comments {
+  text: "It\'s very useful"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1399560014863
+  authorId: "cid-gp:AOqpTOHT3LiNGkSiG_z2x_F7Z6ALYtTE9sjodvPDsqqBqPHW1e7DtX05hW1Ua_ALpS1ReC6s9PSf7HVYiD3sUQ"
+}
+comments {
+  text: "Best app\tAll is cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399542919747
+  authorId: "cid-gp:AOqpTOGxbzxexYfy1AYePuuL0xI_TNM8mtNwjqslpmZ0a4tAlM2pd0c9E9mk55lyyc_Q2bzFe1iYO9A-ozo_Iw"
+}
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399360015410
+  authorId: "cid-gp:AOqpTOFKpuEEMXE191C9CWf3XbD0Nl2_n1DU0HbY70Bl2VlViaHZX3ucKMyUdrHnT9kqRbWl-yXMAAUiZNwa_w"
+}
+comments {
+  text: "Good\tGood app..thank you"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399282868822
+  authorId: "cid-gp:AOqpTOE-1ZxgV7NrIndn_3gOChjvr0ASO2LJBFTm1s3YiKrXMhwdc4d-xFTlaOfzjtjUV0sqxOKHfxd5kbHz-w"
+}
+comments {
+  text: "Sony...\tExcellent app for learning stretching........."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399026307746
+  authorId: "cid-gp:AOqpTOE9Ca5cz7nWDPj1A2r_1qL8M5wtuQMxS2CYTYy0QbjVzvvI1trnGEWQhjl1VDD2VvSUnWvvc6-q4CBW5w"
+}
+comments {
+  text: "nice app..i like it..\tbut its a few steps..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1398847990581
+  authorId: "cid-gp:AOqpTOFGseOLSD50_w7d-OjRecVa-jH98OJwgbRDkJb8DaOH_W2Q4mTJR9Gp3Tj50M97XFS_HauB3jrZ6bTJNw"
+}
+comments {
+  text: "Nice, keep it up"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398837198618
+  authorId: "cid-gp:AOqpTOGhZPHymr5zkqb4deZCpwstS4tv4toWCwGhDf21utY4PBn5IxpDEcCGd9NjwFqifxK-XP_Sn-yxOI8UjQ"
+}
+comments {
+  text: "Very easy to do and effective!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1398221984778
+  authorId: "cid-gp:AOqpTOGTQ6Q68K2zWwWPmsBlfDg735Qo_-emNtno-cxv7zqdSmRtwosKS9_UVrK0b4qnsXTgOQyTWlGnhPDYHg"
+}
+comments {
+  text: "Nice app good for maintaining health."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1398166993161
+  authorId: "cid-gp:AOqpTOHhxHdYiFZlpl6H_UQBlhqUYVllvKjBZvRU63JJkTSAxg0EpZqjJxIsxfZ-pg-59bm_D1J2XjApbIKZqA"
+}
+entriesCount: 382
+
+comments {
+  text: "Fuhf"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397896685314
+  authorId: "cid-gp:AOqpTOFzdvKbn3jRTSP8C5ymaHaXmxv7vHrimYMPBWUHPMY6q5j8C-Scw1PQc4hWU2f9ta6-Am9Ea9IyPsKIZA"
+}
+comments {
+  text: "Good app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397878058535
+  authorId: "cid-gp:AOqpTOE6Xhi_nctztROLhX1YQ5ujpCJ9j3L0mTzclEnkew9KhohbjHoUaXAR52QULwYQEcbNDnZ6liCcOCCLfQ"
+}
+comments {
+  text: "Average\tSmall descriptions, good exercises and images are clear. Videos and time lapses could be a plus."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1397834959017
+  authorId: "cid-gp:AOqpTOFjO0fVH7sx4qHrF5BhehrI2sQr4vMKyoPAHWsPL0So8m3fzauPFziu2naCWhhHBEpwQdysD1dHruKMJQ"
+}
+comments {
+  text: "Very nice application"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397676179603
+  authorId: "cid-gp:AOqpTOE7XScGbpqpDLyblaXoPjfyu24vzR4mU1vf0oW0WYpibSSXT9bow18mp5WOuaqZeZw8lNKI5amJHelcIQ"
+}
+comments {
+  text: "Venkatesh\tBest app for health"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1397392759915
+  authorId: "cid-gp:AOqpTOE5mW6jiGscTiJRnRu54Jp8jzWvZo9--KCb9Wub7mwm-Y_Vo3H2vD4ZIoyLcms5zEIktDXmhb8CGGNR4w"
+}
+comments {
+  text: "Gud\tBest app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397355440236
+  authorId: "cid-gp:AOqpTOHVId65Uo8dx-VzN79NR3EprhjJnzUWqh_uet99DeIO4dEUmOwHXrQJivVJ6D9ur6scLX2fEaU-ynxOGw"
+}
+comments {
+  text: "Its ok but still more clarity is needed"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1397238521115
+  authorId: "cid-gp:AOqpTOGsUL-SkQmxU2GZGl4U0g-N0N7A25GBfsP33-RtvAH5yvvhcNQFWdKoZA2lLyX9jYJbYnyl4uDDGCr0dw"
+}
+comments {
+  text: "Nice\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397216190941
+  authorId: "cid-gp:AOqpTOECSJty1graP3oR7xcN09z1Y6bR4JVAdVyPT9reazLDNiTnKE1lfwyC2ncpa5GmBHWGoaT_eFebG8PjQA"
+}
+comments {
+  text: "Superb"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1397197647139
+  authorId: "cid-gp:AOqpTOHPEJdShO3aH3_N77X9p-WL-o3Zq0ZPL55bMCVAeb4OmRgUI4Gxpf0LYg6ZzMM1uNgJaEEHfk-7fAcCHA"
+}
+comments {
+  text: "It is tooo good\tI love it , do try"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1396935474100
+  authorId: "cid-gp:AOqpTOGAU6g8b6x0qs8Lw3Hfy7vQLQBzFk5EsmvBpMNWhrA-1EFHILGA-9QVD3RJZS0VJz_lbUyuhnVyCQxS0g"
+}
+entriesCount: 382
+
+comments {
+  text: "Very Good app..."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1396375704191
+  authorId: "cid-gp:AOqpTOFrJXzaur23jLvUeYJ886KLHtA0jnPuhtc5PEEcpB-ae0-P9FvDFzyo-uksvOLf8le2LDZlIumAyEv7uQ"
+}
+comments {
+  text: "Best app\tThanks so much"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1395082417197
+  authorId: "cid-gp:AOqpTOGpbUsFEGbKqc8vz1C6TTNvYgVplLwlQGTnKMRydLzEj9dPD8f_WwV0wY1ErpxdRdF78nQgkP5KeecTIg"
+}
+comments {
+  text: "Excellent app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1394382778693
+  authorId: "cid-gp:AOqpTOHbE-iX3XYwnxITDVzLj6AOxXz6ht4kiu_p_RohPpczx2dMRSvRUxug-7pSdRDWuU7IdasPoZVgC9Bo2A"
+}
+comments {
+  text: "Perfect app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393473384049
+  authorId: "cid-gp:AOqpTOHlOTBLUunr3wqgsuyr2pg5A5WTSoQA4f2h5Y5SRkhK4YZstCejYxFNS4pkpU3gG_I-XenK75WVR0prWA"
+}
+comments {
+  text: "stiff neck remover\tamazing. had stiffed neck when i woke up then i decided to download an app to remove this pain i had in my neck. this app is actually very effective! huge thanks!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393022866433
+  authorId: "cid-gp:AOqpTOEVh1auvM7n9JjW-7yw7x6AKGo2m-JwNA__wqcs15Se_SZ3QP_vIsr1m2j_oM3WE1EfDYt6AVCv26Y52A"
+}
+comments {
+  text: "Good\tGood for health"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392710910100
+  authorId: "cid-gp:AOqpTOGuyfSN7cl9RFj52iF437g5wMAe9BqYjsVs3i2nQlhT8puuso9xf6hwSa2zqgi652NQzABSN2ggSYhUXQ"
+}
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391707735644
+  authorId: "cid-gp:AOqpTOF6EwL3FCsDKeYuKrdAbErWjvBBVhlmv0_k4qZg_6hwNgvpJHkM7VWDgWLiwuLtebKEH2SnD3jdS1MpGQ"
+}
+comments {
+  text: "Ek number ko"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391310592186
+  authorId: "cid-gp:AOqpTOF-93Nrklf_eWpubkkNUNGbpl3O7PI-8G4HU_iy6OzpLKu4dWR-bZ_xOBFSqfaZHsgb9R78YTixj7Go6A"
+}
+comments {
+  text: "great\tnice app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390227403386
+  authorId: "cid-gp:AOqpTOEj3keN4--r9Vk9_x2Y2PxDpEbFZUB_71uptbbcYumCObEiZ9XTTi1ZWjBaTCqZzFdvrbXYcRjZxiOqmg"
+}
+comments {
+  text: "Awesome\tI really needed it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390136989464
+  authorId: "cid-gp:AOqpTOHGc5ROjD3c9ZHNCAymawCJVTz-dKCq2af3ttj9SrdZwTon9e2lBujEyRmI_pV7e5YqZB8anA9DNVBnIA"
+}
+entriesCount: 382
+
+comments {
+  text: "Not Stretching...\tThis is Yoga with a chair... I thought this app would be more like stretches to do before cardio so you don\'t hurt yourself not my daily Yoga routine (with a chair). Pretty crap as far as Yoga apps go. Try Daily Yoga, at least they actually tell you how to do the exercises properly..."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1389644999358
+  authorId: "cid-gp:AOqpTOFAmB973DtrCCjpNuOdSo1HcoiryagE27hs8nelWXBztoEM88qI2_KrgXx4vOFx0ruGIM0w6GwTELfeqw"
+}
+comments {
+  text: "Crap\tCrashed"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1389448941379
+  authorId: "cid-gp:AOqpTOF1sAnsfaoYqud2EU4d-GBTNs6fwWEgV_SUiTjkC3SQYhC4of4POYy6Gj32vMmsJ_RQN4S10T25zWkZjA"
+}
+comments {
+  text: "Does not have\tHow long to hold position or how many times to do it."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1388842572749
+  authorId: "cid-gp:AOqpTOFHZvqbJ3DtVTT_kq1Ns7h_tntxxeBoJ7ntj_MR5qPiOVjd26GZpXG2VoxJZ9m3mSiqtUXFj00JHmhQOw"
+}
+comments {
+  text: "Awesome\tVery effective..... reduces aches in my body....and reduced extra fat from my lower abdomen."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388666999060
+  authorId: "cid-gp:AOqpTOFpjGvIUksfRo56ReemvMX2D35YXvD2hsSg3fN4zd8eF1dazBPZA9lbRZRD18eBnxQTGvocVrATWQRYCw"
+}
+comments {
+  text: "Good job\tExcellent this routine exercises"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388481188690
+  authorId: "cid-gp:AOqpTOEeqmhfsPNUVT1BfMOnMOyU3rZTh7qnV3SNVhDC1nIGWju_bJ-kDMxpePbdEdlDCMMjMnXapCc2pnFKkQ"
+}
+comments {
+  text: "REALLY\tNice app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388037559407
+  authorId: "cid-gp:AOqpTOEM7MNfvhKo_88W-0cygTfwOhCEGb6YMpy5cB8JGFc1bWvk9ozJQCapBJRYzbEGRki76vVInDwx3y2-xQ"
+}
+comments {
+  text: "Good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387710107605
+  authorId: "cid-gp:AOqpTOFJYBEosaW2tzJxVG7pdpn7RQOwk6yySAWry_wYdsnH5GCgJb3-AyQEGIOXME0lH4LlpYsoppUtSGsGdg"
+}
+comments {
+  text: "Good\tIts ok"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387577844118
+  authorId: "cid-gp:AOqpTOFt1KCGkojp3vWC5CpboMtrZOuytEYUdPd9ihShorKXo2tUhXdT-8TYW2x7mSg8JuWdzPYNGU3LaNwPLg"
+}
+comments {
+  text: "Awesome and very in depth explanations of proper technique\tJust wish it had a reminder or notification system"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387535992544
+  authorId: "cid-gp:AOqpTOHGbt_0KTFbn93GkKeP-VOXASbjWzAIH2fAUCvYFVJNWczStBxSMkjkdRSNbrb0INt90tvkSi22EcUSNQ"
+}
+comments {
+  text: "Awesome app\tLove it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387262258733
+  authorId: "cid-gp:AOqpTOF9xpGrD4FY3zhl9W7t4Nekl_HZlK2hIzuihbiV5HGtjIdygRRviDrVzwZiVtjzI1yMMa32l_IVmzEM-g"
+}
+entriesCount: 382
+
+comments {
+  text: "Very useful"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387106978554
+  authorId: "cid-gp:AOqpTOG2OB1MRphtFR9u3xf-ykUhoCfz3P9b928pB1zDDl9IHuII_8n_d4ow0edYc4TCIrNGTkOMdQU4v23PVg"
+}
+comments {
+  text: "Super\tV.good for the health"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387058039673
+  authorId: "cid-gp:AOqpTOFhpZ2nS2D-VNnAsRRUM9M6bCI_p0YIPhrrSYU9Uh1mAbBfl2-L6hxqWGcRq8ISVjHFUZyPdmAMPCg3EQ"
+}
+comments {
+  text: "Finally! Modified Yoga For Inflexible People!\tNOOK HD. I have been looking for a yoga app that featured modified yoga postures that used props, such as chairs, to help those with VERY low flexibility and/or physical disabilities (both categories to which I belong), as the unmodified postures, or even those that use blocks, aren\'t possible with my physical limitations. I would very much love to see these exercises integrated with their Daily Yoga app, complete with videos. I would also love to see postures further modified with straps."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1385576448151
+  authorId: "cid-gp:AOqpTOEtHQAEDeEcZ91rLscx-zVmjsWu5m8vu5mB6W2tM2MFI5x18_nkQ3ykUJywozwdEb9xVX0WaZZ-iRtFZg"
+}
+comments {
+  text: "versatile"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1384570295190
+  authorId: "cid-gp:AOqpTOHek836O05swQ9roPGOwNdAyB8DKOxO-yDMWgnjQzhij8AKF3zl6QxIvdlwXjGNQAZKn8MKar22cVkFSg"
+}
+comments {
+  text: "Excellent app\tAfter I did some steps, I realised that the pain I had in waist has reduced and I hope with this app it will go completely. The best app for exersicing."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1381055083045
+  authorId: "cid-gp:AOqpTOGGJ7dKxNUM-gD0c3kJCO4eFlAk69HjpJj7NWGzg4hbGWLyCxsOH0MQFTW-G8NE_3b3dxd0Jetg9CBoPA"
+}
+comments {
+  text: "Gr8\tawsome nice to do :*"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1376760966906
+  authorId: "cid-gp:AOqpTOHvez_YXa9qcJHXiRjLz9uv3mqji2_Bz6lFRxB6nQx6rJoQ0T8oax6jiaHdGz_FO2B8K72MGIJD2qwhyw"
+}
+comments {
+  text: "10 stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1375719369278
+  authorId: "cid-gp:AOqpTOGSkLLs_mXrXHrdN244RsumTRLgnC004igAhCLtCNEWqNYBv3MZeJf8x-PmhTp48A3eVtBucKaniJXclw"
+}
+comments {
+  text: "I drive all day so these are awesome. So is the yoga app by this developer."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1374630959435
+  authorId: "cid-gp:AOqpTOFMiU9_DeuvaWqhpyRaY7x3Egh2CpmZd2uvtOsRv94FesoxEvoYZmgzzHKljfmvT3FZF2U-Ku4fTz3sLg"
+}
+comments {
+  text: "useful\tha grate use"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1372664176365
+  authorId: "cid-gp:AOqpTOGlwdl7RcFL84sdB4eLlLDEc9Jb1VJWGzpvpO89WiYrf8_NB4WJwgZvzu9udjg1_gG9f8scN09a5x-DBA"
+}
+comments {
+  text: "Very good\tI like this apps it really works."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1371485664872
+  authorId: "cid-gp:AOqpTOGL_1Ez0WvfwO6qeoD-J2pQ_2NMrVvAX6YmqVbeBE55FzZQMvAXYsBB5DQuy8Jlvdxnp_qKZqKo_SHXOg"
+}
+entriesCount: 382
+
+comments {
+  text: "Nice\tNice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1371240172552
+  authorId: "cid-gp:AOqpTOFUzy1iTmAF46ugL7w8XvaUFCRr2FO1Bu5lm5FL7NludVJx83oSPN57pNTeBPC9mPPDR99O2Pj3MGUurw"
+}
+comments {
+  text: "Great\tHighly recommended to get into stretching, I find myself expanding once I\'m in the different poses but overall great to start getting some exercise."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1370231330916
+  authorId: "cid-gp:AOqpTOGMnHUVJgSNS33LFSuqVSeWcmel9RZ0feXSof_l1DvEcuLZc0mG3dtsjgnsAjs8w5qXy6Du4SCN4IPlMg"
+}
+comments {
+  text: "Nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1370186990259
+  authorId: "cid-gp:AOqpTOE4k22E6s5YdquPPoGtCru-50oJ-4s2i6wG89Ewd3vGdVgAXI2jg61puFXjJpsGFJQES5vLd1EMNsP7mA"
+}
+comments {
+  text: "Great idea\tThe photo demos are easy to follow and effective stretches. It works on my Note 2 and it\'s  free. Thank you."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366621656127
+  authorId: "cid-gp:AOqpTOFwoEMllvXBb8__Fyuo8-MirxjmXFDGBgN30V0Q4Xd7N9j4dxcXmPscWs3orh8H3HcdtU9NTPqcxkJHfw"
+}
+comments {
+  text: "amazing\tThe best app on store very descriptive with supporting pics and tips. Helps you stay fit and active i wish if i could give it 10 stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366263169555
+  authorId: "cid-gp:AOqpTOGHaWuV3KKV80ZCWv6YocZTArRZa6yg_ZI1cUMqMyoxG2bTECW3Px2FJnmyLxx5owWk7RdggXRYh5VXfQ"
+}
+comments {
+  text: "Not great stretches\tIt doent have alot of stretches and did not help me at all"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1362710349130
+  authorId: "cid-gp:AOqpTOHR6R_TYDZYQSkZ1MwSsYDTDZHlGsjo4sMVEIiaysNlvXZGltTavxBVBL3Rk4b8-WYz5__n19k76FsMkA"
+}
+comments {
+  text: "Simple stretches"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1361919983612
+  authorId: "cid-gp:AOqpTOHYUubalBrhjmB37yDSwvsfIFbHyZzF38tLgxaXwWCO5Tjfgx6HmlJO1aKqGUPJ2cZ9XNI3qtjzMvyDzA"
+}
+comments {
+  text: "Very good\tHelp\'s to stretch before I work out"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1360172675054
+  authorId: "cid-gp:AOqpTOE_Fgyv-QPOo_cfHxNcRtdeK-lhLxGBUDgC_oTiZJA52AAXBvPtxeqqA_4ZL24SfBeihPlLF2I5BFP8Uw"
+}
+comments {
+  text: "Keeps me sexy\tLove keeos me sexy"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1358619807968
+  authorId: "cid-gp:AOqpTOFRrwzq5omiqlvd3irPafTpYEsJeTmPezdHzQTK4zuY8d1wyyDZy9RjzxPu_7aruDsvIfVWTXYYztVkAg"
+}
+comments {
+  text: "App is crap.\tDaily yoga is better. Gives you stretches with VIDEO instructions (: When I tried to uninstall the stretching excercises, it said it wasn\'t successful...yep. Definitely not my favorite application."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1354166222484
+  authorId: "cid-lg:AOqpTOHMjL77zpj9wOa8VA3QDDxaB0s6Oj9S08XqRXnSRsTGaBh5dsfQ556G0NAFSW4pVs5FAX2YMg0ZRxRP-A"
+}
+entriesCount: 382
+
+comments {
+  text: "Lim\tGood"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353450745156
+  authorId: "cid-lg:AOqpTOENegY5VusP0dLMvMn8jgWPqatVJyJoLsprLWFCjS96T208j-CET3d_iJMkZM5C3xGULYrVA_GOjbUgFA"
+}
+comments {
+  text: "Loved it\tReally helped me"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353445857925
+  authorId: "cid-lg:AOqpTOEBPidPd7I4lFAh1aBgi9CJg1pwybK0hWWbSUvMaR0CYpmsrFa6AdRUc_CNz72RO7HdNc0BtpevNQP5uA"
+}
+comments {
+  text: "Dam\trubbing my head"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1352144317243
+  authorId: "cid-lg:AOqpTOH5seMVYVMTaOO2Zl5aUdsEO1RfsX7OJT6W7-oBcCq0m9K73sOVLN4y_zDobI0IGUbv_N60CkY4Pdg1hQ"
+}
+comments {
+  text: "Meh\tApp was decent, but uninstalled due to political adds."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1352092853620
+  authorId: "cid-lg:AOqpTOG6qmfybwWefiyjNhCfV6WQLM5zkOZkgMO92GaD0jJbLnQypS2po7fs4F78rpg1dTm36-0QrOGSV_6jKg"
+}
+comments {
+  text: "Great...\tGret..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1352030075213
+  authorId: "cid-lg:AOqpTOGQwTxKr-5L2WTQrU9CgrS0cIJ15P06lHwg5LFV6QRmf9puOFgBHsWWcLgCPkxNTh4EFJUYfnWctux4XA"
+}
+comments {
+  text: "Good reference for beginners\tExcellent free reference for beginers. \"Basic mode\" is the easier (modified) version of common yoga poses. Poses are categorize by area of benefit. There is something to be desired about the interface. 1) It keeps asking if you want basic or advance.  2) You need to press \"info\" to get details about poses.  (They need an audio of it.) Unfortunately, by the time I see this I\'m already know the advance poses. Learning the basics, to help my mom build up muscle strength."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1352009003192
+  authorId: "cid-lg:AOqpTOEYIAG59OBI0UDFRR8v18OovTmB4jQEN0isK7zvZl8AzK7LoICtbDTIzKZpluZkGmMWh-gdYw-L4LyZ1g"
+}
+comments {
+  text: "Simple\tLike it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351928509512
+  authorId: "cid-lg:AOqpTOGBVH-v2QveSfXc5qe5gbi0f043ENd0CyF-RsS42aBaxOyyjuDRLHmnb1iynGfltG8YzvnNKgZIxYJOXw"
+}
+comments {
+  text: "Had this app before. Helps alot!!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351817243123
+  authorId: "cid-lg:AOqpTOEYmwhR-U9-Sril_d58MNSzq55cSFR6V-dpJ0nE5Npuc8_5nfBL9YD6dNMw6N-QI2NN_eK6Rv6nVi5krA"
+}
+comments {
+  text: "It keep going to my home page every time I select an exercise. Got fed up!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1351276674305
+  authorId: "cid-lg:AOqpTOEOlliFWYlLmsGIQbVAM498VRuitoY1MY-BE6qJOkgv8n50muF1GzCCZ82wNvKR3qvApmxVBCO10jtC2Q"
+}
+comments {
+  text: "Good\tVery relaxing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351248125689
+  authorId: "cid-lg:AOqpTOHIzq2JbH2dAC0_NiJmv3Zjvn5BBKiPDFd7d_dbF9Ai3um_1bFWexcJ_V8sAESBa56CwPo2ay-_jbuEqw"
+}
+entriesCount: 382
+
+comments {
+  text: "Iman\tI needed this for doing yoga,n karate...so its kind a nice"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1351148760468
+  authorId: "cid-lg:AOqpTOEd4lffBEP6MxuOoB_-q73gDdgIo9_mkZnVA8VHTpNR-cpAnf-Rpjob4yhf26r_YAK2g5WoW0d8nkUWdQ"
+}
+comments {
+  text: "Raj\tG8"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1350404306218
+  authorId: "cid-lg:AOqpTOE4MbSstln_AvULGFEZZ1IJQe-4c016dpMWCFpb8-7yjKvQupm6qHvlXcVYBLZgKCG797sITysczA9t0g"
+}
+comments {
+  text: "Great!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1349112179864
+  authorId: "cid-lg:AOqpTOGrA7ZxXpksAY7-hgVcE_34TdQ2-N-GWl5aj2IuxEM9IZfgp6LydYVW9Styam52bK8Rt6fXEyfemHtYiw"
+}
+comments {
+  text: "Yuga cham\tIt is nice apps I got rid of my worm"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1349021265044
+  authorId: "cid-lg:AOqpTOF0eHcv5Za_p5HJYktTqitCJ_AqvM2lOVi4DstyL8pBG_NwUMXbAL9-DAZrZSzqgAJmk00Vx1OoK-qMMA"
+}
+comments {
+  text: "Yay\tThis is greatttttt"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1346904187190
+  authorId: "cid-lg:AOqpTOFRXcgWBpaMYGClqjIbcRkW_s-QU-PcNfmQKcqt9gUEhlG-mpfNUoqMsNHwB-7YC2WgDhZTjTbCi5dy6A"
+}
+comments {
+  text: "wonderful\tGreat stretches for a stiff old  grandma like me"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1346154937578
+  authorId: "cid-lg:AOqpTOHbQkSIOvoyOXW_5QBgLP3A0L-oVcnycRSitmWcNWSEInJd5RN-o85z8n-fHzLbmhA-eKocU5nJ4tIpVw"
+}
+comments {
+  text: "Good app.\tshows simple exercises which are easy and practical"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1345579323402
+  authorId: "cid-lg:AOqpTOGSYXOPhINr7kucnim2aPfxjWKrwCMGIA7YcE1Mf4hRM0VJYx2kCWwD0Op7ibLvAZ_UFqIOdIt-8FoanA"
+}
+comments {
+  text: "Nothing but ads.\tAvoid"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1345057409207
+  authorId: "cid-lg:AOqpTOFRwDPVdcLl3lWG7ReWrs5_gJ0Duf3OCcfzQXkKf00lJAfjmmyWp0j2B3qCrDptUHOBT-zqYqBl3ZPwxA"
+}
+comments {
+  text: "Good\tIts not the best one but its half and half"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344543996157
+  authorId: "cid-lg:AOqpTOEVMgi1BgmVDAYY7PPb3xyP9c8cgbFhe-eVf6MpqfZmkoGPZGT1AzGlH_44XwBwAhNey5sI7I2hL04L3g"
+}
+comments {
+  text: "Well...\tIts ok I guess. I was looking for some new stretches, but over half the advanced ones i do on a daily basis."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1344216582779
+  authorId: "cid-lg:AOqpTOGvyA070O2c5PRsip6b1qG9mwYban_K037eTVotknYuFm2S7Es8sAb23xCWNpQab2XA_ysy-CBDEo0RRQ"
+}
+entriesCount: 382
+
+comments {
+  text: "Awesome\tWicked"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344055596372
+  authorId: "cid-lg:AOqpTOF3oCelW5WjY4IOzSwSMG5Zy0llOZO1j7UAS1PvQgelMiW8ZGR5RXFTu1AdC8kJHSSuU9IzJg5Tgk8YvQ"
+}
+comments {
+  text: "Dont bother\tDont waste ur time. Its just pics. No video. No sound. Uninstalled!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1341893605946
+  authorId: "cid-lg:AOqpTOHqZir-3lUD4tK_1eFHfPHiqbB-28TRPftp7SCf713brdljPhFyAxw1X29cRFNnfQYMeFQIJbaT5bbYfA"
+}
+comments {
+  text: "Simple and easy\tExercises are well explained with photos and words. I hope it will help alleviate my back problems."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1341889369524
+  authorId: "cid-lg:AOqpTOHXfgQb05HP2pCNf61pf0nLwXpwLLatgtl_OOonJkAESxfOJfzLSNLrG-Bp4e1rKbVe8hr07blw7B4vxA"
+}
+comments {
+  text: "Perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1341405117080
+  authorId: "cid-lg:AOqpTOGNFxFHFzS51gIEA26afWOIP-ZQr5J_BwnR5jt3895F088diw68DiD9reSQsp947Z_4aF2N02FjVDMFIw"
+}
+comments {
+  text: "Stretch\tGreat app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1341250033621
+  authorId: "cid-lg:AOqpTOEBNP_biAPcR_8DRg07PNlJzJ1FJ_NfuchKwZb5Hi3cBM2_QbtyUujMMU2yjDfJJNQ8sZIbCDnVqbnqhQ"
+}
+comments {
+  text: "Stretching\tHelps me out with my back alot"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1340820867532
+  authorId: "cid-lg:AOqpTOFwFqn-9TtTdT0Bu_2k2o6yZg57CcEVC1gKgJBzslyyLPJgV7ek_jmrL_Am0oVzjFDZ-8CCbhq0gJZtBQ"
+}
+comments {
+  text: "I love it\tGreat app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1338262313915
+  authorId: "cid-lg:AOqpTOH9yP_dydqk27WmdC7zSqfjmAQx5Vlv6U9xabfzfqIkLObW4qHRyl0IClXzg2nrE3gy5PX1sH2wUK1KOg"
+}
+comments {
+  text: "New and Awesome\tLearned new stretches :  )"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1337916243164
+  authorId: "cid-lg:AOqpTOHwFhX0ed1ZP409oDcQG4N7OuXcquHTa-9Mg1QsG1qsdYur0ai1Px_AbcupaxSpjXkco5Co5ZdXM2bRTg"
+}
+comments {
+  text: "love it\tno complaint so far!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1336383029804
+  authorId: "cid-lg:AOqpTOEJ8oYJ9gLcXqz22Nnn81FdfiXh8sRyk7y5Ebu-90tLtzuJ-aJmvUecK4M1owIRJU7Np7_Qh1zTsU90eg"
+}
+comments {
+  text: "Good\tHelped while I had backache. Lazy now"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1336193236280
+  authorId: "cid-lg:AOqpTOFjeEWwmOKgwy_Mqc79eojsuKLnhdIJX73KECTR9T1sFn-4mn2Wsa2Ocf4Pb0Ed1kxfCdNhWMYJV_haQg"
+}
+entriesCount: 382
+
+comments {
+  text: "Eh\tNeed chair for all excercises...it said you didn\'t in the description. Plus, it\'s only pictures which is confusing for the more difficult stretches. Uninstall."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1335660149484
+  authorId: "cid-lg:AOqpTOEA9FuRMqqoPdaBUyeKs3gM5XhPSI58dU8YzGXBuPdIVqEiu3HkHIgYLp8OP-B7sc0HurGmL9Ocmeigxg"
+}
+comments {
+  text: "Get it!\tVery helpful. There are things you might already know, but very very good. :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1335386598432
+  authorId: "cid-lg:AOqpTOE0SC-HK0p87Pw9VMikU29SwYq3QEu5S_A-4SVeEM17Q03qaHkMmerR3A9aXPvZExoZR99-JwRKggoyVw"
+}
+comments {
+  text: "The demonstrations were way to simple YET confusing. It seems to me that not a lot of effort was put into this app. Uninstalling."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1335312963816
+  authorId: "cid-lg:AOqpTOE2FseqrfMyRQDWU55Aaqc2oBeYljZPXnpKjfkxI-gwcygBA1MC7wUC9pcL9MU4I9jgCnRWP4M8ljk9Sw"
+}
+comments {
+  text: "Worth trying\tAt least it\'s free"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1334749490653
+  authorId: "cid-lg:AOqpTOGgfTvoeQy7d1SxedEWpCb19WMFVxclIuMn5GmN6n9kS_pRne-6Cso0qUORd_exBe3hy_3tLICapE19IQ"
+}
+comments {
+  text: "Htc incredible s\tExcellent app works perfect"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334649003019
+  authorId: "cid-lg:AOqpTOFWc9BIrI11mzT06ar7pVMPhrBrxGaPbHNmMvxFJzASbnRMrklM11hLKR5LNZaLtOvfJLdCn7LSphe6_w"
+}
+comments {
+  text: "Samsung Note user dislikes\tUsing a samsung note, which has a large screen. App doesn\'t fill up the entire screen making the app difficult to use; hard to read text. If this app were modified for use with the Note, I\'d likely continue using it."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1334200309360
+  authorId: "cid-lg:AOqpTOHsDZtAw5H7TcxiCPsIj_E8xD5IPo8RU3IoCmxWMkuW-MBilTbrZtkeIrVuit6_kzmClL2-1BCwwL4QwQ"
+}
+comments {
+  text: "Pictures of exercises\tThis is only a collection of pictures of exercise steps. You have to manually scroll through the steps and it provides no other functionality."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1333376655714
+  authorId: "cid-lg:AOqpTOHCvbQH2FfaYRyLApGkStIZOKXdsTVTz9-ZvOL9MfdLSWFlBGUZWRkYwPXg6AJjFlwCYbzzdRkRofqqkA"
+}
+comments {
+  text: "Nothing special\tI thought it would guide you but you have to keep pressing buttons for info. I wish it would pull an auto guidance... would be nice if there was some audio too"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1331747402332
+  authorId: "cid-lg:AOqpTOGA2g1BL8Dbbbx3HXO4G0Dvno9nMat0o-30gPeiUJJjL_HdyEwbe3w1_n5IgMO_9bT1S41x9kHXWSKT6Q"
+}
+comments {
+  text: "Love it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1330093596771
+  authorId: "cid-lg:AOqpTOExoTaLtL6SlGakGf1rwhA-0abdINnP6bE9DVkQO3b2ofiwds01stt0QGCNmtoTR5BHmOysYTowU9RENA"
+}
+comments {
+  text: "Great app\tGreat video demos, very clear and well timed."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1329805544506
+  authorId: "cid-lg:AOqpTOGz0DfFLdg0eXLbEvmo2v0JBrjC-2muTDv2MXDKmzkTp4IgwJTWfh_24ZMXwBx0aRHq3hJsLIPcrTI3uA"
+}
+entriesCount: 382
+
+comments {
+  text: "not support hd screen"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1328041432810
+  authorId: "cid-lg:AOqpTOFcFCh7fBKiFnvuw6jm4TvMbyDOG5aI3vjr-w4eJoFp8u3eGKoY6qxSN8WVUwVKIMthhhCd7WkaDQB9CQ"
+}
+comments {
+  text: "needs improvement\tThe stretches are ok, but would be good to have some voice guidance. Now it is the same as looking at the piece of paper with the pictures of exercises.   Uninstalled...."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1325614430990
+  authorId: "cid-lg:AOqpTOFBsu6iZct212y8yfFBxIPDxlWTH3MepetKo3k3Uvru3dRxb6oCaHOJdk48J58Am_db7uTCnxnX6vfNlQ"
+}
+comments {
+  text: "The app keeps closing instead of running."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1322515784654
+  authorId: "cid-lg:AOqpTOFe4A7_QCt4dvDhF6V7I01MLA79zj8kgZqVKwIlXS2uWg7hbZ4Y6icy7Xb62DqBd2AF05J0yRILa8CvwQ"
+}
+comments {
+  text: "Good really good"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322314042743
+  authorId: "cid-lg:AOqpTOHflH59DvN3bIIrv-y_EdgpOTuRo_DyIl75KBu_GCBhsG9fNDAJp8N69ab-NQL8QTO5SXgbL6Ihq4Le5Q"
+}
+comments {
+  text: "Always force closes. Lame."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1321754420049
+  authorId: "cid-lg:AOqpTOHl2T8tSKQT9RRdw2-CLxgEPEgelnadDhyNe4fSEko6oAMEhHZ2jSpBAfh09yFHOIUscoXoikuW5bX6yw"
+}
+comments {
+  text: "Winning."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1321702828222
+  authorId: "cid-lg:AOqpTOGdRIwSce7BV8X_Z99QJ8_MhlsCm-QtAeu9MphAKSZ2A4XeZjXTQ3hU-s5pZenuMXj5YGwZ3ZT2UyFMSA"
+}
+comments {
+  text: "Simple equipment for an effective set of stretching.Well demonstrated.Good job."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1321375431188
+  authorId: "cid-lg:AOqpTOEGZ3uonxWRKMxLJllHmg_Rqj0l86tv9B4kltVnUOxU1nEA8wzj1eDJ8m5E31JbEQWrDeTXvSc5oBvZuw"
+}
+comments {
+  text: "Russell\tBadly smashed upped. Doing stretching supported by  chair has got me going again. thank you."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1321191692418
+  authorId: "cid-lg:AOqpTOEeEXWDeNfKHdV8kCu0e_qYPNtcODvsFm8ZkCk8MZP6Dug98-R10c1rqWWFmDExtxLOeAjiagjCYtQNrg"
+}
+comments {
+  text: "j\tthey put a dangerous stretch in there its a neck stretch ur not spose to hav ur mouth closed when u put ur head bak ur spose to let ur mouth fall open"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1320374380557
+  authorId: "cid-lg:AOqpTOF0XhHj9KE8MPei651Fw0xSHAzq17zAO-wdf1vidwogd5Le0jB1_stMjUnZR9RTE-cezTTtJ-3NvL3lDg"
+}
+comments {
+  text: "Good app, needs more resolutions\tI have a US Cell, Moto Electrify, and the app only takes up a portion of my screen. Other than that, its a great educational app."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1320373440110
+  authorId: "cid-lg:AOqpTOHWkZTnHjGmWo1SPFJ6HhKP9tly-rC9OQcIjRH6AAbFjeI_93749cPIc021rjoSyGf8i_Byi-M6TVio1Q"
+}
+entriesCount: 382
+
+comments {
+  text: "The program would be user friendly if there were sound associated with it."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1319171319823
+  authorId: "cid-lg:AOqpTOHGUa9j-jC3Q18LSptOZxQbR_wlL6xjpgvUoXjd641XwrMoMcMn5iT2g5rENQRueDkQ_1AdeRqvm_SiNw"
+}
+comments {
+  text: "Missing a lot of exersices and bad leveling\tThis is only a picture demonstrative with few and some non-practical stretching exercises. No prior explanation or intro, just do whatever you can."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1318938082307
+  authorId: "cid-lg:AOqpTOFN8rU862o9EhDwaGxa4nmad2sNTJTdO2K5tc7a6joQnW6I2uKYF3WxBUD_hvQ9UAK8rN9Y915LvlSqZQ"
+}
+comments {
+  text: "Scooter\tNeeds more stretches, not bad."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1318782196001
+  authorId: "cid-lg:AOqpTOHS3q1Ujx5kamtBYLi32_36hMcBjyD3jRHrgxrrvd5QqpHNxEqbGlaBaZddrMxYUaR4LWae_jEOCqH0Kw"
+}
+comments {
+  text: "Tone, firm, shape & relax\tWhat better way to kill a little time & then bring it back to Life ? Some great apps but THIS is one of the BEST - thanX ;)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318222633066
+  authorId: "cid-lg:AOqpTOGQahA7n2e3n3NH-fK54SKSkRliRSEZTdSUsrh7YqT6nxljRhIKe9jvcD1_mcTBMqBfCCH-fWqSqbkNWw"
+}
+comments {
+  text: "Cool\tLove it. Easy to use & helpful."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1317923273687
+  authorId: "cid-lg:AOqpTOHXGyVEr7WcImzctebsrSpZ36njvRJTosjYkPeTRC2u3zh3YOWU2mgoyqMyj9VHkA-nroKdJ9XUoXLbpA"
+}
+comments {
+  text: "Supeer app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1316020381930
+  authorId: "cid-lg:AOqpTOHMIVgI8U2VSWDDw0mvpBhtmrfZlCOoxN1YqDWcGaA7GXqQ1U5q96zno3NQkTodKKd5bl0XzzDUvL6xhg"
+}
+comments {
+  text: "HTC inspire\tLOVE IT no problems so far."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1315945357681
+  authorId: "cid-lg:AOqpTOGAGhm_EPyjKgmyC9RE3KIQwv89gRYI1aD_8yFrJCZ1Ilvs-IgpcrR4iw2rYpfAV-10RW4Pg0nYQFOkNA"
+}
+comments {
+  text: "Kool app. The stretches do workk."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1315883023494
+  authorId: "cid-lg:AOqpTOED8Nl4ZiN_RVamKoQxPEaoDpgIm3wz1arNf8nsWfa4ajr-WOHHjvHVaw6w1KoD4lK_K0agHL8BbvCqkA"
+}
+comments {
+  text: "Great Interface & great app. For both beginner\'s and more advanced. thank u"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1315871823762
+  authorId: "cid-lg:AOqpTOF2Am04w6HVXX6OKkFwqCGvalujJ_tyJ_HhXgg4hOwhWtJAMFPiDpzVc3ggXrqU4Oq6lER71okC_VVkAg"
+}
+comments {
+  text: "Force closes."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1313870548873
+  authorId: "cid-lg:AOqpTOESAqEsuaMYvPUZ6yx94WiE2252CbNVyE0He9IlNL9uhqtaeMJ2fANgJtLODXOiym4VMF6gcCOxV-Teyg"
+}
+entriesCount: 382
+
+comments {
+  text: "Informative and useful."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1313363811182
+  authorId: "cid-lg:AOqpTOFwlZEzXTqbacc95XgOxPllYuf2pu-vS5KKi80WSIApkAoEy3H3XULmu9tDJZePltRbZ6smjs9rsCVurw"
+}
+comments {
+  text: "Works well,looks very nice, x8"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1313183084525
+  authorId: "cid-lg:AOqpTOErziUr_Hii0v-UbQ77j8RmSPqU5uabUWfufsSrAxQT8mcUe2GOKpHyuDrQw_OzGaxaGYJdx9PVgSxecg"
+}
+comments {
+  text: "updated and now will not work and can not uninstall from my samsung galaxy"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1312078545226
+  authorId: "cid-lg:AOqpTOFSQmpKGMN_dNM6Fw1fARJ1DTa8O7RfY11PdWi4YSxidyj_ZXWv4zrTHhUC4wnbxLfw4eFfSx3tkYjCrQ"
+}
+comments {
+  text: "Will not update would rate better if it would update"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1312002995229
+  authorId: "cid-lg:AOqpTOGojV4NiCI7yiWLpl_aFRmmaaDZMiXOGKLCmNvPlzciH2blroMxq4CF_Gt5jf-xpcxfF-LLbsh7ESY3hA"
+}
+comments {
+  text: "Doesn\'t work on LG GW620."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1311800970696
+  authorId: "cid-lg:AOqpTOHJjcjDwvnDwPHEQAPfuEznYCe55g8r0iR3YY38pPspzQ6Rp2aCWHYZbbx1NKBhMravZMrhWYsWjm8Rng"
+}
+comments {
+  text: "Its bs"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1311676003444
+  authorId: "cid-lg:AOqpTOETbs6F_J9OvWxI0n_MI7ekBt-s70fQe7YMY2YRptAIjoTt4lNr2oDi5FhcWMo-iVXxEtpCae16q-h7XQ"
+}
+comments {
+  text: "Seems like a neat app, but it keeps unexpectedly quitting."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1310867577069
+  authorId: "cid-lg:AOqpTOEhDq3JHXd2iJew-zBNNcqUsf471xOPrjRULwQ15RGz8zNSy19hyf8zw43klWnIy3XJphiJop0tM-en_A"
+}
+comments {
+  text: "Very good every one should stretch daily ,, we would b more relaxed ,,,v good app ,,,"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1310113773390
+  authorId: "cid-lg:AOqpTOG34udZK1fbPFV1oehnj1krCcDsUpaiYVA_kHe64H9RuEgHx4lDbojWZ1-yMNDSMeCfn3TuqmezMaJ4Cg"
+}
+comments {
+  text: "I like its"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1309213730289
+  authorId: "cid-lg:AOqpTOH5yil9DFbPIfiT0q1yz674gByEXeh0RcIsu-y3gt4WT_vrznJ58VbkEZA-7sy4vJhJez5oY4H7K9cHpA"
+}
+comments {
+  text: "Good app Nollaig"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1308955927047
+  authorId: "cid-lg:AOqpTOF6OGMP2cYLculwNkaEdPCCzYs9c3_LkFfIxduC-X8-MfGcH-a7ALITCDA4IGs4bXWqShZ19o5lqJIHnw"
+}
+entriesCount: 382
+
+comments {
+  text: "Great app. Useful for home or office."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1308915678450
+  authorId: "cid-lg:AOqpTOEvGZKKrch1t1NRcIrFcxDRZUukbAKemKn1TltwUl9ugy6zw4_d6IuIeRWbpMP8pvLm2ZfBs1k3B3KSEQ"
+}
+comments {
+  text: "This is a good one!!."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1308871955515
+  authorId: "cid-lg:AOqpTOHyTB9nDO82WvbpVYVsCM54pFLUyKkKbzQYo6VhF0AB7bYkHPPGMb40g6Ko3r2OOe7bWcQeBiGfbeEwxA"
+}
+comments {
+  text: "Very simple and easy to understand. I love options between easy and advanced streches. Definitely worth getting!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1306713446636
+  authorId: "cid-lg:AOqpTOEDfVP1SJj-5kToYt5BGRxUgcboCkg8Usu4EVNDMROWnsTIlke5rVIR_zHWPqwPmcGCVlyEIiD4vuIopQ"
+}
+comments {
+  text: "Would be 5 stars but i havent looked at most of it. It is simple and easy to understand. Stretches are legit. This is a professional feeling app."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1306576043507
+  authorId: "cid-lg:AOqpTOENuOmZ-0xQAloG0G8S3f1Z73BsPhmWqvV5-RbudYSDIHGcLyAE6GVHasWS8rsyD1sJhWGN2-lTVlvesA"
+}
+comments {
+  text: "Great app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1305528671881
+  authorId: "cid-lg:AOqpTOHbUWxu4bqlMQ-20bSPxIHCY0Sjm8ycn5PoMZExs0K4WUhjQJNHMVrwH4t4gdSuQrzLJq8JstGzhKw8UQ"
+}
+comments {
+  text: "Kutos to app developer, this motivated me on a general awareness level. Thanks for the help."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1305304670547
+  authorId: "cid-lg:AOqpTOEmv0VUb8W7z3Bm6UqMcbK8RhZIaMSpwAYZnmCw9pVQjKzfl50m8Wvp4vfn7AVJg-WimLcoVc9c5apYOw"
+}
+comments {
+  text: "Ur right kelly. Mary\'s having antisocial problems. D fact dt she\'s irritated probably coz the root is she got a problem herself. The app was helpful!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1305284714207
+  authorId: "cid-lg:AOqpTOFVZCy-3crR9xCyIeBLckcOO0QfM1CKV3CXOE1KVhUDEukKd7SJ0NuvHIIgv3ExajdmGrUI_xmK9yqQzg"
+}
+comments {
+  text: "It should be better detailed on how to properly do the stretches"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1304588716574
+  authorId: "cid-lg:AOqpTOGRREHgAbTh_ftXwvyMgZxaIzs9qK9_4b152RWnmWApSh18s8YidFgrJqhWIs2ki6EKsQmZ9xfzjZRkbA"
+}
+comments {
+  text: "Does what it says! Droid X"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1302461568080
+  authorId: "cid-lg:AOqpTOE3ilGRL2uqBDA5p8WwoXJIh9L_2ifP-ryfXxqM1RWqCnzEJCe1Jjg_dpdTXmQkTesJb1mPbUEITLzhXQ"
+}
+comments {
+  text: "Very good, helps with tension & those get up & throughout the day.. Relieves all built up muscle that you don\'t use that often..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1301754064368
+  authorId: "cid-lg:AOqpTOGg1rpCm9W8uKTBWtjI4ia76qnU6p6EaJo6tppWP0JwhJkOD0f-xQIfpfSBYSqzaXamN0j8g6tGxw3NyA"
+}
+entriesCount: 382
+
+comments {
+  text: "God tier"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1301643825893
+  authorId: "cid-lg:AOqpTOFQ7tNcTd2gnNKQ6f7nIOeiEp4R1CYj5nON7cPBkTCHCjr9K-8M9ijTjxB1N8pJnOrmu1GX7xgaQL6Amw"
+}
+comments {
+  text: "this is a great app to have on my phone to encourage stretching anywhere, especially when my body needs it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1301271227178
+  authorId: "cid-lg:AOqpTOFGGVIGf8ENWUXjCFOevEYO8H4biI5JY8e1raVIOVrxVV79yjRuT9VO8yAC-GaOWeE562SiZ6S2sdGREA"
+}
+comments {
+  text: "Good app. Would be great for the Xoom if it was formatted for it. Doesn\'t size up at all."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1301148834722
+  authorId: "cid-lg:AOqpTOH0KxBjeKboj58kF-I9JTqwlX4D0khnHpEqqUaZQ7elF3Lg1jrBhii8OhXF2D9FM8V_rAQOeK3C2W9pTg"
+}
+comments {
+  text: "Love it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1301091249569
+  authorId: "cid-lg:AOqpTOE03Ksoj4ZV5MX9DySaS0EHtJp72uS1GAWZZvzrPYKnf5wxYrQCLer2HCM6-88-gIPksqS2jf1FYjDYvA"
+}
+comments {
+  text: "Need to have a chair with low back"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1300928099478
+  authorId: "cid-lg:AOqpTOGLudskm0fPhAvKiQy4HT1LKnw9uCVxCyru9qSAkZ0rW2YIUhRNI9-ivLAfxlQR1Bp-PYtYNsJywRcNfg"
+}
+comments {
+  text: "Great little app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1300176133187
+  authorId: "cid-lg:AOqpTOFteFgqs81YfisXC_pi-TGNMIPJWBR4V5IZjpIYRf6XTf5SJPM9c9bocBOsqgqecQhiAe9EpLcyBFU3pg"
+}
+comments {
+  text: "Some of the exercises actually can damage your neck or other parts of your body and can cause irreversible injure. Be careful."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1299784414067
+  authorId: "cid-lg:AOqpTOGZjsQ3KfttQqDLqoYzI1uNMD3yLCMwsKLwe3Ji7B5zFILdVnSuwN2NKR9L12MWpicuiNCu_efzFYVX1Q"
+}
+comments {
+  text: "Awesome! <3"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1299398062174
+  authorId: "cid-lg:AOqpTOH4XBQRVm5WHkGdPtpQHL3djLkFomO-93uBI-La9v1-punCMdP9xJSN9WXCvgVtCJGRCLS2AZoBmmKOCQ"
+}
+comments {
+  text: "Great detail but very limited number of stretches"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1299374148501
+  authorId: "cid-lg:AOqpTOFEq_mG6sdWKQxgB5mu3xqi_3-fetNzuu71-_LBuZ5dYqkojAE-_sx4ebxR9BU7wWddaUDaWDtE1Ya2Yg"
+}
+comments {
+  text: "Why only 3 stars?This app is A+. Slick ui , good exercises , very well explained.It always helps me relax my muscles after serious weight training."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1298914128361
+  authorId: "cid-lg:AOqpTOFeTef28Yj6Q__NA_atdUX2LKPcKuTE4Y6WRsMtToz2gI0OTI-p6tcJOmd4Vkr8HQZ_SOnj2v5k7v2rRA"
+}
+entriesCount: 382
+
+comments {
+  text: "I don\'t have a chair"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1298900784624
+  authorId: "cid-lg:AOqpTOE-J6NOYQIX_fij6W07FvBd9cDNBVMgT-YEGXucK-jWs8ELF-ZXhe4jLrTQNPXIOizayQiGXTKaXgW7Kg"
+}
+comments {
+  text: "very practical and excellent design. stretch with one chair is a good concept."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1297661688716
+  authorId: "cid-lg:AOqpTOG5MMBvRbvKSK3qWeUcY0u8VjOxsQN6PK3F1I7a8z4lveD2uJleRMmIIw3w0z-_gJW0kySjWJPtRd6izQ"
+}
+comments {
+  text: "Very helpful to stretch correctly"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1297550098419
+  authorId: "cid-lg:AOqpTOH9WNyd1sOLppedk09bnxD9M4oliJzxbr-B8Fv95wlg440lxWyqAm9s_L-nyVQcPwodMCHK_6ltxg0pVQ"
+}
+comments {
+  text: "Awesome stretch routins t-mobile my touch 3g slide"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1297433779168
+  authorId: "cid-lg:AOqpTOHFoLOiBogvVlc04mkQBODrqaakc_WiqsNzS6-Yitin8wakawFazYHU22-x37v8D2l0IPK9YVYKF0q5cw"
+}
+comments {
+  text: "If you are looking for relatively simple stretches With Correct Positioning, then this app works great. Step by step info and pics. Xperia X10"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1297057062906
+  authorId: "cid-lg:AOqpTOEIu_f9-9PGPpA6-7KHjfY64A2dqGjiEogiWwVGoi6B5SRQYs8cQpbEiJatzucpwH6bP8r6WEsAZ9opfg"
+}
+comments {
+  text: "Thank you."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1296453577396
+  authorId: "cid-lg:AOqpTOEQc7fnH8-pYOaJwtt3X1gpApZ8bJp7s1doSgSO2zl8lvRtMzwjjqFQKeho1I95G92mSkrUhqqM5uWVDQ"
+}
+comments {
+  text: "Sucks eggs uninstall"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1296399731668
+  authorId: "cid-lg:AOqpTOFRW1nA9jUirCH0AbdnX0BPi8lS3KrAr6rWVqMseO49Y0IsE0Crz7gt35x0zC8UtNNQKzR_Ka0Wt35TVQ"
+}
+comments {
+  text: "iLyke this ALOT Good Stretching..."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1296087315708
+  authorId: "cid-lg:AOqpTOEGZowlYqn2l77Ho0kbIHw0q4KJfMBy0aZQSjo9rKKbft-llvBM69ll1sl6LK82pJZUJ2b2Ya_7P3Kpdg"
+}
+comments {
+  text: "Not practical in my life"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1296086986954
+  authorId: "cid-lg:AOqpTOEc96Zl12-JMkTIFNRd_q1mh-sesaCTB6HIEOf5MdVGAKygttj6nNwJY4CjmkXRATUpdVzpO6nsEmZHoQ"
+}
+comments {
+  text: "Quite good!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1295996615461
+  authorId: "cid-lg:AOqpTOFV5sJe9oM8_trLtmZm78QaCLJm6_nZjSY4FnN_1rPxbnVt9f8s6-nWDH0zq2U06lsUwtbUltsq1hZaMw"
+}
+entriesCount: 382
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+
+comments {
+  text: "Very well made app. Poses are easy enough for beginners. The UI is slick and eye pleasing. I really like this app. Five stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1295947756492
+  authorId: "cid-lg:AOqpTOG1bKBXcDTErhlg9hF3C31xd6EIMYFzWbajSjTki-Ulr3EbZMMf_ps9dMEuFc5dQpNcFPeI91xmrcnnGg"
+}
+entriesCount: 251
+

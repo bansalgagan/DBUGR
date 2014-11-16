@@ -1,0 +1,2580 @@
+comments {
+  text: "Awsome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1415465610357
+  authorId: "cid-gp:AOqpTOErDt3ojUPXm-nhGX4e1QA3QR2EFHFnGCx7i0zgkRY0eWlh-T-mslA9sR0asP9BQSfI4GEJnGZP4mvLCIU"
+}
+comments {
+  text: "Five Stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1414127506978
+  authorId: "cid-gp:AOqpTOFO9EvKlGcjREUx9kbjEHcnVM4wZiSoKowt5sxicQtmRtMHADkzvOve9FdyppW7tEtNPN0iaRh80HGCCh0"
+}
+comments {
+  text: "Desk Notes\tAmazing. I love it and I can change the color of the sticky note :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1412682118083
+  authorId: "cid-gp:AOqpTOHCAUGX-QfaYoLDJxAxoPHvrPAHbPubCKJqOX5-z6ZSJRZPfL2QfidX8KDwmnQ7YQn11HK3-J07kfy2Z48"
+}
+comments {
+  text: "Dr Reddy\tUseless app. After installing no prompts popped up, so uninstalled. What a waste of time."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412472647259
+  authorId: "cid-gp:AOqpTOG4Siq1dAEzRv58D26Ox9UUDdD_IPIZGFn558CyLZaJPPDB4s2J82Aljv7GIoiuAGcTb6MA8O2wy7esy2Q"
+}
+comments {
+  text: "It is stupid"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1412216007235
+  authorId: "cid-gp:AOqpTOEFvz994tiwXR1xeQgUy5Iudr4yudrPC5BPYQ8rZ6xEIk8t23Ilx_cnT602nXxvJsl-A9RZsB4s9YYT9t0"
+}
+comments {
+  text: "Rubbish\tI think they shouldn\'t put it really so bland, as I hate bland and maybe yea its not so good as the other ones I guess some like it but it just isn\'t for me OK bye"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1411113591909
+  authorId: "cid-gp:AOqpTOGsviskcMGPiDf52JVxiGQG2dSdgYU--0vr13H2O6fHL7L56xA-tgv3-EYorl10zPhq-Bicl6uEGo4qQ6s"
+}
+comments {
+  text: "M\341\273\245c ti\303\252u"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1410792236747
+  authorId: "cid-gp:AOqpTOH_R7aVfY-ZJGyeSlUxnCV2G3YUebZ9E2-n-rIO9zVSzEj0q8iP9PYhbuEPRUOHEnQZm65Mtvu16_k7A68"
+}
+comments {
+  text: "Simple and useful"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1410457817849
+  authorId: "cid-gp:AOqpTOFwwAAE8LzqsIejExxFJj6l3D6aKe3VogMsV3blL17vQHo4Xg2OualDfs4Xx-PYoeblb3owBkg0Jn50jMk"
+}
+comments {
+  text: "Perfect for what I needed,\twhich was just a simple reminder note on my home screen.. However,  the slanted font is quite annoying. Straighten out the font, and I\'ll give it 5 stars."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1409544756991
+  authorId: "cid-gp:AOqpTOG5vKq-mZr9JXGhLpPsICb1qhYdvVa782wC_T4AjDPoNdbOKxTlkPx3TSC3GsmTybeaNHiLfgMebntwCbE"
+}
+comments {
+  text: "Too much trouble.\tI found easier note apps."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1408262768603
+  authorId: "cid-gp:AOqpTOHuDiPcVSVhrdL-Hg2gaqxNwYiHCOxOmqaeH4AEyVCm0Xd4yVlD2uIzkxdZWT8ItQ9vROjA2rVyqcEZLF4"
+}
+entriesCount: 1315
+
+comments {
+  text: "Best\tBest app from all these notes app.. !!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407957849159
+  authorId: "cid-gp:AOqpTOGQZb5EW4uviZAn5osulCy7GrXxjs0PVBz_p7nM0H-W8k7i4zZoGOc4Z5oO-MBcbvLK-PUGw23fXnm3zxQ"
+}
+comments {
+  text: "Good app dose work"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407823381085
+  authorId: "cid-gp:AOqpTOEzey56d1lFBglmtwy8kAWiMFma4hgiJpa46BkUEI0CeoHgJhSpWuER-9rusKS-BHDqvo5Gz3mvhiHTuvc"
+}
+comments {
+  text: "Easy & useful :D\tIt\'s a simple yellow note where you can write what you want and that\'s all!! It\'s easy to use: write and remember what you need."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1407364045881
+  authorId: "cid-gp:AOqpTOGiwx_Eh2mQzbnMJRA1-rLHPK-6NbOvLDvMa28b3cw0EpFvj3FLsdfSGVTYU7V5necSFWzkx8bSMvbeBFw"
+}
+comments {
+  text: "Does not work the way it will"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1407330519266
+  authorId: "cid-gp:AOqpTOEdBkFUEtqQqpyj6BJcf1ud7G6GiHRhhutGHr9jOXR6Kr_z7SzLlGBnB9wSnhmT9uCqPU3g_BcQ62BPKS0"
+}
+comments {
+  text: "Really like the look and simplicity of this app\tAlthough the 1x2 widget seem to be a squeezed-in version of the 2x2 or 4x4 widget"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1405738508634
+  authorId: "cid-gp:AOqpTOGF6swVLDtBS5Ri-1SDz7DGAz0LjnPjPHSgT5KV0Zl-dsj-UouavqKVN7id6s64Iqx61XqjKWDsMk8MzVw"
+}
+comments {
+  text: "Booooring\tI cant even install this"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1404489177055
+  authorId: "cid-gp:AOqpTOH71jC9J1y7-3VET1kb9KdmbxOGRzAEwZsB0N6t1zhwB7KKakXo6gqNX5is0NTTWyYQddHfgWQtd9Shu6Q"
+}
+comments {
+  text: "Awsome\tIt downloaded fast and I like that it is on my home screen"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403893184979
+  authorId: "cid-gp:AOqpTOEG1IT41fCY583E_xlkmITpPOQY0vZPg5Ra4-n8Xe0NrdDyxK8yIY4TCFVlV9n-kFz5GTxKbANZWxRaf4g"
+}
+comments {
+  text: "Awesome!\tIts very simple, but freaking useful and awesome!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1403067327792
+  authorId: "cid-gp:AOqpTOFY8UgqRL1BtRXS7-3IApstgqo7LnyzOQk44uM1C-LpjKV1xU63pkhP4YB7ihWVR6Ki6WgLpIWAt1M0rpI"
+}
+comments {
+  text: "Liked\tNothing can lose it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1402818071687
+  authorId: "cid-gp:AOqpTOGvzh_OGpUX-cAZaOn5iAoWoW_AIe9_Y3x0fm9vOLVxX9i1GLMEoGfktPA0jU5e2Ogm0IKmr02UxfkX3GE"
+}
+comments {
+  text: "Hated it\tIt sucks. Its also confusing"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1402780650318
+  authorId: "cid-gp:AOqpTOHTRJOdI-LbnsdWWWen2P0iVzrT-_41llXTSZU9iiaTmlPDehPWvv_utPyw-qx8uCVYyKWdVNmLGXN0HDw"
+}
+entriesCount: 1315
+
+comments {
+  text: "Nice and Simple\tThis is app is good for nice looking notes and reminders on your homescreen. However, sometimes typing can be difficult as due to the slanted font, spaces are hard to see."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1402176627869
+  authorId: "cid-gp:AOqpTOHTnIsAb_hoo0zBtVa4Svczm-udzyvo_9Xsm5rX-Bdvc6tk0EEBoP6uD7evWPrtaPcyzOiYcpCcxGQMCUA"
+}
+comments {
+  text: "Working. But...\tIt\'s working, and it\'s good enough. Must always resize the note though. Plus, I wonder why I can\'t find the option to change the color or font like what\'s written in the info. I\'m using Samsung Tab 3 btw."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1402080874830
+  authorId: "cid-gp:AOqpTOHoKPAgrXsuPmuLOJlJLAWv4_OgpwjOFMMfaxCDr12c-02VlH2kraMQLECkc8iDjqLIupaksMt9x1rzW-A"
+}
+comments {
+  text: "Did not work on galaxy 4"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1401328047346
+  authorId: "cid-gp:AOqpTOH22pvIScr2dvxr8CxPoeUPxpnEjn9yQY2s15Oct1GLPO-s-JGecF9H-euMZEFOO4UlULQV9lZs6NwuaZk"
+}
+comments {
+  text: "Very nice"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1400094083860
+  authorId: "cid-gp:AOqpTOHgT5xxKHeWitfF-HFbGnSMn-Vft427WuboIwvZjltt7vtRTNLBzTgzXGRBw2TTJX4nAEAjVdGaWrrXIGo"
+}
+comments {
+  text: "Simply and usefully"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1399988142785
+  authorId: "cid-gp:AOqpTOFwDK8S20v98CFyZ7flw1-XFchAvdxT3DFV1Lji6PQ8ujwWq5GsPcy3k7NPAZKg1MnrCLdusUSjhrJvkxc"
+}
+comments {
+  text: "Nice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399638291048
+  authorId: "cid-gp:AOqpTOHYIXywyc4jj4MnsC3K6evq9KsMAy7lGDDXzut9SDxQ5wzqx7RlOx330NRKvhMSPqWYD4Yzkeozu7Uzc_U"
+}
+comments {
+  text: "Took me forever to find a notepad that didn\'t want access to all my info."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399504323974
+  authorId: "cid-gp:AOqpTOHXCqnZgo5qdIM8VPEv467VIRtspZ3KjmNs0-pZCFiBwRDcfk3ES53r2naEXQwafoCCj36B5agQP6BpXmw"
+}
+comments {
+  text: "Great\tGreat"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1399219608709
+  authorId: "cid-gp:AOqpTOF4u3okMDbNVnDW3auYRcfjNOvCCyOX2u1zStJCy1F86rQNnxh09jDW7d9kvsKwfce4bnnlUkmvQkVNZBM"
+}
+comments {
+  text: "Poor\tOnly 3 sizes available.  Only widgets."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1399189800636
+  authorId: "cid-gp:AOqpTOHuCQxYcGvYJiTYvmD59ayB4U4lRiouGUPHOtkYoLy0D3p4Z0S8RnGHEHKG88vl-CLj7zEXDGGyhuFjKrM"
+}
+comments {
+  text: "Works great\tJust what I needed!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398799278234
+  authorId: "cid-gp:AOqpTOFrpnTvX4OQFW_TpBNeGcyfLpNdsrSW5IY4gBNhUhwmgOgyoivazhbXkUwuolIsDl8ZUs2rVkElZs6B13k"
+}
+entriesCount: 1315
+
+comments {
+  text: "It helps me a lot to remember things to do\tJust awesome"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398679074372
+  authorId: "cid-gp:AOqpTOGch1kmOZ2Y4dwnLoFqn_k4HLfYVdwZH_dMXuLzeU1_19hM3K8aVFWeFnyDJ2hvAkfwc0RqJYZlBoMtbgU"
+}
+comments {
+  text: "Excellent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398655410937
+  authorId: "cid-gp:AOqpTOF_UPeNPKA56i_xeExVlTfNusnd0guyVq_tI62E3-5DidNXjlhny33Z7t4HwupjHWl2dJEmX0_vGvEto2M"
+}
+comments {
+  text: "The perf app ive been looking for hours\tThis app is absolutely perfect for me. Very simple and all those widgets really helps me to manage my assignments. Absolutely recommended ^^"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1398260232874
+  authorId: "cid-gp:AOqpTOENlqVfZHIhxt14x9Hu-GZUh808Ol4_n7WlzmBPo-NbAOOlvxEOLJpoWgS-yV1Mct0fFwTmATTnn0BhsIQ"
+}
+comments {
+  text: "Good\tGood                                                           good.                                                        Gooooooooooooooooooood Gooo\303\266oooooooooooooooooo Ooooooooooooooooooooooo Ooooooooooo o\303\266oooooooooooooooooooooooo"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1397609618300
+  authorId: "cid-gp:AOqpTOE7GwNa43lwr5t9BPRCm99vOLD6-aUnxiOTcdSw-bwFiGere8lzS-66tnA4EBF6wTrlIfnVVHnF8XDja9w"
+}
+comments {
+  text: "Not recommended"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1397453250882
+  authorId: "cid-gp:AOqpTOGZzznu_AnjQAmK5WvSxCsSUgme9AQRiUQbMKIjeQfNpMHT29dhqSLvJqj6nWwTxjIg1arp6k_SPbfayMU"
+}
+comments {
+  text: "Not compatible\tDoesn\'t work on Motorola Moto x"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1397230419635
+  authorId: "cid-gp:AOqpTOFQsqkJoqu-a3lz77actUPDSdmBY7xk9iEmDlC4bhTwTlCYiRxmvE7sqCuT9jOaUG3aHeqame245bSqPcs"
+}
+comments {
+  text: "Swett"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1396926865734
+  authorId: "cid-gp:AOqpTOHV0EATgE6feVBiKmAoVRYk4q-l-R21sO8Fcx-ZKiSLGVJWURkYe30dCmGZ2F-UGMV0sV0t6iyV9e8fXtg"
+}
+comments {
+  text: "Why isn\'t this app working?"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1395583206284
+  authorId: "cid-gp:AOqpTOGVSNxGDSpM3kh7AUz9feSVB0rCj5AYRYmAEouUObZwtCZRaKAA_eZr5yGxGLQ4L7XfwF9X9IZ-hbRTPyY"
+}
+comments {
+  text: "No widget size options\tOtherwise good. Text size options are great."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1395475447676
+  authorId: "cid-gp:AOqpTOF8eMLZNi7AhO2fElM610o0gbkwW1pL1daD3AqWDl1gkKaQkkJOADAYNSc4XPdyI2DJau8nb-BCaKjc88U"
+}
+comments {
+  text: "Simple & excellent"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1394524715861
+  authorId: "cid-gp:AOqpTOEiTqQYwjMc4Pq5L72rpPF-4yWoLTKDvpZ4M0GMPgoRoHWzF2Y5Q2Li0CQ60c0SANZ5EoHTpRwSQPQwskM"
+}
+entriesCount: 1315
+
+comments {
+  text: "Good\tHelpful when you need it on your home screen :P"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1394524147108
+  authorId: "cid-gp:AOqpTOFHBBingJZw3q4A7OG0IZA5qbkwe9Qqr1dbha_2IOAn11T-M6fAnWeuj79oPJAAJzUMR_1HMpgkLEW9cfU"
+}
+comments {
+  text: "Stupid"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1394320319623
+  authorId: "cid-gp:AOqpTOGjumhoNjF0ndmO3ha9us7Lteds2MYvtx5MNLMyzyyHfXQDT5T7Y_RbffC1_uHrXQgqgQtMGJX0OAI5GQI"
+}
+comments {
+  text: "It sucks\tI have a blue life play dual sim.  Download it and doesn\'t work for this phone because of that y took 3 stars. Would like to use it. Please update"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1394118576086
+  authorId: "cid-gp:AOqpTOGPFfBZh8pEms2v45kugD2qpsZpb28EvCpHr3Je06Yf2e4p82uWtzkLVczk8cf9-R67dyas6_3-nMKO8Jg"
+}
+comments {
+  text: "Its okay\tbut I wish there was an option to center the text"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1393870940491
+  authorId: "cid-gp:AOqpTOHnD0ZWL0eyk8QXgHBO_kgHsWB4POcvRjEiy9JI4v4ORrXMUassKrR1eTxKCcKDmifaU7zRs8BcV9dFpic"
+}
+comments {
+  text: "Convenient\tIt\'s very simple, and all I wanted it for was to display my to do list, but I don\'t really like that the space it takes up on my home screen is a lot larger than the actual post it note itself, but overall, this is a wonderful app."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1393773663429
+  authorId: "cid-gp:AOqpTOGc4fPdp1RQELo49Q81DZrPXLUvk5IZ1HPfiWYJUQZDRvstYdu85aNY0yBVUTpEmAs6egv0Kyug1GWIC-Q"
+}
+comments {
+  text: "=)\tSimple but greattttttt!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393519122022
+  authorId: "cid-gp:AOqpTOHdexyTLhoNhKgSJzmpDLsufBAjnsqIwNZmiXNb9ceNsTmellkDTMbzPncuNP70u8l02jMT-HLo-8QUBfw"
+}
+comments {
+  text: "Good\tVery usefulllllllll"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393374606024
+  authorId: "cid-gp:AOqpTOFB_lBceO0lZFWVF4hABByBvrWIUqg2FnWtA4BH5t45r0bjFMDwjfSC2syZZ28jqo8TVCj62nwtgMk0D-I"
+}
+comments {
+  text: "This is so good I hope  it\'s good\tAwsom"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1393081389190
+  authorId: "cid-gp:AOqpTOHlVH2u26cn3QEs41A15oCxw5Sz-TvKQFdGUoiU2y1PprWliEPAa7rP7sV8GQQBhdJ2dqg3q-MxP1lpWos"
+}
+comments {
+  text: "Very simple\tLove this widget! Simple yet very useful. The best app i\'ve tried so far."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1393010824411
+  authorId: "cid-gp:AOqpTOHHL-dKXvp3KGKKBsw0yhL0Oivz8lbth8sCH2u1vZIY3Ro5ABI957PEycSVWTCrU1_gkKAD99ZpA-ObT1w"
+}
+comments {
+  text: "doesn\'t work for motorola moto G\tdoesn\'t work for motorola moto G"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1392747685672
+  authorId: "cid-gp:AOqpTOF9bEhKgJ0KIsgahHWpvEOa0UclsmYuLsrZyAaJGtq-bK3AoZ2C7OSyIDfgkZ7Povo_AVczg4b8qOObXq0"
+}
+entriesCount: 1315
+
+comments {
+  text: "Good\tCute. Have no settings or backup."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1392329750199
+  authorId: "cid-gp:AOqpTOE0mXxyO8PhYdnIqmtZAvq0T0WQb98c7vMoawB1q2Il38B-ZueWCiB6NEYp0Ic6XIwOVur1geeSyU1C7OU"
+}
+comments {
+  text: "Good ! 5 star"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1392013860778
+  authorId: "cid-gp:AOqpTOFKeb4iP8a3X7QXSHCJZulUfZ0uYhCzUBggHg3tgpp3N9mUx72H8Cr_gVeYgzNrhWuQv2EM2nNtDqi30tI"
+}
+comments {
+  text: "Love it!\tAs described. Have never had  an issue yet. Recommended for sure."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391995640174
+  authorId: "cid-gp:AOqpTOFRv1bsDSWMyR-4EPOVF-xUI5v7LznQQ___kncz3eX-EPaRZyzZ7eh5Hs7MhljfF7vE4jLtksf9yL1Kp1w"
+}
+comments {
+  text: "DID NOT WORK\tSite was down"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1391974810714
+  authorId: "cid-gp:AOqpTOGwV8peuyFsapCiUegwNz2r9s0C40Rqm5KDI_U73Z5_XMF36i5teIr2TBQJGqL3nhBK1Z_t6y19IcOPujw"
+}
+comments {
+  text: "Useless\tTime wasting"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1391818685270
+  authorId: "cid-gp:AOqpTOHKwZVyut9X8wg32_ckbFiXAPKUvc17Pw7SecExUXcCAJRW4tPJ9vYdiXQgWLMV_xMqu0Zgrzz0xXFIDLE"
+}
+comments {
+  text: "Really nice apps..."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391381112985
+  authorId: "cid-gp:AOqpTOG85nZb1zF257ilji_Zo5dXjdKnaFq7jfdESMJRbtwi4Dpr2fmmYFU2qjbrBBEGrmW1ckbpecuxqQv__xM"
+}
+comments {
+  text: "Superb!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\tJust as i wanted Love it  Simply superb"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1391258399790
+  authorId: "cid-gp:AOqpTOGQiCofy4LEUEm8r0i4t-9XH_q_aD06GPjShJobFeFpqhLbMNgYU-XarBkOVZIqmgTb30ZjosJuHJozLpk"
+}
+comments {
+  text: "It is a very useful application with nice user interface.\tI like this application."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1390885773276
+  authorId: "cid-gp:AOqpTOFzCU5-qBNCB7SjGGZOgp4DDU5wi-jSMHjs63Cy7Tze6neeqYhLwkVOi8dOPrLTeKyP-26e5L4hRqbFP2c"
+}
+comments {
+  text: "Comfortable to use\tGOOD"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1390653614235
+  authorId: "cid-gp:AOqpTOHm1hvFnmjRH8lnMQPt3WRMu-c_CmIm3sFYNtlYdMk04YN7FpOxYzxh9fCndDQ_sZbG9mi6hHt37Sse-J0"
+}
+comments {
+  text: "Suupppperrr"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1390077249701
+  authorId: "cid-gp:AOqpTOF-segWCxoB41rtcvGh2PCYtsYxPQOWo4iYmZOlVnKvS1l3lpATEs7XdcN2VEpafpmkTgm3C19JnDLrlMA"
+}
+entriesCount: 1315
+
+comments {
+  text: "Simple small and useful\tThe only disadvantage is the advertisements in the app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1389959738599
+  authorId: "cid-gp:AOqpTOFy7yjrKZi4a5s0ab3omMH-3UwCVjStB8am4HBDEZ2r5l0J6cPYezlV28hH_aO8RLD68980oPdxgb1OG-o"
+}
+comments {
+  text: "Needs more customizing options\tThis is a great widget app but I wish it had more customizing options such as fonts & variety of colors for background & text etc.."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1389847774278
+  authorId: "cid-gp:AOqpTOFIpK5JfM7RsuAt3K2lhuvexUp7-Sbdb8LZ-IWI_50NXp0JQ7citPwKeKVJgDVq2ncizOW9pFErZhJshB4"
+}
+comments {
+  text: "So good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1389505860550
+  authorId: "cid-gp:AOqpTOFC8DkXIY0-7cEnkUbuK-bw7UT0yBLmCCaLTwIAhVxSiE7ADz4WAV03t94OCUe1raAj7mC4D-yodkFSFys"
+}
+comments {
+  text: "Great.....\tSimple....."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388963677670
+  authorId: "cid-gp:AOqpTOGJ6lpyTml-Sfbcb9pJOYiogfkoGogFuB5XCMrTYsr2PtaFpm0FCRcgNDwBUUpUy4Io4HL0_nTxYrNtGlU"
+}
+comments {
+  text: "Cool"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388617067827
+  authorId: "cid-gp:AOqpTOEG-3pQg4XVPcP5Gbty-H6gcX4dEgnkAp5wSNNGRBfcGlgr4XoLrXVuGVuFeSIFkIbYMf4us5DCVPGNptw"
+}
+comments {
+  text: "Awfal\tIt does not work at all"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388486667549
+  authorId: "cid-gp:AOqpTOFMrZQyH2RS3tavIAuURoPr4d9xI3Y0kIENWuucNIwWLwN3e-urfnkT9fuvaOqlJCI7Kqlhw3UFVB_SdMc"
+}
+comments {
+  text: "It would not let me use the note or right on it!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1388435941962
+  authorId: "cid-gp:AOqpTOEE2Yw72bsmdkHCzKcZku_lT1WkCMajJ5_FxSldJLNUlXipIlThLuiS-PU3iJkxdOX9BcjnhK2IDq4O9T8"
+}
+comments {
+  text: "HTC Desire C\tNeed improvement.."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1388317760208
+  authorId: "cid-gp:AOqpTOH7hr2assmkd5KEw7CUwO5E0n9VC2ZY-A7IEP7m5jrMBGYKYjAuN-VkmTEK1PfLRv_R7g64t5Ii-HfBhKU"
+}
+comments {
+  text: "Smart\tSmart lil pad...lv it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1388178942827
+  authorId: "cid-gp:AOqpTOFOmZWm41jXsIcF3NADAeXw7F6g3DetdlleSJ029b6YpcMV_6wWr8EFZyBIBwwdwFcz2HVIusHdQ2HkybU"
+}
+comments {
+  text: "Keka"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387990638323
+  authorId: "cid-gp:AOqpTOEwXuFgVhvms9h0E1qiEU_5Vcd0exSB8p01KihoodW07lryqyeXX9fbrAIn-QLa7n3vEW_YM7hOSDU5hV4"
+}
+entriesCount: 1315
+
+comments {
+  text: "Easy to see\tI liked it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387772977707
+  authorId: "cid-gp:AOqpTOHDBZvTvwfN4J6m554mOrJUpfRr3HdZYV3suIRqvfcXD8DZV0GHL7OGNGTAKho0QsNDsQZ_9yaXdg96Vbk"
+}
+comments {
+  text: "Hmm\tGreat wrkZ well"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387187368243
+  authorId: "cid-gp:AOqpTOEH0QSV_00wBgD2hmnrfN18E9_7pL7AT9PCdW6MJqBzoZDtg8awwi2c8vQwbodyntInF3L0O4Uw0J-nTOE"
+}
+comments {
+  text: "Excellent\tSuper"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1387018104489
+  authorId: "cid-gp:AOqpTOF1sJM7RVdlD7eBr-p8fBqWlo3uNqNi0iNd3U82XiljwDo5yGhhyvSo-mSju0S3C0Ped6VUj9CC3vtWlro"
+}
+comments {
+  text: "Doesn\'t work\tReally wanted a simply \'sticky-note\' app for my Nexus but it doesn\'t work. Long tap on the screen doesn\'t offer me Desknote, just alternative wallpaper options. Shame as it looked good on friends phones."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1387007569447
+  authorId: "cid-gp:AOqpTOHuQoEo5BIlaBBPFRmieH7cwm-FVgnHBve_N4nxfLM0Gn41ANS2xrgJ-3bDNCOACcISPnwiywUXtHvuhSo"
+}
+comments {
+  text: "Does not work\tI pressed long on main screen n I do not get what I\'m supposed to get. It says apps n widgets on one line n that\'s it. Unistall."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1386935547078
+  authorId: "cid-gp:AOqpTOFhjDH1G4-5hlSxlX4yC2zxXsp52Bu6m8G4ACyyy5V-Gtme0MW6dcsxqHcCaCPW-R7sFDw-y-ou8TNhKYA"
+}
+comments {
+  text: "Good one\tGood one!!*-"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1386934069773
+  authorId: "cid-gp:AOqpTOHTO5EfNtLnemHvm1nxWG_ZgE_w1cDQrXbpSBW5s5U4gNPd38Gj05axy_g-OjVefcxt7R2l4VrOvDsPMco"
+}
+comments {
+  text: "Greaa\tGreat app,its easy to use"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1386828017784
+  authorId: "cid-gp:AOqpTOFadIz4lG_q4__nOX-y4GCfJbSJX6LZZ3L8uhYhZiEgRfGt-FB1jS8dx_7lOdyE_O1F1AcySgTCEyFnYuY"
+}
+comments {
+  text: "Does just want I need.\tIf you want an important reminder in front of your face this is it. What you type on the note is on your desktop to see as soon as you look at your phone."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1386731355915
+  authorId: "cid-gp:AOqpTOGmjTOcgTf7toQR8LxsFT64CY4qyW_XZ7hdKHV1grarxm6tblJKPgv-QXH4TiE7h0jX5MGkAnfEa9ij0VM"
+}
+comments {
+  text: "HOLY CRAP!!!\tMy firewall detected 11 internet connections just for a freaking note-taking object? Give me a break. Where\'s my privacy? Google double click? $ale out devs. ChAnge it or erase. I\'ll make sure my firewall is up till then. Never mind It\'s gone"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1386571169664
+  authorId: "cid-gp:AOqpTOFkPlcQzvCZSpOJzYk_xEcN_jVhExHmjTSuDcBvXHZITGmJo58xdiUe2vFxCBd4UAVCmT-aeHoLBZy3YvU"
+}
+comments {
+  text: "Horrible"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1386476928381
+  authorId: "cid-gp:AOqpTOGKMrpdiFz79k0PhuK9w060DNNC7aB9DEDNM7mjJdpJCgnf6Lggwmrz8qzq-lV81r40QDoqnj5ptlS3ZFw"
+}
+entriesCount: 1315
+
+comments {
+  text: "Wouldn\'t work\tUsing a Galaxy S3 and it wouldn\'t work. The app said to long press on a blank portion of the screen (presumably where you want your note to go) then press widget when the menu opens. I did that but it wouldn\'t allow me to open a widget, only move widgets/apps."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1386207162083
+  authorId: "cid-gp:AOqpTOESRhLr73FwQTkgXLsp5qNHflzAL8-YHTZxdAAP0yFf0ziHSTbw1GBPxVa8gQvnBV18oZ1_--kQ9T9LaNU"
+}
+comments {
+  text: "Nice look....\tI agree with another reviewer that it would be nice if the text followed the same angle as the note; I also wish there was a shortcut to setting a new note, rather than having to rummage through all of the widgets to find it....  No updates since June?.....guess this app\'s been orphaned..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1385767451862
+  authorId: "cid-gp:AOqpTOGWYtKj75-9l5sEeyfd86wPSf7kuFXAToVwHNAlq0LvHPAfbMkjlqiuv41b324qHgBdY0K3y1HMqFMOM0M"
+}
+comments {
+  text: "Doesn\'t seem to work.\tI choose it as a widget yet it doesnt appear on my homepage"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1383778679330
+  authorId: "cid-gp:AOqpTOHMBxZy5FNn9qLQNLWXiHotLd-AXBpnW___EKictDr_s3guuSX042mUFecOa-yeAdtiSJelaZh1kLEKk3g"
+}
+comments {
+  text: "Nice app\tIts perfect for what I was looking for- a desktop sticky note app  There are some things that I was expecting: ~ YOU said change of color ~YOU said change of font  Please fix and I will change the rating!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1383650755618
+  authorId: "cid-gp:AOqpTOGWyw3HMhn-ht-VNBXiGYaNr5wMDvxcMRobR0aPf2MkGTchGRNuLd6z7EX_dvPa8oqdSLiyRii9rrDkTAI"
+}
+comments {
+  text: "Some what satisfactory\tHmmmmmmmm..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1383579691986
+  authorId: "cid-gp:AOqpTOE210rh8F7lERJvJoagqamjYQLT4pcaewrNTqFw2bIhbi1S4gaJGjhlb-agfL38KgJWIJOe0gND4m85cDg"
+}
+comments {
+  text: "Perfect!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1382649732154
+  authorId: "cid-gp:AOqpTOEgYciSJd6vsYaDTkhtzPHJzsmkt_AsANMQlKYYBu2fRUL3-qsPiKCLFEiqHkMnbtoJ1dXqHaS3EXkiL2Y"
+}
+comments {
+  text: "Exactly what I wanted but...\tThe only thing that absolutely bugs me is that the text isn\'t tilted with the note pad. If this didn\'t distract me, I\'d give you five stars. Thank you!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1381596399419
+  authorId: "cid-gp:AOqpTOHTg--Ag7wRwFARPUqKlc-Z0wLUqR8Xif7MRm0OCinj3Y44APQh-nPN4cLGiLelvZb35uu589hemXXdhFY"
+}
+comments {
+  text: "Good\tNice"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1381256413399
+  authorId: "cid-gp:AOqpTOH4uEUGFzQfNktoHSshVSMjVvi7c4HY_HYJWf8rP-XS2ngEi9R9uY-3p_9SlsBc4-QIi3HjUfFwusb7ar4"
+}
+comments {
+  text: "Good\tIts a useful app for those who don\'t remember their tasks. Enjoy"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1381200183621
+  authorId: "cid-gp:AOqpTOFN8hA9Rc991XiMtIEmzlcHrUZvy81tjPG0zPDtcBwpFQ-XCyE2X5zUmY5E3vNNw0xbjkdj31LxF4tVtHY"
+}
+comments {
+  text: "Peace if crap don\'t bother"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1381194525440
+  authorId: "cid-gp:AOqpTOEoVvAsuzaBX8RRPUFSoE-fFuZ_2Ts-MURe-CgzTO5VYFxB79cfmQtpybXdZOptXgcMyLkY3FjyZ3K93Jc"
+}
+entriesCount: 1315
+
+comments {
+  text: "Grt app!!!\tThis app is mandatory for my phone.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380855559830
+  authorId: "cid-gp:AOqpTOHE3bsum4Teax8zN3v_4OydrJIBRpo_e57ByaJXSiQmtq1A_c6sYO1hJOQ3NTkD7vtmrUc2Rb71MLZrayE"
+}
+comments {
+  text: "Doesnt work\tSo sad"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1380827398772
+  authorId: "cid-gp:AOqpTOGpbUpSiutJRtmOVLfU4WY7a3pZf0lzM7na26gSrxrBxRn98Ns8FRqT29-Fhrwh4KkgJkPsDVMWoZOtiFY"
+}
+comments {
+  text: "Usefuk"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380673234219
+  authorId: "cid-gp:AOqpTOHKpIQn9HC9wwNJWT2e7DMOHJJq42-LEcTPTLXlj2Te3Yv4veO9PbeS73fPvmH_Of2PXpbiTfFefUZCJOk"
+}
+comments {
+  text: "A waste of download\tA complete waste of time! Dont bother to downloa d"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1380669385927
+  authorId: "cid-gp:AOqpTOElMLzIDzy5fJRCxt6CoQoxM1JamX7Wk4_l5nqq_nJIE5aqzG1b5WUy7VYrhiLkJvyriym8aqE_8Ty3ac0"
+}
+comments {
+  text: "Good but\tI am not able Use other colors apart from the yellow?"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1380656660397
+  authorId: "cid-gp:AOqpTOEwMOAscI7_7iCkKBE58cpo2KXQeonrKFoHv2YBpDKiXEX9xwHa1bQTgFcdKGrcpjnqJVERlBlmQ4p2N9c"
+}
+comments {
+  text: "Love it!\tGreat app for my home screen to keep reminders."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380513618918
+  authorId: "cid-gp:AOqpTOHC_CfkMk6D_SjdNvBhRvJK84KFyuQYsfOZIdRaVWm_uYKioIfROIgiG0yxgC7gFBXz-I9JdRn7PzkSwug"
+}
+comments {
+  text: "how??\tcould not make a note using the widget, no save button to save the note..thus useless or just not user friendly..will move on to another...."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1380399823159
+  authorId: "cid-gp:AOqpTOHPnJ4kQ358M-wVy6V9y-mnBK3Y3vSq1zijrvTSvm2dWIOjsDvTuqY4d_EmjlM_5uxMXFxgZ3svLpAmWXY"
+}
+comments {
+  text: "good\tbest"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380349361534
+  authorId: "cid-gp:AOqpTOFJEYLdzxyKafzFui0lFABf4mk0hcbp43FNFVPooUE2GsdLn6WcFOwhoFgCLwLti0vhkJIN4OD_SPrv9zE"
+}
+comments {
+  text: "Didn\'t work\tWasn\'t in my widgets as something to use"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1380338169187
+  authorId: "cid-gp:AOqpTOFAGEG_r2b4QUdsI3tUZDw4hlANDo_HgnbMoEGNShHrIFadokoXqc-8DYZTQbkT3EOOUnJUdB1x1NNtN8k"
+}
+comments {
+  text: "Perfect!!\tI love sticky notes and now I have it on my screen. This is si handy and simple, you can change colours and sizes I just love it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1380231629543
+  authorId: "cid-gp:AOqpTOHK2IKzWeqClotde8ozAgb-zZCE8_DVobcOWVnf3sphnZrG9r2bdq7gfqBdXsUzgW9fKWfMi6USe6BUTFk"
+}
+entriesCount: 1315
+
+comments {
+  text: "notes\tlove it very guud"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1379899949402
+  authorId: "cid-gp:AOqpTOFX7Q3EyoZwC0UO0dqw11znwTUdefWoQgsuFVEibjGKO3yv6el_RhoAhc31GdQjr0_oUDgwHN7AMKJ8Sog"
+}
+comments {
+  text: "Not working\tOn ics 4."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1379625036682
+  authorId: "cid-gp:AOqpTOEF3VP7_vICsKC3CAICgxWJBhADwwMa5GwGoart7YaqN_R6fWqB_KqPKzwm28Fa71AfvT079gse_LknuV8"
+}
+comments {
+  text: "Nice app people"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1379552112743
+  authorId: "cid-lg:AOqpTOEacbbYEHCYGiwxzudrMarZpSTDkGC1KCqxMmgHDCrAczVgL5UkCDDN7BVH60GnUvEJ3UM87oeM00ZKUhw"
+}
+comments {
+  text: "Phone crashed & now no notes\tAll my notes are lost, the widgets say \'could not load widget\'! Agggrrrhhhhhh!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1379257235035
+  authorId: "cid-gp:AOqpTOG0-D-hYRMn6bGJI5WkpYY8mMHjO_rBTDxzPy3nWqiy7Yd1HHWr2sjbCQMdEhG3_V--amzGb7xykQjyeLs"
+}
+comments {
+  text: "Poor\tHow do I change colours and fonts?"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1379064057094
+  authorId: "cid-gp:AOqpTOGdXw-RZpIN-a_y_DOnMfKtK-bgnzjWfjRybIaGJBUWDqOiKiVvFGpLgpxcr7tsHl9cyFP1ap4mNzl1WIk"
+}
+comments {
+  text: "\320\234\t\320\245\323\251\323\251\321\200\321\205\323\251\320\275 \321\216\320\274\320\260\320\260"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1378974872997
+  authorId: "cid-gp:AOqpTOHSQcg8YM4HxaIsoAb2HSq4jaaXMjvFKk6YvHFbpnZKkTTD7LcBWzL5gwqtidWyOQkP9cvBaLOb2BYB6J8"
+}
+comments {
+  text: "Poor\tDid not load at all"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1378845689615
+  authorId: "cid-gp:AOqpTOGzRPh0BSnWtLVlIQSnq0AwU-Zx6OBIKL8XuBYQCMHQ10-jaSyptgsrKU4i6G6tL68r_udZ5qyQ5U8JBTU"
+}
+comments {
+  text: "Excited\tI\'ve been looking for a sticky note to out on my home screen for a while just downloaded this, one hope its good. Giving 3 stars for just creating this ap."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1378615681267
+  authorId: "cid-gp:AOqpTOGSU3SXgTpup-UGoOaLG_HG2cvErkJ-ZBYy92dWlqUFJ7N_g1vIuTHCN_8iSEAcl-Itln0O1n6OV1kp_Uc"
+}
+comments {
+  text: "Doesn\'t work!\tAfter download the app and follow the instruction to press longer on desk top to post a note, but it only showed on my desk top setting. Guess it\'s not working for all phones...."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1378519739991
+  authorId: "cid-gp:AOqpTOHuToslhyASrm5KBebf3bsDxYB31heDU-cUU1J7ym3X2VvUpiSPXiZwH5HdFi_gcJNK2-FisbKl800mEj0"
+}
+comments {
+  text: "Adds!\tI don\'t recommend this app. it\'s free. But is a free app really worth the add Icon it places on the screen that\'s full of more adds! horrible banner adds, and links to adds - NO!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1378089034098
+  authorId: "cid-gp:AOqpTOHsa5A2nf6f0z77ZQXibCAxxfEfHXMoVsroddH4iNa4KeT-zWvCGUsSwINePijFAMbzMZHLYZcPiRBQb5c"
+}
+entriesCount: 1315
+
+comments {
+  text: "Terrible\tDon\'t download."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1377784610313
+  authorId: "cid-gp:AOqpTOEA81GXnuEvitgcD2AWVfW6PHpBu7fMuWqEqXi2t3Nm7HJhxx0fweT_O9bDqevEDLchiclDxEHVo2Pbnlw"
+}
+comments {
+  text: "Sucks\tIt wouldn\'t even open"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1377549880839
+  authorId: "cid-gp:AOqpTOEJqVb1HhAjyqF5vhcxZ5N9Z5nFefRc4TA6VSKg49OZEtbTeoH5GhZZhPUUsrGVEV0E4Qq9-UUjhzdL7x4"
+}
+comments {
+  text: "feio!\tsimples demais e com visual feio..."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1377376640995
+  authorId: "cid-gp:AOqpTOHVtRTKav7tyStq7Ws1tN-_Er33hCfE31AEpjDc7XQFazRr80QTtZw0ssd1Pjuk3rLLsFuld9UZmUKsHtI"
+}
+comments {
+  text: "Too complicated for a notes app"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1376596502450
+  authorId: "cid-gp:AOqpTOEO_abcsDYkJR3Jyy0Im9CXBuLUUKa4BaUFEfQFhRdfI9QJ1brY5RRVtK8q5okW1MjrXY6r0ki8hmzRJUA"
+}
+comments {
+  text: "Canvas 3d\tThis is nice app.."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1376589000451
+  authorId: "cid-gp:AOqpTOGAUI5bO_pbhpFq4ol5G1CrVOS6Ex7nU6YZ-1nvWGG5tn24LzGWZFISojj66nVw5gZmslsvC1yqjjp7a6o"
+}
+comments {
+  text: "Exactly the look I wanted\tThis is great and looks like a cute little sticky note. Would like more font options and bold & unline would be handy too."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1376556160545
+  authorId: "cid-gp:AOqpTOHCgOjSSHZL9tz01ueiv41h7Hn1US4A0TGSlSYmkYxAasGK8HUx2szqN2zU9uV-CSTbokeLP-_OL0r-kvc"
+}
+comments {
+  text: "Amazing"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1376542522192
+  authorId: "cid-lg:AOqpTOE0Q9xXFr8lOo7yvENVOGQXLJDAnKZkcrX1ZkQTyQjGMyfgBOtkF79TFICXI4fQCUOgUBnddYLTv4PAwlo"
+}
+comments {
+  text: "Did not work on my Rezound\tJust a black screen."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1376424405920
+  authorId: "cid-gp:AOqpTOEOOb47KB_KfMf_naS_ARNkEikTeiaoG_kfRhIamKIXU6xx8NJBXZWSx7JJB5NYsLUk_1joXUuZWZvL2Oo"
+}
+comments {
+  text: "Ok but...\tIf only the font style can be change."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1374936097066
+  authorId: "cid-gp:AOqpTOEL39fQcEGHbYi9IuHyADFtI88x4zfW0KBmCxCGg3yCMAS5VLXMs9uyi39D8pzS9D0vITFHx02ULBrNQhE"
+}
+comments {
+  text: "A real PITA\tTo add a note you have to open up your widgets folder and click on the Desk Notes widget from there. That defeats having an app icon on your home screen, I don\'t want to work that hard to add a quick note, sorry."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1373822452286
+  authorId: "cid-gp:AOqpTOFkUHS289sR16_Q5bx-xTEXNDT5utsQSpe7Bqy4MYqERiOy6n7jrDIxAm_60tsca1t3Tj53VpIB4xa_J4s"
+}
+entriesCount: 1315
+
+comments {
+  text: "Didn\'t work on my phone"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1370760772062
+  authorId: "cid-gp:AOqpTOE1z8K7AXuyuNik28vp40H6jD7JWMKg_D_xC2eHfd7v5YSI5UTcF-erpB2zC9XbOZ8fGodJL8vevWHrsg0"
+}
+comments {
+  text: "Got what i needed\tSimple and sweet.."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1369650571259
+  authorId: "cid-gp:AOqpTOG1dgHCU1xTBSOqmRuhZDAMVZkAqjNgbSf2EljamIJc7-lYqZ76LmgotLksTXpB6RVHCUTuM8ZgZdixKn8"
+}
+comments {
+  text: "Cool\tCool app....."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1369501563980
+  authorId: "cid-gp:AOqpTOGb2OGoFIZS-agZyX6N65hW9yQoNfor07oLfe2RANoU20WJto9kCo1bTHxqvctCfUSZRtmn-TfebBFNbEk"
+}
+comments {
+  text: "Sucks\tI can\'t add a note."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1369391801655
+  authorId: "cid-gp:AOqpTOFbD7kQPj0_xVScZr80vmLEx34MWgxSTN3g-oy1bZg1uRKd4Sy8TnajF-nG8H9x9B-T15UZwRuMVlzwsIc"
+}
+comments {
+  text: "Sucks\tDoesn\'t work on Note 2. Widget can be placed on the screen but no way of adding a note."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1368983768845
+  authorId: "cid-gp:AOqpTOEVEJaI4DUflnZgs-yinvLLkUmn7eZQ59PA70JzzXDFPFROx9k3ubJVkWjfqdL2fKXj4agO10pA1_5HTos"
+}
+comments {
+  text: "Its not even working"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1366791342108
+  authorId: "cid-lg:AOqpTOHErCkjOKR7My0UAstIwX1RVH2tzYsnLQ4mu6vkoBpIRUBbua9PTLPmMUlxQyOe7t9bJbTpOFtmHa87GDI"
+}
+comments {
+  text: "Lite and handy\tExcellent app!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1366734882549
+  authorId: "cid-gp:AOqpTOGjC2LQwYBM01X6w899NKKV2wBSLoKFMAmDnvExTKc3T1MIv5a4izO8dVZzYpNqJPaMN35H35k0CV04FFc"
+}
+comments {
+  text: "S3\tGreat simple app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1365628320431
+  authorId: "cid-gp:AOqpTOG2D44NIGi-yP7KcSE8Y9dxk257QfC_InynyuWL7J3u5WB115P2bCLUG_8GxGFnWHgl3QIbB2zpshTb95k"
+}
+comments {
+  text: "Nice simple sticky note app\tJust what I wanted, a sticky note on my desktop...   For perfection the GUI could do with a clean up. The font type more like handwriting (or if you could select your font) and the writing was at the same angle as the paper."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1365192024679
+  authorId: "cid-gp:AOqpTOFyGZqpABJOQHMFNEI8nHUrCD7LNuodsVFpYlOR0Uk735aq8KaWZiSY3CIcqv27Aec53dkkX9vvfCPFaTo"
+}
+comments {
+  text: "Ah....\tLike sticky note better..."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1364225743537
+  authorId: "cid-gp:AOqpTOFrJqcvKkZdbOu6_XkJ9TamI32ccdxNUuxAuzlHe_1UNI01M1xwfj5hVvNjDOYvBRFusDTYbRF8Dm_ZG6s"
+}
+entriesCount: 1315
+
+comments {
+  text: "Xtouch tablet\tIts awesome buh it can be more good if u can add picture to it"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1363827330703
+  authorId: "cid-gp:AOqpTOF-KkJ1f36tRIVKlKdP3XST4Hngh3Bk0Pbd9ac_yBlbVF4O6kfG9xZM-B0H5UArUbPQuzKlj_66WqGhWzQ"
+}
+comments {
+  text: "Desk note\tDon\'t work for me"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1363360806352
+  authorId: "cid-gp:AOqpTOHAB3B2REm6__3GGKgd7uZ9SVuL-ObHU_bhpm6o2UN1UBFoId_wx6kdOp1utDaY4qRaqb1ToRWK-JNJszQ"
+}
+comments {
+  text: "Good for reminder widgets\tI use it just like a note on the fridge.  Easy to use and functional."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1362688961790
+  authorId: "cid-gp:AOqpTOH1B6iz4QyAeTAXjIfpsa-ecbqiSWbrl47zIPcf8qvNgPxYsUD-lue82GLW_ub1ICApx9e2JrCjor_N3pU"
+}
+comments {
+  text: "Great\tCatatan untuk sipelupa"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1362400049884
+  authorId: "cid-gp:AOqpTOEiOjRkvxJcQt_o0udN-EI9-JMQl-W0Icf3SIJe2xF4azmbmXNr6G7cDw-W3I3WxWkERI76i8Rz6GQathk"
+}
+comments {
+  text: "Simple and usable.\tI\'m a fan of this widget. It took me a while to find a post-it kind of reminder widget, and this is so far the best one I\'ve tried. I\'d love if the text could be aligned the same way the \"paper\" is though."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1362383813649
+  authorId: "cid-gp:AOqpTOHES-Wk43pQkRtfNMCzEdyb3_iKILYoTmfhT6V5zcmn5i_VJCIMZxbhfplK30RGDrV3pqBpHlX-_7rHXtI"
+}
+comments {
+  text: "Super !!\t\342\231\245"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1360667628577
+  authorId: "cid-gp:AOqpTOF1Oa5esGQaFYPtlVHCMwWyMRzxQ1Hb-pMEf4P1BRMUq4k_zwNR_ND4IapexHJVoQMGDuMFDgrOzPXIWHY"
+}
+comments {
+  text: "Don\'t install\tUseless"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1359804296918
+  authorId: "cid-gp:AOqpTOFrKdjJCJlme1MgmxDiabKmOUOekN-ARjnvJeLhHry51RP6XePlKhrXmLpdPkXaLIHAysmatro7g482bic"
+}
+comments {
+  text: "Very simple but good widget"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1359419426938
+  authorId: "cid-gp:AOqpTOEKDsqCb8-NBPDtW5jwEaVUeddZ3hHbVJRLGtuM1CjWVFouZ9ckSwXXJf81yQ0Gg7WdHQPlulX8EqP864Y"
+}
+comments {
+  text: "Ipad mini.\tReally good app. Easy too use!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1359144122982
+  authorId: "cid-gp:AOqpTOHXgy3kXqTX6Offf7SIv5a3p5UoXAZAFY-7SMNAAouHQLjhTCdfXxOl8X6IUsGAquCY6b9IxeSLh0kRh9Q"
+}
+comments {
+  text: "Great\tIs simple.I don\'t need other colors like red,green etc.yellow is enough."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1359043577770
+  authorId: "cid-gp:AOqpTOHj_IsLU-sNedlG3h0RCTCvNrubfAntTtioMQxRTPDzsjxdRBiB0rXxsr79U5iqhwXlk-GqY37FdNwweuQ"
+}
+entriesCount: 1315
+
+comments {
+  text: "Good but..\tMake it movable to external micro sd card"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1358905198970
+  authorId: "cid-gp:AOqpTOFY0Av21tkk3L-D8BuRNkiJhc1JCyn-9lsaSfxpKboF9caCT8Jo6DM7oCkEHaPa0TninSmCVkdToYpTtP0"
+}
+comments {
+  text: "Does not work"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1358537041774
+  authorId: "cid-gp:AOqpTOGUbrcto8QyZJxC2STDeYaMfd64RmVc83Q17F-Jq7ZyaMlvozfvL9GCN9itl3iH13YUU6Mxrcb7GfGnORA"
+}
+comments {
+  text: "Simple easy sticky\tJust what I am looking for. The developer seems to stop developing it since there\'s no more updates. 5 star if I can choose the font type (please?)..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1358442429742
+  authorId: "cid-gp:AOqpTOGzIduCKwcZhhXBjESLsmigvjvnYcVSJ7zaLrSkmOOyfANqHEHde9CViBd7V_Afz95J-lWV4mDqeJY_Z5E"
+}
+comments {
+  text: "Love it!!\tVery useful!! I use note10.1 and it has a task widget too but I prefer sticky note,, this app is very handy,  I can choose note\'s  size widget wchich mean i can put it anywhere on screen.  about  program when you type sticky note it has pixel. Like it\'s not large enough for 10\" tab but no problem with the widget. it\'s awesome!! Thank you!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1358269815279
+  authorId: "cid-gp:AOqpTOETbSutY6URmi8F35iOnEa_eeZpL4VzhKPWkFhlaAYG6v6JMEFT7ZvUxM3w99XtqabXm-l9tL2rcfDU30w"
+}
+comments {
+  text: "Nice\tAnd easy"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1357675381714
+  authorId: "cid-gp:AOqpTOHvErSDsduK7XD3H0L_owhx4vyzIHisxlm8h20wqWgKmavUknNh8iO5pkiDFXTlcbV0wKccu5NoSSTQAZI"
+}
+comments {
+  text: "Wicked!\tits so beneficial"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1357477201388
+  authorId: "cid-gp:AOqpTOEDoOv2qA1dPauDSFHmsByy1lc5r7CeJ0FZe_Mf0dZ6tNQYZGC7XLkqIG9UeCBX07-5EixIwLMo18alMhI"
+}
+comments {
+  text: "Jednoduch\303\251 a \305\241ikovn\303\251\t\303\232plne jednoduch\303\251 a posta\304\215uj\303\272ce, presne tak\303\251 nie\304\215o som chcel :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1356539183092
+  authorId: "cid-gp:AOqpTOFQdo3hBBe2t2MKbi1JOT4gyYLs6-m3e83dmtxzJt7C2Rr4TF6smbuhOO7QlG7xOODqyh7ATEbvS-isi5M"
+}
+comments {
+  text: "I like it\tGood one"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1354125243029
+  authorId: "cid-lg:AOqpTOHxW5QNeDvGQE3SKIOQFcKOksLVVGU6SxDRZKHTTrpCrVdEhM4fBSyaIrirpbu-rKwUyqcHW-5PIeSxy7E"
+}
+comments {
+  text: "excellent\tthe memo widget which is the most convenient and user friendly!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1353339045508
+  authorId: "cid-lg:AOqpTOEPUnYIi2w3FgGq0-fIYC9T6IcOMz9OWYSJNNQr2RZ76N8VJVpNnQcc7jf3kVNRhy9raADw5ctEKxmLCec"
+}
+comments {
+  text: "Good app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1353193357213
+  authorId: "cid-lg:AOqpTOH-WoeaYCQWwxn5Ia7GKlbMk75HQI5SrEdS27zfuPvXFxNTS6qIY5vBnGEFTqEMuNjx1W-FB0cvgYOdn6A"
+}
+entriesCount: 1315
+
+comments {
+  text: ":)\tTry this"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1352533378455
+  authorId: "cid-lg:AOqpTOF8GAzQeMRgtE0ju-zgMmp1Yt55vFyFSVyVD6-Ytazll7-kGrYEF239581TlCu6Ib__1b3uLmbGWqJf9H4"
+}
+comments {
+  text: "Excellent\tSimple and straight forward to use"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1352369289184
+  authorId: "cid-lg:AOqpTOGE7Bac8-NNtz_2fRfVHubTGVDo7W202zRDXisaqKqZHrtq_puoMk-ELPDXozxyjru0aSt-7pj-bj9kp3U"
+}
+comments {
+  text: "Lovely!\tLess is more."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1352066783300
+  authorId: "cid-lg:AOqpTOEUHTUXX2tlWfWMSeDCdrGyXMmlWxbfbx5IrFzBOdDvNn5U0vLoVqfXrb5rEzTjz9rmy015sHHB18dFS0k"
+}
+comments {
+  text: "Nice app\tNice app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351926518096
+  authorId: "cid-lg:AOqpTOFiKvV1MYRyIm9vzmysITFtDCfoyRZ8rX74dk5q_ppX0-QGv2TdXnodSZdjGRTv7A7jLp9sg9Yt-cej6uE"
+}
+comments {
+  text: "Won\'t work\tWon\'t work on my Acer"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1351858206571
+  authorId: "cid-lg:AOqpTOFztmp-Nq-oaRG-DGvbrSSCQcSqzNwYzDYmFNsk16a1qvTX5nOFlPOhDnDDXVgPDXhzIyCozsU8yT86MbM"
+}
+comments {
+  text: "EXCELLENT\tJust the one I was looking for. Reminds me stuff for school and everything. I recommend you to download it!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351216013651
+  authorId: "cid-lg:AOqpTOHUnuF49yR7QTk5KuqHthANqpL8kmDIDgDtbvySqznm8AEe2ujnhS5rbj98VGmnAvaiKdNMhRxCBI4hQG0"
+}
+comments {
+  text: "Excellent\tThis is the first 5 stars I have given. Perfectly what you need for thpse little reminders."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1351119735027
+  authorId: "cid-lg:AOqpTOE0hFLOcE9mqsZbkFMpV6gLIy3zKjozNnK2mqGvAPaB28L376ufWiUNW-5ef_eGT2AvMfEC_TKJ1SrhlBs"
+}
+comments {
+  text: "Almost perfect, needs cloud sync\tI really like this app, it looks beautiful and goes by the \"less is more\" logic which works. What I really need from it though is to have a cloud-sync feature. Unfortunately I\'ve had to make the switch to Evernote which is completely overkill for my needs but comes with that 1 feature I need.  If Desk Notes could one day implement that feature I\'ll be back like a boomerang!  4 stars now, it\'s almost perfect. 5 stars with cloud! (please?)"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1350796623246
+  authorId: "cid-lg:AOqpTOGa-O8J2PUSvCe8IfarUlIuqprmYYdDQ_D5LWV5dWyr5tjAIPi0_aQjbsvqemWFnZdSPu4mcZxwIeRUmHE"
+}
+comments {
+  text: "Hmmm...\tIt didn\'t work."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1349534156049
+  authorId: "cid-lg:AOqpTOHCBlzPW90uC1JAUfd1tmGhzNwJV1YCV2mA-1qWfpednn-dMXJeBVrhZiQZClAMlE97pX4mXRkJBu1lV0A"
+}
+comments {
+  text: "mayaie"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1349410457882
+  authorId: "cid-lg:AOqpTOHkP1DiQki5PbKdKUdUVhiwxv0GBq7iO5fTpGdsYuhwFDih0iVycRP-KXMWqmzegG0rMTPE-Qf9ogxJSrs"
+}
+entriesCount: 1315
+
+comments {
+  text: "Nifty!\tGreat sticky app. There is a bug that I hope gets fixed: the widget icon chnges on its own into an ugly looking square, after the note has been edited. No longer an eye candy its meant to be."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1349046215993
+  authorId: "cid-lg:AOqpTOGqP08uS0Y6Jc3nYaA7jY_6kCr0DzhpRpnfTAGjUDg5FlSJPtaf2AgVJ2OnYyGNHubjU24RyMHAzIVn2e8"
+}
+comments {
+  text: "usefull"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1348995677257
+  authorId: "cid-lg:AOqpTOF6Poavuo25u_YRKUnS6ype5TDFwqT_YnYhVEIOVLsCmddewqe8K7oN62y5Bucc6CVhr7bpWiIxnwbOG0s"
+}
+comments {
+  text: "The notes stretched out and when I try to add the note to my screen they ask me to vote for Obama and it takes you to a register to vote page. UI."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1348830000186
+  authorId: "cid-lg:AOqpTOF170oMwqVmfBc0X0bNfwDzVP0e1OC1CGR8T_PdxwhDgGZ4KxWCkbJzA6QJzTL3UPHhW0FfXDMLv3DTTiw"
+}
+comments {
+  text: "If you are just looking for something classic and understated, then this is your app. I just wanted something simple, just to have to remind me, and this was PERFECT. No problems at all!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1348540759485
+  authorId: "cid-lg:AOqpTOFVjNNm0WdGbyRkhmMFBoECAT6Q8O1tZCOFsR1jZnQe2fjjWIuqTXRveE_6MdcgUpk8y11HgFA6R8DHo18"
+}
+comments {
+  text: "The best\tLike postaids"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1348504964614
+  authorId: "cid-lg:AOqpTOEMqNHkIhFF0o6HhmspVO4PE0M4L_3tcIWzwRuRiEUQ_0swq-XDIquAsET2nugOWJhsDOmfHQ9_jq13JzY"
+}
+comments {
+  text: "Samsung Galaxy S\tAwesome!!! And I\'m picky."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347970983951
+  authorId: "cid-lg:AOqpTOFFipRtCjZYJjZQCpM0TdJlUgyek88ZLgkF942eziEWT4-uEAT-iNLGAXpuJLxzmmjuQczyPIjpd7nf5k0"
+}
+comments {
+  text: "Useful!\tGreat for jotting down tram and bus times"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347853665892
+  authorId: "cid-lg:AOqpTOHteun-v8cu6Jen8B8aQSJ1p6S5q6_LGQ-IhtwimAUNqmI43yT75GgmYHuu_ytJLwqSjcpKvK0oRMqCgBk"
+}
+comments {
+  text: "Great\tVery nice ,  works perfectly well."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347853574307
+  authorId: "cid-lg:AOqpTOGvQE5qSIR2ZFRkhScm4CcMifiIP5Q1NBhFw4FkWEwiemZTgT5e7ssDGEZi_0XEpQ4-988ACb2nru7qya4"
+}
+comments {
+  text: "Great!!!!\tI love this app. Makes it easy to stay organized by color coding! No more forgetting my list at home, its always with me on my phone. Thanks :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347545858157
+  authorId: "cid-lg:AOqpTOEuDw9OAaPUiWdsXUWPpgkou50hIefDv3Zdv7yXWeoQe9ihG_g6RZ_0vVuZdcEbgv0YTGwHA8EFdjuoZmE"
+}
+comments {
+  text: "Too pixelated\tNot the widget but the app please update for xhi res graphics like nexus 7"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1347423343759
+  authorId: "cid-lg:AOqpTOF3ML8VldgDtAX_4OXvniTGzsSAMH5g0zqNj5aWGtlE34imONipNBimfnX2DpwZms_y1E0ZPmxu_bdYE6Y"
+}
+entriesCount: 1315
+
+comments {
+  text: "Works very well"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1347398138921
+  authorId: "cid-lg:AOqpTOFAFOF1tczmkg-5rfJRD93aKt-An14OojlJ1211Dc8e0ypFo6v-AY-Vlu4iEDFCSDIUT1shWP0dr-c4BdQ"
+}
+comments {
+  text: "INTERNET???\tWhy does it need internet access????????????????"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1346957421085
+  authorId: "cid-lg:AOqpTOEsXcqFg8kNHOD6qIyNuNudKJjYFz2qoTLmYd0kdwfXNahyBhlQfwSsFkFrrBlBgd1RoLUSZqAOlmKZO58"
+}
+comments {
+  text: "Simple to use\tLong press on screen. Select widgets. Select note (choose a size for the note). Type your note. (you can change the font size too) Click \"ok\". Note appears on your desktop. Can also drag it like a shortcut. Tap on the note to edit it. Wonderful app for quick notes!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1346855048060
+  authorId: "cid-lg:AOqpTOGV1Dv_ZtJeO1Atopv-Ojrf3DSmNTEilDHjKDWknNSoRywZ3BFm8pyrAKbzCA7lG2qex68wC0Pa-X05asc"
+}
+comments {
+  text: "I like it\tIt does what I need.  No errors. Just works."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1346772987038
+  authorId: "cid-lg:AOqpTOFVT5yMEatQAOHnJRWcfmInpk1pyQhnonBxjjdbPmzOilCz2ctFY8eR6_wdS3WnGApQ4Xs-xZgd_f4op0A"
+}
+comments {
+  text: "Great\tIf u want just a pure post it widget this is it. Not over done. Simple and perfect. Thanks. Just what I needed."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1346344806080
+  authorId: "cid-lg:AOqpTOFJmGGlAefO_cAt58Z6yAYgQLlwFLFAy1enMLpKKY6WCpN-PGVf_A9r-lMysXAJ_N0BYjrtMGFH885SrF0"
+}
+comments {
+  text: "Desk Purfik Notes\tOne liner notes with just a single line are possible with this. All others swamp the screen. Some aid memoir dont need to be huge. Wonderful"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1346240601884
+  authorId: "cid-lg:AOqpTOFNCQiZ4DbXEkmu8ypIn4r9Cvn-3FdBigC_3ea8DteIirucQhZL4fOTU4__6JW_oe8hsXGFhkH4xopR0gE"
+}
+comments {
+  text: "This is a widget not an app\tOK clicked on the app icon. Got the instructions. Followed the instructions and did not get the option to create a note. Don\'t work for me. Then thought I wonder if this is a widget. Opened the Widgets in ics and chose the size of post it I wanted on my desktop and it woks fine now. Could do with clearer instructions."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1346237782624
+  authorId: "cid-lg:AOqpTOH39kYIj6Idfn8z1mKWrcVkNaJmyiYclCxbLLUlnpAeFwFyD-RYUHEv9LRtPdDw3GWM-Kp_wHop6QycDcQ"
+}
+comments {
+  text: "Sloppy."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1345389702292
+  authorId: "cid-lg:AOqpTOGpzD0Biq_Vj9wb47YxYvUEMcIGr2bjmbjOlq1nAMSNIGdECGbuuF--nsJxTJI9CH-hBdzk4f1ldxpuQvI"
+}
+comments {
+  text: "Good app"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1345250732446
+  authorId: "cid-lg:AOqpTOE06l7O35l4mONb5qd-7T60Y5_mDeC0vnFXG_hckck-E0-w56_kLFV4UBUh8G6j8DH59m0HlL2bkSgan5A"
+}
+comments {
+  text: "need transperancy and\tcant see well when editing cause its askew and part of it is indarkness"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1345120509281
+  authorId: "cid-lg:AOqpTOFW_NoYsjx35uh9Cm-XF2OcQI_3An-nthHpOJGDmptZqi7vaRBgJk5MwmfQQ3eBF3iKh_P1Vw7dJ2qjM2U"
+}
+entriesCount: 1315
+
+comments {
+  text: "Good app,  start charging for it\tDude, this is a great little app and you should start making money with it.  Get rid of the ads and get your dollar, I\'ll pay it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1344912604728
+  authorId: "cid-lg:AOqpTOEpYddvCzfT83iYgAXs_fOrlqqB-wIzAZYh1wI6V91RvZ_Ni7OW1HruThId8xn8_xqqtyLya-TPxgeSv_k"
+}
+comments {
+  text: "Excellent\tIts great works perfectly & very useful."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343667391211
+  authorId: "cid-lg:AOqpTOFszEPEuZBQ62puoEwGeU-G-jIWdesvjL5_qW6KHWNoXh5rOchUJ7Kn7g2yfuYnkL7kCgbOQnk9eBPhN1k"
+}
+comments {
+  text: ":)\tMy favourite! Simple and effective..stays there for as long as u want and does not let u forget anything :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343499302710
+  authorId: "cid-lg:AOqpTOE6dOvFjf3LsebSNI5wu1JI7F2uz46tApPMns6M7cW6eZBd62vgjrQBSeaz-3KMm422juWRRVqFNi3aRww"
+}
+comments {
+  text: "This does not work I download it.and I opened it it tells.u.the instructions but the I prest the button and did nothing just DON\'T GET THE APP!!!!!!!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1343459343872
+  authorId: "cid-lg:AOqpTOFdm74a3GvPu2SJRFx30X08778LRlHSSMihNw1u20Lyr1zKGbGXpXP2ZUtrXRlnFLwiJhBYOQo0OKhE_sw"
+}
+comments {
+  text: "Infuse\tThe best note app so far"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1343315670105
+  authorId: "cid-lg:AOqpTOGZb5VYW_IM250XaiTI9Fc9j1-VS1oQbmtV5wLvzfmBSBuj2Dc4YNMk4Y5vScbUMjuch3SboYSlXa20OBo"
+}
+comments {
+  text: "Doesn\'t work on samsung galaxy 3\tDoesn\'t work on my samsung galaxy 3 which runs ice cream sandwich"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1342986287442
+  authorId: "cid-lg:AOqpTOE7-ANkXkuoBBYW3BI9sp9i4iRwvLbZK0jCKu2Xb9C5-MpLSsbTqql7spQt_ph89_W7Tg6XQMlO4R9zReU"
+}
+comments {
+  text: "Prelins\tNoe"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1342948542709
+  authorId: "cid-lg:AOqpTOGuZifZgq5BDq7br0wKT5NBefDAvIO1-6Vlw__-aABnst_Y8JMSqS6khcG-O6wbaakbe7gIkQnkrVHxOkQ"
+}
+comments {
+  text: "Perfection. Just lose the adds !"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1342927893937
+  authorId: "cid-lg:AOqpTOEns89AOY8ho9SAXWwYyIEODS99alNvyPJkb8r_WgcFCCH1gf0lmttNX5J8C07bp9Z1Re1hmgv17qouGlU"
+}
+comments {
+  text: "Best gadget note\tBest app i can find with gadget to directly modify without a lot of \"clicks\", however , would like to resize all gadgets"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1342694135962
+  authorId: "cid-lg:AOqpTOF79__iGo8GKQt-jEuMKc6NOspBj2iENj7hm866NwOTQc858x4EmY0ph3N-myLBdoMvit_6uoCYggxWXBA"
+}
+comments {
+  text: "Sticky noted\tVery handy to have as a reminder."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1342532844892
+  authorId: "cid-lg:AOqpTOHK3sCBVFz4pxu9TBor_lZPx-xvkIHC97NM9Ux31DAcfht9RJTi-V83zX-c99xj8dnQzQYZB_Y0ltrbn98"
+}
+entriesCount: 1315
+
+comments {
+  text: "Xperia s\tHandy app!! Just stick right on your home screen so you cant forget"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1342490310127
+  authorId: "cid-lg:AOqpTOHaGCA85Ue4V5Ii23JbFyR--O8vZkIwZY9n0Yz2_N0XNcYhGD8WoEAjhu0mcbx7FP2yn2Gbg6CFjanEPJ0"
+}
+comments {
+  text: "Great\tI\'ve have this app for 2 years and rely on it daily.  2 thumbs up!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1342476157404
+  authorId: "cid-lg:AOqpTOGqmJ7ZjF-lzp_JRJbJEj1l8cSNyjI_LladSMAcpggfXk6SS0EKXSP21rmdVTKteahFw7_b4FN87hA3HJk"
+}
+comments {
+  text: "good\tvery.nice i.like this app very.useful"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1342451179475
+  authorId: "cid-lg:AOqpTOHpyOpyScdYHq8T2uIIRHAR7CHmYG18nA7nmaJVfMYmc600rXHMm9A8UFn0pgOtltvyfp4m7bJ9aL84ffE"
+}
+comments {
+  text: "Sucks!!!!!!\tThis app sucks,no alarm, and its ugly? it looks werid on my phone atleast, a mytouch 4G... Try to get more colors,fonts,actual reminders maybie? DONT GET THIS APP IF U WANT HELP REMINDING THINGS!!"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1342405016197
+  authorId: "cid-lg:AOqpTOE8zUNrotVyf1A3RXhWY7eLyiqXuFd00ZR-jYreErr6U_vSQm_kJFaOtvrDU-smVXKVtPiNF-BGMQFCpKg"
+}
+comments {
+  text: "No widget. On ics"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1342360196932
+  authorId: "cid-lg:AOqpTOEt4Hc4IBBR3otLq-Mbc759DKFEO-_h1YAAdULCBvys4IyLpzg-X_7GbZfOAHyqtpg4v-ay4yvFnOb81CA"
+}
+comments {
+  text: "Asus Transformer TF101 fail\tDoesn\'t show up in my widgets list, which can\'t be accessed by long press."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1341891777008
+  authorId: "cid-lg:AOqpTOE0hkoYQvQ7AVhAftZ2Ucu7EP85fF0_qL-vt-XFSTNJ9weZrtZ7SflZO9CVMUscE06WFrq4QH049Blxnic"
+}
+comments {
+  text: "Best Best Best\tWithout question the best note app out there. I reset my phone and after went to download it again. I downloaded an app with an identical icon and wanted to kill someone thinking this one had changed for the worst. Luckily I searched again and discovered this one was still there. Thank \"god\"!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1341245311176
+  authorId: "cid-lg:AOqpTOHHJRwIhzYYhT-P6-Tp4xMN9rEtyWXus52pAnL927Vxdug1alt5gabd6AoZCHuPoPKWTVLKgx-_kbtkKUA"
+}
+comments {
+  text: "Awesome\tI use this app a lot :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340977663521
+  authorId: "cid-lg:AOqpTOEBpVhWbW3s7ifnBD4TRH3jeQCXN7xLzmaO3vbnQYN3v3FgyI45OXSAoP24g9CzPPeRCKodfC0e1QxXyvM"
+}
+comments {
+  text: "Even better than old version\tAwesome for quick notes! HTC Evo."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340417331784
+  authorId: "cid-lg:AOqpTOHJWWl4BX4tVuFe0jCCtAKceSmwiRVBYE_XE0DCDkumbcQdtBdDySdnVwwRJsCa0XL0ocECzwBY31XEV-Y"
+}
+comments {
+  text: "Works as I needed it\tJust downloaded and installed it today after reviewing some post notes apps out here. It works good as I intended to have: 1. Mine is Samsung Galaxy Nexus Google ICS 2. After install, the usage instruction is no longer valid to add a new note for ICS platform. Instead, what you need to do is to go to list of \"widgets\" in your smartphone. From here, you can find the installed app along with other widgets. Now, press on the Desk Note widget (large, medium, small) to create your new post note. 3. After create one, I can move the note around my main page. I can edit it and delete it.  Just as simple, easy to use and cool post-note as I needed it. I will have to see after 1 week use how it will behave. Thanks!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1340132991253
+  authorId: "cid-lg:AOqpTOHTPDEJ7rHDEZJpBrn3Jqstdl__plsVbkVWQcXoZ6Gy7UYSXFAsdBApXDHi5K6iSjkpBixeSgC6-OidLDM"
+}
+entriesCount: 1315
+
+comments {
+  text: "Workson my phone but...\tdoesnt work on my galaxy tab 10.1 :("
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1339983893174
+  authorId: "cid-lg:AOqpTOGcz5xFmAxHvP5G2-Oap1_Qqg2z_k1bAXdUzOrxT_Tm1SHzfGr8vEH7eRe0PxrDMtXzAoA3BTgXzv-FLUQ"
+}
+comments {
+  text: "Love!\tLove it for little reminders or friends leave cute messages"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1339562677529
+  authorId: "cid-lg:AOqpTOEKC4yzhbzjZnriXL5M4oi2CcjAd2TWCn5J9v0QdIsyp_Rm1mpMLCR_s1u-FiRbT1PkzKbztCS1ZnihjQM"
+}
+comments {
+  text: "Ugly!\tOversized note, weak font,  italic only. Immediate uninstall"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1339456498494
+  authorId: "cid-lg:AOqpTOE-8Dga1HU8t__pzUUXzKRPVjAoX4EIOQCH3WaissX_1gd6wLxZRfDSHvvmyLyEQIDHYV_1fP5om1jRJ2E"
+}
+comments {
+  text: "Does not open on G-Nex"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1338486076570
+  authorId: "cid-lg:AOqpTOE8zCGm3FZFpy9ZyG_KksWfRO8Ay3SYxfD18igC6GHiMUeRAcdBTPIaC4r_VUvlW4oWlqxFsqKYH0jsg4Y"
+}
+comments {
+  text: "Wonderful!\tI have been searching for a app like this. Finally this is exactly what im looking for. I only need to post certain notes to my homescreen."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1338474110089
+  authorId: "cid-lg:AOqpTOFwGnDRnleo6igrwvFPsd0SSXoEausXH-35nHEByRx-xViZFI_f-HceZsOys7d8AX5clppkDE9xX73C9T8"
+}
+comments {
+  text: "Spam\tAnother spam infested crap."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1338441262272
+  authorId: "cid-lg:AOqpTOHve2vOQuRBUwXoMTZJQfe19T1ds0iLyt70ea2QTKOkD94dU_k004eThxvwuKjeqMuuZYK_bazWE10DYpU"
+}
+comments {
+  text: "CRAP! .... I POST A NOTE AND THE NEXT DAY IT\'S GONE >:("
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1338298218100
+  authorId: "cid-lg:AOqpTOHmtUP8-XNVp2XaK9ocBMkb-NmXSBtMtAIkuArNDHCmMDRkBVWddLe-hqJlfXPbDxG-8tFwvFidmTtX2F8"
+}
+comments {
+  text: "Eh\tEh its not bad."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1337406824705
+  authorId: "cid-lg:AOqpTOEBVG09BKVBggOeak35XdUG4UVTjfIn3myXx-JUdSkPCM9W_EoCYqhQQPw8jSCNaKm0FlcSMrVn4Khfgz4"
+}
+comments {
+  text: "Finally!\tKISS! Just wanted to place a darn sticky note for a quick reminder! So thank you for making it so simple! :)"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1337284522153
+  authorId: "cid-lg:AOqpTOG3upPo3ZdFMhwwYal801VDxInosGOx-XD4U8wWt7OBeSMnIw1BlRVBYbhfUPjQafppHrMve2r4zYe6te8"
+}
+comments {
+  text: "Perfect.love this app.get it!!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336666011742
+  authorId: "cid-lg:AOqpTOFYh-mXplC7T3N60zSDcKelCw20bzANspkGVUnWGaFAvCV6CQElOkvve5A0LrZXiVuI_Qy5xtVp9d5EMqg"
+}
+entriesCount: 1315
+
+comments {
+  text: "Good,but\tI would to to see the text inclined with the widget, like how a real deal note would look like.."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1336645913234
+  authorId: "cid-lg:AOqpTOG0dvxKmyA7T7LXg5Pu34XgL70FIbWkGcaJsBNyUqp4fHL_5K773ETd5UDMH6JdM2W8e6qYjENDJVpRYK0"
+}
+comments {
+  text: "not going good\tIts an ok app not the best though. I have found other interesting apps like this one."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1336594443043
+  authorId: "cid-lg:AOqpTOFzH03g8Cd8ew0qxQG2ODDc5g4zUr6eBHmKQYc_5yTSZJbJXxbLEr2Mw_KeUjItOVUcLbTDcFOuQEnbZ9k"
+}
+comments {
+  text: "Almost perfect\tWould be a five if it had a draw tool."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1336568345429
+  authorId: "cid-lg:AOqpTOGiLMIw__p12Uva7FZB7nJ3nKYt-zgINyT6uwBoehWhhc2xniE2E-epsZIm-bAL91Rk52MPLJTuAKjy6UY"
+}
+comments {
+  text: "Nice notes\tSo simple but beautifully. Nice one."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336480346967
+  authorId: "cid-lg:AOqpTOFo7nABXi9aBh3wmqgt6k6HgbIJ5KxkPOZEP3ONPJzpbzaa2pGBZ3Tw86JfbwNzJBdhTqhqJT4Aqr4Ffws"
+}
+comments {
+  text: "Awsomeeee\tJust what i wanne it its not and alarm duh just to let u guys know"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336377386472
+  authorId: "cid-lg:AOqpTOE1BxfNd87vurQEW61XhIKvSGlTDwxBmcKF3CraYfp2IhQBcFwaZchS275BVt1mhtt1gaSXdMAcHX7BWHY"
+}
+comments {
+  text: "Looks like a great app BUT\tUnfortunately I could not open it with my Galaxy Nexus running ICS."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1336226393967
+  authorId: "cid-lg:AOqpTOGDdOshSaKJt9HzrBr90iSLQwK4PI1E0H7E3sdxYltkJVFh-wR7Iz94UBSHovYv-O8JocAZ5PwLcHwU6qU"
+}
+comments {
+  text: "Great\tFabulous!!! Help reminding me"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336207617533
+  authorId: "cid-lg:AOqpTOHiL3tP28Lwu6VSDTJkockrqa89DUKxj5Cbmc-e5NVL20O7BZGfKmygCUKelIzy_Abgy-rgsAC_4uJZraM"
+}
+comments {
+  text: "H\303\271ng\tVery simple, but satisfies my needs!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1336051030516
+  authorId: "cid-lg:AOqpTOEtgTmQt7Dl9aJcycG_4449JLRrVzNz9KB4gLnKnuMnUhdAlfgfhrXmET_GdyO8L2pnVVJZy-jA58Haat8"
+}
+comments {
+  text: "Work\tSave money"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1335543816442
+  authorId: "cid-lg:AOqpTOGy1D6_I-fKOYA8RM33t66KokphIZi7jecv_euOLwq-81oU4a_hCDcyJ6vTgUr-oo_YHgGETeKdtuyU3X0"
+}
+comments {
+  text: "good app\tdifferent font type wud be good otherwise brilliant easy 2 use than other app i hat downloaded"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1335530212157
+  authorId: "cid-lg:AOqpTOFimEv_YYkU0pNaqNITbJJYKsvN5Z0uLdcwqHzJrGg3dzJ9__JRlGoRZesOIlsfkoxy0Xhucg04TDf8SBk"
+}
+entriesCount: 1315
+
+comments {
+  text: "G\t:)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1335343259914
+  authorId: "cid-lg:AOqpTOHszRVn4pLdcmmQJfsu9RpeHeld-ATuu_Cs_VXtk-h8V7mJcH5f3Z23Fm1uxco-b7cz5moDHwvdq0hh7Jk"
+}
+comments {
+  text: ":-)\tAwesome :-)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334538185120
+  authorId: "cid-lg:AOqpTOEujcELxOQC_k3RkI7fMDAVdQ3qxZhTulPzt6qwDJlqH873VnczlrxZKzoEoiouZoKi_bYDJJ6yVM5aXHc"
+}
+comments {
+  text: "Notes\tGood but can\'t change note color"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1334520938584
+  authorId: "cid-lg:AOqpTOFzUiNm3Lmsi0KDZ361aMXhIQS1D5Admv4XODtMelliuNVQ-HwMoufykL2qGbQOsgBh3yRF3ZHuvi4ZYnI"
+}
+comments {
+  text: "Yocce\tLike.iT"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1334375778337
+  authorId: "cid-lg:AOqpTOFzyZsocok9HQsqireKH6U27YJG5MZ3eTpXxGx6AL83u82y1JPW4SA9CKgsutB95-tMZ1LoE8GZoz5HZB4"
+}
+comments {
+  text: "Desk notes\tThis app.is just what I needed. I also wondered why this was so far down on the list of choices. I wanted a note to attach on my home screen."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1334260743446
+  authorId: "cid-lg:AOqpTOELt-WH4HHDTuZ2wCnMHn8kJYLAbKbYu5g46X02fKCSlhXW6z8X5jLvRTocpi2oOV6hXrjPdp_lpAOYP6k"
+}
+comments {
+  text: "Good app\tIts a good app but color note has checklist wich is what I need..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1333919502749
+  authorId: "cid-lg:AOqpTOEu6ofRJ9fPNtxW0e_9KeE5C73DbY6LrfU8IrS63d-n2mXKHlf9Jn9iYiQM7Pe_p8pIZGWF6Km3ODubAAc"
+}
+comments {
+  text: "Simple & easy. Works great. Just wish there were more colors to choose from. Motorola i1."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1333296095694
+  authorId: "cid-lg:AOqpTOEoWaVPMaIQ9H14AjIMnh7kc93rryVSGCENAts4ky_aMkf7Y2oJqda2CWpLoty1cFoiJqo1VY_i2Zw3IVA"
+}
+comments {
+  text: "Good and Usefull, although some what disfunctional...\tGreat way to.store important reminders, shopping lists, etc, etc, etc.  Although, once the notes are posted, it\'s impossible to modify the notes in any way, where you might want to list; a part achievement, information alterations, etc, etc, etc.  Sony Ericsson Arc..."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1332925257342
+  authorId: "cid-lg:AOqpTOFHzJWMe28LipV4Y8ZKdUrbYT08y2Sve3O13cGmUDIUikTstD0BZ3zSIwiON1JubP-7MYkkGmmSz4ZRNs0"
+}
+comments {
+  text: "Brilliant app\tsimple and effective"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1332243312242
+  authorId: "cid-lg:AOqpTOHJFp1XPNUB7nfw8p4yu4ACL_U989VexKO7uBkLwhdjrNWqHlQaSGWXpZIzAmSNz93GX33He3vXNMamxos"
+}
+comments {
+  text: "6 stars\tMost helpful app I have, so many uses"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1331447517444
+  authorId: "cid-lg:AOqpTOGVS0-t2uqcDjO-puANoJrRqFLvq0qyaXfudrYJ4hte-GSjyeqX-gemGGHCo5lYx3Cz_ADCRt9hBX0e9x0"
+}
+entriesCount: 1315
+
+comments {
+  text: "Room for improvement\tBrilliantly simple, but bad UI when editing (hidden OK button) and no text reflow or auto-capitalization make it look a tad less professional"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1331404955584
+  authorId: "cid-lg:AOqpTOEFErgfVv8ZWdqkOfWp2sxOhDgGeFzU3hSb_nNGrkUz6-etEozgDkS-Gynsxte0NiDCYll_4GIUspLhc5I"
+}
+comments {
+  text: "All I do is write write on thease 5 stars for me *****"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1331366754350
+  authorId: "cid-lg:AOqpTOFSc6ihy7FqwdqPkuB1TP9tn_7jweH9FpgvSCQ4IMMjuo7X3k1hhzyvXnN4fyRKwJE7BgqeuQ55Oy4xCu4"
+}
+comments {
+  text: "Simple, great\tWas looking for a simple post it style widget for my home page,  loads of overly complicated OTT ones on here, this one is quick simple and effective. Can\'t believe its so far down the \"top free apps\" rankings!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1331265136283
+  authorId: "cid-lg:AOqpTOH8sR_QwOdOfxFxIdoM8BTuifMRZh3OCr2xoJmpxvoypVxCw2_Gg13PXovQmu8ls9Q_ZEnZ2SpYevEWEdA"
+}
+comments {
+  text: "Simple and best\tSimple and best. Does what its meant to do."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1331040376666
+  authorId: "cid-lg:AOqpTOFUVfkR1SpTWEuOy6YjCDMvG_FQ8yA6MEkyGYehjtw0oLFQ4TqNisZEP6lY2yT-f_KeX-ILZXiM7DVHWD0"
+}
+comments {
+  text: "Muy buena y sencilla"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1330786370264
+  authorId: "cid-lg:AOqpTOGxkPflQEMBQSLWo9C5prWzkiogAHfp29891ibdYe7fR87fSUUtOgiwJ9vbxh-l2aBR5xtarXTPUAMJV4U"
+}
+comments {
+  text: "Just what I needed!\tI tried some of the other sticky note apps and found them to be overly complicated and the archive systems weren\'t very polished. But this app is simple and easy to use."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1330434074967
+  authorId: "cid-lg:AOqpTOFNN4bbFgtRaKMXVayZCY5WhRz7t_LqIE3msJcp0BfVwn_p2I8tKAe3fXg3G1v4qajTxPt0WtlIsk1eZfM"
+}
+comments {
+  text: "Simple and functional."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1330155133339
+  authorId: "cid-lg:AOqpTOGrbYBdYa-Nivzf1hmKZmHoUj_CACrqJqboD798wP7gDPilLZvaA39SlQVBEh6fyMp_xhHxb2Iilq8dkcw"
+}
+comments {
+  text: "Great helped me get my life back on track"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1329881729333
+  authorId: "cid-lg:AOqpTOGZ1q0MdoWQ0E8mFYFvLIUwAJaFU1xv_gvRMJDui4ELfvCive8fhtF7nY22gVfTacINN5n4XWPPXz3F2-s"
+}
+comments {
+  text: "Post-it Pleasing App\tI have tons of crap to remember, and there\'s shopping lists for a huge family. This app helps me remember it all."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1329325921023
+  authorId: "cid-lg:AOqpTOEwVNc8DDsdfr0wcDyLMcO8rD5DzeaE-erxpCtCOZ2URsavIyOPCNc_ewyE17kSQOKuI_jYOXILOMnQ_GA"
+}
+comments {
+  text: "Test\tTests"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1328800497270
+  authorId: "cid-lg:AOqpTOG7xUzhU2bv-8tJCm8BJjjQtjbnlLo5GF6hD4KQgOXmsAAoJfyJnBxd4ZgNcw89JRAWCRU4ihqTC0yHIFM"
+}
+entriesCount: 1315
+
+comments {
+  text: "Like it\tBut not enough to keep it. Wished it was a regular font instead of italics. Very dummy-proof tho!"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1328411493557
+  authorId: "cid-lg:AOqpTOGQem7JGEQp2mR5YWQRuvHDF44k3Yh6Muv0D0Z-ltRYPvnpdJpbCacP3Z2LBq2mMSveN49F1epTEVO589A"
+}
+comments {
+  text: "Good\tLike the app! But can you put as an option, text input by points (tasks) and check boxes beside the notes? Then will be easier to know which task is done. I hope you understand \"my\" english. :-) All the best!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1327970085483
+  authorId: "cid-lg:AOqpTOEWJt_J6wh52B2FMOUy1tQV6uxlPCLtcpxNCclT1cSJfpvVAn3sKRkzp8EwIZboBdMYGRqg0NonSOpsam8"
+}
+comments {
+  text: "Awesome\tBest sticky note app. U can change note color, font color, and font size. No problems. To put note on ur home screen tap add widgets and select small, medium, or large"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1327498172865
+  authorId: "cid-lg:AOqpTOHF8kZ6ENTi0-TqEkw9eZMnvgdTy75TsF4I9HKOEO4iW1iCvhO1JTjGsLnTgYZUKWDvkFp1gm0cTTgKiYA"
+}
+comments {
+  text: "Perfect.\tGalaxy Nexus"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1327272694647
+  authorId: "cid-lg:AOqpTOGWieoqxVKSkshV6XEnKEfGJzZTAy72i6I7DiP6qCfJ7Rx5QgJP0RfQdenHCzYx0x4IOGp-F10Nk4_vmfQ"
+}
+comments {
+  text: "simple and usefull\tits a lovely notepad no need for color options"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1326958380309
+  authorId: "cid-lg:AOqpTOEMhGqqUUFaXowXaoRo9mKiIGLMNGULv2fhurZ6OepFEvfuqh3JdBjYELjyaUuvD3GF9Y_9d_ZIbop87R8"
+}
+comments {
+  text: "Nice app\tI like this app, however I wish there were more note color choices (lighter colors), as well as note sizes."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1326734507179
+  authorId: "cid-lg:AOqpTOEObLgIqItRLnz9YLUOs8STMsuohd92qpRzNL-499mzwRPNP1TqgAK89KjPRhctnc7OJ7nlkWqwPdNpjA4"
+}
+comments {
+  text: "Awesome\tJust what I need."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1326475936725
+  authorId: "cid-lg:AOqpTOGhjU1HkA22xSKZKTmx8ToN9gSU4qCDWrdVagUzG-ccBKTv288x2F_ahP5DOsYJim0KerCeqzuVCC9NLBc"
+}
+comments {
+  text: ";)\tBeautiful!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1326464580349
+  authorId: "cid-lg:AOqpTOG66ASZDYTd-UbwyABf7VO5Cgg7ObzRoqenAd23vOGUa4Sby_-WuyBqD-hYXqjxH8uOSr-JCW2veP61tQg"
+}
+comments {
+  text: "Perfect\tPerfect and just what I need. I always have something to get now I put it on this and I never forget. Thank you"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1326378226931
+  authorId: "cid-lg:AOqpTOG6zSNL2ix1fPCUGD0cb5FSPRq-Hqe_hOCFVejcLprnwYr8VIunL6AeqvtwC2EpIjwU4aleqjHXBm9uucw"
+}
+comments {
+  text: "Desk Notes"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1325803003191
+  authorId: "cid-lg:AOqpTOFGvBd5NRjYgZujtnNwCMPBr1JM47-7gZ98LcKlMb1X1ruM8wGroEWx8ruQWd7RM23FslSwkdJR9_UozyE"
+}
+entriesCount: 1315
+
+comments {
+  text: "I love it"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1325729696369
+  authorId: "cid-lg:AOqpTOFWs3y2Gz3XZLr42meTDq0lNh_tf3ouS93LZ-aWQudWmAEHGBdKXu8D7_eVa_UDdqHEdGJzB0goGK1-B2E"
+}
+comments {
+  text: "Functional and you can edit the note anytime. Love it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1325546195290
+  authorId: "cid-lg:AOqpTOF1KmmdLHi_zJlaS4vUZaQ_drWPeuYfZJ8Ylluf4gqNrqPy9v1y860mTxAARdk9VcH8-Dx2mk2C2fVrS-s"
+}
+comments {
+  text: "Great\tApp"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1325501883620
+  authorId: "cid-lg:AOqpTOFONp56nmBjyBeEnAXNXXXUYN0jzsMIIYKAHqzbasBC6gbZpL8fBoILCbnYd50e2BW5XUd45PX3uT9Ihxw"
+}
+comments {
+  text: "Samsung Nexus\tDoesn\'t work on GN"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1325001229996
+  authorId: "cid-lg:AOqpTOF_GXqSaEhrMRs-RNWPrwOS5x4uvdb9WkhoHJCicFy0o9HT3JR24_i8_MaWJs6zUMBKSimu-yevRiWt9PU"
+}
+comments {
+  text: "Ice Cream Sandwich problem\tLow resolution on Android 4.0. Problem solved placing anyDensity to true in Manifest."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1323816968812
+  authorId: "cid-lg:AOqpTOFYOX39J4eEcqPnwm1XZSHGA_spmz1kOlF5CF6dvazCtwAmBXiuBvRny3O9t9ZNbKzdGo7FLAVmu_n_wHY"
+}
+comments {
+  text: "It\'s working but..\tBut the ratio seems awkward when I choose small sized widget. SGTP1000"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1323393313481
+  authorId: "cid-lg:AOqpTOHT7A9bHe3Av3SPutSxCxc3sb9S-r1LNbfaFpPTScAelPYUPwRv4KFkTvwLOcusO3yyudSASVPU190G9M4"
+}
+comments {
+  text: "Best Note Widget\tBy far the best post it note widget ever! Easy, clear, and cool looking. Different sizes, colors and fonts. My favorite!!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1323280214687
+  authorId: "cid-lg:AOqpTOExOnoPSWQgYg8e1sAM6nt5s55lwo0Ig8BibWd7bQHyhqik5WD03cpnGmNaleRexp8-8i2uqryBPfFiQoc"
+}
+comments {
+  text: "Finally\tFound one I can attach a note to my home screen :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1323196016819
+  authorId: "cid-lg:AOqpTOHNOn0jR6HzETPF5d8JBameOmyoYrOqbgqpVOiyDUqLPtuisLRc-k0xgD1JuM0oY6xoIiy-Uxc7F6usRzA"
+}
+comments {
+  text: "Perfect! Simple and quick\tThis is just what I wanted.  I figured it out in 5 seconds.  Just tap and jot notes, quick editing, good visibility, nothing complicated. Cool."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1322721672993
+  authorId: "cid-lg:AOqpTOEWAebjwfsSC-6H5aWeDG8XA-eLi2Zqd_RGRyTcfI_KuUI-PUMwALcECe9jidnnydWRaJcchBI6JDamL50"
+}
+comments {
+  text: "*@wesome*\tLame! Uninstall!!!:-("
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1322548756416
+  authorId: "cid-lg:AOqpTOFf8oiktg3AQZuACuVkxsFBTqvVmiblheEpI2qvPVJ2wMNocZWvBIxUjbCcXdvoWNQnBS5-5elwlTC0eRM"
+}
+entriesCount: 1315
+
+comments {
+  text: "Help please?\tIt says \'first long tap on the screen\', when I do this the only option that comes up is for wallpaper (Using Galaxy nexus).  Thanks"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1322492271362
+  authorId: "cid-lg:AOqpTOEvNoBjCky88EDm4s-qgEFzk_iAw85372Nunfj80SN-voW9nQDc3suZwrjy4lYfx5uK6z3dN2k2PJSP1DU"
+}
+comments {
+  text: "Can\'t complain\tDoes what it says. Handy to have installed if I ever need to remind of something. There are different coloured notes to choose from too. Great."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1321851051457
+  authorId: "cid-lg:AOqpTOFGf4bOUGftxtFl99ZNnatAF7QtYJpinfsyGRlwANjAS9aTYGx7x8qBzwAQS9fLcOi7_kB-veD8-4Y_MII"
+}
+comments {
+  text: "Cant putt colors !!! ):<"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1321725297077
+  authorId: "cid-lg:AOqpTOEsARPvyz34Gbc-sC5pTKKISF1N5PVDD-apDUlzRrXzEfJkgvozvO-Iz3yMW-GUR-Tu9YLJiMUfZKpZTco"
+}
+comments {
+  text: "So cool\tDon\'t know why it was so hard to find a smallish app that let me see notes on my homescreen, but it was. This one even looks nice!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1321376492152
+  authorId: "cid-lg:AOqpTOFXqF9hA_5VJkvh6_CRXTSWI4PSxIqrJnRm1p3Z9UNYiQt3uHF5DEefDuetJMIF6IkTC5Ou9fuGboAg9BI"
+}
+comments {
+  text: "Nice app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1320806191398
+  authorId: "cid-lg:AOqpTOHaiN2J4ZK0h-t3eUt3KILuN68wXHTRA4EDNMc55vGxLPJ1TpB4o84vX1KnVw6LASkszlEeiodXj2Qe67k"
+}
+comments {
+  text: "Thanks\tAwesome apply 5 stars"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1320706576832
+  authorId: "cid-lg:AOqpTOEqohq7ReaqPO7OAowEthljwrUSpsrwaNV1AdwB0VK3-CGUjSkItLXfWLOKMP9Ra8ZzF-lZixKeOg0KBZQ"
+}
+comments {
+  text: "Dell streak 5\tVery light, very easy to use"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1320651072412
+  authorId: "cid-lg:AOqpTOEYgrbFyMe53o9tHa7ZFwS98LglFovtGUTLIAxVpDe5PPWemMOp_hFOOERfFKDYoDzazGgPE6yEr7qm9IA"
+}
+comments {
+  text: "Good\tGood"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1319725192423
+  authorId: "cid-lg:AOqpTOG5CyacEkKKmuFhdvMmFFvrLz6j-WRqi-Qx6qwFuV_570ledcfAxYugZlJ-djSoTHBr1lUZ7XtfGMeCWng"
+}
+comments {
+  text: "Look and works great\tEasy to use and effective!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1319665149734
+  authorId: "cid-lg:AOqpTOFOjNzX1fpxny5-yD5sNs45xcng7cjgbnKYoM0Qd9A64Q-yrm0Py_GAzdCwRgkMl4N9xoOY_1qKYm5j2RE"
+}
+comments {
+  text: "Looks nice\tEasy to use and looks good on the homescreen"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1318766421242
+  authorId: "cid-lg:AOqpTOFArK5l1G2z6WE2QiH6-fuzP8ndrOMNzE5TpRfyY0fHVNbEukrx0ddL6qXZ00rnJJXWENLRl3bfESKUSF4"
+}
+entriesCount: 1315
+
+comments {
+  text: "Not many options but does the job"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1317020712957
+  authorId: "cid-lg:AOqpTOGQ1Zl73RhTEPkX4RPAuN-elZpUNCog54I3khNaBn6ZjIb1DoVnnvbzN8QTwuj5679Jc4dJBBFgqlK7-r0"
+}
+comments {
+  text: "Luv it. Simple yet effective. Luv the color options"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1316597806436
+  authorId: "cid-lg:AOqpTOHCN185NK_8VWQ9IlS_hNPFj0k38mooIfeK9zd79UIftXtWq9kUj9Hjot-8Za4XQkSDGV3udTPgS9Zgtok"
+}
+comments {
+  text: "I\'ve lost my important notes! :-(\tImportant content from 2 of my 4 widges dissapear from day to day! So 2 of them are empty now & i\'ve lost my important notes! :-( Colour of all 4 have changed to default yellow..."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1316597494226
+  authorId: "cid-lg:AOqpTOH4Vr7_OZU7AMNPCTTWA3G-HFyiV9f8kdg4LQvT14fGu1_PRJC_SeisboHVM2uM14sxIHLGNx1vny2NJLU"
+}
+comments {
+  text: "Great widget. use it mostly for remembering little things."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1316536145266
+  authorId: "cid-lg:AOqpTOFE-x0O7iu7RURNJKIG78h0G9fQPwSuXYq0VEqOOUF_itQZWcKKYlGg6Cb8m02I3TWRaPfnnYcxh4kHajU"
+}
+comments {
+  text: "Nice app with good looks to keep a track of your scribbles, but could\'ve given options for more fonts, background color."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1315619166284
+  authorId: "cid-lg:AOqpTOEcDBaWSt7BBFrjnu9C_QA54NRRxZywOS9HPyOcxxdVbfqBXqizgjRH4sDzZjtn8LTaiyU223YGx32OdbA"
+}
+comments {
+  text: "Simple and clean!\tSimple, low tech, usefull! Love it!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1314949793153
+  authorId: "cid-lg:AOqpTOF94456T0w0rxCyWsBpNlHzoCw1qO3zq5gMa2l0qQTWlh9Wdz9Euys85N1arTGUw5EPWQH-gInG6uQM01A"
+}
+comments {
+  text: "Best note system by far"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1314930989925
+  authorId: "cid-lg:AOqpTOE1kgUzbk3QRG03cHUfMlJSZatGkxKA3Qaa6KlXj2P0mHPOlDA6UCF27av4YtiiOWSsTSjo2vxV3o3ye48"
+}
+comments {
+  text: "StufFS\tIt is very easy to use and great. Really save time."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1314310337685
+  authorId: "cid-lg:AOqpTOHf9D0MpOPDNX8NTNttBN59obDWHvAV2Eef6W6JFL3hzTmA9kvTOBFmkcq5bTCkPKrcT_GSSXL65NppE-o"
+}
+comments {
+  text: "Good.\tDefinitely works better than youtube."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1314022350087
+  authorId: "cid-lg:AOqpTOHzhCwbR5pMLmUurcgMfh_2vM2fia_ESrztqu2OFpMypgOetGqx9Pz4qtqVNpvCT8SpK_sJx6ZPTvwVvQc"
+}
+comments {
+  text: "ITS AWESOME !, can put it on my front screen so i can see it :) awesome range of colours aswell !"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1313928440163
+  authorId: "cid-lg:AOqpTOGByDxdICTeURsiqzMkxpNpB37RfG4QCyLXO5hOxKxWsibIhK8a9cyTF8Hc24YpIq6LNmHTbkHuVo9CyQk"
+}
+entriesCount: 1315
+
+comments {
+  text: "I have bad memory so I use this for events, appointments, and for a grocery list. Very simple but one of my most used items on my phone.Must have!:-)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1313868982560
+  authorId: "cid-lg:AOqpTOGd-JEo1M0PAF27ji5FaDYfsMCpk66FAX2pIt5wJiOY_AUwRbjw0I9-p1giDvUtLiwy6nl_6442Pg-cKzs"
+}
+comments {
+  text: "Wow\tReally cool app love it its amazing"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1313655228501
+  authorId: "cid-lg:AOqpTOEhxrvPIoGEfSCagi34QNjun4A0IrsAV33fC1--Q1iaajZPhUgdWf7OcsjjHuq7S2vs-fnKVFPT38b1his"
+}
+comments {
+  text: "Cool...\t...Tool."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1312819825935
+  authorId: "cid-lg:AOqpTOHzKehoYJ_MoE8E8afQ-g2IuyJyIaS28C9oMjS4qqIx2HduLNdeosiQCHU6Ha5jfcA0OhhRYgXgf1SVhuc"
+}
+comments {
+  text: "I wish you could center the large widget. Other than that I love the app!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1312740024076
+  authorId: "cid-lg:AOqpTOGIrMdIqglgEbseILYD44wD7TXQzBQXd2DcQCaPAT36zs-VeQ_oIf5Yy1CK1piI5GmWlquqk1_qHRzS9XA"
+}
+comments {
+  text: "Love it! Love how you can adjust the size of the note and font. MyTouch 3G Slide."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1312522631896
+  authorId: "cid-lg:AOqpTOGenASc9g7pwTeNffmfMMCFU-T8e_DnSKA1bblteBWnG1jsiTGi1M23s23qzsc9Lo7QSKmz6nl7wMjwjDg"
+}
+comments {
+  text: "Easy to use. Works just like a \"sticky note\" for short notes to self. Samsung Acclaim"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1312494963685
+  authorId: "cid-lg:AOqpTOEo4pQi30uEglQfH1nMjzDwovCGjxsDoIJBSIlAI1itRX-5XAMM5wf04HRbybOWnGGV4--tiUz-skv9Ieo"
+}
+comments {
+  text: "Pretty useful apk. Works great! Waiting for updates. Such as sync with internal phone calendar. Good job! Keep going!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1312386009823
+  authorId: "cid-lg:AOqpTOF2NOGehqLHnn6Ykk65ShaVIgYTCuCoreWeN2RKHSRPwXVlx2O8KBSN3a2uvnfciXc34q51QwfxVpIokqc"
+}
+comments {
+  text: "(HTC) Incredible. Excellent! Exactly what I was looking for!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1312343372226
+  authorId: "cid-lg:AOqpTOEBy-69i4SBK4I8RkuGF_a6zPpooTLLynz1pP_B0nJMsJ_BM0s3nYSmUav3tcvnt7gkmyzQz7NITc5PqRY"
+}
+comments {
+  text: "Like it but never any update notes. Big time fail."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1312323310266
+  authorId: "cid-lg:AOqpTOGRnbt_7DM2cEGgMjd_kdBjhJAbmTXiNpiJoQIHxnA7E59zNUTYv8BvrJ1mH8kdZ7AL6IONELrPTyzdVx0"
+}
+comments {
+  text: "Totally needed this app. Galaxy Tab."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1312319746925
+  authorId: "cid-lg:AOqpTOEHvIE6_go0dLIQbh8tViVzHXcJcQqWsk7_6GbnWF59iiwObHXEbDLaUCNQrJj5S4ZKfU_0htLfXaOmRWI"
+}
+entriesCount: 1315
+
+comments {
+  text: "Very easy n nice but uninstalling cause of limited bg colors"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1312076234120
+  authorId: "cid-lg:AOqpTOExuSDyjXYg5BshwVZWP2l8ecXHAvkCTH-EWt-ih3h7hPu47BRXyOhaBLvwk5WTITFYvi5XtZiYpV-G-fk"
+}
+comments {
+  text: "Brilliant wee app. Use it every day.. install !!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1311879507802
+  authorId: "cid-lg:AOqpTOH7sOLnFr3r4f2ADxqwo1wIQ5BjiNqwges0vsiSTUlpg99otCnC8PiGpMwovHaMpBKWgSjKOAanIeZk25k"
+}
+comments {
+  text: "The notes appear on the home screen like magic."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1311257233137
+  authorId: "cid-lg:AOqpTOEuB7FQwonneEYjKRrUMR3CTd09XreLo_C1RxZsGWfyhVH6CFW_WAJWCEN8Q5KJKNsmoTc4EIQKD7bVTLw"
+}
+comments {
+  text: "Good app...I use it a lot. Maybe update to more colors :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1311183869592
+  authorId: "cid-lg:AOqpTOE3HelqQiwd9lCgzYwGVlXfR4v8BoBb3KBoKjr7B7XaN08SjBHqvHj0PWmJ_Ps5yrVp0EqNZ3S6vIE9xcM"
+}
+comments {
+  text: "Good but needs alot of improvment dont uninstall"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1311181670906
+  authorId: "cid-lg:AOqpTOGbGTSDpDUbVFFnvZKvepg7P8ozAypYX1Y9p0cpw_Z-b0w-f1Y_0aQ4_QDvt1iytwUQkGEI47NfURSamDM"
+}
+comments {
+  text: "This app is a must for me. Very handy. I love that you can choose different sizes of notes too."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1311126999322
+  authorId: "cid-lg:AOqpTOHYIKBz216MJzF7ydyKyUbA5BF_WVuaAdbQhkNj76w9W5Kg9GQ6qjyXTVIDL21EMp0i3Pc7hAv0rGEOeUk"
+}
+comments {
+  text: "good job"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1310657786627
+  authorId: "cid-lg:AOqpTOErZmD7eLtiu6cpnBjCQkl52yzZduMCTxRlcr7wb6Qb3yTYAuqFHl1FPikyRgPQSCUCr5dyj7jR6iea8ZE"
+}
+comments {
+  text: "There are better like Note Board"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1310571912774
+  authorId: "cid-lg:AOqpTOHvM6irEktU-vpg3O29NXAUcjv-TkR02Yn9CF11eX7h_EDtu1lJv2w0S-R-D7SJSw7h6XMnmMj-t_VXcSY"
+}
+comments {
+  text: "Is no one else\'s widget displaying text on a straight line against a crooked background image?"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1309751866185
+  authorId: "cid-lg:AOqpTOGwPkOcArf2eKCJZtYmRd-xBnIAZAn9UXOmInmMBIDCiVskjiYoGG8thVYOx46A3w8oRaE99LAnvYsQ2iw"
+}
+comments {
+  text: "Font & color change, press that 4 square icon on your phone"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1309246728785
+  authorId: "cid-lg:AOqpTOHfBlf_HBIHX9DYSU46_KOcS1Yr8zz4AnXRFVGWBv5QI9EZU1hp6abs0DHR9kyyLHiCifFA3QgN_7lRxMs"
+}
+entriesCount: 1315
+
+comments {
+  text: "So simple & effective. Love it."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1309174169554
+  authorId: "cid-lg:AOqpTOG-3jl5h3x5bExLec-U8Y0vippYJtWJTuhTG_fAUDoKx5YX55AsmP_khVg_4q6kKYzbzYt5eJk31o-_w18"
+}
+comments {
+  text: "Perfect app"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1309122866601
+  authorId: "cid-lg:AOqpTOHpEC7lGB9t9TA_6WxwUW1_qvJNVl9yAuPQb43ps0l_-Jdapw2b_VODFAOvaQYZ_6aPfAXZ6NzMKRcg-r0"
+}
+comments {
+  text: "Cute app, but can\'t actually change the font colour as stated...would be 4* with that since its hard to read black on some of the background colours"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1309068255213
+  authorId: "cid-lg:AOqpTOEDK7UNVp5AW-fLBXPhC7a_4AR3qWff7TpvCZVk_GMvvYjVSLd7br1N3z-cW4al6HnW0qsdPrieZwDTx7A"
+}
+comments {
+  text: "Crap app. Lost everything on update. Look for another... this one sucks"
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1308607090946
+  authorId: "cid-lg:AOqpTOECEVHx6Hksp-ujoanLxr5bhJNjJbpeFIBKNpvkPeTAth-jxzVIK18D3xJMxMmtZ5eb9vWpWiK9kgC5A0M"
+}
+comments {
+  text: "Simple.just what i needed"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1308556335764
+  authorId: "cid-lg:AOqpTOHPgmvUdQkvff-eprdz5vl-WTc21IdNMsVMh36pntvVc3MEqf-2H_WhtyhZV1BNfXftQbx7nJia3COTIrg"
+}
+comments {
+  text: "Works great, perfect for shopping lists, important events....everything"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1308379548247
+  authorId: "cid-lg:AOqpTOF1M2Mw7tK-LC4PqEbTbwHDbWVqv0QNDFPv3DfpinGdyx2XfvS3clnGZvkZhHiBjDkOkjnmffgqWWTki64"
+}
+comments {
+  text: "Has potential, doesn\'t work well for me\tLooks good, interface is simple, but the displayed note widgets don\'t refresh for me for a long time (hours!) and are uneditable until they refresh. Dev didn\'t respond to message about it. Xperia Arc."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1307839023353
+  authorId: "cid-lg:AOqpTOH04WesVw1MUp1qacnSDooy6i9nXtlFDDdPsqdE16auTQndGfySVI4C-tafMMjnfx9qoJnUSienbL2JkSo"
+}
+comments {
+  text: "Its not expandable. Looks cute though."
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1307689057403
+  authorId: "cid-lg:AOqpTOHX-eK6ezcOPfvKuQj3xmK5LLTPMdFXYuWMlBIxAhOrLe63QY1KHniPrkZi6bpzdjNtgPQkxpOMOkkeWsQ"
+}
+comments {
+  text: "Simple to use but when I.updated it lost all of my notes! I can\'t get those notes back."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1307545132291
+  authorId: "cid-lg:AOqpTOE-pMBntt0euUl1WHwtnB2zJN9EgkcUv13J7iiHVcYNX6HQOgE4ZqhZ7LAZyNt75EbgM2lt0k78Ie3Shik"
+}
+comments {
+  text: "Love it! So simple to use! Droid2"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1307530498869
+  authorId: "cid-lg:AOqpTOEvxkZa8IW_UqteS7Eo43bm1pqC6kBBgDQ6hwo6JiMJVH_B3Lmip5QYoseNcu2eCWbIeiSXn0vjS64u9v4"
+}
+entriesCount: 1315
+
+comments {
+  text: "Widgets don\'t work\tSeems like a good app, but I can\'t get the widgets to appear as an option on my Droid 1."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1306983704968
+  authorId: "cid-lg:AOqpTOGSX_JkcJbgxGhPT1SRnoJDJZGI_veNB1bJiZv5EWop4qTlX6JZgLBzNGzRk64TrIdwaHd33p7mAl8XVSo"
+}
+comments {
+  text: "Works great. Nexus s"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1306809073179
+  authorId: "cid-lg:AOqpTOGZ-X9t7WwDlhP8RjdEMO14UTrJvJmCHQwquYRGnyGNxkN7_RLX0NikB1lf_GA11RolaseZdq6mxSavPis"
+}
+comments {
+  text: "tried umpteen note apps. this one behaves best. but please ditch the italic font find subtler colors. gd wrk..."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1306729992756
+  authorId: "cid-lg:AOqpTOGUSuLCUiJK1fD5DeqfRmiGq0mnOqf9c5Ww9QUJyQc2acgmF1ADhU2vuKMcYr85cOACtp7ADcFgQk6xBMA"
+}
+comments {
+  text: "Perfect for when I forget things"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1306603085320
+  authorId: "cid-lg:AOqpTOG4MHTolOluwaW0ZprUfh3-pxx1YouHvr6prcdXfBiqGFOXGpA8dVWmpijw4YxT5J4tAJh9uTmc-DIFaWM"
+}
+comments {
+  text: "Looks great, but far too many steps involved in generating a note. Should b a simple, 1 button press."
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1306468905867
+  authorId: "cid-lg:AOqpTOEYyrpvySJK85uk7Dgi-WkUe5ntt4B6mWqbormicG8YRoSa43TQTrrhY1NS4UsYBDyI255Au4JmJy3wfnQ"
+}
+comments {
+  text: "5 stars. Simple. Fast. Easy to use. And the notes look really nice on my home screen. Others where OK too but this is the one I had in mind. :)"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1306291151693
+  authorId: "cid-lg:AOqpTOECvNE7L-GSHklH1I6Fnt9ptALB9OQUaZGaYqVb0iq4vSR6FBe0RLJbfmwr_Cu6LKxyGrTwu8LmHCggigI"
+}
+comments {
+  text: "Easy to use. Very effective. I like the sizing and color options. Great app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1306158741030
+  authorId: "cid-lg:AOqpTOF8tQUunZFUiFqcg_FQ-DQfI9q4IgPLcJ6xVEANdV-hNyh8Fxsl7YVPF9rGGoEHBbwNe_3AqnfZ75NeYJM"
+}
+comments {
+  text: "I wish the medium notes were longer to fill four squares or maybe scrollable for more info, other than that good app, works as expected... Htc evo"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1305861385921
+  authorId: "cid-lg:AOqpTOHz5wVQqb4liwP89ABEP_U3J43Htbsg5OB8BhG8Pt4l5oO9RCl9qsupprKwu6Qn8isrTKRW3OUblrsGF00"
+}
+comments {
+  text: "Very nice! The size options are very considerate and it looks very tidy on my homescreen."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1305815663013
+  authorId: "cid-lg:AOqpTOFrxhHyOqNbvtjAR-ebcs4yxWFsQ9jYzZVQuwUui1_m4KccEpMCQFdIyBm2qAlIY6Whx2NSBZbwL0pLogg"
+}
+comments {
+  text: "Simple but not user friendly"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1305659413915
+  authorId: "cid-lg:AOqpTOFOeOl-AALyV4YI98GSAr209Tx73d6d34NtH-m4E3Ql01ntr8-f59cWhLRiN_-t0Pt48YinXk2iFMs5LVs"
+}
+entriesCount: 1315
+
+comments {
+  text: "Probably one of the better attempts but widgets have to much wasted space around them. Could be the same size but use less room around them"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1305569227788
+  authorId: "cid-lg:AOqpTOE7bPQqOuAgaBQZWGy1nt1LyeVMrk-TNdxXFxNHe1SpB-yzZNFRubdSE_hfV4RBaz0Wddk29DrUt2kzZqE"
+}
+comments {
+  text: "everybody needs this!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1305486630858
+  authorId: "cid-lg:AOqpTOE9Bh9QB-HzCO0zNDph-vz0AfmuCA3VwaelxChAhVRPQwrk7MPRs_0ao9RvOOGs35eM9yxoZF_6D-iqzzU"
+}
+comments {
+  text: "Very useful app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1305403471568
+  authorId: "cid-lg:AOqpTOFeYpxsWQcEsA7raA5GjGOcY-wgAt6fo4iATf9AqqqsKhqQpkriRmeZn4lbMMcf3-k_gemk0iTPqzI_kbA"
+}
+comments {
+  text: "Perfect for my requirements. :-) Just 1 request please include an option to convert a small note into a big one and vice versa."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1305185080556
+  authorId: "cid-lg:AOqpTOEqyKo48jFMN_vjaNCs7MtK9UwtOA-ZwUUoaoklIt1eCnHPcimbBuydhBXyX1_T1GpO4WeZqSkC1BMrocM"
+}
+comments {
+  text: "Not very good"
+  rating: 3
+  authorName: "A Google User"
+  creationTime: 1305136209886
+  authorId: "cid-lg:AOqpTOGJqvOihJ17xVCa4nYu5E31ibiPZYiwJd_7siQO_22tIdUP6TN7mvBFIOkGgb64ybCO8-zrzF6YPMpQBQo"
+}
+comments {
+  text: "Post-it should b this simple. Everything\'s gd except that small sized ones look sooo squashed."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1305042919161
+  authorId: "cid-lg:AOqpTOE3tezVTSFNROZogwJKwLJe6z8N7jmC2b-MLc2xwrEfy79SXych40olM_CR65lzQEOeNALwuhYhoJi9SrA"
+}
+comments {
+  text: "Font is annoyingly missaligned with thw pad"
+  rating: 2
+  authorName: "A Google User"
+  creationTime: 1305013008281
+  authorId: "cid-lg:AOqpTOG7yo2c5nNsEhyX8TI27qYRIIenTVWoaZWy6AQsJ2RNN3ogJjrCl7_Ojwo19TBhT_GvnzEOhkWsoantPK0"
+}
+comments {
+  text: "nice app, very handy."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1304932659454
+  authorId: "cid-lg:AOqpTOGtnev75haVyvlee4f7dMcH-DOHNcrvcQGVH5Zlb600YucWut3IkB2xQh_8xMitlYmZ8fkB6H6EvQbgIkc"
+}
+comments {
+  text: "Nice looking app...small note is distorted, though. Captivate."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1304460443372
+  authorId: "cid-lg:AOqpTOH6M9IxSvp6NSze0uzxVL0YRnbn0YH4bw1xPVV-YhiJJsCW6f_8uQZPoLUcbI-9OMDMpjJ6HSJ7TGJHMAc"
+}
+comments {
+  text: "simple and easy to use, nice looking"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1304430460327
+  authorId: "cid-lg:AOqpTOHF-MOyh_pKzEUZa_SRweCOaFmI6zJZtw2UZmKafQASxpdi-aZXz6RzNl_tyVpPcXofKRiABN9ULm9s7vk"
+}
+entriesCount: 1315
+
+comments {
+  text: "Simple to use; exactly what I was looking for!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1304313845173
+  authorId: "cid-lg:AOqpTOFzkSbPqIcYMR5wXu1qC7OzeUuhDop0FU4FO-EDncLIPv5zujRRcboWuqvG-iFe2A_gXz6NXOALHMhaysw"
+}
+comments {
+  text: "Exactly what I was looking for!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1304133587640
+  authorId: "cid-lg:AOqpTOFr3qB0JmTShJU4UJlRvAMkkKgwzGfHHvw5tJCa20JHcm-PoyRCYBy9KwOzD4EVHr9Li__UywJWves-Ir4"
+}
+comments {
+  text: "Finally in the market again. The best post-it widgets for android!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1304115486051
+  authorId: "cid-lg:AOqpTOHE2bYMkrFqAI4c8n7QkmWKuFXHokxcGBcZTvLMSYsezOAMefPFahMK6kyhH5aTQn7afTQiPzZmDEzMySQ"
+}
+comments {
+  text: "Great app."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1304040649385
+  authorId: "cid-lg:AOqpTOE9dGqLGzK2oPfGY8Kb3bwg_SXPbTVuj6cn-j2UXPr1gbU65LBXR4AAeoRC0t5KCVtaK5qlEV5R6qcVvZA"
+}
+comments {
+  text: "Beautifully simple. But I would love to see more background colors for the stickies\342\200\224some are slightly too bright to read."
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1303615228501
+  authorId: "cid-lg:AOqpTOFZp2Dcrkxuwl6DheCNyJ6CqHsAoWcMws5Vj2iGRw3LUXpe6yhMM8hCIq-x5yhScN502oTGdTnI8EGU_Z8"
+}
+comments {
+  text: "The simplest and easiest notes widget I could find. The best one for my needs! Not for those who like lots of customization though."
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1303433664378
+  authorId: "cid-lg:AOqpTOGDrkYOLRPv3P3dSf2YMVIkDvxtXMBlB8tuDLQuWcnmdpZYO5PwvDSDwNuZzrO35zLsAekbSNsofZXoF_Q"
+}
+comments {
+  text: "By far the best! MT4G"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1301367181860
+  authorId: "cid-lg:AOqpTOErS_IArp-LMTVTYAdhC0Pk7fDJD8CBPConN0AzsDff-IGVtnMQv9M1NeYXcigTAkqJRiwMLooGvDAGaaY"
+}
+comments {
+  text: "Had to switch phones and was disappointed when I couldn\'t find the app @ first, so glad I finally found it!!!"
+  rating: 4
+  authorName: "A Google User"
+  creationTime: 1301180807267
+  authorId: "cid-lg:AOqpTOGWXL5bUgwwMaOmxNsSvOnsgS7oVRb3bXohwsJZyZ1rQQNivnlBZRGPz2BX8lOD7CHsAEEREuZmzjl5cPg"
+}
+comments {
+  text: "Utter guff."
+  rating: 1
+  authorName: "A Google User"
+  creationTime: 1300543811749
+  authorId: "cid-lg:AOqpTOHHBwe2GvUckpb1RaeoIYpBDrh_46B3KS_vufYyJ2O_Wkfi7tzkKkVwO58ZjBxdc13xNM-fgE3Qc22COtw"
+}
+comments {
+  text: "Yeah! I found you again (formally known as Post It Desk). This is the best and simplest post it widget!"
+  rating: 5
+  authorName: "A Google User"
+  creationTime: 1300340089938
+  authorId: "cid-lg:AOqpTOEsh8GlYMJYQcCa8DwQwwKCFIGd2uNPfKH_xk7WRMGRoDLEUl022lLuEzgMQwFR9tNOsSjcHTwmXiRdnYY"
+}
+entriesCount: 1315
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
+entriesCount: 340
+
