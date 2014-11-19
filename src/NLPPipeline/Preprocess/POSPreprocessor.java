@@ -20,16 +20,24 @@ public class POSPreprocessor {
 	static PrintStream p;
 
 	public static void generatePOSTags(String appName) throws Exception {
-
+		
 		String prePosFile = (Parameters.POS_DIR + "/" + appName + "-prepos.txt")
 				//.replace(" ", "\\ ").replace("(", "\\(").replace(")", "\\)");
 		;
+		
+		String arkFile = (Parameters.POS_DIR + "/" + appName + "-ark.txt")
+				//.replace(" ", "\\ ").replace("(", "\\(").replace(")", "\\)")
+				;
+		
 		String posFile = (Parameters.POS_DIR + "/" + appName + "-pos.txt")
 				//.replace(" ", "\\ ").replace("(", "\\(").replace(")", "\\)")
 				;
-		p.println("cat '" + prePosFile + "' | python " + Parameters.TWITTER_NLP
-				+ "/python/ner/extractEntities2.py --pos --chunk >>'" + posFile + "'");
-
+		p.println("'" + Parameters.LIBS
+				+ "/runTagger.sh' --output-format conll '" + prePosFile + "' >'" + arkFile + "'");
+		//System.out.println("'" + Parameters.LIBS
+		//		+ "/runTagger.sh' --output-format conll '" + prePosFile + "' >'" + arkFile + "'");
+		p.println("python '" + Parameters.LIBS + "/getPOSFile.py' '" + arkFile + "' '" + posFile + "'");
+		//System.out.println("python '" + Parameters.LIBS + "/getPOSFile.py' '" + arkFile + "' '" + posFile + "'");
 	}
 
 	public static void preprocessForPOS(String appName) throws Exception {

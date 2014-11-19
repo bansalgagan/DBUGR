@@ -3,5 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="libs/ark-tweet-nlp-0.3.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/btech/cs1110081/Desktop/NLP_PROJECT/DBUGR/libs/protobuf-java-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/btech/cs1110081/Desktop/NLP_PROJECT/DBUGR/libs/androidmarketapi-0.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

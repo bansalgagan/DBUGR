@@ -131,14 +131,14 @@ public class SentiLexicon {
 	
 	public static void main(String [] args) throws IOException {
 		
-		SentiLexicon sentiwordnet = new SentiLexicon("data/SentiWordNet_3.0.0_20130122.txt");
-		/*
-		 * Examples of Senti Lexicon Usage
+		SentiLexicon sentiwordnet = new SentiLexicon("data/lexicons/SentiWordNet_3.0.0_20130122.txt");
+		
+		//  Examples of Senti Lexicon Usage
 		System.out.println("good#a "+sentiwordnet.extract("good", "a"));
 		System.out.println("bad#a "+sentiwordnet.extract("bad", "a"));
 		System.out.println("blue#a "+sentiwordnet.extract("blue", "a"));
 		System.out.println("blue#n "+sentiwordnet.extract("blue", "n"));
-		*/
+
 	}
 }
 

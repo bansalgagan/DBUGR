@@ -1,14 +1,10 @@
 package NLPPipeline;
 
-import java.net.URL;
 import java.io.File;
 import java.io.PrintStream;
 import java.io.FileOutputStream;
-import java.io.FileNotFoundException;
 import java.io.FileInputStream;
 import java.util.Scanner;
-import com.gc.android.market.api.*;
-import com.gc.android.market.api.model.*;
 import com.gc.android.market.api.MarketSession;
 import com.gc.android.market.api.MarketSession.Callback;
 import com.gc.android.market.api.model.Market.App;
