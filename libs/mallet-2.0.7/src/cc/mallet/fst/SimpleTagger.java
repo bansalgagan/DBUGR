@@ -682,6 +682,11 @@ public class SimpleTagger
               }
               System.out.println(buf.toString());
             }
+            double logScore = new SumLatticeDefault(crf,input,outputs[0]).getTotalWeight();
+            double logZ = new SumLatticeDefault(crf,input).getTotalWeight();
+            double prob = Math.exp(logScore - logZ);
+
+            System.out.println("Score: " + prob);
             System.out.println();
           }
         }

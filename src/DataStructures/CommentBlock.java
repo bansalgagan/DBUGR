@@ -13,6 +13,8 @@ public class CommentBlock {
 	private String timestamp;
 	private List<String> posEmph;
 	private List<String> posText;
+	private List<String> labelEmph;
+	private List<String> labelText;
 	
 	public CommentBlock() {
 		emph = "";
@@ -23,7 +25,8 @@ public class CommentBlock {
 		setTimestamp("");
 		setPosEmph(new ArrayList<String>());
 		setPosText(new ArrayList<String>());
-		
+		setLabelEmph(new ArrayList<String>());
+		setLabelText(new ArrayList<String>());
 	}
 	
 	public String getEmph(){
@@ -105,5 +108,28 @@ public class CommentBlock {
 
 	public void setPosText(List<String> posText) {
 		this.posText = posText;
-	}	
+	}
+
+	public List<String> getLabelEmph() {
+		return labelEmph;
+	}
+
+	public void setLabelEmph(List<String> labelEmph) {
+		this.labelEmph = labelEmph;
+	}
+
+	public List<String> getLabelText() {
+		return labelText;
+	}
+
+	public void setLabelText(List<String> labelText) {
+		this.labelText = labelText;
+	}
+	
+	public boolean isLabelled(){
+		if(this.getLabelEmph().size() < this.getTokensEmph().size())
+			return false;
+		else
+			return true;
+	}
 }

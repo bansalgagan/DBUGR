@@ -20,6 +20,9 @@ public class DataLabeller {
 		String labelInstruction = "BUG -> B, DEVICE -> D, FEATURE -> F, OS -> A, NEG -> N, POS -> P, OTHER -> O";
 		Scanner userScanner = new Scanner(System.in);
 		for (CommentBlock cb : comments.getCommentList()) {
+			if(comments.getCommentList().indexOf(cb) < 15)
+				continue;
+			
 			System.out.println(labelInstruction);
 
 			System.out.println("Comment-> " + cb.getEmph());
