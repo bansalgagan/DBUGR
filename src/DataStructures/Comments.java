@@ -25,46 +25,49 @@ public class Comments {
 
 	public Comments(String appName) {
 		parseCommentFile(appName);
-		//parsePOSFile(appName);
 	}
-	
+
 	/**
-	 * Stores the POS from Twokenizer in the comments 
+	 * Stores the POS from Twokenizer in the comments
+	 * 
 	 * @param appName
 	 */
 
-	private void parsePOSFile(String appName) {
+	public void parsePOSFile(String appName) {
 		String posFile = Parameters.POS_DIR + "/" + appName + "-pos.txt";
 		try {
 			FileInputStream fstream = new FileInputStream(posFile);
 			Scanner s = new Scanner(fstream);
-			int i=0;
-			while(s.hasNext()){
+			int i = 0;
+			while (s.hasNext()) {
 				String emphLine = s.nextLine();
 				String textLine = s.nextLine();
 				List<String> posEmph = new ArrayList<String>();
 				List<String> posText = new ArrayList<String>();
 				String[] tempPOSEmph = emphLine.split(" ");
 				String[] tempPOSText = textLine.split(" ");
-				
-				//e.g. It/O/PRP/B-NP
-				for(String str: tempPOSEmph){
+
+				// e.g. It/O/PRP/B-NP
+				for (String str : tempPOSEmph) {
 					String[] posSplit = str.split("/");
 					posEmph.add(posSplit[2]);
 				}
-				
-				for(String str: tempPOSText){
+
+				for (String str : tempPOSText) {
 					String[] posSplit = str.split("/");
 					posText.add(posSplit[2]);
 				}
-				if(comBlocks.get(i).getTokensEmph().size() != posEmph.size() || comBlocks.get(i).getTokensText().size() != posText.size()){
-					System.err.println("Error wrong number of tokens and pos tags");
+				if (comBlocks.get(i).getTokensEmph().size() != posEmph.size()
+						|| comBlocks.get(i).getTokensText().size() != posText
+								.size()) {
+					System.err
+							.println("Error wrong number of tokens and pos tags");
 					System.exit(0);
 				}
-				
+
 				comBlocks.get(i).setPosEmph(posEmph);
 				comBlocks.get(i).setPosText(posText);
-				
+
 				i++;
 			}
 			s.close();
@@ -72,7 +75,7 @@ public class Comments {
 			System.err.println("Warning: cannot find pos file for: " + appName);
 			return;
 		}
-		
+
 	}
 
 	public static void main(String[] args) throws Exception {
@@ -82,7 +85,8 @@ public class Comments {
 	}
 
 	private void parseCommentFile(String appName) {
-		String commentFile = Parameters.RAW_COMMENT_DIR + "/"+appName+"-raw-comments.txt";
+		String commentFile = Parameters.RAW_COMMENT_DIR + "/" + appName
+				+ "-raw-comments.txt";
 		BufferedReader br = null;
 		try {
 			br = new BufferedReader(new FileReader(commentFile));
@@ -176,11 +180,45 @@ public class Comments {
 		// remove comment blocks with very short length
 		if ((cblock.getTokensText().size() + cblock.getTokensEmph().size()) < Parameters.MINTOKENS)
 			return null;
-		
-		if(cblock.getRating() >= 3)
+
+		if (cblock.getRating() >= 3)
 			return null;
 
 		return cblock;
+	}
+
+	public void readInLabels(String appName) throws Exception {
+		String labelFile = Parameters.LABEL_DIR + "/" + appName + "-label.txt";
+		FileInputStream fstream = new FileInputStream(labelFile);
+		Scanner s = new Scanner(fstream);
+		int comNum = 0;
+		for (CommentBlock c : this.getCommentList()) {
+			System.out.println("Read " + comNum++);
+			if (!s.hasNext())
+				break;
+			String line = s.nextLine();
+			if (!line.isEmpty()) {
+				String[] arr = line.split(" ");
+				List<String> labelsEmph = new ArrayList<String>();
+				for (int i = 0; i < arr.length; i++)
+					labelsEmph.add(arr[i].charAt(arr[i].length() - 1) + "");
+				c.setLabelEmph(labelsEmph);
+			}
+			else{
+				c.setLabelEmph(new ArrayList<String>());
+			}
+			assert c.getLabelEmph().size() == c.getTokensEmph().size();
+
+			line = s.nextLine();
+			assert line!=null;
+			String[] arr = line.split(" ");
+			List<String> labelsText = new ArrayList<String>();
+			for (int i = 0; i < arr.length; i++)
+				labelsText.add(arr[i].charAt(arr[i].length() - 1) + "");
+			c.setLabelText(labelsText);
+			assert c.getTokensText().size() == c.getLabelText().size();
+		}
+		s.close();
 	}
 
 }

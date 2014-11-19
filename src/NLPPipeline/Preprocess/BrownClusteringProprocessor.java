@@ -15,9 +15,7 @@ public class BrownClusteringProprocessor {
 	static PrintStream p;
 
 	public static void preprocessForBrown(String appName){
-		String appFileName = Parameters.RAW_COMMENT_DIR + "/" + appName
-				+ "-raw-comments.txt";
-		Comments appComments = new Comments(appFileName);
+		Comments appComments = new Comments(appName);
 		System.out.println("Num comments: " + appComments.getCommentList().size());
 		for (CommentBlock c : appComments.getCommentList()) {
 			List<String> emphTkns = c.getTokensEmph();
@@ -47,7 +45,7 @@ public class BrownClusteringProprocessor {
 		p = new PrintStream(ostream);
 
 		for (String appName : Parameters.APPS) {
-			//appName = "Antarctic Adventure Free";
+			appName = "ASTRO File Manager with Cloud";
 			System.out.println("Doing " + appName);
 			p.println("echo Doing '" + appName + "'");
 			try {
@@ -57,7 +55,7 @@ public class BrownClusteringProprocessor {
 				System.out.println("\nNot done: " + appName);
 				continue;
 			}
-			//break;
+			break;
 		}
 
 		p.close();

@@ -1,4 +1,4 @@
-package NLPPipeline.Preprocess;
+package NLPPipeline.Preprocess.mallet;
 
 import java.io.FileOutputStream;
 import java.io.PrintStream;
