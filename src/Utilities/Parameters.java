@@ -10,6 +10,7 @@ public class Parameters {
 	public static final String BROWN_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/brown";
 	public final static String MALLET_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/mallet";
 	public final static String POS_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/POS";
+	public final static String ACT_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/act";
 
 	/**
 	 * libs
