@@ -124,5 +124,12 @@ public class CommentBlock {
 
 	public void setLabelText(List<String> labelText) {
 		this.labelText = labelText;
-	}	
+	}
+	
+	public boolean isLabelled(){
+		if(this.getLabelEmph().size() < this.getTokensEmph().size())
+			return false;
+		else
+			return true;
+	}
 }
