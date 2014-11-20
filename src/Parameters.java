@@ -5,14 +5,21 @@ public class Parameters {
 	/**
 	 * data
 	 */
-
+<<<<<<< HEAD
 	public final static String HEAD_PATH = "/home/btech/cs1110081/Desktop/NLP_PROJECT/DBUGR/";
 	public final static String RAW_COMMENT_DIR = HEAD_PATH + "data/raw-comments";
 	public static final String LABEL_DIR = HEAD_PATH + "data/labels";
 	public static final String BROWN_DIR = HEAD_PATH + "data/brown";
 	public final static String MALLET_DIR = HEAD_PATH + "data/mallet";
 	public final static String POS_DIR = HEAD_PATH + "data/POS";
-
+=======
+	public final static String RAW_COMMENT_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/raw-comments";
+	public static final String LABEL_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/labels";
+	public static final String BROWN_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/brown";
+	public final static String MALLET_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/mallet";
+	public final static String POS_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/POS";
+	public final static String ACT_DIR = "/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/data/act";
+>>>>>>> a81d7cad01c18b6a263215f7ab88e0ae81947686
 
 	/**
 	 * libs
