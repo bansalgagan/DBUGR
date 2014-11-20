@@ -2,9 +2,11 @@ package NLPPipeline.Preprocess;
 
 import java.io.FileOutputStream;
 import java.io.PrintStream;
+import java.util.List;
 
 import DataStructures.CommentBlock;
 import DataStructures.Comments;
+import NLPPipeline.ActiveCoTraining;
 import Utilities.Parameters;
 
 /**
@@ -48,6 +50,9 @@ public class POSPreprocessor {
 
 		for (CommentBlock c : appComments.getCommentList()) {
 			
+			if (c.getTokensEmph().size()==0)
+				p1.println("START");
+
 			for(int i=0; i < c.getTokensEmph().size(); i++){
 				if(i== c.getTokensEmph().size()-1)
 					p1.println(c.getTokensEmph().get(i));
@@ -55,23 +60,26 @@ public class POSPreprocessor {
 					p1.print(c.getTokensEmph().get(i) + " ");
 			}
 			
+			if (c.getTokensText().size()==0)
+				p1.println("START");
+			
 			for(int i=0; i < c.getTokensText().size(); i++){
 				if(i== c.getTokensText().size()-1)
 					p1.println(c.getTokensText().get(i));
 				else
 					p1.print(c.getTokensText().get(i) + " ");
 			}
+			
 		}
 
 		p1.close();
 		generatePOSTags(appName);
 	}
-
-	public static void main(String[] args) throws Exception {
+	
+	public static void generatePOSScript() throws Exception {
 		ostream = new FileOutputStream("src/scripts/generatePOS.sh");
 		p = new PrintStream(ostream);
 		p.println("#!/bin/bash");
-		p.println("export TWITTER_NLP=" + Parameters.TWITTER_NLP);
 		for (String appName : Parameters.APPS) {
 			System.out.println("Doing " + appName);
 			p.println("echo Doing '" + appName + "'");
@@ -86,5 +94,9 @@ public class POSPreprocessor {
 		}
 		p.close();
 	}
-
+	
+	public static void main(String[] args) throws Exception {
+		generatePOSScript();
+		ActiveCoTraining.executeCommand("bash " + Parameters.HPATH + "src/scripts/generatePOS.sh");
+	}
 }

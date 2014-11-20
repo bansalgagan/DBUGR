@@ -36,7 +36,7 @@ public class FeatureFactory {
 	
 	
 	
-	static void test(CommentBlock testCBlock, List<Boolean> features) throws IOException{
+	static List<String> testEmph(CommentBlock testCBlock, List<Boolean> features) throws IOException{
 		
 		POS = features.get(0);
 		CASE = features.get(1);
@@ -47,14 +47,30 @@ public class FeatureFactory {
 		SENTIMENT = features.get(6);
 		
 		
-		List<String> POS_tags;
+		List<String> POS_tags = testCBlock.getPosEmph();
 		List<String> testEmphTokens = testCBlock.getTokensEmph();
 		List<String> testEmphFeatures = getFeatures(testEmphTokens, POS_tags);
 		
+		return testEmphFeatures;
+	}
+	
+	
+static List<String> testText(CommentBlock testCBlock, List<Boolean> features) throws IOException{
+		
+		POS = features.get(0);
+		CASE = features.get(1);
+		PREV_NEXT = features.get(2);
+		TECHI = features.get(3);
+		OS = features.get(4);
+		PHONE = features.get(5);
+		SENTIMENT = features.get(6);
+		
+		
+		List<String> POS_tags = testCBlock.getPosText();
 		List<String> testTextTokens = testCBlock.getTokensText();
 		List<String> testTextFeatures = getFeatures(testTextTokens, POS_tags);
-		
-		
+
+		return testTextFeatures;
 	}
 	
 	public static List<String> getFeatures(List<String> testCommentTokens, List<String> POS_tags) throws IOException {
@@ -92,7 +108,7 @@ public class FeatureFactory {
 				if (i != testCommentTokens.size()-1)
 					featureTokens[i] = featureTokens[i] + " " + testCommentTokens.get(i+1);				
 			}			
-			System.out.println(featureTokens[i] + "\n");
+//			System.out.println(featureTokens[i] + "\n");
 		}	
 		return Arrays.asList(featureTokens);
 	}
@@ -161,12 +177,12 @@ public class FeatureFactory {
 		
 		String[] testComment = {"This", "is", "a", "NEXUS", "sucks", "blue", "comment"};
 		char[] POS_tags = {'A', 'V', 'D', 'N', 'V', 'A', 'N'};
-		CommentBlock cblock = null;
+		CommentBlock cblock = new CommentBlock();
 		cblock.setText("This is a NEXUS sucks blue comment");
 		List<String> cblock_tokens = Arrays.asList("This", "is", "a", "NEXUS", "sucks", "blue", "comment");
 		cblock.setTokensText(cblock_tokens);
 		List<Boolean> features = Arrays.asList(true, true, true, true, true, true, true);
-		test(cblock, features);
+		testText (cblock, features);
 
 	}
 

@@ -186,6 +186,41 @@ public class Comments {
 
 		return cblock;
 	}
+	
+	
+	public void readInPOS(String appName) throws Exception {
+		String labelFile = Parameters.POS_DIR + "/" + appName + "-pos.txt";
+		FileInputStream fstream = new FileInputStream(labelFile);
+		Scanner s = new Scanner(fstream);
+		int comNum = 0;
+		for (CommentBlock c : this.getCommentList()) {
+			//System.out.println("Read " + comNum++);
+			if (!s.hasNext())
+				break;
+			String line = s.nextLine();
+			if (!line.isEmpty()) {
+				String[] arr = line.split(" ");
+				List<String> labelsEmph = new ArrayList<String>();
+				for (int i = 0; i < arr.length; i++)
+					labelsEmph.add(arr[i].charAt(arr[i].length() - 1) + "");
+				c.setPosEmph(labelsEmph);
+			}
+			else{
+				c.setPosEmph(new ArrayList<String>());
+			}
+			assert c.getPosEmph().size() == c.getTokensEmph().size();
+
+			line = s.nextLine();
+			assert line!=null;
+			String[] arr = line.split(" ");
+			List<String> labelsText = new ArrayList<String>();
+			for (int i = 0; i < arr.length; i++)
+				labelsText.add(arr[i].charAt(arr[i].length() - 1) + "");
+			c.setPosText(labelsText);
+			assert c.getTokensText().size() == c.getPosText().size();
+		}
+		s.close();
+	}
 
 	public void readInLabels(String appName) throws Exception {
 		String labelFile = Parameters.LABEL_DIR + "/" + appName + "-label.txt";
@@ -204,9 +239,7 @@ public class Comments {
 					labelsEmph.add(arr[i].charAt(arr[i].length() - 1) + "");
 				c.setLabelEmph(labelsEmph);
 			}
-			else{
-				c.setLabelEmph(new ArrayList<String>());
-			}
+			
 			assert c.getLabelEmph().size() == c.getTokensEmph().size();
 
 			line = s.nextLine();
@@ -216,6 +249,9 @@ public class Comments {
 			for (int i = 0; i < arr.length; i++)
 				labelsText.add(arr[i].charAt(arr[i].length() - 1) + "");
 			c.setLabelText(labelsText);
+			
+			c.setLabelled(true);
+			
 			assert c.getTokensText().size() == c.getLabelText().size();
 		}
 		s.close();

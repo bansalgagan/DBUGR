@@ -15,6 +15,7 @@ public class CommentBlock {
 	private List<String> posText;
 	private List<String> labelEmph;
 	private List<String> labelText;
+	private boolean isLabelled;
 	
 	public CommentBlock() {
 		emph = "";
@@ -27,6 +28,7 @@ public class CommentBlock {
 		setPosText(new ArrayList<String>());
 		setLabelEmph(new ArrayList<String>());
 		setLabelText(new ArrayList<String>());
+		setLabelled(false);
 	}
 	
 	public String getEmph(){
@@ -126,10 +128,12 @@ public class CommentBlock {
 		this.labelText = labelText;
 	}
 	
-	public boolean isLabelled(){
-		if(this.getLabelEmph().size() < this.getTokensEmph().size())
-			return false;
-		else
-			return true;
+	public void setLabelled(boolean isLabelled) {
+		this.isLabelled = isLabelled;
+	}
+
+	public boolean getLabelled() {
+		
+		return this.isLabelled;
 	}
 }

@@ -12,13 +12,16 @@ for line in lines:
 	tokens = line.split()
 
 	if (len(tokens) > 0):
-		comment = comment + tokens[0] + "/" + tokens[1] + " "
+		if (tokens[0] == "START"):
+			comment = ''
+		else:
+			comment = comment + tokens[0] + "/" + tokens[1] + " "
 	else:
 		output.append(comment)
 		comment = ''
 ARK_file.close()
 
-output_file = open(sys.argv[2], "a")
+output_file = open(sys.argv[2], "w")
 for output_line in output:
 	output_file.write(output_line[0:-1] + "\n")
 output_file.close()

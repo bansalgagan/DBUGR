@@ -1,4 +1,5 @@
 package NLPPipeline;
+import NLPPipeline.Preprocess.*;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -7,6 +8,7 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -16,19 +18,17 @@ import java.util.Scanner;
 import DataStructures.CommentBlock;
 import DataStructures.Comments;
 import Utilities.Parameters;
-
+import NLPPipeline.Preprocess.mallet.*;
 public class ActiveCoTraining {
 	public static final int N = 1;
 	public static final int neg = 10;
 	public static final int pos = 10;
 
-	public static void test() {
+	public static void test1() throws Exception {
 		for (String appName : Parameters.APPS) {
-			try {
+			
 				act(appName);
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
+			
 			break;
 		}
 	}
@@ -36,19 +36,23 @@ public class ActiveCoTraining {
 	private static void act(String appName) throws Exception {
 
 		Comments comments = new Comments(appName);
+		comments.readInLabels(appName);
+		comments.readInPOS(appName);
+		
 		long seed = System.nanoTime();
-		Collections.shuffle((List<CommentBlock>) comments, new Random(seed));
+		//Collections.shuffle(comments.getCommentList(), new Random(seed));
 
 		comments.readInLabels(appName);
 		List<CommentBlock> allComments = comments.getCommentList();
 		List<CommentBlock> unlabelledComments = new ArrayList<CommentBlock>();
 		List<CommentBlock> labelledComments = new ArrayList<CommentBlock>();
 		for (CommentBlock c : allComments) {
-			if (c.isLabelled())
+			if (c.getLabelled())
 				labelledComments.add(c);
 			else
 				unlabelledComments.add(c);
 		}
+		//System.out.println(labelledComments.size() +"blah");
 		List<CommentBlock> labelledCommentsTrain = labelledComments.subList(0,
 				labelledComments.size() * 7 / 10);
 		List<CommentBlock> labelledCommentsTest = labelledComments.subList(
@@ -105,7 +109,7 @@ public class ActiveCoTraining {
 					confidentMap.put(example.b, example.a);
 
 			// remove the comments we are confident about from the unlabelled,
-			// and store them in the labelled list
+			// and store them in the labeled list
 			for (int key : confidentMap.keySet()) {
 				CommentBlock c = unlabelledComments.remove(key);
 				c.setLabelEmph(confidentMap.get(key).a);
@@ -119,9 +123,9 @@ public class ActiveCoTraining {
 	private static List<Pair<Pair<List<String>, List<String>>, Integer>> confidentClassifier(
 			int i, List<CommentBlock> unlabelledInformative) {
 		dumpCommentsToFileMalletStyle(unlabelledInformative, Parameters.ACT_DIR
-				+ "/temp.txt");
+				+ "/temp.txt", i);
 
-		executeCommand("java -cp '/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/libs/mallet-2.0.7/class:/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/libs/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --threads 2 --model-file model-"
+		executeCommand("java -cp  '" + Parameters.LIBS + "/mallet-2.0.7/class:" + Parameters.LIBS + "/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --threads 2 --model-file model-"
 				+ i
 				+ ".crf "
 				+ Parameters.ACT_DIR
@@ -195,20 +199,27 @@ public class ActiveCoTraining {
 			List<CommentBlock> labelledCommentsTrain,
 			List<CommentBlock> labelledCommentsTest) {
 		dumpCommentsToFileMalletStyleWithLabels(labelledCommentsTrain,
-				Parameters.ACT_DIR + "/temp-labelled.txt");
+				Parameters.ACT_DIR + "/temp-labelled.txt", i );
 
+		//FileOutputStream fstream = new FileOutputStream(Parameters."");
 		// creating the model
-		executeCommand("java -cp '/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/libs/mallet-2.0.7/class:/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/libs/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --train true --threads 2 --model-file model-"
+		System.out.println("java -cp  '" + Parameters.LIBS + "/mallet-2.0.7/class:" + Parameters.LIBS + "/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --train true --threads 2 --model-file "  + Parameters.ACT_DIR + "/model-"
+				+ i + ".crf " + Parameters.ACT_DIR + "/temp-labelled.txt");
+		executeCommand("java -cp  '" + Parameters.LIBS + "/mallet-2.0.7/class:" + Parameters.LIBS + "/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --train true --threads 2 --model-file "  + Parameters.ACT_DIR + "/model-"
 				+ i + ".crf " + Parameters.ACT_DIR + "/temp-labelled.txt");
 
 		dumpCommentsToFileMalletStyle(labelledCommentsTest, Parameters.ACT_DIR
-				+ "/temp.txt");
+				+ "/temp.txt", i);
 		// testing on the model
-		executeCommand("java -cp '/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/libs/mallet-2.0.7/class:/Users/bansal/Desktop/current/NLP_PROJECT/DBUGR/libs/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --threads 2 --model-file model-"
-				+ i
-				+ ".crf "
+		System.out.println("java -cp  '" + Parameters.LIBS + "/mallet-2.0.7/class:" + Parameters.LIBS + "/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --threads 2 --model-file "  + Parameters.ACT_DIR + "/model-"
+				+ i + ".crf "
 				+ Parameters.ACT_DIR
-				+ "/temp.txt >>"
+				+ "/temp.txt > "
+				+ Parameters.ACT_DIR + "/temp-labeled-classified-" + i + ".txt");
+		executeCommand("java -cp  '" + Parameters.LIBS + "/mallet-2.0.7/class:" + Parameters.LIBS + "/mallet-2.0.7/lib/mallet-deps.jar' cc.mallet.fst.SimpleTagger --threads 2 --model-file "  + Parameters.ACT_DIR + "/model-"
+				+ i + ".crf "
+				+ Parameters.ACT_DIR
+				+ "/temp.txt > "
 				+ Parameters.ACT_DIR + "/temp-labeled-classified-" + i + ".txt");
 
 		List<List<String>> result = new ArrayList<List<String>>();
@@ -243,21 +254,70 @@ public class ActiveCoTraining {
 	}
 
 	private static void dumpCommentsToFileMalletStyleWithLabels(
-			List<CommentBlock> labelledComments, String string) {
+			List<CommentBlock> labelledComments, String fileName, int classifierType) {
 		// TODO Auto-generated method stub
-
+		try {
+			System.out.println(labelledComments.size() + " "+classifierType);
+		FileOutputStream ostream = new FileOutputStream(fileName);
+		PrintStream p = new PrintStream(ostream);
+		List<Boolean> features;
+		if (classifierType == 0)
+			features = Arrays.asList(true, true, true, false, false, false, false);
+		else if (classifierType == 1)
+			features = Arrays.asList(false, false, false, true, true, true, true);
+		else 
+			features = Arrays.asList(true, true, true, true, true, true, true);
+		
+		List<String> malletStyleFeatures;
+		List<String> commentLabels;
+		for (CommentBlock c : labelledComments) {
+			malletStyleFeatures = FeatureFactory.testEmph(c, features);
+			commentLabels = c.getLabelEmph();
+			for (int j = 0; j < malletStyleFeatures.size(); j++)
+				p.println(malletStyleFeatures.get(j) + " " + commentLabels.get(j));
+			p.println();
+			if (c.getLabelEmph().size() == 0)
+				p.println();
+			malletStyleFeatures = FeatureFactory.testText(c, features);
+			commentLabels = c.getLabelText();
+			for (int j = 0; j < malletStyleFeatures.size(); j++)
+				p.println(malletStyleFeatures.get(j) + " " + commentLabels.get(j));
+			p.println();
+			if (c.getLabelText().size() == 0)
+				p.println();
+		}
+		p.close();
+	} catch (Exception e) {
+		e.printStackTrace();
+	}
+			
 	}
 
 	private static void dumpCommentsToFileMalletStyle(
-			List<CommentBlock> labelledComments, String fileName) {
+			List<CommentBlock> labelledComments, String fileName, int classifierType) {
 		// TODO Auto-generated method stub
 		try {
 			FileOutputStream ostream = new FileOutputStream(fileName);
 			PrintStream p = new PrintStream(ostream);
+			
+			List<Boolean> features;
+			if (classifierType == 0)
+				features = Arrays.asList(true, true, true, false, false, false, false);
+			else if (classifierType == 1)
+				features = Arrays.asList(false, false, false, true, true, true, true);
+			else 
+				features = Arrays.asList(true, true, true, true, true, true, true);
+			
+			List<String> malletStyleFeatures;
 			for (CommentBlock c : labelledComments) {
-				for (String s : c.getTokensEmph()) {
-					p.println();
-				}
+				malletStyleFeatures = FeatureFactory.testEmph(c, features);
+				for (String malletFeature:malletStyleFeatures)
+					p.println(malletFeature);
+				p.println();
+				malletStyleFeatures = FeatureFactory.testText(c, features);
+				for (String malletFeature:malletStyleFeatures)
+					p.println(malletFeature);
+				p.println();
 			}
 
 			p.close();
@@ -267,7 +327,7 @@ public class ActiveCoTraining {
 
 	}
 
-	private static String executeCommand(String command) {
+	public static String executeCommand(String command) {
 
 		StringBuffer output = new StringBuffer();
 
@@ -290,8 +350,8 @@ public class ActiveCoTraining {
 		return output.toString();
 	}
 
-	public static void main(String[] args) {
-		test();
+	public static void main(String[] args) throws Exception {
+		test1();
 	}
 
 }
