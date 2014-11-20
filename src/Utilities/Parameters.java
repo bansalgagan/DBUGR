@@ -6,12 +6,13 @@ public class Parameters {
 	 * data
 	 */
 
-	public final static String HEAD_PATH = "/home/btech/cs1110081/Desktop/NLP_PROJECT/DBUGR/";
+	public final static String HEAD_PATH = "";
 	public final static String RAW_COMMENT_DIR = HEAD_PATH + "data/raw-comments";
 	public static final String LABEL_DIR = HEAD_PATH + "data/labels";
 	public static final String BROWN_DIR = HEAD_PATH + "data/brown";
 	public final static String MALLET_DIR = HEAD_PATH + "data/mallet";
 	public final static String POS_DIR = HEAD_PATH + "data/POS";
+	public final static String ACT_DIT = HEAD_PATH + "data/act";
 
 
 	/**
