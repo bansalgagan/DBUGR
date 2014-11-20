@@ -12,7 +12,7 @@ public class Parameters {
 	public static final String BROWN_DIR = HEAD_PATH + "data/brown";
 	public final static String MALLET_DIR = HEAD_PATH + "data/mallet";
 	public final static String POS_DIR = HEAD_PATH + "data/POS";
-	public final static String ACT_DIT = HEAD_PATH + "data/act";
+	public final static String ACT_DIR = HEAD_PATH + "data/act";
 
 
 	/**
